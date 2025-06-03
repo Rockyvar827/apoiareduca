@@ -388,5 +388,30 @@ html, body {
   text-align: center;
 }
 
+.bizum-code {
+    color: #f4d03f;
+    font-weight: bold;
+  }
+
+  .bizum-button {
+    margin-top: 5px;
+    padding: 5px 10px;
+    background-color: #444;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .bizum-button:hover {
+    background-color: #666;
+  }
+
+  .agradecemento {
+    font-size: 0.9em;
+    color: #ccc;
+    margin-top: 10px;
+  }
+
 
  

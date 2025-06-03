@@ -2602,6 +2602,7 @@ function selectCategory(category) {
 }
 
 
+
 function startQuiz() {
   // Mostrar slide coas preguntas da categoría seleccionada
   showSlide(currentCategory + "-slide");
@@ -2781,4 +2782,14 @@ function restartQuiz() {
   // Mostrar pantalla inicial
   showSlide("intro-screen");
 }
+
+
+function copiarBizum() {
+    const codigo = document.getElementById("bizumCode").innerText;
+    navigator.clipboard.writeText(codigo).then(() => {
+      alert("Código Bizum copiado: " + codigo);
+    }).catch(err => {
+      console.error("Erro ao copiar o código Bizum", err);
+    });
+  }
 

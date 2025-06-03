@@ -22,19 +22,33 @@
       <p>“Aprender é a chave para abrir portas no futuro. Nunca deixes de querer saber máis.”</p>
       <button onclick="goToStart()">Comezar</button>
     </div>
-  
-  <!-- Pantalla de inicio -->
+
+   <!-- Pantalla de inicio -->
    
-  <div class="slide" id="start-slide">
-    <h1>Cuestionarios Interactivos</h1>
+  <div class="slide"  id="start-slide">
+    <h1>Materias</h1>
     <p>Selecciona unha das seccións para comezar.</p>    
-    <button onclick="selectCategory('ccss')">CCSS:UD5-Idade Media Na Península</button>
-    <button onclick="selectCategory('clima')">CCNN:Clima</button>
-    <button onclick="selectCategory('plantas')">CCNN:Plantas</button>
-    <button onclick="selectCategory('naturais')">CCNN:Materia-Enerxia</button>
-    <button onclick="selectCategory('ecosistemas')">CCNN:Ecosistemas</button>
-    <button onclick="selectCategory('ccnnFive')">CCNN:Máquinas Simples y Compuestas</button> 
-    <button onclick="selectCategory('ccssudfour')">CCSS:UD4-Organización Territorial</button>    
+    <button onclick="selectCategory('ccss_materia')">CCSS</button>
+    <button onclick="selectCategory('ccnn_materia')">CCNN</button>    
+  </div>  
+  
+  <!-- Slide de selección de cuestionarios de CCSS -->
+<div class="slide" id="ccss_materia-slide">
+    <h1>Cuestionarios Interactivos de CCSS</h1>
+    <p>Selecciona unha das seccións para comezar.</p>    
+    <button onclick="selectCategory('ccss')">UD5-Idade Media Na Península</button> 
+    <button onclick="selectCategory('ccssudfour')">UD4-Organización Territorial</button>    
+  </div>
+
+ <!-- Puedes añadir aquí un slide similar para CCNN si hay cuestionarios -->
+<div class="slide" id="ccnn_materia-slide">
+    <h1>Cuestionarios Interactivos de CCNN</h1>
+    <p>Selecciona unha das seccións para comezar.</p>    
+    <button onclick="selectCategory('clima')">Clima</button>
+    <button onclick="selectCategory('plantas')">Plantas</button>
+    <button onclick="selectCategory('naturais')">Materia-Enerxia</button>
+    <button onclick="selectCategory('ecosistemas')">Ecosistemas</button>
+    <button onclick="selectCategory('ccnnFive')">Máquinas Simples y Compuestas</button>     
   </div>
 
 

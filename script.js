@@ -2574,8 +2574,11 @@ const quizTitles = {
   plantas: "CCNN: Plantas",
   naturais: "CCNN: Materia-Enerxia",
   ecosistemas: "CCNN: Ecosistemas",
-  ccnnFive: "CCNN: Máquinas Simples y Compuestas"
+  ccnnFive: "CCNN: Máquinas Simples y Compuestas",
+  ccss_materia: "CCSS",
+  ccnn_materia: "CCNN"
 };
+
 
 function selectCategory(category) {
   currentCategory = category;
@@ -2583,7 +2586,14 @@ function selectCategory(category) {
   correctCount = 0;
   incorrectCount = 0;
 
-  // Deshabilitar botones para evitar cambio de cuestionario a mitad
+  
+  // Comprobar si es una materia o un cuestionario
+  if (category === 'ccss_materia' || category === 'ccnn_materia') {
+    showSlide(category + '-slide');
+    return;
+  }
+
+  // Si es cuestionario, mostrar la pantalla de introducción
   disableCategoryButtons(category);
 
   // Mostrar pantalla de introducción

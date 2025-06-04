@@ -2550,7 +2550,143 @@ const quizData = {
         }
 
 
-    ]
+    ],
+    gallego_gramatica: [
+    {
+        question: "¿Cómo se conjuga el verbo 'andar' en el modo indicativo, tiempo presente, para la primera persona del singular (eu)?",
+        answers: ["andas", "andades", "andamos", "ando"],
+        correct: 3,
+        explanation: "✅ En el modo indicativo, tiempo presente, la conjugación del verbo 'andar' para la primera persona del singular (eu) es 'ando'."
+    },
+    {
+        question: "¿Cuál es la forma correcta del verbo 'varrer' en el modo indicativo, tiempo copretérito (pretérito imperfecto), para la tercera persona del plural (eles/elas)?",
+        answers: ["varrendo","varrían", "varrerán", "varreron" ],
+        correct: 1,
+        explanation: "✅ En el modo indicativo, tiempo copretérito, la conjugación del verbo 'varrer' para la tercera persona del plural (eles/elas) es 'varrían'."
+    },
+    {
+        question: "¿Cómo se conjuga el verbo 'partir' en el modo indicativo, tiempo futuro, para la segunda persona del singular (ti)?",
+        answers: ["partiches", "partirán", "partirás", "partías"],
+        correct: 2,
+        explanation: "✅ En el modo indicativo, tiempo futuro, la conjugación del verbo 'partir' para la segunda persona del singular (ti) es 'partirás'."
+    },
+    {
+        question: "En el modo subxuntivo, tiempo presente, ¿cuál es la forma correcta del verbo 'andar' para la primera persona del plural (nós)?",
+        answers: ["andemos","andamos", "andaren", "anden" ],
+        correct: 0,
+        explanation: "✅ En el modo subxuntivo, tiempo presente, la conjugación del verbo 'andar' para la primera persona del plural (nós) es 'andemos'."
+    },
+    {
+        question: "¿Cuál es la conjugación correcta del verbo 'varrer' en el modo subxuntivo, tiempo pretérito (pretérito imperfecto), para la segunda persona del singular (ti)?",
+        answers: ["varreres","varreses", "varrías", "varreras" ],
+        correct: 1,
+        explanation: "✅ En el modo subxuntivo, tiempo pretérito, la conjugación del verbo 'varrer' para la segunda persona del singular (ti) es 'varreses'."
+    },
+    {
+    question: "Cal é a forma correcta de 'varrer' no presente do indicativo para 'vós'?",
+    answers: ["varre", "varriades", "varredes", "varredes"],
+    correct: 2,
+    explanation: "✅ 'Vós varredes' é forma correcta no presente do indicativo."
+},
+{
+    question: "Como se di 'eles varreron' en galego no pretérito perfecto?",
+    answers: ["varrían", "varresen", "varrerán", "varreron"],
+    correct: 3,
+    explanation: "✅ 'Eles varreron' é pretérito perfecto do verbo varrer."
+},
+{
+    question: "Como se conxuga 'varrer' no pospretérito para 'eu'?",
+    answers: ["varría", "varrería", "varrerei", "varrera"],
+    correct: 1,
+    explanation: "✅ 'Eu varrería' é pospretérito (condicional simple)."
+},
+{
+    question: "Cal é a forma do copretérito de 'varrer' para 'nós'?",
+    answers: ["varriamos", "varremos", "varriamos", "varríamos"],
+    correct: 3,
+    explanation: "✅ 'Nós varríamos' é copretérito (pretérito imperfecto)."
+},
+{
+    question: "Que forma de 'varrer' corresponde ao subxuntivo presente con 'ti'?",
+    answers: ["varrías", "varreches", "varrás", "varras"],
+    correct: 3,
+    explanation: "✅ 'Ti varras' é forma correcta no subxuntivo presente."
+},
+{
+    question: "Como se di 'vós varrésedes' no subxuntivo pretérito?",
+    answers: ["varredes", "varreredes", "varrésedes", "varrerdes"],
+    correct: 2,
+    explanation: "✅ 'Vós varrésedes' é forma do subxuntivo pretérito."
+},
+{
+    question: "Cal é a forma do subxuntivo futuro de 'varrer' con 'eles/elas'?",
+    answers: ["varrían", "varran", "varrerán", "varreren"],
+    correct: 3,
+    explanation: "✅ 'Eles varreren' é forma do futuro do subxuntivo."
+},
+{
+    question: "Cal é a forma do futuro do subxuntivo para 'nós' co verbo 'varrer'?",
+    answers: ["varriamos", "varremos", "varreremos", "varrermos"],
+    correct: 3,
+    explanation: "✅ 'Nós varrermos' é forma do futuro do subxuntivo."
+},
+{
+    question: "Que forma de 'partir' corresponde ao futuro do subxuntivo para 'ti'?",
+    answers: ["partiches", "partías", "partiras", "partires"],
+    correct: 3,
+    explanation: "✅ 'Ti partires' é forma do subxuntivo futuro."
+},
+{
+    question: "Como se conxuga 'andar' no futuro do subxuntivo para 'eu'?",
+    answers: ["andaba", "andar", "andase", "andarei"],
+    correct: 1,
+    explanation: "✅ 'Eu andar' é forma do futuro do subxuntivo."
+},
+{
+    question: "Como se conxuga 'partir' no presente do indicativo con 'nós'?",
+    answers: ["partiamos", "partiremos", "partiramos", "partimos"],
+    correct: 3,
+    explanation: "✅ 'Nós partimos' é presente do indicativo do verbo partir."
+},
+{
+    question: "Cal é a forma correcta no pretérito perfecto con 'ti' do verbo 'partir'?",
+    answers: ["partises", "partiras", "partías", "partiches"],
+    correct: 3,
+    explanation: "✅ 'Ti partiches' é pretérito perfecto do verbo partir."
+},
+{
+    question: "Que forma usa 'eles/elas' no pospretérito de 'partir'?",
+    answers: ["partisen", "partiran", "partirían", "partirán"],
+    correct: 2,
+    explanation: "✅ 'Eles partirían' é pospretérito do verbo partir."
+},
+{
+    question: "Como se di 'eu partía' no copretérito?",
+    answers: ["partirei", "partía", "partiches", "partira"],
+    correct: 1,
+    explanation: "✅ 'Eu partía' é copretérito (pretérito imperfecto)."
+},
+{
+    question: "Que forma corresponde ao subxuntivo presente para 'vós' co verbo 'partir'?",
+    answers: ["partís", "partísedes", "partires", "partades"],
+    correct: 3,
+    explanation: "✅ 'Vós partades' é subxuntivo presente."
+},
+{
+    question: "Cal é a forma correcta de 'partir' no subxuntivo pretérito para 'eu'?",
+    answers: ["partín", "partise", "partía", "partira"],
+    correct: 1,
+    explanation: "✅ 'Eu partise' é forma do subxuntivo pretérito."
+},
+{
+    question: "Como se conxuga 'partir' no subxuntivo futuro para 'nós'?",
+    answers: ["partamos", "partimos", "partirmos", "partiamos"],
+    correct: 2,
+    explanation: "✅ 'Nós partirmos' é forma do subxuntivo futuro."
+}
+
+]   
+
 }
 
 function goToStart() {
@@ -2576,7 +2712,8 @@ const quizTitles = {
   ecosistemas: "CCNN: Ecosistemas",
   ccnnFive: "CCNN: Máquinas Simples y Compuestas",
   ccss_materia: "CCSS",
-  ccnn_materia: "CCNN"
+  ccnn_materia: "CCNN",
+  gallego_gramatica: "Galego-Verbos"
 };
 
 

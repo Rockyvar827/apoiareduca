@@ -15,9 +15,9 @@
   <div class="slide active" id="intro-screen">
       <h1>Benvido/a aos Cuestionarios Interactivos</h1>
       <p>Benvida ao espazo educativo de apoio!</p>
-      <p>Esta páxina web nace co obxectivo de servir como ferramenta de reforzo educativo para os contidos do 5º curso de Educación Primaria. Está pensada para axudar aos nenos e nenas a consolidar os seus coñecementos teóricos nas materias de Ciencias Sociais (CCSS) e Ciencias da Natureza (CCNN) dun xeito dinámico e accesible.</p>
+      <p>Esta páxina web nace co obxectivo de servir como ferramenta de reforzo educativo para os contidos do 5º curso de Educación Primaria. Está pensada para axudar aos nenos e nenas a consolidar os seus coñecementos teóricos nas diversas materias dun xeito dinámico e accesible.</p>
       <p>Este recurso non substitúe o estudo previo da teoría, polo que é fundamental que os pequenos/as lean e comprendan os contidos antes de realizar as actividades. A súa eficacia tamén depende da plena atención durante o tempo de uso.
-      <p>Se consideras útil incorporar preguntas doutras materias ou tes suxestións para mellorar o contido, podes contactar connosco a través do correo electrónico facilitado.
+      <p>Se consideras útil incorporar preguntas doutras materias ou tes suxestións para mellorar o contido, podes contactar connosco  e facer una doazon por bizum, será de moita axuda.
       <p>Agardamos que esta ferramenta tamén sirva de apoio a pais e nais na supervisión das tarefas escolares na casa, ofrecendo un xeito sinxelo de acompañar o proceso de aprendizaxe dos seus fillos/as.
       <p>“Aprender é a chave para abrir portas no futuro. Nunca deixes de querer saber máis.”</p>
       <button onclick="goToStart()">Comezar</button>
@@ -29,7 +29,8 @@
     <h1>Materias</h1>
     <p>Selecciona unha das seccións para comezar.</p>    
     <button onclick="selectCategory('ccss_materia')">CCSS</button>
-    <button onclick="selectCategory('ccnn_materia')">CCNN</button>    
+    <button onclick="selectCategory('ccnn_materia')">CCNN</button>
+    <button onclick="selectCategory('gallego_gramatica')">Galego</button>    
   </div>  
   
   <!-- Slide de selección de cuestionarios de CCSS -->
@@ -163,6 +164,29 @@
     <div class="nav-buttons">
       <button onclick="prevQuestion('ccnnFive')">Anterior</button>
       <button onclick="nextQuestion('ccnnFive')">Seguinte</button>
+      <button onclick="restartQuiz()">Inicio</button>
+      
+    </div>
+  </div>
+
+  <!-- Slide de selección de cuestionarios de Galego -->
+<div class="slide" id="gallego_gramatica_materia-slide">
+    <h1>Cuestionarios Interactivos de Galego-Verbos</h1>
+    <p>Selecciona unha das seccións para comezar.</p>    
+    <button onclick="selectCategory('gallego_gramatica')">Verbos-Conjugaciones</button>     
+  </div>
+
+
+  <!-- Slide de preguntas Galego Verbos Conjugaciones -->
+  <div class="slide" id="gallego_gramatica-slide">
+    <div class="timer" id="timer">Tempo restante: 25s</div>
+    <div id="question-counter-gallego_gramatica"></div>
+    <div class="question" id="question-text-gallego_gramatica"></div>
+    <div class="answers" id="answers-container-gallego_gramatica"></div>
+    <div class="feedback" id="feedback-gallego_gramatica"></div>
+    <div class="nav-buttons">
+      <button onclick="prevQuestion('gallego_gramatica')">Anterior</button>
+      <button onclick="nextQuestion('gallego_gramatica')">Seguinte</button>
       <button onclick="restartQuiz()">Inicio</button>
       
     </div>

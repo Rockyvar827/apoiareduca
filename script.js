@@ -2697,20 +2697,17 @@ function goToStart() {
       document.getElementById('start-slide').classList.add('active');
     }
 
-    function selectCategory(categoryId) {
-      alert("Categoría seleccionada: " + categoryId);
-      // Aquí puedes cambiar a la lógica real de navegación o mostrar el cuestionario.
-    }
+  
     
     
 const quizTitles = {
-  ccssudfour: "CCSS: UD4 - Organización Territorial",
-  ccss: "CCSS: UD5 - Idade Media Na Península",
-  clima: "CCNN: Clima",
-  plantas: "CCNN: Plantas",
-  naturais: "CCNN: Materia-Enerxia",
-  ecosistemas: "CCNN: Ecosistemas",
-  ccnnFive: "CCNN: Máquinas Simples y Compuestas",
+  ccssudfour: "Organización Territorial",
+  ccss: "Idade Media Na Península",
+  clima: "Clima",
+  plantas: "Plantas",
+  naturais: "Materia-Enerxia",
+  ecosistemas: "Ecosistemas",
+  ccnnFive: "Máquinas Simples y Compuestas",
   ccss_materia: "CCSS",
   ccnn_materia: "CCNN",
   gallego_gramatica: "Galego-Verbos"
@@ -2723,19 +2720,58 @@ function selectCategory(category) {
   correctCount = 0;
   incorrectCount = 0;
 
-  
-  // Comprobar si es una materia o un cuestionario
+  // Si es un slide estático (como start-slide)
+  if (document.getElementById(category)) {
+    showSlide(category);
+    return;
+  }
+
+  // Si es una materia general
   if (category === 'ccss_materia' || category === 'ccnn_materia') {
     showSlide(category + '-slide');
     return;
   }
 
-  // Si es cuestionario, mostrar la pantalla de introducción
-  disableCategoryButtons(category);
+  // Si es una categoría de cuestionario
+  if (quizData[category]) {
+    selectedQuestions = getRandomQuestions(quizData[category], 12);
+    document.getElementById("quiz-title").innerText = quizTitles[category] || "Cuestionario";
+    disableCategoryButtons(category);
+    showSlide("intro-slide");
+    return;
+  }
 
-  // Mostrar pantalla de introducción
-  document.getElementById("quiz-title").innerText = quizTitles[category] || "Cuestionario";
-  showSlide("intro-slide");
+  // Si no se encuentra nada válido
+  alert("Categoría non atopada: " + category);
+}
+
+
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('.footer-column a[href^="#"]').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+
+      const id = link.getAttribute('href').substring(1); // sin "#"
+
+      // Caso 1: slide estático como "start-slide"
+      if (document.getElementById(id)) {
+        showSlide(id);
+        return;
+      }
+
+      // Caso 2: categoría de cuestionario como "ccss"
+      selectCategory(id);
+    });
+  });
+});
+
+
+
+
+
+function getRandomQuestions(allQuestions, count) {
+  const shuffled = [...allQuestions].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, count);
 }
 
 
@@ -2749,15 +2785,23 @@ function startQuiz() {
 function showSlide(slideId) {
   const slides = document.querySelectorAll(".slide");
   slides.forEach(slide => slide.classList.remove("active"));
-  document.getElementById(slideId).classList.add("active");
+
+  const targetSlide = document.getElementById(slideId);
+  if (!targetSlide) {
+    console.error(`Slide con ID "${slideId}" non existe.`);
+    return;
+  }
+
+  targetSlide.classList.add("active");
 }
 
+
 function loadQuestion() {
-  const q = quizData[currentCategory][currentQuestionIndex];
+  const q = selectedQuestions[currentQuestionIndex];
 
   document.getElementById(`question-text-${currentCategory}`).innerText = q.question;
-  document.getElementById(`question-counter-${currentCategory}`).innerText = 
-    `Pregunta ${currentQuestionIndex + 1} de ${quizData[currentCategory].length}`;
+  document.getElementById(`question-counter-${currentCategory}`).innerText =
+    `Pregunta ${currentQuestionIndex + 1} de ${selectedQuestions.length}`;
 
   const container = document.getElementById(`answers-container-${currentCategory}`);
   container.innerHTML = "";
@@ -2904,6 +2948,7 @@ function enableCategoryButtons() {
   buttons.forEach(btn => {
     btn.disabled = false;
   });
+
 }
 
 
@@ -2929,4 +2974,7 @@ function copiarBizum() {
       console.error("Erro ao copiar o código Bizum", err);
     });
   }
+
+
+
 

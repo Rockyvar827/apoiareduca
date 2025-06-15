@@ -19,7 +19,7 @@
       <p>Este recurso non substitúe o estudo previo da teoría, polo que é fundamental que os pequenos/as lean e comprendan os contidos antes de realizar as actividades. A súa eficacia tamén depende da plena atención durante o tempo de uso.
       <p>Se consideras útil incorporar preguntas doutras materias ou tes suxestións para mellorar o contido, podes contactar connosco  e facer una doazon por bizum, será de moita axuda.
       <p>Agardamos que esta ferramenta tamén sirva de apoio a pais e nais na supervisión das tarefas escolares na casa, ofrecendo un xeito sinxelo de acompañar o proceso de aprendizaxe dos seus fillos/as.
-      <p>“Aprender é a chave para abrir portas no futuro. Nunca deixes de querer saber máis.”</p>
+      <p>“Aprender é a chave para abrir portas no futuro. Nunca deixes de querer saber máis.”</p>      
       <button onclick="goToStart()">Comezar</button>
     </div>
 
@@ -38,7 +38,7 @@
     <h1>Cuestionarios Interactivos de CCSS</h1>
     <p>🔁 As preguntas aparecen en orde diferente cada vez que xogas.</p>
     <p>Isto fai que o xogo sexa máis divertido e que poidas practicar mellor. ¡Cada partida é única!</p>    
-    <button onclick="selectCategory('ccss')">Idade Media Na Península</button> 
+    <button onclick="selectCategory('ccsstres')">Idade Media Na Península</button> 
     <button onclick="selectCategory('ccssudfour')">Organización Territorial</button>  
     <button onclick="selectCategory('ccssudsix')">Idade Moderna</button>     
   </div>
@@ -67,17 +67,17 @@
   <button onclick="restartQuiz()">Volver atrás</button>
 </div>
 
-  <!-- Slide de preguntas CCSS:  -->
+  <!-- Slide de preguntas CCSS Idade Media:  -->
  
- <div class="slide" id="ccss-slide">  
+ <div class="slide" id="ccsstres-slide">  
     <div class="timer" id="timer">Tempo restante: 25s</div>
-    <div id="question-counter-ccss"></div>
-    <div class="question" id="question-text-ccss"></div>
-    <div class="answers" id="answers-container-ccss"></div>
-    <div class="feedback" id="feedback-ccss"></div>
+    <div id="question-counter-ccsstres"></div>
+    <div class="question" id="question-text-ccsstres"></div>
+    <div class="answers" id="answers-container-ccsstres"></div>
+    <div class="feedback" id="feedback-ccsstres"></div>
     <div class="nav-buttons">
-      <button onclick="prevQuestion('ccss')">Anterior</button>
-      <button onclick="nextQuestion('ccss')">Seguinte</button>
+      <button onclick="prevQuestion('ccsstres')">Anterior</button>
+      <button onclick="nextQuestion('ccsstres')">Seguinte</button>
       <button onclick="restartQuiz()">Inicio</button>
     </div>
   </div>
@@ -209,13 +209,8 @@
     <div class="nav-buttons">
       <button onclick="prevQuestion('gallego_gramatica')">Anterior</button>
       <button onclick="nextQuestion('gallego_gramatica')">Seguinte</button>
-      <button onclick="restartQuiz()">Inicio</button>
-      
+      <button onclick="restartQuiz()">Inicio</button>      
     </div>
-
-
-
-
   
 </div>
   <!-- Slide final -->
@@ -225,8 +220,8 @@
     <button onclick="restartQuiz()">Reiniciar</button>
   </div>
 </div>
-  <script src="script.js"></script>
 
+<script src="script.js" defer></script>
 
 </body>
 
@@ -242,7 +237,7 @@
       <h3>Mapa do sitio</h3>
       <ul>
         <li><a href="#start-slide">Inicio</a></li>
-        <li><a href="#ccss">Idade Media Na Península</a></li>
+        <li><a href="#ccsstres">Idade Media Na Península</a></li>
         <li><a href="#clima">Clima</a></li>
         <li><a href="#plantas">Plantas</a></li>
         <li><a href="#naturais">Materia e Enerxía</a></li>

@@ -1,15 +1,19 @@
 // Variables globais
-let currentCategory = "";
+let timer;
+let timeLeft = 25;
+let currentCategory;
+let originalCategory;
+let mappedCategory;
+let selectedQuestions = [];
 let currentQuestionIndex = 0;
 let correctCount = 0;
 let incorrectCount = 0;
-let timer;
-let timeLeft = 25;
+
 
 
 // Datos do cuestionario
 const quizData = {
-    ccss: [
+    ccsstres: [
          {
             question: "Que pobo xermánico vivía no noroeste da Península antes da chegada dos visigodos?",
             answers: ["Os francos", "Os lombardos", "Os suevos", "Os ostrogodos"],
@@ -206,8 +210,7 @@ const quizData = {
                 answers: ["Presentaban unha orientación cara a Meca", "Non tiñan unha orientación específica", "Estaban aliñadas cos reinos cristiáns", "Estaban orientadas cara ao norte"],
                 correct: 0,
                 explanation: "✅ As mesquitas estaban orientadas cara a Meca."
-            }
-        ,
+            },
         {
                 question: "Que elementos básicos recolle a arte musulmá?",
                 answers: ["A escultura en mármore, os frescos, os arcos semicirculares", "A caligrafía, os motivos vexetais, os xeométricos, os figurativos e a simetría", "A pintura ao óleo, os mosaicos romanos, as vidreiras góticas", "Os relevos en pedra, os capiteis corintios, os frisos clásicos"],
@@ -547,7 +550,6 @@ const quizData = {
     correct: 2,
     explanation: "✅ En 1874 rematou a I República e comezou a Restauración Borbónica con Alfonso XII como rei."
 }
-
     ],
     clima: [
         {
@@ -1037,7 +1039,7 @@ const quizData = {
             explanation: "✅ A acción humana, como os encoros e a contaminación, afecta negativamente os ríos das tres vertentes."
         }
         ],
-     plantas:[
+    plantas:[
             {
                 question: "Cal é a parte máis pequena con vida dunha planta?",
                 answers: ["A célula vexetal", "O tecido", "O órgano", "A folla"],
@@ -1135,7 +1137,7 @@ const quizData = {
                 explanation: "✅ As plantas sen flor reprodúcense mediante esporas."
             }
         ],
-     naturais: [
+    naturais: [
                {
             question: "Que é a masa?",
             answers: ["O espazo que ocupa un corpo", "A resistencia da materia a ser raiada", "A cantidade de materia que ten un corpo"],
@@ -1258,7 +1260,7 @@ const quizData = {
     }
 
         ],
-     ecosistemas: [
+    ecosistemas: [
           {
         question: "Cal é a función da XEOSFERA?",
         answers: [
@@ -1876,7 +1878,7 @@ const quizData = {
 
 
         ],
-     ccssudfour: [
+    ccssudfour: [
        {
         question: "Cal é a lei principal do Estado español?",
         answers: ["O Estatuto de Autonomía", "A Constitución de 1978", "O Código Civil", "A Lei Electoral"],
@@ -2397,18 +2399,18 @@ const quizData = {
        
     ],
     ccnnFive: [
-                {
+     {
             question: "Que é unha máquina segundo o texto?",
             answers: ["Un aparello que produce enerxía", "Un obxecto decorativo", "Un obxecto que axuda a realizar unha tarefa ou resolve un problema", "Un ser vivo que actúa mecanicamente"],
             correct: 2,
             explanation: "✅ Unha máquina facilita tarefas ou resolve problemas, como di o texto."
         },
-        {
+      {
             question: "Cita tres fontes de ENERXÍA PARA FUNCIONAR AS MÁQUINAS.",
             answers: ["Enerxía nuclear, enerxía escura e enerxía mental", "Só enerxía solar", "A forza da gravidade e a forza centrífuga", "Enerxía humana, enerxía eléctrica e enerxía do vento"],
             correct: 3,
             explanation: "✅ O texto menciona claramente a enerxía humana, eléctrica e do vento como fontes."
-        },
+     },
         {
             question: "Que diferencia hai entre MÁQUINAS SIMPLES e MÁQUINAS COMPOSTAS?",
             answers: ["As compostas non funcionan con enerxía", "As simples teñen poucas pezas e as compostas son máis complexas", "As compostas son sempre electrónicas", "As simples son eléctricas"],
@@ -2687,161 +2689,161 @@ const quizData = {
 
 ],
     ccssudsix: [
-         {
+        {
         question: "Cando comeza a Idade Moderna?",
         answers: ["En 1492, co descubrimento de América", "En 1789, coa Revolución Francesa", "En 1516, co reinado de Carlos I", "En 1469, co matrimonio dos Reis Católicos"],
         correct: 0,
         explanation: "✅ A Idade Moderna comeza en 1492 co descubrimento de América."
-    },
-    {
+        },
+        {
         question: "Que movemento cultural mudou a visión medieval baseada na fe relixiosa?",
         answers: ["O Barroco", "O Humanismo", "A Ilustración", "O Renacemento"],
         correct: 1,
         explanation: "✅ O Humanismo puxo no centro o ser humano, cambiando a visión relixiosa medieval."
-    },
-    {
+        },
+        {
         question: "Quen formaba parte da sociedade privilexiada na Idade Moderna?",
         answers: ["Os campesiños e artesáns", "A nobreza e o clero", "Os comerciantes", "Os mestres e filósofos"],
         correct: 1,
         explanation: "✅ A nobreza e o clero eran os estamentos privilexiados na sociedade moderna."
-    },
-    {
+        },
+        {
         question: "Cal era a base da economía na Idade Moderna?",
         answers: ["A industria", "A agricultura", "O comercio marítimo", "A minería"],
         correct: 1,
         explanation: "✅ A agricultura era a base económica fundamental na Idade Moderna."
-    },
-    {
+        },
+        {
         question: "Que territorio descubriu Cristovo Colón en 1492?",
         answers: ["Asia", "Oceanía", "América", "África"],
         correct: 2,
         explanation: "✅ Cristovo Colón chegou a América en 1492, aínda que pensaba que era Asia."
-    },
-    {
+        },
+        {
         question: "Que lingua se impuxo nos territorios conquistados en América?",
         answers: ["O inglés", "O castelán", "O francés", "O portugués"],
         correct: 1,
         explanation: "✅ O castelán foi a lingua imposta polos conquistadores nos territorios americanos."
-    },
-    {
+        },
+        {
         question: "Quen foi o primeiro rei da dinastía dos Austrias en España?",
         answers: ["Carlos I", "Felipe II", "Carlos II", "Felipe III"],
         correct: 0,
         explanation: "✅ Carlos I foi o primeiro rei da dinastía dos Austrias en España."
-    },
-    {
+        },
+        {
         question: "Que estilo arquitectónico caracterizou o Barroco en España?",
         answers: ["O plateresco", "O churrigueresco", "O herreriano", "O renacentista"],
         correct: 1,
         explanation: "✅ O churrigueresco foi un estilo moi decorativo propio do Barroco español."
-    },
-    {
+        },
+        {
         question: "Que rei fundou o Museo do Prado?",
         answers: ["Carlos III", "Felipe V", "Carlos IV", "Fernando VI"],
         correct: 2,
         explanation: "✅ Carlos IV foi quen fundou o Museo do Prado a finais do século XVIII."
-    },
-    {
+        },
+        {
         question: "Que movemento cultural apareceu en España no século XVIII?",
         answers: ["O Humanismo", "A Ilustración", "O Renacemento", "O Barroco"],
         correct: 1,
         explanation: "✅ A Ilustración, baseada na razón e o coñecemento, foi o movemento cultural do século XVIII."
-    },
-    {
+        },
+        {
         question: "Que batalla naval venceu Felipe II ás tropas turcas?",
         answers: ["A batalla de Lepanto", "A batalla de San Quintín", "A batalla dos Países Baixos", "A batalla de Granada"],
         correct: 0,
         explanation: "✅ Felipe II venceu os turcos na batalla de Lepanto en 1571."
-    },
-    {
+        },
+        {
         question: "Quen foi o último rei da dinastía dos Austrias?",
         answers: ["Carlos I", "Felipe II", "Carlos II", "Felipe III"],
         correct: 2,
         explanation: "✅ Carlos II foi o último rei da dinastía dos Austrias en España."
-    },
-    {
+        },
+        {
         question: "Que dinastía chegou ao trono de España despois da Guerra de Sucesión?",
         answers: ["Os Austrias", "Os Borbóns", "Os Tudor", "Os Habsburgo"],
         correct: 1,
         explanation: "✅ A dinastía dos Borbóns chegou ao trono tras a Guerra de Sucesión."
-    },
-    {
+        },
+        {
         question: "Que estilo arquitectónico buscaba liñas rectas e simplicidade no Renacemento?",
         answers: ["O churrigueresco", "O herreriano", "O barroco", "O plateresco"],
         correct: 1,
         explanation: "✅ O estilo herreriano buscaba a sobriedade e as liñas rectas no Renacemento."
-    },
-    {
+        },
+        {
         question: "Que buscaban os artistas renacentistas na pintura e escultura?",
         answers: ["A asimetría e o realismo", "A idealización do corpo humano e a harmonía", "A decoración excesiva", "A conmoción do espectador"],
         correct: 1,
         explanation: "✅ Os artistas renacentistas procuraban a beleza ideal, a proporción e a harmonía."
-    },
-      {
+        },
+        {
         question: "Quen eran OS REIS CATÓLICOS?",
         answers: ["Xoana e Felipe", "Isabel de Castela e Fernando de Aragón", "Carlos I e Isabel II", "Fernando VI e María Teresa"],
         correct: 1,
         explanation: "✅ Isabel I de Castela e Fernando II de Aragón eran OS REIS CATÓLICOS."
-    },
-    {
+        },
+        {
         question: "Que importante feito ocorreu no ano 1492?",
         answers: ["A chegada de Carlos I a España", "A fundación da Santa Irmandade", "A conquista de Granada e a viaxe de Colón a América", "A creación do Museo do Prado"],
         correct: 2,
         explanation: "✅ No 1492 conquistouse Granada e Cristovo Colón iniciou a viaxe na que chegou a América."
-    },
-    {
+        },
+        {
         question: "Que fixeron OS ESPAÑOIS E ESPAÑOLAS nos territorios conquistados en América?",
         answers: ["Implantaron a lingua inglesa", "Respectaron todas as culturas locais", "Implantaron o castelán e a relixión católica", "Fuxiron dos territorios por medo"],
         correct: 2,
         explanation: "✅ Nos territorios conquistados impuxéronse o castelán e a relixión católica."
-    },
-    {
+        },
+        {
         question: "Que foi a SANTA IRMANDADE?",
         answers: ["Un grupo de monxes", "Un exército especial", "Un organismo para vixiar rúas e camiños", "Un tribunal de xustiza local"],
         correct: 2,
         explanation: "✅ A Santa Irmandade era unha forza encargada de vixiar as rúas e os camiños."
-    },
-    {
+        },
+        {
         question: "Quen foi o primeiro rei da MONARQUÍA DOS AUSTRIAS?",
         answers: ["Felipe II", "Fernando o Católico", "Carlos I", "Carlos II"],
         correct: 2,
         explanation: "✅ Carlos I foi o primeiro rei da MONARQUÍA DOS AUSTRIAS en España."
-    },
-    {
+        },
+        {
         question: "Que fixeron os españois tras chegar a América segundo os GRANDES DESCUBRIMENTOS?",
         answers: ["Construíron escolas para nativos", "Evanxelizaron pola forza e roubaron ouro", "Deixaron os pobos en paz", "Viaxaron de volta sen conquistar nada"],
         correct: 1,
         explanation: "✅ Os españois evanxelizaron pola forza e aproveitaron os recursos como o ouro."
-    },
-    {
+        },
+        {
         question: "Como se chamaba o continente ao que chegou CRISTOVO COLÓN?",
         answers: ["Asia", "África", "Oceanía", "América"],
         correct: 3,
         explanation: "✅ Aínda que Colón pensaba que era Asia, máis tarde chamouse América en honor a Américo Vespucio."
-    },
-    {
+        },
+        {
         question: "Quen conquistou o IMPERIO INCA?",
         answers: ["Cristovo Colón", "Hernán Cortés", "Francisco Pizarro", "Fernando de Magalláns"],
         correct: 2,
         explanation: "✅ Francisco Pizarro foi quen conquistou o IMPERIO INCA no ano 1533."
-    },
-    {
+        },
+        {
         question: "Como se chamaban os soldados do exército organizado polos Reis Católicos?",
         answers: ["Xendarmes", "Terzos", "Templarios", "Compañías"],
         correct: 1,
         explanation: "✅ Os Terzos eran soldados de infantaría, artillaría e cabalaría organizados polos Reis Católicos."
-    },
-    {
+        },
+        {
         question: "Por que foi importante o descubrimento de América?",
         answers: ["Porque pecharon rutas comerciais", "Porque provocou guerras en Europa", "Porque fixo que España se convertese no imperio máis poderoso", "Porque se perdeu contacto co resto do mundo"],
         correct: 2,
         explanation: "✅ Co descubrimento e conquistas, España converteuse no imperio máis poderoso de Europa."
-    }
-
-
-]
+        }
+    ]
 
 }
+
+
 
 function goToStart() {
       // Oculta a pantalla de introdución
@@ -2856,7 +2858,7 @@ function goToStart() {
     
 const quizTitles = {
   ccssudfour: "Organización Territorial",
-  ccss: "Idade Media Na Península",
+  ccsstres: "Idade Media Na Península",
   clima: "Clima",
   plantas: "Plantas",
   naturais: "Materia-Enerxia",
@@ -2868,59 +2870,46 @@ const quizTitles = {
   ccssudsix: "Idade Moderna"
 };
 
+  
+const categoryMap = {
+  ccssudfour: "ccssudfour",
+  ccsstres: "ccsstres",
+  ccnnudsix: "ccnnudsix",
+  clima: "clima",
+  plantas: "plantas",
+  naturais: "naturais",
+  ecosistemas: "ecosistemas",
+  gallego_gramatica: "gallego_gramatica"
+};
+
 function selectCategory(category) {
-  currentCategory = category;
+  originalCategory = category;
+  mappedCategory = categoryMap[category] || category;
+  currentCategory = mappedCategory; // aún útil
   currentQuestionIndex = 0;
   correctCount = 0;
   incorrectCount = 0;
 
-  // Si es un slide estático (como start-slide)
   if (document.getElementById(category)) {
     showSlide(category);
     return;
   }
 
-  // Si es una materia general
   if (category === 'ccss_materia' || category === 'ccnn_materia') {
     showSlide(category + '-slide');
     return;
   }
 
-  // Si es una categoría de cuestionario
-  if (quizData[category]) {
-    selectedQuestions = getRandomQuestions(quizData[category], 12);
-    document.getElementById("quiz-title").innerText = quizTitles[category] || "Cuestionario";
+  if (quizData[mappedCategory]) {
+    selectedQuestions = getRandomQuestions(quizData[mappedCategory], 12);
+    document.getElementById("quiz-title").innerText = quizTitles[mappedCategory] || "Cuestionario";
     disableCategoryButtons(category);
     showSlide("intro-slide");
     return;
   }
 
-  // Si no se encuentra nada válido
   alert("Categoría non atopada: " + category);
 }
-
-
-document.addEventListener('DOMContentLoaded', () => {
-  document.querySelectorAll('.footer-column a[href^="#"]').forEach(link => {
-    link.addEventListener('click', e => {
-      e.preventDefault();
-
-      const id = link.getAttribute('href').substring(1); // sin "#"
-
-      // Caso 1: slide estático como "start-slide"
-      if (document.getElementById(id)) {
-        showSlide(id);
-        return;
-      }
-
-      // Caso 2: categoría de cuestionario como "ccss"
-      selectCategory(id);
-    });
-  });
-});
-
-
-
 
 
 function getRandomQuestions(allQuestions, count) {
@@ -3000,9 +2989,9 @@ function loadQuestion() {
 function checkAnswer(selectedIndexes) {
   clearInterval(timer);
 
-  const q = quizData[currentCategory][currentQuestionIndex];
-  const feedback = document.getElementById(`feedback-${currentCategory}`);
-  const buttons = document.querySelectorAll(`#answers-container-${currentCategory} .answer-btn`);
+  const q = selectedQuestions[currentQuestionIndex];
+  const feedback = document.getElementById(`feedback-${originalCategory}`);
+  const buttons = document.querySelectorAll(`#answers-container-${originalCategory} .answer-btn`);
 
   buttons.forEach(btn => btn.disabled = true);
 
@@ -3032,6 +3021,29 @@ function checkAnswer(selectedIndexes) {
   });
 }
 
+
+
+document.addEventListener('DOMContentLoaded', () => {
+
+  document.querySelectorAll('.footer-column a[href^="#"]').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+
+      const id = link.getAttribute('href').substring(1); // sin "#"
+
+      // Caso 1: slide estático como "start-slide"
+      if (document.getElementById(id)) {
+        showSlide(id);
+        return;
+      }
+
+      // Caso 2: categoría de cuestionario como "ccss"
+      selectCategory(id);
+    });
+  });
+})
+
+
 function nextQuestion() {
   if (currentQuestionIndex < quizData[currentCategory].length - 1) {
     currentQuestionIndex++;
@@ -3041,6 +3053,7 @@ function nextQuestion() {
     showResults();
   }
 }
+
 
 function prevQuestion() {
   if (currentQuestionIndex > 0) {
@@ -3128,6 +3141,8 @@ function copiarBizum() {
       console.error("Erro ao copiar o código Bizum", err);
     });
   }
+
+  
 
 
 

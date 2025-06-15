@@ -39,7 +39,8 @@
     <p>🔁 As preguntas aparecen en orde diferente cada vez que xogas.</p>
     <p>Isto fai que o xogo sexa máis divertido e que poidas practicar mellor. ¡Cada partida é única!</p>    
     <button onclick="selectCategory('ccss')">Idade Media Na Península</button> 
-    <button onclick="selectCategory('ccssudfour')">Organización Territorial</button>    
+    <button onclick="selectCategory('ccssudfour')">Organización Territorial</button>  
+    <button onclick="selectCategory('ccssudsix')">Idade Moderna</button>     
   </div>
 
 
@@ -158,6 +159,22 @@
     </div>
   </div>
 
+
+  <!-- Slide de preguntas CCSS Unidad  -->
+  <div class="slide" id="ccssudsix-slide">
+    <div class="timer" id="timer">Tempo restante: 25s</div>
+    <div id="question-counter-ccssudsix"></div>
+    <div class="question" id="question-text-ccssudsix"></div>
+    <div class="answers" id="answers-container-ccssudsix"></div>
+    <div class="feedback" id="feedback-ccssudsix"></div>
+    <div class="nav-buttons">
+      <button onclick="prevQuestion('ccssudsix')">Anterior</button>
+      <button onclick="nextQuestion('ccssudsix')">Seguinte</button>
+      <button onclick="restartQuiz()">Inicio</button>
+      
+    </div>
+  </div>
+
    <!-- Slide de preguntas CCNN Unidad 6 -->
   <div class="slide" id="ccnnFive-slide">
     <div class="timer" id="timer">Tempo restante: 25s</div>
@@ -232,6 +249,7 @@
         <li><a href="#ecosistemas">Ecosistemas</a></li>
         <li><a href="#ccssudfour">Organización Territorial</a></li>
         <li><a href="#ccnnFive">Maquinas Simples/Compuestas</a></li>
+        <li><a href="#ccssudsix">Idade Moderna</a></li>
       </ul>
     </div>
 

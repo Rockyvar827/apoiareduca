@@ -74,7 +74,6 @@ html, body {
 #intro-screen button:hover {
   background-color: #0056b3;
 }
-
 /* Ajustes para el segundo slide (#start-slide) */
 #start-slide.slide.active {
   display: flex; /* Para centrar contenido verticalmente */
@@ -146,7 +145,7 @@ html, body {
 
 
       /* Cuando el botón está deshabilitado */
-      #start-slide button:disabled {
+    #start-slide button:disabled {
         background-color: #cccccc;
         color: #666666;
         cursor: not-allowed;
@@ -182,6 +181,8 @@ html, body {
         grid-template-columns: 1fr; /* 1 botón por fila en pantallas pequeñas */
       }
     }
+
+  
 
 
   h1, h2 {
@@ -412,6 +413,10 @@ html, body {
     color: #ccc;
     margin-top: 10px;
   }
+
+
+ 
+
 
 
  

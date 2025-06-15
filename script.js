@@ -2776,7 +2776,68 @@ const quizData = {
         answers: ["A asimetría e o realismo", "A idealización do corpo humano e a harmonía", "A decoración excesiva", "A conmoción do espectador"],
         correct: 1,
         explanation: "✅ Os artistas renacentistas procuraban a beleza ideal, a proporción e a harmonía."
+    },
+      {
+        question: "Quen eran OS REIS CATÓLICOS?",
+        answers: ["Xoana e Felipe", "Isabel de Castela e Fernando de Aragón", "Carlos I e Isabel II", "Fernando VI e María Teresa"],
+        correct: 1,
+        explanation: "✅ Isabel I de Castela e Fernando II de Aragón eran OS REIS CATÓLICOS."
+    },
+    {
+        question: "Que importante feito ocorreu no ano 1492?",
+        answers: ["A chegada de Carlos I a España", "A fundación da Santa Irmandade", "A conquista de Granada e a viaxe de Colón a América", "A creación do Museo do Prado"],
+        correct: 2,
+        explanation: "✅ No 1492 conquistouse Granada e Cristovo Colón iniciou a viaxe na que chegou a América."
+    },
+    {
+        question: "Que fixeron OS ESPAÑOIS E ESPAÑOLAS nos territorios conquistados en América?",
+        answers: ["Implantaron a lingua inglesa", "Respectaron todas as culturas locais", "Implantaron o castelán e a relixión católica", "Fuxiron dos territorios por medo"],
+        correct: 2,
+        explanation: "✅ Nos territorios conquistados impuxéronse o castelán e a relixión católica."
+    },
+    {
+        question: "Que foi a SANTA IRMANDADE?",
+        answers: ["Un grupo de monxes", "Un exército especial", "Un organismo para vixiar rúas e camiños", "Un tribunal de xustiza local"],
+        correct: 2,
+        explanation: "✅ A Santa Irmandade era unha forza encargada de vixiar as rúas e os camiños."
+    },
+    {
+        question: "Quen foi o primeiro rei da MONARQUÍA DOS AUSTRIAS?",
+        answers: ["Felipe II", "Fernando o Católico", "Carlos I", "Carlos II"],
+        correct: 2,
+        explanation: "✅ Carlos I foi o primeiro rei da MONARQUÍA DOS AUSTRIAS en España."
+    },
+    {
+        question: "Que fixeron os españois tras chegar a América segundo os GRANDES DESCUBRIMENTOS?",
+        answers: ["Construíron escolas para nativos", "Evanxelizaron pola forza e roubaron ouro", "Deixaron os pobos en paz", "Viaxaron de volta sen conquistar nada"],
+        correct: 1,
+        explanation: "✅ Os españois evanxelizaron pola forza e aproveitaron os recursos como o ouro."
+    },
+    {
+        question: "Como se chamaba o continente ao que chegou CRISTOVO COLÓN?",
+        answers: ["Asia", "África", "Oceanía", "América"],
+        correct: 3,
+        explanation: "✅ Aínda que Colón pensaba que era Asia, máis tarde chamouse América en honor a Américo Vespucio."
+    },
+    {
+        question: "Quen conquistou o IMPERIO INCA?",
+        answers: ["Cristovo Colón", "Hernán Cortés", "Francisco Pizarro", "Fernando de Magalláns"],
+        correct: 2,
+        explanation: "✅ Francisco Pizarro foi quen conquistou o IMPERIO INCA no ano 1533."
+    },
+    {
+        question: "Como se chamaban os soldados do exército organizado polos Reis Católicos?",
+        answers: ["Xendarmes", "Terzos", "Templarios", "Compañías"],
+        correct: 1,
+        explanation: "✅ Os Terzos eran soldados de infantaría, artillaría e cabalaría organizados polos Reis Católicos."
+    },
+    {
+        question: "Por que foi importante o descubrimento de América?",
+        answers: ["Porque pecharon rutas comerciais", "Porque provocou guerras en Europa", "Porque fixo que España se convertese no imperio máis poderoso", "Porque se perdeu contacto co resto do mundo"],
+        correct: 2,
+        explanation: "✅ Co descubrimento e conquistas, España converteuse no imperio máis poderoso de Europa."
     }
+
 
 ]
 

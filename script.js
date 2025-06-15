@@ -2690,93 +2690,94 @@ const quizData = {
          {
         question: "Cando comeza a Idade Moderna?",
         answers: ["En 1492, co descubrimento de América", "En 1789, coa Revolución Francesa", "En 1516, co reinado de Carlos I", "En 1469, co matrimonio dos Reis Católicos"],
-        correct: 2,
-        explanation: "✅ A Idade Moderna comeza en 1492 co descubrimento de América por Cristovo Colón."
+        correct: 0,
+        explanation: "✅ A Idade Moderna comeza en 1492 co descubrimento de América."
     },
     {
         question: "Que movemento cultural mudou a visión medieval baseada na fe relixiosa?",
         answers: ["O Barroco", "O Humanismo", "A Ilustración", "O Renacemento"],
         correct: 1,
-        explanation: "✅ O Humanismo cambiou a visión medieval baseada na fe relixiosa por unha centrada no ser humano."
+        explanation: "✅ O Humanismo puxo no centro o ser humano, cambiando a visión relixiosa medieval."
     },
     {
         question: "Quen formaba parte da sociedade privilexiada na Idade Moderna?",
         answers: ["Os campesiños e artesáns", "A nobreza e o clero", "Os comerciantes", "Os mestres e filósofos"],
         correct: 1,
-        explanation: "✅ A nobreza e o clero eran os grupos privilexiados que non pagaban impostos e ocupaban altos cargos."
+        explanation: "✅ A nobreza e o clero eran os estamentos privilexiados na sociedade moderna."
     },
     {
         question: "Cal era a base da economía na Idade Moderna?",
         answers: ["A industria", "A agricultura", "O comercio marítimo", "A minería"],
-        correct: 3,
-        explanation: "✅ A agricultura era a base da economía, aínda que tamén se desenvolveron a artesanía e o comercio."
+        correct: 1,
+        explanation: "✅ A agricultura era a base económica fundamental na Idade Moderna."
     },
     {
         question: "Que territorio descubriu Cristovo Colón en 1492?",
         answers: ["Asia", "Oceanía", "América", "África"],
         correct: 2,
-        explanation: "✅ Cristovo Colón descubriu América en 1492, aínda que inicialmente pensou que era Asia."
+        explanation: "✅ Cristovo Colón chegou a América en 1492, aínda que pensaba que era Asia."
     },
     {
         question: "Que lingua se impuxo nos territorios conquistados en América?",
         answers: ["O inglés", "O castelán", "O francés", "O portugués"],
-        correct: 0,
-        explanation: "✅ Nos territorios conquistados en América, implantouse o castelán como lingua oficial."
+        correct: 1,
+        explanation: "✅ O castelán foi a lingua imposta polos conquistadores nos territorios americanos."
     },
     {
         question: "Quen foi o primeiro rei da dinastía dos Austrias en España?",
         answers: ["Carlos I", "Felipe II", "Carlos II", "Felipe III"],
         correct: 0,
-        explanation: "✅ Carlos I foi o primeiro rei da dinastía dos Austrias, coroado en 1516."
+        explanation: "✅ Carlos I foi o primeiro rei da dinastía dos Austrias en España."
     },
     {
         question: "Que estilo arquitectónico caracterizou o Barroco en España?",
         answers: ["O plateresco", "O churrigueresco", "O herreriano", "O renacentista"],
         correct: 1,
-        explanation: "✅ O churrigueresco foi un estilo arquitectónico característico do Barroco en España."
+        explanation: "✅ O churrigueresco foi un estilo moi decorativo propio do Barroco español."
     },
     {
         question: "Que rei fundou o Museo do Prado?",
         answers: ["Carlos III", "Felipe V", "Carlos IV", "Fernando VI"],
         correct: 2,
-        explanation: "✅ Carlos III fundou o Museo do Prado durante o seu reinado."
+        explanation: "✅ Carlos IV foi quen fundou o Museo do Prado a finais do século XVIII."
     },
     {
         question: "Que movemento cultural apareceu en España no século XVIII?",
         answers: ["O Humanismo", "A Ilustración", "O Renacemento", "O Barroco"],
         correct: 1,
-        explanation: "✅ A Ilustración foi un movemento cultural que apareceu no século XVIII, defendendo a razón como base do coñecemento."
+        explanation: "✅ A Ilustración, baseada na razón e o coñecemento, foi o movemento cultural do século XVIII."
     },
     {
         question: "Que batalla naval venceu Felipe II ás tropas turcas?",
         answers: ["A batalla de Lepanto", "A batalla de San Quintín", "A batalla dos Países Baixos", "A batalla de Granada"],
         correct: 0,
-        explanation: "✅ Na batalla naval de Lepanto en 1571, Felipe II venceu ás tropas turcas."
+        explanation: "✅ Felipe II venceu os turcos na batalla de Lepanto en 1571."
     },
     {
         question: "Quen foi o último rei da dinastía dos Austrias?",
         answers: ["Carlos I", "Felipe II", "Carlos II", "Felipe III"],
         correct: 2,
-        explanation: "✅ Carlos II foi o último rei da dinastía dos Austrias, morrendo sen descendencia."
+        explanation: "✅ Carlos II foi o último rei da dinastía dos Austrias en España."
     },
     {
         question: "Que dinastía chegou ao trono de España despois da Guerra de Sucesión?",
         answers: ["Os Austrias", "Os Borbóns", "Os Tudor", "Os Habsburgo"],
         correct: 1,
-        explanation: "✅ Despois da Guerra de Sucesión, a dinastía dos Borbóns chegou ao trono de España."
+        explanation: "✅ A dinastía dos Borbóns chegou ao trono tras a Guerra de Sucesión."
     },
     {
         question: "Que estilo arquitectónico buscaba liñas rectas e simplicidade no Renacemento?",
         answers: ["O churrigueresco", "O herreriano", "O barroco", "O plateresco"],
         correct: 1,
-        explanation: "✅ No Renacemento, o estilo herreriano caracterizábase pola súa simplicidade e sobriedade."
+        explanation: "✅ O estilo herreriano buscaba a sobriedade e as liñas rectas no Renacemento."
     },
     {
         question: "Que buscaban os artistas renacentistas na pintura e escultura?",
         answers: ["A asimetría e o realismo", "A idealización do corpo humano e a harmonía", "A decoración excesiva", "A conmoción do espectador"],
         correct: 1,
-        explanation: "✅ Os artistas renacentistas procuraban a idealización do corpo humano, a simetría e a harmonía nas súas obras."
+        explanation: "✅ Os artistas renacentistas procuraban a beleza ideal, a proporción e a harmonía."
     }
+
 ]
 
 }
@@ -2805,7 +2806,6 @@ const quizTitles = {
   gallego_gramatica: "Galego-Verbos",
   ccssudsix: "Idade Moderna"
 };
-
 
 function selectCategory(category) {
   currentCategory = category;

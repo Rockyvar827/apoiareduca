@@ -2987,39 +2987,51 @@ function loadQuestion() {
 }
 
 function checkAnswer(selectedIndexes) {
-  clearInterval(timer);
+  const question = selectedQuestions[currentQuestionIndex];
+  
+  let correctIndexes = question.correct;
+  if (!Array.isArray(correctIndexes)) {
+    correctIndexes = [correctIndexes];
+  }
 
-  const q = selectedQuestions[currentQuestionIndex];
-  const feedback = document.getElementById(`feedback-${originalCategory}`);
-  const buttons = document.querySelectorAll(`#answers-container-${originalCategory} .answer-btn`);
+  const isCorrect = arraysEqual(
+    (selectedIndexes || []).sort(),
+    correctIndexes.sort()
+  );
 
-  buttons.forEach(btn => btn.disabled = true);
-
-  const correctAnswers = Array.isArray(q.correct) ? q.correct : [q.correct];
-
-  const isCorrect =
-    selectedIndexes.length === correctAnswers.length &&
-    selectedIndexes.every(idx => correctAnswers.includes(idx));
-
+  const feedback = document.getElementById(`feedback-${currentCategory}`);
+  feedback.classList.remove("correct", "incorrect");
+  
   if (isCorrect) {
-    feedback.innerHTML = `🟢 Correcto! ${q.explanation}`;
-    feedback.className = "feedback correct";
+    feedback.innerHTML = `✅ ¡Correcto!<br><em>${question.explanation || ""}</em>`;
+    feedback.classList.add("correct");
     correctCount++;
   } else {
-    feedback.innerHTML = `🔴 Incorrecto. ${q.explanation}`;
-    feedback.className = "feedback incorrect";
+    feedback.innerHTML = `❌ Incorrecto.<br><em>${question.explanation || ""}</em>`;
+    feedback.classList.add("incorrect");
     incorrectCount++;
   }
 
-  buttons.forEach(btn => {
-    const index = parseInt(btn.dataset.index);
-    if (correctAnswers.includes(index)) {
-      btn.style.border = "2px solid green";
-    } else if (selectedIndexes.includes(index)) {
-      btn.style.border = "2px solid red";
-    }
-  });
+  // Función para avanzar a la siguiente pregunta
+  function avanzar() {
+    feedback.removeEventListener('click', avanzar);
+    clearTimeout(timeoutId);
+    nextQuestion();
+  }
+
+  feedback.addEventListener('click', avanzar);
+
+  const timeoutId = setTimeout(() => {
+    avanzar();
+  }, 20000);
 }
+
+
+
+function arraysEqual(a, b) {
+  return a.length === b.length && a.every((val, i) => val === b[i]);
+}
+
 
 
 
@@ -3045,7 +3057,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 function nextQuestion() {
-  if (currentQuestionIndex < quizData[currentCategory].length - 1) {
+  if (currentQuestionIndex < selectedQuestions.length - 1) {
     currentQuestionIndex++;
     loadQuestion();
   } else {
@@ -3065,14 +3077,24 @@ function prevQuestion() {
 function resetTimer() {
   clearInterval(timer);
   timeLeft = 25;
-  document.getElementById("timer").innerText = `Tempo restante: ${timeLeft}s`;
+  
+  const timerElem = document.getElementById(`timer-${currentCategory}`);
+  if (!timerElem) {
+    console.warn(`No se encontró elemento con id 'timer-${currentCategory}'`);
+    return;
+  }
+  
+  timerElem.innerText = `Tempo restante: ${timeLeft}s`;
+  
   timer = setInterval(() => {
     timeLeft--;
-    document.getElementById("timer").innerText = `Tempo restante: ${timeLeft}s`;
+    timerElem.innerText = `Tempo restante: ${timeLeft}s`;
     if (timeLeft <= 0) {
       clearInterval(timer);
-      document.getElementById(`feedback-${currentCategory}`).innerText = "🔴 Tempo esgotado!";
-      document.getElementById(`feedback-${currentCategory}`).className = "feedback incorrect";
+      
+      const feedback = document.getElementById(`feedback-${currentCategory}`);
+      feedback.innerText = "🔴 Tempo esgotado!";
+      feedback.className = "feedback incorrect";
 
       const buttons = document.querySelectorAll(`#answers-container-${currentCategory} .answer-btn`);
       buttons.forEach(btn => btn.disabled = true);

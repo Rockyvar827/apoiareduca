@@ -8,6 +8,8 @@ let selectedQuestions = [];
 let currentQuestionIndex = 0;
 let correctCount = 0;
 let incorrectCount = 0;
+// Variable global para controlar si la pregunta actual fue respondida
+let answeredCurrentQuestion = false;
 
 
 
@@ -2940,7 +2942,15 @@ function showSlide(slideId) {
 
 
 function loadQuestion() {
+  console.log(`Cargando pregunta ${currentQuestionIndex + 1}`);
+
   const q = selectedQuestions[currentQuestionIndex];
+  if (!q) {
+    console.warn("Pregunta no encontrada. Posiblemente fuera del rango.");
+    return;
+  }
+
+  console.log("Pregunta cargada:", q.question);
 
   document.getElementById(`question-text-${currentCategory}`).innerText = q.question;
   document.getElementById(`question-counter-${currentCategory}`).innerText =
@@ -2956,6 +2966,7 @@ function loadQuestion() {
   const selectedAnswers = new Set();
 
   q.answers.forEach((answer, index) => {
+    console.log(`Creando botón para respuesta ${index}:`, answer);
     const btn = document.createElement("button");
     btn.innerText = answer;
     btn.dataset.index = index;
@@ -2965,9 +2976,11 @@ function loadQuestion() {
       if (selectedAnswers.has(index)) {
         selectedAnswers.delete(index);
         btn.classList.remove("selected");
+        console.log(`Respuesta ${index} deseleccionada`);
       } else {
         selectedAnswers.add(index);
         btn.classList.add("selected");
+        console.log(`Respuesta ${index} seleccionada`);
       }
     };
 
@@ -2979,27 +2992,50 @@ function loadQuestion() {
   verifyBtn.style.backgroundColor = "#28a745";
   verifyBtn.style.marginTop = "10px";
   verifyBtn.onclick = () => {
+    console.log("Botón Verificar presionado con respuestas seleccionadas:", Array.from(selectedAnswers));
     checkAnswer(Array.from(selectedAnswers));
   };
 
   container.appendChild(verifyBtn);
+
   resetTimer();
 }
 
+
+
+function selectAnswer(index) {
+  const buttons = document.querySelectorAll(`#answers-container-${currentCategory} .answer-btn`);
+  buttons.forEach((btn, i) => {
+    btn.classList.toggle("selected", i === index);
+  });
+
+  checkAnswer([index]); // Aquí se llama correctamente
+}
+
+
 function checkAnswer(selectedIndexes) {
   const question = selectedQuestions[currentQuestionIndex];
-  
+
   let correctIndexes = question.correct;
   if (!Array.isArray(correctIndexes)) {
     correctIndexes = [correctIndexes];
   }
 
+  if (!selectedIndexes || selectedIndexes.length === 0) {
+    alert("Debes seleccionar al menos una respuesta.");
+    return;
+  }
+
   const isCorrect = arraysEqual(
-    (selectedIndexes || []).sort(),
-    correctIndexes.sort()
+    selectedIndexes.slice().sort(),
+    correctIndexes.slice().sort()
   );
 
   const feedback = document.getElementById(`feedback-${currentCategory}`);
+  if (!feedback) {
+    console.warn(`No se encontró feedback para la categoría: ${currentCategory}`);
+    return;
+  }
   feedback.classList.remove("correct", "incorrect");
   
   if (isCorrect) {
@@ -3011,20 +3047,9 @@ function checkAnswer(selectedIndexes) {
     feedback.classList.add("incorrect");
     incorrectCount++;
   }
-
-  // Función para avanzar a la siguiente pregunta
-  function avanzar() {
-    feedback.removeEventListener('click', avanzar);
-    clearTimeout(timeoutId);
-    nextQuestion();
-  }
-
-  feedback.addEventListener('click', avanzar);
-
-  const timeoutId = setTimeout(() => {
-    avanzar();
-  }, 20000);
 }
+
+
 
 
 
@@ -3056,22 +3081,22 @@ document.addEventListener('DOMContentLoaded', () => {
 })
 
 
-function nextQuestion() {
-  if (currentQuestionIndex < selectedQuestions.length - 1) {
-    currentQuestionIndex++;
-    loadQuestion();
-  } else {
-    showSlide("end-slide");
-    showResults();
-  }
-}
-
-
 function prevQuestion() {
   if (currentQuestionIndex > 0) {
     currentQuestionIndex--;
     loadQuestion();
   }
+}
+
+
+function nextQuestion() {
+    if (currentQuestionIndex < selectedQuestions.length - 1) {
+        currentQuestionIndex++;
+        loadQuestion();
+    } else {
+        showSlide("end-slide");
+        showResults();
+    }
 }
 
 function resetTimer() {
@@ -3102,7 +3127,11 @@ function resetTimer() {
       incorrectCount++;
     }
   }, 1000);
-}
+} 
+
+
+
+
 
 function showResults() {
   const endSlide = document.getElementById("end-slide");
@@ -3113,6 +3142,8 @@ function showResults() {
     <button onclick="restartQuiz()">Volver ao inicio</button>
   `;
 }
+
+
 
 
 // Deshabilitar todos los botones excepto el seleccionado (o todos)

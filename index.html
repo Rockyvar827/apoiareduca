@@ -13,25 +13,42 @@
   <div id="main-content">
      <!-- Pantalla de introducción -->
   <div class="slide active" id="intro-screen">
-      <h1>Benvido/a aos Cuestionarios Interactivos</h1>
-      <p>Benvida ao espazo educativo de apoio!</p>
-      <p>Esta páxina web nace co obxectivo de servir como ferramenta de reforzo educativo para os contidos do 5º curso de Educación Primaria. Está pensada para axudar aos nenos e nenas a consolidar os seus coñecementos teóricos nas diversas materias dun xeito dinámico e accesible.</p>
-      <p>Este recurso non substitúe o estudo previo da teoría, polo que é fundamental que os pequenos/as lean e comprendan os contidos antes de realizar as actividades. A súa eficacia tamén depende da plena atención durante o tempo de uso.
-      <p>Se consideras útil incorporar preguntas doutras materias ou tes suxestións para mellorar o contido, podes contactar connosco  e facer una doazon por bizum, será de moita axuda.
-      <p>Agardamos que esta ferramenta tamén sirva de apoio a pais e nais na supervisión das tarefas escolares na casa, ofrecendo un xeito sinxelo de acompañar o proceso de aprendizaxe dos seus fillos/as.
-      <p>“Aprender é a chave para abrir portas no futuro. Nunca deixes de querer saber máis.”</p>      
-      <button onclick="goToStart()">Comezar</button>
-    </div>
+    <h1>Benvido/a aos Cuestionarios Interactivos</h1>
+    <p>Benvida ao espazo educativo de apoio!</p>  
+    <p>Esta páxina web nace co obxectivo de ser unha ferramenta complementaria para o reforzo educativo do alumnado de Educación Primaria. Actualmente, inclúe contidos específicos para os niveis de 5º e 6º curso, e está deseñada para facilitar a consolidación dos coñecementos teóricos mediante actividades interactivas e accesibles.</p>
+    <p>Trátase dun recurso de apoio, polo que non substitúe o estudo previo da teoría. É fundamental que os nenos e nenas comprendan os contidos antes de realizar as actividades propostas. A eficacia desta ferramenta tamén depende da atención e constancia durante o seu uso.</p>
+    <p>Dirixímonos especialmente ás familias, ofrecendo un soporte adicional que facilite o seguimento das tarefas escolares no fogar. Esta plataforma pretende ser un aliado no acompañamento educativo dos seus fillos e fillas, proporcionando un entorno seguro, organizado e pedagoxicamente eficaz.</p>
+    <p>A nosa intención é ampliar progresivamente os contidos ata cubrir todos os niveis de Educación Primaria. Se considera oportuno incorporar materiais doutras materias ou cursos, ou desexa facer achegas para mellorar o proxecto, pode poñerse en contacto connosco. Así mesmo, se o desexa, pode colaborar mediante unha doazón por Bizum, o que contribuirá ao mantemento e desenvolvemento da plataforma.</p>
+    <p><em>“Aprender é a chave para abrir portas no futuro. Nunca deixemos de querer saber máis.”</em></p>
+    <button onclick="goToStart()">Comezar</button>
+</div>
+  
+<!-- Pantalla de selección de nivel -->
+<div class="slide" id="start-slide">
+    <h1>Niveis educativos</h1>
+    <p>Selecciona o curso para comezar.</p>
+    <button onclick="goToLevel('nivel5')">5º de Primaria</button>
+    <button onclick="goToLevel('nivel6')">6º de Primaria</button>
+</div>
 
-   <!-- Pantalla de inicio -->
-   
-  <div class="slide"  id="start-slide">
-    <h1>Materias</h1>
-    <p>Selecciona unha das seccións para comezar.</p>    
+<!-- Pantalla de materias para 5º -->
+<div class="slide" id="nivel5">
+  <h1>Materias – 5º de Primaria</h1>
+  <p>Selecciona unha materia para comezar.</p>
     <button onclick="selectCategory('ccss_materia')">CCSS</button>
     <button onclick="selectCategory('ccnn_materia')">CCNN</button>
-    <button onclick="selectCategory('gallego_gramatica')">Galego</button>    
-  </div>  
+    <button onclick="selectCategory('gallego_gramatica')">Galego</button> 
+  <button onclick="backToStart()">← Volver aos niveis</button>
+</div>
+
+<!-- Pantalla de materias para 6º -->
+<div class="slide" id="nivel6">
+  <h1>Materias – 6º de Primaria</h1>
+  <p>Selecciona unha materia para comezar.</p>
+  <button onclick="selectCategory('ccnn_sexto')">CCNN-6</button>
+  <button onclick="backToStart()">← Volver aos niveis</button>
+</div>
+
   
   <!-- Slide de selección de cuestionarios de CCSS -->
 <div class="slide" id="ccss_materia-slide">
@@ -57,8 +74,6 @@
     <button onclick="selectCategory('ccnnFive')">Máquinas Simples y Compuestas</button>     
   </div>
 
-
-  
   <!-- Pantalla de introducción al cuestionario -->
 <div class="slide" id="intro-slide">
   <h2 id="quiz-title"></h2>
@@ -211,8 +226,38 @@
       <button onclick="nextQuestion('gallego_gramatica')">Seguinte</button>
       <button onclick="restartQuiz()">Inicio</button>      
     </div>
-  
-</div>
+  </div>
+
+
+  <!-- Slide de selección de cuestionarios de Galego -->
+<div class="slide" id="gallego_gramatica_materia-slide">
+    <h1>Cuestionarios Interactivos de Galego-Verbos</h1>
+    <p>🔁 As preguntas aparecen en orde diferente cada vez que xogas.</p>
+    <p>Isto fai que o xogo sexa máis divertido e que poidas practicar mellor. ¡Cada partida é única!</p>    
+    <button onclick="selectCategory('gallego_gramatica')">Verbos-Conjugaciones</button>     
+  </div>
+
+<!-- Slide de selección de cuestionarios de CCNN UD1 6to -->
+<div class="slide" id="ccnn_sexto-slide">
+    <h1>Cuestionarios Interactivos de CCSS</h1>
+    <p>🔁 As preguntas aparecen en orde diferente cada vez que xogas.</p>
+    <p>Isto fai que o xogo sexa máis divertido e que poidas practicar mellor. ¡Cada partida é única!</p>    
+    <button onclick="selectCategory('ccnn_6_tema1')">AS CÉLULAS E O SISTEMA NERVIOSO</button> 
+  </div>
+
+  <!-- Slide de preguntas CCNN Unidad 1 Nivel 6to -->
+<div class="slide" id="ccnn_6_tema1-slide">  
+    <div class="timer" id="timer-ccnn_6_tema1">Tempo restante: 25s</div>
+    <div id="question-counter-ccnn_6_tema1"></div>
+    <div class="question" id="question-text-ccnn_6_tema1"></div>
+    <div class="answers" id="answers-container-ccnn_6_tema1"></div>
+    <div class="feedback" id="feedback-ccnn_6_tema1"></div>
+    <div class="nav-buttons">
+      <button onclick="prevQuestion('ccnn_6_tema1')">Anterior</button>
+      <button onclick="nextQuestion('ccnn_6_tema1')">Seguinte</button>
+      <button onclick="restartQuiz()">Inicio</button>
+    </div>
+  </div>
   <!-- Slide final -->
   <div class="slide" id="end-slide">
     <h2>Remataste o cuestionario!</h2>
@@ -236,7 +281,7 @@
     <div class="footer-column">
       <h3>Mapa do sitio</h3>
       <ul>
-        <li><a href="#start-slide">Inicio</a></li>
+        <li><a href="#intro-screen">Inicio</a></li>
         <li><a href="#ccsstres">Idade Media Na Península</a></li>
         <li><a href="#clima">Clima</a></li>
         <li><a href="#plantas">Plantas</a></li>

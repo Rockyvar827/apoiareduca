@@ -2841,8 +2841,302 @@ const quizData = {
         correct: 2,
         explanation: "✅ Co descubrimento e conquistas, España converteuse no imperio máis poderoso de Europa."
         }
+    ],
+    ccnn_6_tema1: [
+        {
+            question: "Cal é a capa máis externa da pel?",
+            answers: ["Hipoderme", "Derme", "Epiderme", "Papilas gustativas" ],
+            correct: 2, // inicio
+            explanation: "✅ A epiderme é a capa máis externa da pel."
+        },
+        {
+            question: "Onde se atopan os receptores do gusto?",
+            answers: [
+                "Na retina",
+                "Nas papilas gustativas",
+                "Na pituitaria",
+                "No pavillón auditivo"
+            ],
+            correct: 3, // 2 → 3
+            explanation: "✅ Os receptores do gusto agrúpanse nas papilas gustativas da lingua."
+        },
+        {
+            question: "Que estrutura do nariz contén os receptores olfactivos?",
+            answers: [
+                "O caracol",
+                "A pituitaria",
+                "A córnea",
+                "As canles semicirculares"
+            ],
+            correct: 1, // 3 → 1
+            explanation: "✅ A pituitaria, situada na parte superior das fosas nasais, contén os receptores olfactivos."
+        },
+        {
+            question: "Que fai vibrar o tímpano?",
+            answers: [
+                "O líquido das canles semicirculares",
+                "As ondas sonoras",
+                "Os músculos do oído",
+                "As papilas gustativas"
+            ],
+            correct: 0, // 1 → 0
+            explanation: "✅ As ondas sonoras fan vibrar o tímpano."
+        },
+        {
+            question: "Que parte do oído contén os receptores auditivos?",
+            answers: [
+                "A cadea de osiños",
+                "O nervio óptico",
+                "O caracol",
+                "A pupila"
+            ],
+            correct: 2, // 0 → 2
+            explanation: "✅ Os receptores auditivos están no caracol do oído interno."
+        },
+        {
+                question: "Que parte do ollo transforma a luz en sinais nerviosas?",
+                answers: [
+                    "O cristalino",
+                    "A retina",
+                    "A pupila",
+                    "A córnea"
+                ],
+                correct: 3, // 2 → 3
+                explanation: "✅ A retina é onde os receptores de luz transforman a imaxe en sinais nerviosas."
+            },
+            {
+                question: "Cantos ósos aproximadamente ten o corpo humano adulto?",
+                answers: [
+                    "206",
+                    "150",
+                    "300",
+                    "100"
+                ],
+                correct: 1, // 3 → 1
+                explanation: "✅ O esqueleto humano adulto está composto por arredor de 206 ósos."
+            },
+            {
+                question: "Que tipo de articulación é a do cranio?",
+                answers: [
+                    "Móbil",
+                    "Semimóbil",
+                    "Fixa",
+                    "Elástica"
+                ],
+                correct: 0, // 1 → 0
+                explanation: "✅ As articulacións do cranio son fixas, non permiten movemento."
+            },
+            {
+                question: "Que tecido forma o corazón?",
+                answers: [
+                    "Estriado",
+                    "Liso",
+                    "Cardíaco",
+                    "Óseo"
+                ],
+                correct: 2, // 0 → 2
+                explanation: "✅ O tecido muscular cardíaco forma o corazón e contráese de maneira involuntaria."
+            },
+            {
+                question: "Que función teñen os tendóns?",
+                answers: [
+                    "Unir ósos entre si",
+                    "Unir músculos a ósos",
+                    "Protexer órganos internos",
+                    "Regular a temperatura"
+                ],
+                correct: 3, // 2 → 3
+                explanation: "✅ Os tendóns unen os músculos aos ósos para permitir o movemento."
+            },
+        {
+                question: "Cal é a principal diferenza entre células procariotas e eucariotas?",
+                answers: [
+                    "As procariotas teñen núcleo definido",
+                    "As eucariotas teñen o ADN libre no citoplasma",
+                    "As procariotas teñen estrutura sinxela e o ADN no citoplasma",
+                    "As eucariotas non teñen orgánulos"
+                ],
+                correct: 2,
+                explanation: "✅ As células procariotas teñen unha estrutura simple e o material xenético está no citoplasma, sen estar rodeado por membrana."
+            },
+            {
+                question: "Que función cumpre a membrana celular?",
+                answers: [
+                    "Produce enerxía",
+                    "Rexe a entrada e saída de substancias",
+                    "Almacena auga",
+                    "Contén as instrucións xenéticas"
+                ],
+                correct: 1,
+                explanation: "✅ A membrana celular envolve a célula, protéxea e regula a entrada/saída de substancias."
+            },
+            {
+                question: "Cal destes orgánulos é exclusivo das células vexetais?",
+                answers: [
+                    "Mitocondrias",
+                    "Cloroplastos",
+                    "Vacuolos pequenos",
+                    "Lisosomas"
+                ],
+                correct: 1,
+                explanation: "✅ Os cloroplastos son exclusivos das células vexetais e neles realízase a fotosíntese."
+            },
+            {
+                question: "Que característica diferencia as células animais das vexetais?",
+                answers: [
+                    "As vexetais teñen parede celular ríxida",
+                    "As animais teñen un gran vacuolo central",
+                    "As vexetais non teñen membrana celular",
+                    "As animais realizan fotosíntese"
+                ],
+                correct: 0,
+                explanation: "✅ As células vexetais teñen unha parede celular ríxida que lles dá forma e soporte."
+            },
+            {
+                question: "Que tipo de célula non ten núcleo?",
+                answers: [
+                    "Neurona",
+                    "Célula muscular",
+                    "Glóbulo vermello",
+                    "Óvulo"
+                ],
+                correct: 2,
+                explanation: "✅ Os glóbulos vermellos non teñen núcleo, o que lles permite almacenar máis osíxeno."
+            },
+            {
+                question: "Como se organizan as células para formar un organismo?",
+                answers: [
+                    "Células → Órganos → Tecidos → Sistemas",
+                    "Células → Tecidos → Órganos → Aparellos ou sistemas",
+                    "Tecidos → Células → Órganos → Aparellos",
+                    "Células → Órganos → Aparellos → Tecidos"
+                ],
+                correct: 1,
+                explanation: "✅ As células organízanse en tecidos, os tecidos en órganos, e estes en aparellos ou sistemas."
+            },
+            {
+                question: "Que sistema é responsable de coordinar o funcionamento de órganos e sistemas?",
+                answers: [
+                    "O sistema locomotor",
+                    "O sistema dixestivo",
+                    "O sistema nervioso",
+                    "O sistema circulatorio"
+                ],
+                correct: 2,
+                explanation: "✅ O sistema nervioso coordina os órganos e sistemas xunto coas hormonas."
+            },
+            {
+                question: "Que función realiza o sistema nervioso?",
+                answers: [
+                    "Obter enerxía a partir dos nutrientes",
+                    "Permitir a función de relación co medio",
+                    "Transportar osíxeno no sangue",
+                    "Almacenar substancias"
+                ],
+                correct: 1,
+                explanation: "✅ O sistema nervioso, xunto cos sentidos e o aparato locomotor, permite a función de relación co medio."
+            },
+        {
+                question: "Cal é a función principal do cerebro?",
+                answers: [
+                    "Coordinar o equilibrio",
+                    "Transmitir información ao corpo",
+                    "Controlar funcións vitais e complexas como pensar ou emocionarse",
+                    "Controlar os reflexos"
+                ],
+                correct: 2,
+                explanation: "✅ O cerebro controla funcións vitais básicas como respirar e o latexo, e tamén as máis complexas como pensar, moverse ou sentir emocións."
+            },
+            {
+                question: "Que parte do sistema nervioso coordina o equilibrio e a postura?",
+                answers: [
+                    "Cerebro",
+                    "Médula espiñal",
+                    "Nervios",
+                    "Cerebelo"
+                ],
+                correct: 3,
+                explanation: "✅ O cerebelo encárgase de coordinar os movementos e manter o equilibrio e a postura."
+            },
+            {
+                question: "Que estrutura transmite información entre o cerebro e o resto do corpo?",
+                answers: [
+                    "A médula espiñal",
+                    "As dendritas",
+                    "Os nervios",
+                    "O cerebelo"
+                ],
+                correct: 0,
+                explanation: "✅ A médula espiñal transmite información entre o cerebro e o corpo e controla tamén os reflexos."
+            },
+            {
+                question: "Como se chaman as prolongacións curtas das neuronas que reciben sinais?",
+                answers: [
+                    "Nervios",
+                    "Médula",
+                    "Axón",
+                    "Dendritas"
+                ],
+                correct: 3,
+                explanation: "✅ As dendritas son prolongacións curtas das neuronas que reciben o sinal nervioso."
+            },
+            {
+                question: "Que nome recibe o sinal que viaxa polas neuronas?",
+                answers: [
+                    "Estimulación muscular",
+                    "Reflexo",
+                    "Impulso nervioso",
+                    "Corrente vital"
+                ],
+                correct: 2,
+                explanation: "✅ O sinal que viaxa polas neuronas chámase impulso nervioso, semellante a unha corrente eléctrica débil."
+            },
+            {
+                question: "Cal destes é un acto involuntario?",
+                answers: [
+                    "Ler",
+                    "Respirar",
+                    "Escribir nun teclado",
+                    "Correr"
+                ],
+                correct: 1,
+                explanation: "✅ Respirar é un acto involuntario, xa que non depende da nosa vontade."
+            },
+            {
+                question: "Que ocorre primeiro nun acto reflexo cando tocas algo quente?",
+                answers: [
+                    "O músculo contráese",
+                    "O impulso nervioso vai á médula espiñal",
+                    "O cerebro decide retirar a man",
+                    "A pel non detecta a calor"
+                ],
+                correct: 1,
+                explanation: "✅ O primeiro paso é que as terminacións nerviosas da pel envían o impulso á médula espiñal."
+            },
+            {
+                question: "En que se diferencian os actos voluntarios dos involuntarios?",
+                answers: [
+                    "Nos involuntarios sempre actúa o cerebelo",
+                    "Nos voluntarios interveñen máis neuronas e son conscientes",
+                    "Nos voluntarios non interveñen nervios",
+                    "Nos voluntarios non participa o cerebro"
+                ],
+                correct: 1,
+                explanation: "✅ Os actos voluntarios son conscientes, como correr ou escribir, e requiren máis neuronas ca os involuntarios."
+            },
+            {
+                question: "Cal é o primeiro paso no proceso dun acto voluntario como escribir nun teclado?",
+                answers: [
+                    "O músculo do brazo contráese",
+                    "O cerebro envía un impulso á médula espiñal",
+                    "O cerebelo decide que facer",
+                    "A información visual do teclado chega ao cerebro polos nervios ópticos"
+                ],
+                correct: 3,
+                explanation: "✅ Primeiro, os ollos captan a imaxe do teclado e a información viaxa polos nervios ópticos ata o cerebro."
+        
+        }
     ]
-
 }
 
 
@@ -2856,6 +3150,20 @@ function goToStart() {
     }
 
   
+
+function goToLevel(levelId) {
+  hideAllSlides();
+  document.getElementById(levelId).classList.add("active");
+}
+
+function backToStart() {
+  hideAllSlides();
+  document.getElementById("start-slide").classList.add("active");
+}
+
+function hideAllSlides() {
+  document.querySelectorAll('.slide').forEach(slide => slide.classList.remove("active"));
+}  
     
     
 const quizTitles = {
@@ -2869,7 +3177,9 @@ const quizTitles = {
   ccss_materia: "CCSS",
   ccnn_materia: "CCNN",
   gallego_gramatica: "Galego-Verbos",
-  ccssudsix: "Idade Moderna"
+  ccssudsix: "Idade Moderna",
+  ccnn_sexto: "CCNN-6",
+  ccnn_6_tema1: "AS CÉLULAS E O SISTEMA NERVIOSO",
 };
 
   
@@ -2881,7 +3191,8 @@ const categoryMap = {
   plantas: "plantas",
   naturais: "naturais",
   ecosistemas: "ecosistemas",
-  gallego_gramatica: "gallego_gramatica"
+  gallego_gramatica: "gallego_gramatica",
+  ccnn_6_tema1: "ccnn_6_tema1",
 };
 
 function selectCategory(category) {
@@ -2897,7 +3208,7 @@ function selectCategory(category) {
     return;
   }
 
-  if (category === 'ccss_materia' || category === 'ccnn_materia') {
+  if (category === 'ccss_materia' || category === 'ccnn_materia' || category === 'ccnn_sexto') {
     showSlide(category + '-slide');
     return;
   }
@@ -3195,7 +3506,7 @@ function copiarBizum() {
     });
   }
 
-  
+ 
 
 
 

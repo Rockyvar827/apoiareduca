@@ -2845,8 +2845,8 @@ const quizData = {
     ccnn_6_tema1: [
         {
             question: "Cal é a capa máis externa da pel?",
-            answers: ["Hipoderme", "Derme", "Epiderme", "Papilas gustativas" ],
-            correct: 2, // inicio
+            answers: ["Hipoderme", "Derme", "Papilas gustativas","Epiderme" ],
+            correct: 3, // inicio
             explanation: "✅ A epiderme é a capa máis externa da pel."
         },
         {
@@ -2857,7 +2857,7 @@ const quizData = {
                 "Na pituitaria",
                 "No pavillón auditivo"
             ],
-            correct: 3, // 2 → 3
+            correct: 2, 
             explanation: "✅ Os receptores do gusto agrúpanse nas papilas gustativas da lingua."
         },
         {
@@ -2868,7 +2868,7 @@ const quizData = {
                 "A córnea",
                 "As canles semicirculares"
             ],
-            correct: 1, // 3 → 1
+            correct: 1, 
             explanation: "✅ A pituitaria, situada na parte superior das fosas nasais, contén os receptores olfactivos."
         },
         {
@@ -2879,7 +2879,7 @@ const quizData = {
                 "Os músculos do oído",
                 "As papilas gustativas"
             ],
-            correct: 0, // 1 → 0
+            correct: 1,
             explanation: "✅ As ondas sonoras fan vibrar o tímpano."
         },
         {
@@ -2901,7 +2901,7 @@ const quizData = {
                     "A pupila",
                     "A córnea"
                 ],
-                correct: 3, // 2 → 3
+                correct: 1, 
                 explanation: "✅ A retina é onde os receptores de luz transforman a imaxe en sinais nerviosas."
             },
             {
@@ -2912,7 +2912,7 @@ const quizData = {
                     "300",
                     "100"
                 ],
-                correct: 1, // 3 → 1
+                correct: 0, // 3 → 1
                 explanation: "✅ O esqueleto humano adulto está composto por arredor de 206 ósos."
             },
             {
@@ -2923,7 +2923,7 @@ const quizData = {
                     "Fixa",
                     "Elástica"
                 ],
-                correct: 0, // 1 → 0
+                correct: 2, // 1 → 0
                 explanation: "✅ As articulacións do cranio son fixas, non permiten movemento."
             },
             {
@@ -2945,7 +2945,7 @@ const quizData = {
                     "Protexer órganos internos",
                     "Regular a temperatura"
                 ],
-                correct: 3, // 2 → 3
+                correct: 1, // 2 → 3
                 explanation: "✅ Os tendóns unen os músculos aos ósos para permitir o movemento."
             },
         {
@@ -2956,7 +2956,7 @@ const quizData = {
                     "As procariotas teñen estrutura sinxela e o ADN no citoplasma",
                     "As eucariotas non teñen orgánulos"
                 ],
-                correct: 2,
+                correct: 1,
                 explanation: "✅ As células procariotas teñen unha estrutura simple e o material xenético está no citoplasma, sen estar rodeado por membrana."
             },
             {
@@ -2973,12 +2973,12 @@ const quizData = {
             {
                 question: "Cal destes orgánulos é exclusivo das células vexetais?",
                 answers: [
-                    "Mitocondrias",
-                    "Cloroplastos",
+                    "Mitocondrias",                    
                     "Vacuolos pequenos",
-                    "Lisosomas"
+                    "Lisosomas",
+                    "Cloroplastos"
                 ],
-                correct: 1,
+                correct: 3,
                 explanation: "✅ Os cloroplastos son exclusivos das células vexetais e neles realízase a fotosíntese."
             },
             {

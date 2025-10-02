@@ -2912,7 +2912,7 @@ const quizData = {
                     "300",
                     "100"
                 ],
-                correct: 0, // 3 → 1
+                correct: 0,
                 explanation: "✅ O esqueleto humano adulto está composto por arredor de 206 ósos."
             },
             {
@@ -2945,7 +2945,7 @@ const quizData = {
                     "Protexer órganos internos",
                     "Regular a temperatura"
                 ],
-                correct: 1, // 2 → 3
+                correct: 1, 
                 explanation: "✅ Os tendóns unen os músculos aos ósos para permitir o movemento."
             },
         {
@@ -2956,7 +2956,7 @@ const quizData = {
                     "As procariotas teñen estrutura sinxela e o ADN no citoplasma",
                     "As eucariotas non teñen orgánulos"
                 ],
-                correct: 1,
+                correct: 2,
                 explanation: "✅ As células procariotas teñen unha estrutura simple e o material xenético está no citoplasma, sen estar rodeado por membrana."
             },
             {

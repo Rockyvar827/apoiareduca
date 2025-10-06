@@ -3136,7 +3136,846 @@ const quizData = {
                 explanation: "✅ Primeiro, os ollos captan a imaxe do teclado e a información viaxa polos nervios ópticos ata o cerebro."
         
         }
-    ]
+    ],
+    ccss_6_tema1: [
+    {
+        "question": "Que é a meteoroloxía?",
+        "answers": [
+            "A ciencia que estudia os ecosistemas",
+            "A ciencia que estudia os seres vivos",
+            "A ciencia que estudia a atmosfera e os fenómenos que se producen nela",
+            "A ciencia que estudia os océanos"
+        ],
+        "correct": 2,
+        "explanation": "✅ A meteoroloxía é a ciencia que estudia a atmosfera e os fenómenos que se producen nela."
+    },
+    {
+        "question": "Que elementos son utilizados polos meteorólogos para predicir o tempo?",
+        "answers": [
+            "Os satélites, as estacións meteorolóxicas e os rexistros de temperaturas e precipitacións",
+            "Só os satélites e os rexistros de temperaturas",
+            "Só as estacións meteorolóxicas",
+            "Só os rexistros de precipitacións"
+        ],
+        "correct": 0,
+        "explanation": "✅ Os meteorólogos utilizan imaxes de satélites, estacións meteorolóxicas e rexistros de temperatura e precipitacións para predicir o tempo."
+    },
+    {
+        "question": "Que é o efecto invernadoiro?",
+        "answers": [
+            "Un fenómeno que reflicte toda a enerxía solar",
+            "Un fenómeno natural que retén enerxía do sol na atmosfera",
+            "Un fenómeno que destrúe a capa de ozono",
+            "Un fenómeno provocado só polos humanos"
+        ],
+        "correct": 1,
+        "explanation": "✅ O efecto invernadoiro é un fenómeno natural que retén enerxía do sol na atmosfera, necesario para a vida na Terra."
+    },
+    {
+        "question": "Que sucede co efecto invernadoiro na actualidade?",
+        "answers": [
+            "Está diminuíndo grazas ás accións dos humanos",
+            "Está aumentando debido ás emisións de gases por parte dos seres humanos",
+            "Non ten ningún impacto na Terra",
+            "A súa intensidade non cambia"
+        ],
+        "correct": 1,
+        "explanation": "✅ Actualmente, o efecto invernadoiro está aumentando debido ás emisións de gases de efecto invernadoiro, especialmente por actividades humanas."
+    },
+    {
+        "question": "Que busca o Protocolo de Kioto?",
+        "answers": [
+            "Fomentar a industrialización nos países desenvolvidos",
+            "Reducir as emisións de CO2 nos países industrializados",
+            "Permitir que os países industrializados emitan máis CO2",
+            "Reemplazar os combustibles fósiles por enerxía solar"
+        ],
+        "correct": 1,
+        "explanation": "✅ O obxectivo do Protocolo de Kioto é reducir as emisións de CO2 nos países industrializados para combater o cambio climático."
+    },
+    {
+        "question": "Que gas é unha das principais causas do efecto invernadoiro?",
+        "answers": [
+            "O oxíxeno",
+            "O dióxido de carbono (CO2)",
+            "O nitróxeno",
+            "O hidróxeno"
+        ],
+        "correct": 1,
+        "explanation": "✅ O dióxido de carbono (CO2) é un dos gases principais que contribúen ao efecto invernadoiro."
+    },
+    {
+        "question": "Que causa o quecemento global?",
+        "answers": [
+            "A acumulación de gas metano na atmosfera",
+            "A emisión de gases de efecto invernadoiro, especialmente o CO2",
+            "A radiación do sol que se reflicte",
+            "A extinción de especies animais"
+        ],
+        "correct": 1,
+        "explanation": "✅ O quecemento global é causado principalmente pola emisión de gases de efecto invernadoiro, como o CO2, das actividades humanas."
+    },
+    {
+        "question": "Que efecto ten o quecemento global sobre a Terra?",
+        "answers": [
+            "Fai que a Terra se refrixere máis rápido",
+            "Aumenta as fluctuacións climáticas facendo a vida máis difícil",
+            "A Terra comeza a ser máis fría",
+            "Non ten ningunha repercusión"
+        ],
+        "correct": 1,
+        "explanation": "✅ O quecemento global aumenta as fluctuacións climáticas e pode facer que as condicións para a vida se volvan máis extremas e difíciles."
+    },
+    {
+        "question": "Que parte da enerxía solar que chega á Terra é retida pola atmosfera?",
+        "answers": [
+            "Un 70%",
+            "Un 50%",
+            "Un 90%",
+            "Un 30%"
+        ],
+        "correct": 0,
+        "explanation": "✅ Aproximadamente un 70% da enerxía solar que chega á Terra é devolta ao espazo, pero o resto é retida pola atmosfera."
+    },
+    {
+        "question": "Que é o efecto invernadoiro antropoxénico?",
+        "answers": [
+            "Un fenómeno natural sen efectos negativos",
+            "O aumento do efecto invernadoiro debido ás actividades humanas",
+            "Un efecto que só afecta aos océanos",
+            "Un fenómeno relacionado coa desaparición dos bosques"
+        ],
+        "correct": 1,
+        "explanation": "✅ O efecto invernadoiro antropoxénico é o aumento do efecto invernadoiro debido ás actividades humanas, como a queima de combustibles fósiles."
+    },
+    {
+        "question": "Que efecto está a provocar o desxeo dos polos?",
+        "answers": [
+            "Un aumento do nivel do mar",
+            "Unha diminución do nivel do mar",
+            "Unha redución das temperaturas globais",
+            "Un aumento das áreas boscosas"
+        ],
+        "correct": 0,
+        "explanation": "✅ O desxeo dos polos está provocando un aumento do nivel do mar, xa que a fusión dos glaciares e do xeo da Antártida libera grandes cantidades de auga."
+    },
+    {
+        "question": "Que é o tempo atmosférico?",
+        "answers": [
+            "O estado da atmosfera durante un longo período de tempo",
+            "O estado da atmosfera nun lugar determinado e nun momento determinado",
+            "O cambio do clima ao longo de moitos anos",
+            "O efecto que teñen as estacións sobre o clima"
+        ],
+        "correct": 1,
+        "explanation": "✅ O tempo atmosférico é o estado da atmosfera nun lugar e momento específicos. Pode cambiar varias veces nun día."
+    },
+    {
+        "question": "Como se define o clima?",
+        "answers": [
+            "O estado do tempo nun día determinado",
+            "O estado da atmosfera nun lugar en poucas semanas",
+            "O tempo que predomina nun lugar durante moitos anos",
+            "Unha característica variable que cambia cada ano"
+        ],
+        "correct": 2,
+        "explanation": "✅ O clima é o tempo que predomina nun lugar durante moitos anos. Por exemplo, Galicia ten un clima chuvioso e Andalucía un clima seco."
+    },
+    {
+        "question": "Que é necesario para coñecer o clima dun lugar?",
+        "answers": [
+            "Observar os datos dunha única estación meteorolóxica",
+            "Consultar os datos durante moitos anos das estacións meteorolóxicas",
+            "Medir só a temperatura durante un ano",
+            "Estudar os cambios de estacións durante un mes"
+        ],
+        "correct": 1,
+        "explanation": "✅ Para coñecer o clima dun lugar, cómpre consultar durante moitos anos os datos das estacións meteorolóxicas, como temperatura, precipitacións e vento."
+    },
+    {
+        "question": "Que instrumento se usa para medir a temperatura?",
+        "answers": [
+            "O termómetro",
+            "O barómetro",
+            "O pluviómetro",
+            "O anemómetro"
+        ],
+        "correct": 0,
+        "explanation": "✅ O termómetro é o instrumento que se usa para medir a temperatura."
+    },
+    {
+        "question": "Que son as precipitacións?",
+        "answers": [
+            "O vento que se move no aire",
+            "A cantidade de chuvia, neve ou sarabia que cae nunha zona",
+            "A cantidade de calor que recibe a Terra",
+            "Os cambios na presión atmosférica"
+        ],
+        "correct": 1,
+        "explanation": "✅ As precipitacións son a cantidade de chuvia, neve ou sarabia que cae nunha zona, e ocorren cando a auga dos mares, ríos ou lagos se evapora e condénase nas nubes."
+    },
+    {
+        "question": "Como se mide a cantidade de precipitación?",
+        "answers": [
+            "En metros por segundo",
+            "En quilómetros por hora",
+            "En milímetros (mm) ou litros por metro cadrado (l/m2)",
+            "En graos centígrados"
+        ],
+        "correct": 2,
+        "explanation": "✅ As precipitacións mídense en milímetros (mm) ou en litros por metro cadrado (l/m2), e o instrumento utilizado para iso é o pluviómetro."
+    },
+    {
+        "question": "Que provoca a formación de nubes?",
+        "answers": [
+            "O frío extremo",
+            "A evaporación da auga que logo se condensa",
+            "A acumulación de gases na atmosfera",
+            "A presión atmosférica"
+        ],
+        "correct": 1,
+        "explanation": "✅ As nubes se forman cando a auga evaporada dos mares, ríos e lagos se eleva, condénsase ao chegar a capas de aire frío e xérase como pequenas pingas de auga."
+    },
+    {
+        "question": "Que é o instrumento pluviómetro?",
+        "answers": [
+            "Un instrumento para medir a temperatura",
+            "Un instrumento para medir o vento",
+            "Un instrumento para medir as precipitacións",
+            "Un instrumento para medir a presión atmosférica"
+        ],
+        "correct": 2,
+        "explanation": "✅ O pluviómetro é o instrumento utilizado para medir as precipitacións, como chuvia, neve ou sarabia."
+    },
+
+    {
+        "question": "Que é a humidade?",
+        "answers": [
+            "A cantidade de vapor de auga no aire",
+            "A temperatura do aire",
+            "A dirección do vento",
+            "A presión atmosférica"
+        ],
+        "correct": 0,
+        "explanation": "✅ A humidade é a cantidade de vapor de auga que se atopa no aire e mídese co higrómetro."
+    },
+    {
+        "question": "Que instrumento se usa para medir a humidade?",
+        "answers": [
+            "O anemómetro",
+            "O barómetro",
+            "O viraventos",
+            "O higrómetro"
+        ],
+        "correct": 3,
+        "explanation": "✅ O higrómetro é o instrumento utilizado para medir a humidade no aire."
+    },
+    {
+        "question": "Que é o vento?",
+        "answers": [
+            "Unha corrente de aire quente que se move a gran velocidade",
+            "Un aire que se move, creado por diferencias de temperatura no aire",
+            "A cantidade de vapor de auga no aire",
+            "Un fenómeno que só ocorre na montaña"
+        ],
+        "correct": 1,
+        "explanation": "✅ O vento é aire en movemento, creado cando unha masa de aire quente elévase e é substituída por outra de temperatura máis baixa."
+    },
+    {
+        "question": "Que instrumento se usa para medir a velocidade do vento?",
+        "answers": [
+            "O viraventos",
+            "O barómetro",
+            "O anemómetro",
+            "O higrómetro"
+        ],
+        "correct": 2,
+        "explanation": "✅ O anemómetro é o instrumento utilizado para medir a velocidade do vento."
+    },
+    {
+        "question": "Que é a presión atmosférica?",
+        "answers": [
+            "O peso da columna de aire sobre un punto determinado",
+            "A temperatura do aire en diferentes altitudes",
+            "A cantidade de vapor de auga no aire",
+            "O movemento das masas de aire"
+        ],
+        "correct": 0,
+        "explanation": "✅ A presión atmosférica é o peso da columna de aire sobre un punto determinado e mídese co barómetro."
+    },
+    {
+        "question": "Que instrumento se usa para medir a presión atmosférica?",
+        "answers": [
+            "O higrómetro",
+            "O anemómetro",
+            "O viraventos",
+            "O barómetro"
+        ],
+        "correct": 3,
+        "explanation": "✅ O barómetro é o instrumento utilizado para medir a presión atmosférica."
+    },
+    {
+        "question": "Que factor climático describe a distancia desde calquera punto ao ecuador?",
+        "answers": [
+            "A latitude",
+            "A altitude",
+            "A distancia ao mar",
+            "O relevo"
+        ],
+        "correct": 0,
+        "explanation": "✅ A latitude é a distancia desde calquera punto ao ecuador, e influye no clima, xa que os lugares máis próximos ao ecuador son máis cálidos."
+    },
+    {
+        "question": "Que sucede co clima dun lugar próximo ao ecuador?",
+        "answers": [
+            "O clima é máis frío debido aos raios solares inclinados",
+            "O clima é máis cálido porque os raios solares chegan perpendiculares",
+            "O clima é máis variable debido á falta de sol",
+            "O clima é igual que o dos polos"
+        ],
+        "correct": 1,
+        "explanation": "✅ Nos lugares próximos ao ecuador, os raios solares chegan máis perpendiculares, o que fai que o clima sexa máis cálido."
+    },
+    {
+        "question": "Que ocorre co clima a maior altitude?",
+        "answers": [
+            "A temperatura aumenta",
+            "A temperatura diminúe",
+            "O clima é máis húmido",
+            "Non hai cambios de temperatura"
+        ],
+        "correct": 1,
+        "explanation": "✅ A medida que aumentamos de altitude, a temperatura diminúe. Cada 150 metros de altitude, a temperatura baixa un grao centígrado."
+    },
+    {
+        "question": "Que efecto ten o mar sobre o clima das zonas costeiras?",
+        "answers": [
+            "Fai que as temperaturas sexan máis extremas",
+            "Fai que as temperaturas sexan máis suaves e estables",
+            "Fai que chova máis a miúdo",
+            "Non ten ningunha influencia no clima"
+        ],
+        "correct": 1,
+        "explanation": "✅ O mar quécese e arrefríase máis lentamente que a terra, o que provoca que as temperaturas nas zonas costeiras sexan máis suaves e estables."
+    },
+    {
+        "question": "Que factores fan que as zonas de montaña teñan temperaturas máis baixas?",
+        "answers": [
+            "A altitude, que fai que a temperatura diminúa",
+            "A proximidade ao mar, que suaviza a temperatura",
+            "A humidade, que provoca que as temperaturas suban",
+            "A latitude, que fai que os raios solares sexan máis inclinados"
+        ],
+        "correct": 0,
+        "explanation": "✅ Nas zonas de montaña, a temperatura diminúe coa altura, facendo que sexan máis frías que as zonas de chaira."
+    },
+    {
+        "question": "Por que as zonas de montaña son máis chuviosas?",
+        "answers": [
+            "Porque as masas de aire húmido chocan contra as montañas e provocan precipitacións",
+            "Porque as zonas de montaña están máis próximas ao mar",
+            "Porque a altitude aumenta a evaporación",
+            "Porque as montañas filtran a humidade do aire"
+        ],
+        "correct": 0,
+        "explanation": "✅ As zonas de montaña son máis chuviosas porque as masas de aire húmido chocan contra as montañas, elévanse, e ao condénsarse provocan precipitacións."
+    },
+    {
+        "question": "Que zonas climáticas se atopan entre os trópicos de Cáncer e Capricornio?",
+        "answers": [
+            "As zonas temperadas",
+            "As zonas frías",
+            "As zonas cálidas",
+            "As zonas polares"
+        ],
+        "correct": 2,
+        "explanation": "✅ As zonas cálidas sitúanse entre os trópicos de Cáncer e Capricornio, onde os raios solares son máis directos e as temperaturas son moi cálidas."
+    },
+    {
+        "question": "Que tipo de clima se encontra entre os trópicos de Cáncer e Capricornio?",
+        "answers": [
+            "Clima ecuatorial, tropical e desértico",
+            "Clima temperado e mediterráneo",
+            "Clima frío e polar",
+            "Clima continental e oceánico"
+        ],
+        "correct": 0,
+        "explanation": "✅ Na zona cálida entre os trópicos de Cáncer e Capricornio atopamos climas ecuatorial, tropical e desértico."
+    },
+    {
+        "question": "Que caracterizan os climas cálidos?",
+        "answers": [
+            "Temperaturas moi frías e pouca precipitación",
+            "Temperaturas moi cálidas e raios solares perpendiculares á Terra",
+            "Temperaturas moderadas e precipitaciones abundantes",
+            "Temperaturas frías pero con moita humidade"
+        ],
+        "correct": 1,
+        "explanation": "✅ Os climas cálidos caracterízanse por ter temperaturas moi cálidas debido á incidencia directa dos raios solares."
+    },
+    {
+        "question": "Que tipo de clima predomina nas zonas próximas ao ecuador?",
+        "answers": [
+            "Clima ecuatorial",
+            "Clima temperado",
+            "Clima desértico",
+            "Clima polar"
+        ],
+        "correct": 0,
+        "explanation": "✅ Nas zonas próximas ao ecuador predomina o clima ecuatorial, que se caracteriza por temperaturas altas e moitas precipitacións ao longo do ano."
+    },
+    {
+        "question": "Que características ten o clima tropical?",
+        "answers": [
+            "Temperaturas moi altas e pouca precipitación",
+            "Temperaturas altas con estación seca e estación chuviosa",
+            "Temperaturas frías e moita neve",
+            "Temperaturas moderadas e precipitacións constantes"
+        ],
+        "correct": 1,
+        "explanation": "✅ O clima tropical ten temperaturas altas durante todo o ano, con estacións secas e chuviosas ben diferenciadas."
+    },
+    {
+        "question": "Que diferencia o clima desértico dos outros climas cálidos?",
+        "answers": [
+            "Ten moitas precipitacións",
+            "Ten temperaturas moderadas e moita humidade",
+            "Ten moita calor e moi poucas precipitacións",
+            "Ten unha temperatura baixa pero moita humidade"
+        ],
+        "correct": 2,
+        "explanation": "✅ O clima desértico caracterízase por ter moita calor, pero moi poucas precipitacións ao longo do ano."
+    },
+    {
+        "question": "Que é a principal causa das temperaturas altas nas zonas próximas ao ecuador?",
+        "answers": [
+            "Os raios solares chegan de forma máis perpendicular",
+            "A proximidade aos polos",
+            "A presenza de correntes oceánicas cálidas",
+            "A altitude elevada"
+        ],
+        "correct": 0,
+        "explanation": "✅ Nas zonas próximas ao ecuador, os raios solares chegan de forma máis perpendicular, o que provoca temperaturas moi altas durante todo o ano."
+    },
+        {
+        "question": "Que característica ten a paisaxe ecuatorial?",
+        "answers": [
+            "Precipitacións moi escasas e gran amplitude térmica",
+            "Temperaturas altas todo o ano e selva frondosa",
+            "Temperaturas baixas e vexetación de tundra",
+            "Dúas estacións moi marcadas: seca e húmida"
+        ],
+        "correct": 1,
+        "explanation": "✅ A paisaxe ecuatorial ten temperaturas altas todo o ano, poucas diferenzas térmicas e unha vexetación moi densa chamada selva ou xungla."
+    },
+    {
+        "question": "Que define á paisaxe tropical?",
+        "answers": [
+            "Invernos moi fríos e veráns suaves",
+            "Precipitacións superiores a 1500 mm anuais",
+            "Estación seca no inverno e húmida no verán",
+            "Vegetación de tundra e musgos"
+        ],
+        "correct": 2,
+        "explanation": "✅ A paisaxe tropical ten unha estación seca no inverno e outra húmida no verán, con precipitacións entre 750 mm e 1500 mm anuais."
+    },
+    {
+        "question": "Cal é a principal característica do clima desértico?",
+        "answers": [
+            "Temperaturas frescas todo o ano e moita humidade",
+            "Temperaturas moi baixas e precipitacións abundantes",
+            "Alta amplitude térmica e moi pouca chuvia",
+            "Dúas estacións ben diferenciadas"
+        ],
+        "correct": 2,
+        "explanation": "✅ O clima desértico ten unha temperatura media anual elevada, gran amplitude térmica e menos de 300 mm de precipitacións ao ano."
+    },
+    {
+        "question": "Onde se atopan os climas temperados?",
+        "answers": [
+            "Entre os trópicos e os círculos polares",
+            "Só preto do ecuador",
+            "Nos polos",
+            "Nas zonas desérticas"
+        ],
+        "correct": 0,
+        "explanation": "✅ Os climas temperados sitúanse entre os trópicos e os círculos polares, con grandes contrastes entre as estacións."
+    },
+    {
+        "question": "Cales son os tres tipos principais de clima temperado?",
+        "answers": [
+            "Ecuatorial, tropical e desértico",
+            "Polar, alpino e continental",
+            "Mediterráneo, oceánico e continental",
+            "Tropical, polar e mediterráneo"
+        ],
+        "correct": 2,
+        "explanation": "✅ Os climas temperados inclúen o clima mediterráneo, o oceánico e o continental."
+    },
+    {
+        "question": "Que clima se atopa nas zonas máis próximas aos polos?",
+        "answers": [
+            "Ecuatorial",
+            "Tropical",
+            "Polar",
+            "Mediterráneo"
+        ],
+        "correct": 2,
+        "explanation": "✅ O clima polar atópase preto dos polos, con temperaturas moi baixas durante todo o ano."
+    },
+    {
+        "question": "Como se chama o gráfico que representa as temperaturas e precipitacións dun lugar ao longo dun ano?",
+        "answers": [
+            "Mapa climático",
+            "Climograma",
+            "Higrómetro",
+            "Termógrafo"
+        ],
+        "correct": 1,
+        "explanation": "✅ O climograma é un gráfico onde se representan as temperaturas e precipitacións dun lugar ao longo do ano."
+    },
+    {
+        "question": "Como se calcula a temperatura media anual nun climograma?",
+        "answers": [
+            "Sumando as temperaturas máis altas",
+            "Multiplicando a temperatura máis alta por 12",
+            "Sumando todas as temperaturas mensuais e dividindo entre 12",
+            "Restando a mínima á máxima"
+        ],
+        "correct": 2,
+        "explanation": "✅ Para calcular a temperatura media anual, súmanse as temperaturas dos 12 meses e divídese entre 12."
+    },
+    {
+        "question": "Que significa ter unha amplitude térmica moi alta?",
+        "answers": [
+            "Que a temperatura é estable todo o ano",
+            "Que hai pouca diferenza entre día e noite",
+            "Que hai unha gran diferenza entre a temperatura máis alta e a máis baixa",
+            "Que a temperatura media anual é baixa"
+        ],
+        "correct": 2,
+        "explanation": "✅ Amplitude térmica moi alta significa que hai moita diferenza entre a temperatura máxima e a mínima ao longo do ano."
+    },
+    {
+        "question": "Cantas estacións se distinguen nun clima temperado?",
+        "answers": [
+            "Dúas: verán e inverno",
+            "Unha soa: a seca",
+            "Catro: unha cálida, unha fría e dúas de transición",
+            "Ningunha"
+        ],
+        "correct": 2,
+        "explanation": "✅ No clima temperado distínguense catro estacións: unha cálida, unha fría e dúas de transición (primavera e outono)."
+    },
+    {
+        "question": "Que efecto ten o vento na paisaxe?",
+        "answers": [
+            "Constrúe montañas",
+            "Pule e redondea as rochas, cambiando o relevo",
+            "Fai crecer árbores novas",
+            "Crea ríos subterráneos"
+        ],
+        "correct": 1,
+        "explanation": "✅ O vento erosiona o relevo e pule as rochas, creando novas formas na paisaxe."
+    },
+    {
+        "question": "Como cambia a paisaxe a auga dos ríos?",
+        "answers": [
+            "Aumenta a temperatura da terra",
+            "Forma chairas aluviais e deltas ao depositar materiais",
+            "Elimina toda a vexetación",
+            "Crea volcáns e terremotos"
+        ],
+        "correct": 1,
+        "explanation": "✅ A auga dos ríos erosiona o relevo, transporta materiais e deposítaos na desembocadura, formando chairas aluviais e deltas."
+    },
+    {
+        "question": "Cal destes é un cambio rápido e violento na natureza?",
+        "answers": [
+            "O vento constante",
+            "A formación dun delta",
+            "Unha erupción volcánica",
+            "A sedimentación dunha lagoa"
+        ],
+        "correct": 2,
+        "explanation": "✅ As erupcións volcánicas, como os terremotos e inundacións, son exemplos de cambios naturais rápidos e violentos."
+    },
+    {
+        "question": "Que nome reciben as paisaxes modificadas polo ser humano?",
+        "answers": [
+            "Paisaxes naturais",
+            "Paisaxes salvaxes",
+            "Paisaxes humanizadas",
+            "Paisaxes erosionadas"
+        ],
+        "correct": 2,
+        "explanation": "✅ As paisaxes humanizadas son aquelas que o ser humano transformou para cubrir as súas necesidades."
+    },
+    {
+        "question": "Cal destas accións humanas provoca deforestación?",
+        "answers": [
+            "Plantar máis árbores",
+            "Construír industrias e cortar árbores",
+            "Conservar espazos naturais",
+            "Poñer paneis solares no monte"
+        ],
+        "correct": 1,
+        "explanation": "✅ A deforestación ocorre cando se cortan moitas árbores, por exemplo para construír industrias ou estradas."
+    },
+    {
+        "question": "Que consecuencias ambientais poden ter os polígonos industriais?",
+        "answers": [
+            "Melloran o solo e aumentan a vexetación",
+            "Protexen a biodiversidade",
+            "Non teñen ningún impacto na paisaxe",
+            "Contaminan moito e deterioran o medio"
+        ],
+        "correct": 3,
+        "explanation": "✅ Os polígonos industriais contaminan e deterioran o medio ambiente, modificando negativamente a paisaxe."
+    },
+    {
+        "question": "Como afecta o turismo ás paisaxes?",
+        "answers": [
+            "Favorece a conservación das montañas",
+            "Non produce cambios significativos",
+            "Transforma a paisaxe con vivendas, hoteis e portos",
+            "Reduce o número de estradas"
+        ],
+        "correct": 2,
+        "explanation": "✅ O turismo transforma moito a paisaxe coa construción de vivendas, hoteis, portos e outras infraestruturas."
+    },
+    {
+        "question": "Cal destas opcións é unha infraestrutura creada polo ser humano?",
+        "answers": [
+            "Un río",
+            "Un volcán",
+            "Unha vía de tren",
+            "Unha selva"
+        ],
+        "correct": 2,
+        "explanation": "✅ As vías de tren son exemplos de infraestruturas creadas polo ser humano, que modifican a paisaxe."
+    },
+    {
+        "question": "Que tipo de bosque predomina na paisaxe atlántica?",
+        "answers": [
+            "Bosque de folla perenne con oliveiras",
+            "Bosque caducifolio con carballos e castiñeiros",
+            "Deserto con vexetación escasa",
+            "Bosque tropical con palmeiras"
+        ],
+        "correct": 1,
+        "explanation": "✅ Na paisaxe atlántica predomina o bosque caducifolio, con árbores como o carballo, o castiñeiro e o bidueiro."
+    },
+    {
+        "question": "Que provocou a destrución dos bosques na paisaxe atlántica?",
+        "answers": [
+            "A expansión de selvas frondosas",
+            "A desaparición da gandería",
+            "A aparición de landas, fieitos e prados",
+            "A construción de desertos artificiais"
+        ],
+        "correct": 2,
+        "explanation": "✅ A destrución do bosque favoreceu a expansión de landas, fieitos e prados."
+    },
+    {
+        "question": "Que tipo de poboamento é común no interior da paisaxe atlántica?",
+        "answers": [
+            "Grandes cidades con rascacielos",
+            "Poboamento disperso en pequenas aldeas ou casaríos",
+            "Poboamento nómade",
+            "Vilas turísticas á beira do mar"
+        ],
+        "correct": 1,
+        "explanation": "✅ No interior da paisaxe atlántica o poboamento é disperso, con pequenas aldeas ou casaríos."
+    },
+    {
+        "question": "Cal é unha das principais actividades económicas na franxa costeira atlántica?",
+        "answers": [
+            "A minería de ouro",
+            "A pesca, o comercio e os portos deportivos",
+            "A agricultura tropical",
+            "A construción de castelos medievais"
+        ],
+        "correct": 1,
+        "explanation": "✅ Na franxa costeira atlántica destacan os portos pesqueiros, deportivos e as principais vilas e cidades."
+    },
+    {
+        "question": "Como é a vexetación na paisaxe mediterránea?",
+        "answers": [
+            "Moi frondosa e con moita humidade",
+            "Adaptada á seca e ao calor do verán",
+            "Formada por árbores tropicais",
+            "Coberta de xeos e neve todo o ano"
+        ],
+        "correct": 1,
+        "explanation": "✅ A vexetación mediterránea está adaptada á falta de chuvias e ás altas temperaturas do verán."
+    },
+    {
+        "question": "Que tipo de árbores atopamos na paisaxe mediterránea?",
+        "answers": [
+            "Piñeiros, oliveiras, aciñeiras e cítricos",
+            "Palmeiras e plátanos",
+            "Bidueiros e castiñeiros",
+            "Chopos e álamos"
+        ],
+        "correct": 0,
+        "explanation": "✅ Na paisaxe mediterránea predominan os piñeiros, oliveiras, aciñeiras e cítricos, así como matogueiras aromáticas."
+    },
+    {
+        "question": "Que provocou o turismo na paisaxe mediterránea?",
+        "answers": [
+            "O aumento da vexetación natural",
+            "A conservación dos bosques",
+            "A degradación da paisaxe e a diminución da vexetación",
+            "A desaparición das cidades"
+        ],
+        "correct": 2,
+        "explanation": "✅ O turismo, xunto coa actividade agrícola e industrial, provocou a degradación da paisaxe mediterránea."
+    },
+    {
+        "question": "Como é o poboamento na paisaxe continental?",
+        "answers": [
+            "Moi poboado en todas partes",
+            "Pouco poboado, agás en Madrid",
+            "Só hai aldeas illadas sen servizos",
+            "É un territorio deshabitado"
+        ],
+        "correct": 1,
+        "explanation": "✅ A paisaxe continental é pouco poboada, agás na Comunidade de Madrid, con poboación dispersa."
+    },
+    {
+        "question": "Que tipo de vexetación hai na paisaxe continental?",
+        "answers": [
+            "Selvas densas",
+            "Prados húmidos e verdes todo o ano",
+            "Especies adaptadas ao frío e á seca como aciñeiras, piñeiros e sobreiras",
+            "Só palmeiras e plantas tropicais"
+        ],
+        "correct": 2,
+        "explanation": "✅ Na paisaxe continental hai vexetación adaptada ao frío e á seca como aciñeiras, piñeiros, sabinas e sobreiras."
+    },
+    {
+        "question": "Que tipo de paisaxe domina hoxe na Meseta pola acción humana?",
+        "answers": [
+            "Bosques frondosos e verdes",
+            "Campos de cultivo e terras en barbeito",
+            "Ríos caudalosos con moita vexetación",
+            "Glaciares e cumios nevados"
+        ],
+        "correct": 1,
+        "explanation": "✅ A paisaxe da Meseta está moi transformada pola agricultura, co predominio de campos de cultivo e terras en barbeito."
+    },
+    {
+        "question": "Por que a paisaxe canaria é tan singular?",
+        "answers": [
+            "Porque está chea de glaciares",
+            "Porque ten moitas cidades antigas",
+            "Polo seu volcánismo e insularidade",
+            "Porque non hai montañas"
+        ],
+        "correct": 2,
+        "explanation": "✅ A paisaxe canaria é singular polo seu orixe volcánico e por ser un arquipélago, o que lle dá características únicas."
+    },
+    {
+        "question": "Que tipo de vexetación atopamos na paisaxe subtropical das Canarias?",
+        "answers": [
+            "Só bosques frondosos como a selva",
+            "Vexetación moi abundante e igual en todas partes",
+            "Vexetación pouco abundante, pero moi variada",
+            "Só eucaliptos e piñeiros"
+        ],
+        "correct": 2,
+        "explanation": "✅ A vexetación é escasa debido á seca, pero moi diversa, dependendo da altitude e da orientación das ladeiras."
+    },
+    {
+        "question": "Que zona das Canarias está máis poboada?",
+        "answers": [
+            "As zonas volcánicas do interior",
+            "As montañas centrais",
+            "A costa, onde hai máis localidades e turismo",
+            "As zonas desérticas"
+        ],
+        "correct": 2,
+        "explanation": "✅ A costa das illas Canarias está moi poboada, con moitas localidades e moita actividade turística."
+    },
+    {
+        "question": "Como son as temperaturas e precipitacións no litoral galego?",
+        "answers": [
+            "Temperaturas extremas e poucas chuvias",
+            "Temperaturas suaves e precipitacións abundantes",
+            "Veráns moi secos e invernos moi fríos",
+            "Sempre fai sol e calor"
+        ],
+        "correct": 1,
+        "explanation": "✅ No litoral galego hai temperaturas suaves e moita chuvia debido aos ventos húmidos do Atlántico."
+    },
+    {
+        "question": "Que tipo de produción destaca no litoral das Rías Altas?",
+        "answers": [
+            "A produción de viño albariño",
+            "A produción de madeira, especialmente de eucaliptos",
+            "A pesca de baleas",
+            "A extracción de petróleo"
+        ],
+        "correct": 1,
+        "explanation": "✅ Na zona das Rías Altas destaca a produción madeireira, sobre todo de eucalipto."
+    },
+    {
+        "question": "Cal é a zona máis densamente poboada de Galicia?",
+        "answers": [
+            "A montaña luguesa",
+            "O interior de Ourense",
+            "O litoral das Rías Baixas",
+            "As illas Cíes"
+        ],
+        "correct": 2,
+        "explanation": "✅ O litoral das Rías Baixas é a zona máis densamente poboada de Galicia, con moitas vilas, cidades e actividade económica."
+    },
+    {
+        "question": "Como é o clima no interior de Galicia?",
+        "answers": [
+            "Máis suave que na costa, con moita chuvia",
+            "Máis extremo, con menos chuvia e máis diferenza de temperaturas",
+            "Igual que no deserto",
+            "Moi húmido todo o ano"
+        ],
+        "correct": 1,
+        "explanation": "✅ No interior de Galicia o clima é máis extremo: máis frío no inverno, máis calor no verán e menos precipitacións que na costa."
+    },
+    {
+        "question": "Que tipo de vexetación domina no interior galego?",
+        "answers": [
+            "Bosques tropicais",
+            "Campos de cultivo e pastos",
+            "Selvas e xunglas",
+            "Glaciares e neve todo o ano"
+        ],
+        "correct": 1,
+        "explanation": "✅ No interior galego predominan os campos de cultivo e os pastos debido á explotación agrícola e gandeira."
+    },
+    {
+        "question": "Que ocorre co clima nas zonas montañosas de Galicia?",
+        "answers": [
+            "É cálido e seco todo o ano",
+            "É moi semellante ao da costa",
+            "Ten invernos fríos, veráns frescos e chuvias abundantes",
+            "Non hai ningún tipo de cambio climático"
+        ],
+        "correct": 2,
+        "explanation": "✅ Nas zonas montañosas o clima é máis frío no inverno, fresco no verán e con abundantes chuvias, mesmo neve."
+    },
+    {
+        "question": "Que tipo de actividade económica se realiza nos macizos montañosos do interior galego?",
+        "answers": [
+            "Turismo masivo",
+            "Pesca mariña",
+            "Cultivo de centeo, explotación forestal e gandería extensiva",
+            "Minaría de ouro"
+        ],
+        "correct": 2,
+        "explanation": "✅ Nos macizos montañosos do interior combínase o cultivo de centeo, a explotación forestal e a gandería ovina e caprina."
+    }
+]
 }
 
 
@@ -3179,7 +4018,9 @@ const quizTitles = {
   gallego_gramatica: "Galego-Verbos",
   ccssudsix: "Idade Moderna",
   ccnn_sexto: "CCNN-6",
+  ccss_sexto: "CCSS-6",
   ccnn_6_tema1: "AS CÉLULAS E O SISTEMA NERVIOSO",
+  ccss_6_tema1: "UNIDADE 1: O CLIMA E A PAISAXE",
 };
 
   
@@ -3193,6 +4034,7 @@ const categoryMap = {
   ecosistemas: "ecosistemas",
   gallego_gramatica: "gallego_gramatica",
   ccnn_6_tema1: "ccnn_6_tema1",
+  ccss_6_tema1: "ccss_6_tema1",
 };
 
 function selectCategory(category) {
@@ -3208,7 +4050,7 @@ function selectCategory(category) {
     return;
   }
 
-  if (category === 'ccss_materia' || category === 'ccnn_materia' || category === 'ccnn_sexto') {
+  if (category === 'ccss_materia' || category === 'ccnn_materia' || category === 'ccnn_sexto' || category === 'ccss_sexto') {
     showSlide(category + '-slide');
     return;
   }

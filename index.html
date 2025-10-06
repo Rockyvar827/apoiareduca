@@ -46,6 +46,7 @@
   <h1>Materias – 6º de Primaria</h1>
   <p>Selecciona unha materia para comezar.</p>
   <button onclick="selectCategory('ccnn_sexto')">CCNN-6</button>
+  <button onclick="selectCategory('ccss_sexto')">CCSS-6</button>
   <button onclick="backToStart()">← Volver aos niveis</button>
 </div>
 
@@ -239,9 +240,9 @@
 
 <!-- Slide de selección de cuestionarios de CCNN UD1 6to -->
 <div class="slide" id="ccnn_sexto-slide">
-    <h1>Cuestionarios Interactivos de CCSS</h1>
+    <h1>Cuestionarios Interactivos de CCNN</h1>
     <p>🔁 As preguntas aparecen en orde diferente cada vez que xogas.</p>
-    <p>Isto fai que o xogo sexa máis divertido e que poidas practicar mellor. ¡Cada partida é única!</p>    
+    <p>¡Cada partida é única!</p>    
     <button onclick="selectCategory('ccnn_6_tema1')">AS CÉLULAS E O SISTEMA NERVIOSO</button> 
   </div>
 
@@ -255,6 +256,28 @@
     <div class="nav-buttons">
       <button onclick="prevQuestion('ccnn_6_tema1')">Anterior</button>
       <button onclick="nextQuestion('ccnn_6_tema1')">Seguinte</button>
+      <button onclick="restartQuiz()">Inicio</button>
+    </div>
+  </div>
+
+  <!-- Slide de selección de cuestionarios de CCSS UD1 6to -->
+<div class="slide" id="ccss_sexto-slide">
+    <h1>Cuestionarios Interactivos de CCSS</h1>
+    <p>🔁 As preguntas aparecen en orde diferente cada vez que xogas.</p>
+    <p>¡Cada partida é única!</p>    
+    <button onclick="selectCategory('ccss_6_tema1')">UNIDADE 1: O CLIMA E A PAISAXE</button> 
+  </div>
+
+  <!-- Slide de preguntas CCSS Unidad 1 Nivel 6to -->
+<div class="slide" id="ccss_6_tema1-slide">  
+    <div class="timer" id="timer-ccss_6_tema1">Tempo restante: 25s</div>
+    <div id="question-counter-ccss_6_tema1"></div>
+    <div class="question" id="question-text-ccss_6_tema1"></div>
+    <div class="answers" id="answers-container-ccss_6_tema1"></div>
+    <div class="feedback" id="feedback-ccss_6_tema1"></div>
+    <div class="nav-buttons">
+      <button onclick="prevQuestion('ccss_6_tema1')">Anterior</button>
+      <button onclick="nextQuestion('ccss_6_tema1')">Seguinte</button>
       <button onclick="restartQuiz()">Inicio</button>
     </div>
   </div>

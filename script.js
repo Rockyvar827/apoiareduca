@@ -3975,7 +3975,834 @@ const quizData = {
         "correct": 2,
         "explanation": "✅ Nos macizos montañosos do interior combínase o cultivo de centeo, a explotación forestal e a gandería ovina e caprina."
     }
-]
+],
+    ccnn_6_tema2: [
+        {
+            question: "Cal é a función principal do aparello dixestivo?",
+            answers: [
+                "Transformar os alimentos en substancias que o corpo pode aproveitar",
+                "Transportar o sangue por todo o corpo",
+                "Respirar o osíxeno do aire",
+                "Eliminar o suor"
+            ],
+            correct: 0,
+            explanation: "✅ O aparello dixestivo transforma os alimentos en substancias que o corpo pode absorber e aproveitar."
+        },
+        {
+            question: "Como se chama o proceso polo cal o corpo transforma os alimentos?",
+            answers: [
+                "Respiración",
+                "Dixestión",
+                "Circulación",
+                "Excreción"
+            ],
+            correct: 1,
+            explanation: "✅ O proceso de transformar os alimentos en substancias aproveitables chámase dixestión."
+        },
+        {
+            question: "Cal das seguintes opcións NON forma parte do tubo dixestivo?",
+            answers: [
+                "Boca",
+                "Estómago",
+                "Intestino delgado",
+                "Pulmón"
+            ],
+            correct: 3,
+            explanation: "✅ O pulmón pertence ao aparello respiratorio, non ao dixestivo."
+        },
+        {
+            question: "Que ocorre na boca durante a dixestión?",
+            answers: [
+                "O sangue recolle os nutrientes",
+                "Os alimentos mastíganse e mestúranse coa saliva",
+                "O aire entra no corpo",
+                "Os alimentos chegan ao intestino groso"
+            ],
+            correct: 1,
+            explanation: "✅ Na boca os alimentos mastíganse e mestúranse coa saliva, que comeza a dixerir os hidratos de carbono."
+        },
+        {
+            question: "Cal destas glándulas pertence ao aparello dixestivo?",
+            answers: [
+                "Glándulas salivares",
+                "Glándulas sudoríparas",
+                "Glándulas nasais",
+                "Glándulas lacrimais"
+            ],
+            correct: 0,
+            explanation: "✅ As glándulas salivares son glándulas dixestivas que producen a saliva."
+        },
+        {
+            question: "Por que é importante o intestino delgado?",
+            answers: [
+                "Porque serve para respirar mellor",
+                "Porque os alimentos se transforman en enerxía",
+                "Porque se absorben os nutrientes dos alimentos",
+                "Porque elimina o dióxido de carbono"
+            ],
+            correct: 2,
+            explanation: "✅ No intestino delgado é onde se absorben a maior parte dos nutrientes dos alimentos."
+        },
+        {
+            question: "Que parte do tubo dixestivo continúa despois do estómago?",
+            answers: [
+                "A farinxe",
+                "O intestino delgado",
+                "O esófago",
+                "O ano"
+            ],
+            correct: 1,
+            explanation: "✅ Despois do estómago, o alimento pasa ao intestino delgado."
+        },
+        {
+            question: "Cales son as principais glándulas dixestivas?",
+            answers: [
+                "Salivares, pancreáticas e hepáticas",
+                "Sudoríparas, lacrimais e nasais",
+                "Cerebrais, óseas e nerviosas",
+                "Respiratorias e circulatorias"
+            ],
+            correct: 0,
+            explanation: "✅ As principais glándulas dixestivas son as salivares, pancreáticas e hepáticas."
+        },
+        {
+            question: "Cal é o último tramo do tubo dixestivo?",
+            answers: [
+                "O estómago",
+                "O intestino groso",
+                "O ano",
+                "O esófago"
+            ],
+            correct: 2,
+            explanation: "✅ O último tramo do tubo dixestivo é o ano, por onde se expulsan os restos dos alimentos."
+        },
+        {
+            question: "Que fai a saliva cos alimentos na boca?",
+            answers: [
+                "Endurece os alimentos",
+                "Abrandos e comeza a dixerir os hidratos de carbono",
+                "Cambia a cor dos alimentos",
+                "Descompón as graxas"
+            ],
+            correct: 1,
+            explanation: "✅ A saliva ablanda os alimentos e comeza a dixerir os hidratos de carbono."
+        },
+        {
+            question: "Que parte une a boca co estómago?",
+            answers: [
+                "O esófago",
+                "O intestino delgado",
+                "O fígado",
+                "O páncreas"
+            ],
+            correct: 0,
+            explanation: "✅ O esófago é o tubo que leva os alimentos desde a boca ata o estómago."
+        },
+        {
+            question: "En que parte do corpo se almacenan os alimentos para continuar a dixestión?",
+            answers: [
+                "Na farinxe",
+                "No estómago",
+                "No intestino groso",
+                "Na boca"
+            ],
+            correct: 1,
+            explanation: "✅ No estómago os alimentos mestúranse cos zumes gástricos e continúan a dixestión."
+        },
+        {
+            question: "Que función ten o esófago?",
+            answers: [
+                "Mesturar os alimentos cos zumes gástricos",
+                "Transportar o bolo alimenticio ata o estómago",
+                "Absorber os nutrientes",
+                "Producir saliva"
+            ],
+            correct: 1,
+            explanation: "✅ O esófago transporta o bolo alimenticio desde a farinxe ata o estómago."
+        },
+        {
+            question: "Que ocorre no estómago durante a dixestión?",
+            answers: [
+                "O aire pasa aos pulmóns",
+                "O bolo alimenticio mestúrase cos zumes gástricos e fórmase o quimo",
+                "Absórbense os nutrientes",
+                "Os alimentos convértense en feces"
+            ],
+            correct: 1,
+            explanation: "✅ No estómago o bolo alimenticio mestúrase cos zumes gástricos e fórmase o quimo."
+        },
+        {
+            question: "Como se chama a mestura semilíquida que se forma no estómago?",
+            answers: [
+                "Bolo alimenticio",
+                "Quimo",
+                "Bile",
+                "Zume pancreático"
+            ],
+            correct: 1,
+            explanation: "✅ O bolo alimenticio transfórmase en quimo cando se mestura cos zumes gástricos no estómago."
+        },
+        {
+            question: "Canto tempo permanece o alimento no estómago aproximadamente?",
+            answers: [
+                "30 minutos",
+                "2 horas",
+                "6 horas",
+                "1 día"
+            ],
+            correct: 1,
+            explanation: "✅ O quimo permanece arredor de 2 horas no estómago antes de pasar ao intestino delgado."
+        },
+        {
+            question: "En que parte do aparello dixestivo ocorre a maior parte da dixestión?",
+            answers: [
+                "Na boca",
+                "No intestino delgado",
+                "No esófago",
+                "No intestino groso"
+            ],
+            correct: 1,
+            explanation: "✅ A maior parte da dixestión ocorre no intestino delgado, onde se descompón o quimo en nutrientes."
+        },
+        {
+            question: "Que substancias axudan á dixestión no intestino delgado?",
+            answers: [
+                "A bile, o zume pancreático e o zume intestinal",
+                "O sangue e o aire",
+                "A saliva e o suor",
+                "O zume gástrico e a bilis negra"
+            ],
+            correct: 0,
+            explanation: "✅ A bile, o zume pancreático e o zume intestinal axudan a descompoñer o quimo en nutrientes."
+        },
+        {
+            question: "Como se chaman as substancias que pasan ao sangue dende o intestino delgado?",
+            answers: [
+                "Refugallos",
+                "Nutrientes",
+                "Feces",
+                "Zumos"
+            ],
+            correct: 1,
+            explanation: "✅ Os nutrientes resultantes da dixestión pasan ao sangue no intestino delgado mediante a absorción."
+        },
+        {
+            question: "Que ocorre no intestino groso?",
+            answers: [
+                "Absórbense os nutrientes",
+                "Absórbese a auga e fórmanse as feces",
+                "Prodúcese o quimo",
+                "Mastíganse os alimentos"
+            ],
+            correct: 1,
+            explanation: "✅ No intestino groso absórbese a auga e fórmanse as feces a partir dos restos non aproveitados."
+        },
+        {
+            question: "Que forma ten o intestino groso?",
+            answers: [
+                "De círculo",
+                "De espiral",
+                "De U invertida",
+                "De liña recta"
+            ],
+            correct: 2,
+            explanation: "✅ O intestino groso ten forma de U invertida e é máis ancho e curto que o intestino delgado."
+        },
+        {
+            question: "Que seres viven no interior do intestino groso?",
+            answers: [
+                "Vermes",
+                "Bacterias beneficiosas",
+                "Fungos",
+                "Virus"
+            ],
+            correct: 1,
+            explanation: "✅ No intestino groso viven numerosas bacterias que axudan ao proceso dixestivo."
+        },
+        {
+            question: "Cal é a función do ano?",
+            answers: [
+                "Absorber os nutrientes",
+                "Producir bilis",
+                "Expulsar os restos non aproveitados",
+                "Mesturar os alimentos coa saliva"
+            ],
+            correct: 2,
+            explanation: "✅ O ano é o último tramo do tubo dixestivo e serve para expulsar os restos non aproveitados."
+        },
+        {
+            question: "Que parte do aparello dixestivo transforma o bolo alimenticio en quimo?",
+            answers: [
+                "O esófago",
+                "O estómago",
+                "O intestino groso",
+                "A boca"
+            ],
+            correct: 1,
+            explanation: "✅ No estómago, o bolo alimenticio mestúrase cos zumes gástricos e convértese en quimo."
+        },
+        {
+            question: "Cal é a función das glándulas dixestivas?",
+            answers: [
+                "Producir zumes dixestivos para axudar a descompoñer os alimentos",
+                "Transportar o sangue polo corpo",
+                "Respirar o osíxeno do aire",
+                "Absorber os nutrientes no intestino groso"
+            ],
+            correct: 0,
+            explanation: "✅ As glándulas dixestivas producen os zumes dixestivos que axudan a descompoñer os alimentos no tubo dixestivo."
+        },
+        {
+            question: "Onde se atopan as glándulas microscópicas?",
+            answers: [
+                "No corazón e nos pulmóns",
+                "Na parede do estómago e do intestino delgado",
+                "Na boca e no nariz",
+                "No fígado e no páncreas"
+            ],
+            correct: 1,
+            explanation: "✅ As glándulas microscópicas están na parede do estómago e do intestino delgado."
+        },
+        {
+            question: "Cales son as glándulas anexas do aparello dixestivo?",
+            answers: [
+                "Glándulas sudoríparas, cerebrais e nasais",
+                "Glándulas salivares, fígado e páncreas",
+                "Glándulas lacrimais e respiratorias",
+                "Glándulas do corazón e dos riles"
+            ],
+            correct: 1,
+            explanation: "✅ As glándulas anexas son as salivares, o fígado e o páncreas."
+        },
+        {
+            question: "Que produce o fígado para axudar na dixestión?",
+            answers: [
+                "Zume gástrico",
+                "Bile",
+                "Saliva",
+                "Zume intestinal"
+            ],
+            correct: 1,
+            explanation: "✅ O fígado produce a bile, que axuda a descompoñer as graxas durante a dixestión."
+        },
+        {
+            question: "Que produce o páncreas?",
+            answers: [
+                "Zume pancreático",
+                "Bile",
+                "Saliva",
+                "Zume gástrico"
+            ],
+            correct: 0,
+            explanation: "✅ O páncreas produce o zume pancreático, que axuda a descompoñer os alimentos no intestino delgado."
+        },
+        {
+            question: "Cal é a función principal do aparello circulatorio?",
+            answers: [
+                "Producir saliva",
+                "Transportar osíxeno, nutrientes e outras substancias por todo o corpo",
+                "Dixerir os alimentos",
+                "Eliminar refugallos polo ano"
+            ],
+            correct: 1,
+            explanation: "✅ O aparello circulatorio transporta osíxeno, nutrientes e outras substancias por todo o corpo."
+        },
+        {
+            question: "De que partes está formado o aparello circulatorio?",
+            answers: [
+                "Do corazón, dos vasos sanguíneos e do sangue",
+                "Dos pulmóns e do fígado",
+                "Do esqueleto e dos músculos",
+                "Do intestino e do estómago"
+            ],
+            correct: 0,
+            explanation: "✅ O aparello circulatorio está formado polo corazón, os vasos sanguíneos e o sangue."
+        },
+        {
+            question: "Que tamaño ten aproximadamente o corazón?",
+            answers: [
+                "Como unha cabeza",
+                "Como un puño",
+                "Como unha man aberta",
+                "Como un dedo"
+            ],
+            correct: 1,
+            explanation: "✅ O corazón é un órgano muscular aproximadamente do tamaño dun puño."
+        },
+        {
+            question: "Cantas cavidades ten o corazón?",
+            answers: [
+                "Dúas",
+                "Catro: dúas aurículas e dous ventrículos",
+                "Tres",
+                "Cinco"
+            ],
+            correct: 1,
+            explanation: "✅ O corazón ten catro cavidades: dúas aurículas (superiores) e dous ventrículos (inferiores)."
+        },
+        {
+            question: "Que separa o sangue con moito osíxeno do que ten pouco?",
+            answers: [
+                "Un tabique que divide o corazón en dúas partes",
+                "As arterias",
+                "As válvulas",
+                "Os capilares"
+            ],
+            correct: 0,
+            explanation: "✅ O corazón está dividido en dúas partes por un tabique que separa o sangue rico en osíxeno do pobre en osíxeno."
+        },
+        {
+            question: "Por onde entra o sangue ao corazón?",
+            answers: [
+                "Polo ano",
+                "Polas arterias",
+                "Polas veas e as aurículas",
+                "Polo esófago"
+            ],
+            correct: 2,
+            explanation: "✅ O sangue entra nas aurículas do corazón a través das veas."
+        },
+        {
+            question: "Que función teñen as válvulas do corazón?",
+            answers: [
+                "Impiden que o sangue retroceda",
+                "Permiten que entre aire nos pulmóns",
+                "Axudan a dixerir os alimentos",
+                "Fabrican os glóbulos vermellos"
+            ],
+            correct: 0,
+            explanation: "✅ As válvulas do corazón impiden que o sangue retroceda, asegurando que circule nunha soa dirección."
+        },
+        {
+            question: "Que función teñen as arterias?",
+            answers: [
+                "Levan o sangue desde o corazón aos órganos",
+                "Traen o sangue dos órganos ao corazón",
+                "Conectan arterias e veas",
+                "Filtran o sangue nos riles"
+            ],
+            correct: 0,
+            explanation: "✅ As arterias levan o sangue desde o corazón ata os distintos órganos do corpo."
+        },
+        {
+            question: "Cal é a función das veas?",
+            answers: [
+                "Levar o sangue con osíxeno aos pulmóns",
+                "Traer o sangue dos órganos de volta ao corazón",
+                "Conectar o corazón co estómago",
+                "Levar o sangue só ás pernas"
+            ],
+            correct: 1,
+            explanation: "✅ As veas traen o sangue dos órganos de volta ao corazón."
+        },
+        {
+            question: "Para que serven os capilares?",
+            answers: [
+                "Producen sangue novo",
+                "Conectan arterias e veas, permitindo o intercambio de gases e nutrientes",
+                "Levan o sangue directamente ao cerebro",
+                "Separan o sangue limpo do sucio"
+            ],
+            correct: 1,
+            explanation: "✅ Os capilares conectan as arterias e as veas e permiten o intercambio de gases e nutrientes coas células."
+        },
+        {
+            question: "Como son as paredes das arterias?",
+            answers: [
+                "Finas e con válvulas internas",
+                "Grosas e elásticas",
+                "Moi fráxiles",
+                "Totalmente ríxidas"
+            ],
+            correct: 1,
+            explanation: "✅ As arterias teñen paredes grosas e elásticas para resistir a presión do sangue que sae do corazón."
+        },
+        {
+            question: "Que característica teñen as veas?",
+            answers: [
+                "Teñen paredes moi grosas",
+                "Teñen paredes finas e válvulas internas",
+                "Levan sangue con moito osíxeno sempre",
+                "Producen glóbulos vermellos"
+            ],
+            correct: 1,
+            explanation: "✅ As veas teñen paredes finas e válvulas internas que impiden que o sangue retroceda."
+        },
+        {
+            question: "Que transportan os eritrocitos ou glóbulos vermellos?",
+            answers: [
+                "Osíxeno desde os pulmóns ao corpo",
+                "Auga e sales minerais",
+                "Defensas contra virus",
+                "Hormonas"
+            ],
+            correct: 0,
+            explanation: "✅ Os eritrocitos transportan o osíxeno desde os pulmóns ao resto do corpo."
+        },
+        {
+            question: "Que substancia dá a cor vermella ao sangue?",
+            answers: [
+                "A bilis",
+                "A hemoglobina",
+                "O plasma",
+                "As plaquetas"
+            ],
+            correct: 1,
+            explanation: "✅ A hemoglobina, presente nos glóbulos vermellos, é a que lles dá a cor vermella ao sangue."
+        },
+        {
+            question: "Cal é a función dos leucocitos ou glóbulos brancos?",
+            answers: [
+                "Transportar osíxeno",
+                "Defender o organismo contra infeccións",
+                "Axudar na dixestión",
+                "Dar cor ao sangue"
+            ],
+            correct: 1,
+            explanation: "✅ Os leucocitos son parte do sistema inmunitario e defenden o corpo contra infeccións."
+        },
+        {
+            question: "Para que serven as plaquetas?",
+            answers: [
+                "Transportan nutrientes",
+                "Axudan na coagulación do sangue cando hai unha ferida",
+                "Dan cor ao sangue",
+                "Eliminan toxinas"
+            ],
+            correct: 1,
+            explanation: "✅ As plaquetas forman un tapón nas feridas para evitar a hemorraxia, participando na coagulación."
+        },
+        {
+            question: "De que está formado o plasma sanguíneo?",
+            answers: [
+                "Principalmente de auga, nutrientes, sales minerais e produtos de desfeito",
+                "De glóbulos vermellos e brancos",
+                "De aire e azucre",
+                "De graxa e proteínas sólidas"
+            ],
+            correct: 0,
+            explanation: "✅ O plasma sanguíneo é un líquido amarelo formado sobre todo por auga, nutrientes e sales minerais."
+        },
+        {
+            question: "Que tipo de sistema é o circulatorio humano?",
+            answers: [
+                "Aberto e simple",
+                "Pechado e dobre",
+                "Aberto e triple",
+                "Pechado e único"
+            ],
+            correct: 1,
+            explanation: "✅ O sistema circulatorio é pechado, porque o sangue circula sempre polos vasos, e é dobre, porque pasa dúas veces polo corazón."
+        },
+        {
+            question: "Que ocorre na circulación pulmonar?",
+            answers: [
+                "O sangue con pouco osíxeno vai aos pulmóns para oxixenarse",
+                "O sangue xa oxixenado vai ao corpo",
+                "O sangue se mistura co aire",
+                "O sangue se transforma en plasma"
+            ],
+            correct: 0,
+            explanation: "✅ Na circulación pulmonar, o sangue con pouco osíxeno vai aos pulmóns para recoller osíxeno."
+        },
+        {
+            question: "E na circulación xeral, que ocorre?",
+            answers: [
+                "O sangue con moito osíxeno vai ao resto do corpo",
+                "O sangue volve aos pulmóns",
+                "O sangue se transforma en quimo",
+                "O sangue perde todos os nutrientes"
+            ],
+            correct: 0,
+            explanation: "✅ Na circulación xeral, o sangue xa oxixenado distribúese por todo o corpo para levar osíxeno e nutrientes ás células."
+        },
+        {
+            question: "Por onde sae do corazón o sangue con pouco osíxeno cara aos pulmóns?",
+            answers: [
+                "Pola arteria pulmonar",
+                "Pola arteria aorta",
+                "Pola vea cava",
+                "Pola vea pulmonar"
+            ],
+            correct: 0,
+            explanation: "✅ O sangue con pouco osíxeno sae do corazón cara aos pulmóns pola arteria pulmonar."
+        },
+        {
+            question: "Que ocorre cos pulmóns na circulación do sangue?",
+            answers: [
+                "O sangue perde osíxeno e recolle dióxido de carbono",
+                "O sangue recolle osíxeno e volve ao corazón polas veas pulmonares",
+                "O sangue se mestura co aire",
+                "O sangue se transforma en plasma"
+            ],
+            correct: 1,
+            explanation: "✅ Nos pulmóns, o sangue recolle osíxeno e volve ao corazón polas veas pulmonares."
+        },
+        {
+            question: "Como se chama a arteria máis grande do corpo humano?",
+            answers: [
+                "Arteria pulmonar",
+                "Arteria aorta",
+                "Vea cava",
+                "Capilar principal"
+            ],
+            correct: 1,
+            explanation: "✅ A arteria aorta é a máis grande do corpo e leva o sangue osixenado desde o corazón ao resto do corpo."
+        },
+        {
+            question: "Que ocorre co sangue cando circula polo corpo?",
+            answers: [
+                "Perde osíxeno e recolle dióxido de carbono",
+                "Gaña máis osíxeno",
+                "Se convirte en plaquetas",
+                "Deixa de circular"
+            ],
+            correct: 0,
+            explanation: "✅ Ao circular polo corpo, o sangue perde osíxeno e recolle dióxido de carbono."
+        },
+        {
+            question: "Por onde volve ao corazón o sangue con pouco osíxeno?",
+            answers: [
+                "Pola arteria aorta",
+                "Polas veas cavas",
+                "Pola arteria pulmonar",
+                "Polos capilares"
+            ],
+            correct: 1,
+            explanation: "✅ O sangue con pouco osíxeno volve ao corazón a través das veas cavas."
+        },
+        {
+            question: "Que son as vías respiratorias?",
+            answers: [
+                "Uns condutos que comunican nariz, boca e pulmóns",
+                "Un sistema de vasos sanguíneos",
+                "Uns músculos do abdome",
+                "As paredes do corazón"
+            ],
+            correct: 0,
+            explanation: "✅ As vías respiratorias son condutos que comunican o nariz, a boca e os pulmóns."
+        },
+        {
+            question: "Cal das seguintes opcións forma parte das vías respiratorias?",
+            answers: [
+                "Fosas nasais, farinxe, larinxe, tráquea e bronquios",
+                "Intestino delgado e groso",
+                "Aurículas e ventrículos",
+                "Riles e vexiga"
+            ],
+            correct: 0,
+            explanation: "✅ As vías respiratorias están formadas polas fosas nasais, farinxe, larinxe, tráquea e bronquios."
+        },
+        {
+            question: "Que son os pulmóns?",
+            answers: [
+                "Dous sacos esponxosos situados na caixa torácica",
+                "Músculos que fan bater o corazón",
+                "Un órgano que produce bilis",
+                "Uns ósos do peito"
+            ],
+            correct: 0,
+            explanation: "✅ Os pulmóns son dous sacos esponxosos situados na caixa torácica que permiten respirar."
+        },
+        {
+            question: "Que son os alvéolos pulmonares?",
+            answers: [
+                "Ramificacións dos bronquios onde ocorre o intercambio de gases",
+                "As arterias principais dos pulmóns",
+                "Uns músculos que fan subir o tórax",
+                "Pequenos ósos da caixa torácica"
+            ],
+            correct: 0,
+            explanation: "✅ Os alvéolos pulmonares son pequenas bolsas onde se produce o intercambio de gases entre o aire e o sangue."
+        },
+        {
+            question: "Como se renova o aire nos alvéolos pulmonares?",
+            answers: [
+                "Grazas aos movementos de inspiración e expiración",
+                "Cando o corazón latexa",
+                "Por medio do fígado e do páncreas",
+                "Cando se mestura coa saliva"
+            ],
+            correct: 0,
+            explanation: "✅ O aire nos alvéolos renóvase grazas aos movementos de inspiración e expiración, que o corpo realiza automaticamente."
+        },
+        {
+            question: "Que órgano se encarga do intercambio de gases?",
+            answers: [
+                "O corazón",
+                "Os pulmóns",
+                "O fígado",
+                "O estómago"
+            ],
+            correct: 1,
+            explanation: "✅ Os pulmóns son os órganos encargados do intercambio de gases: toman osíxeno e expulsan dióxido de carbono."
+        },
+        {
+            question: "Que función ten o diafragma?",
+            answers: [
+                "Separar o tórax do abdome e axudar aos pulmóns a moverse",
+                "Bombear o sangue",
+                "Dixerir os alimentos",
+                "Filtrar o sangue"
+            ],
+            correct: 0,
+            explanation: "✅ O diafragma é un músculo grande que separa o tórax do abdome e axuda aos pulmóns nos movementos respiratorios."
+        },
+        {
+            question: "Onde están situados os músculos intercostais?",
+            answers: [
+                "Entre as costelas",
+                "No abdome",
+                "No pescozo",
+                "No fígado"
+            ],
+            correct: 0,
+            explanation: "✅ Os músculos intercostais están entre as costelas e colaboran no movemento respiratorio."
+        },
+        {
+            question: "Que ocorre co diafragma durante a inspiración?",
+            answers: [
+                "Sobe e os pulmóns contráense",
+                "Baixa e os pulmóns dilátanse",
+                "Reláxase e o aire sae",
+                "Non se move"
+            ],
+            correct: 1,
+            explanation: "✅ Durante a inspiración, o diafragma baixa e os pulmóns dilátanse para que entre o aire."
+        },
+        {
+            question: "Que fan os músculos intercostais na inspiración?",
+            answers: [
+                "Reláxanse e reducen o tórax",
+                "Contráense e expanden a caixa torácica",
+                "Baixan o diafragma",
+                "Empurran o aire cara fóra"
+            ],
+            correct: 1,
+            explanation: "✅ Na inspiración, os músculos intercostais contráense e a caixa torácica expándese."
+        },
+        {
+            question: "Que ocorre coa caixa torácica durante a expiración?",
+            answers: [
+                "Expándese e entra o aire",
+                "Redúcese e sae o aire",
+                "Mantense igual",
+                "Xira cara un lado"
+            ],
+            correct: 1,
+            explanation: "✅ Na expiración, a caixa torácica redúcese e o aire sae dos pulmóns."
+        },
+        {
+            question: "Que movementos fan os pulmóns na inspiración e expiración?",
+            answers: [
+                "Dilátanse cando entra o aire e contráense cando sae",
+                "Contráense cando entra o aire e dilátanse cando sae",
+                "Non cambian de tamaño",
+                "Xeran sangue novo"
+            ],
+            correct: 0,
+            explanation: "✅ Os pulmóns dilátanse durante a inspiración e contráense durante a expiración."
+        },
+        {
+            question: "Por onde entra o aire ao corpo?",
+            answers: [
+                "Polo nariz ou pola boca",
+                "Pola pel",
+                "Polo fígado",
+                "Polo corazón"
+            ],
+            correct: 0,
+            explanation: "✅ O aire entra polo nariz ou pola boca e chega aos pulmóns a través da tráquea e dos bronquios."
+        },
+        {
+            question: "Que ocorre nos alvéolos pulmonares?",
+            answers: [
+                "Prodúcese o intercambio de gases entre o aire e o sangue",
+                "O sangue se transforma en osíxeno",
+                "Se mestura o aire co plasma",
+                "Se xeran glóbulos vermellos"
+            ],
+            correct: 0,
+            explanation: "✅ Nos alvéolos pulmonares prodúcese o intercambio de gases: o osíxeno pasa ao sangue e o dióxido de carbono sae del."
+        },
+        {
+            question: "Que gas entra no sangue nos alvéolos?",
+            answers: [
+                "O dióxido de carbono",
+                "O osíxeno",
+                "O nitróxeno",
+                "O vapor de auga"
+            ],
+            correct: 1,
+            explanation: "✅ O osíxeno do aire pasa aos capilares sanguíneos e entra nos glóbulos vermellos."
+        },
+        {
+            question: "Que gas sae do sangue cara aos alvéolos para ser expulsado?",
+            answers: [
+                "O osíxeno",
+                "O dióxido de carbono",
+                "O hidróxeno",
+                "O nitróxeno"
+            ],
+            correct: 1,
+            explanation: "✅ O dióxido de carbono pasa dos capilares aos alvéolos para ser expulsado durante a expiración."
+        },
+        {
+            question: "Que é a respiración celular?",
+            answers: [
+                "O movemento do aire nos pulmóns",
+                "O proceso polo cal as células usan osíxeno e nutrientes para obter enerxía",
+                "A entrada de aire polo nariz",
+                "A eliminación do dióxido de carbono polos pulmóns"
+            ],
+            correct: 1,
+            explanation: "✅ A respiración celular é o proceso polo que as células usan osíxeno e nutrientes para producir enerxía."
+        },
+        {
+            question: "Que se produce como resultado da respiración celular?",
+            answers: [
+                "Dióxido de carbono e enerxía",
+                "Bile e saliva",
+                "Ácido láctico e auga",
+                "Osíxeno e sangue"
+            ],
+            correct: 0,
+            explanation: "✅ Na respiración celular fórmase dióxido de carbono e enerxía que o corpo utiliza para vivir."
+        },
+        {
+            question: "Como é o aire que sae dos pulmóns respecto ao que entra?",
+            answers: [
+                "Máis frío e seco",
+                "Máis húmido e quente",
+                "Igual",
+                "Con máis osíxeno"
+            ],
+            correct: 1,
+            explanation: "✅ O aire que sae dos pulmóns é máis húmido e quente ca o que entra."
+        },
+        {
+            question: "Que é a excreción?",
+            answers: [
+                "O proceso polo cal o corpo elimina produtos de refugallo",
+                "O proceso de dixestión dos alimentos",
+                "A produción de enerxía celular",
+                "O transporte de osíxeno"
+            ],
+            correct: 0,
+            explanation: "✅ A excreción é o proceso mediante o cal o corpo elimina os produtos de refugallo xerados polas células."
+        },
+        {
+            question: "Cales son os principais órganos excretores do corpo?",
+            answers: [
+                "O corazón e o fígado",
+                "Os riles e as glándulas do suor",
+                "Os pulmóns e o estómago",
+                "O páncreas e o intestino"
+            ],
+            correct: 1,
+            explanation: "✅ Os riles e as glándulas do suor son os principais órganos que eliminan os refugallos do corpo."
+        }
+    ]
 }
 
 
@@ -4021,6 +4848,7 @@ const quizTitles = {
   ccss_sexto: "CCSS-6",
   ccnn_6_tema1: "AS CÉLULAS E O SISTEMA NERVIOSO",
   ccss_6_tema1: "UNIDADE 1: O CLIMA E A PAISAXE",
+  ccnn_6_tema2: "UNIDADE 2: A NUTRICION NO SER HUMANO",
 };
 
   
@@ -4035,6 +4863,7 @@ const categoryMap = {
   gallego_gramatica: "gallego_gramatica",
   ccnn_6_tema1: "ccnn_6_tema1",
   ccss_6_tema1: "ccss_6_tema1",
+  ccnn_6_tema2: "ccnn_6_tema2",
 };
 
 function selectCategory(category) {

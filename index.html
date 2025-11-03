@@ -15,10 +15,11 @@
   <div class="slide active" id="intro-screen">
     <h1>Benvido/a aos Cuestionarios Interactivos</h1>
     <p>Benvida ao espazo educativo de apoio!</p>  
-    <p>Esta páxina web nace co obxectivo de ser unha ferramenta complementaria para o reforzo educativo do alumnado de Educación Primaria. Actualmente, inclúe contidos específicos para os niveis de 5º e 6º curso, e está deseñada para facilitar a consolidación dos coñecementos teóricos mediante actividades interactivas e accesibles.</p>
+    <p>Esta páxina web nace co obxectivo de ser unha ferramenta complementaria para o reforzo educativo do alumnado de Educación Primaria.</p>
+    <p>Actualmente, inclúe contidos específicos para os niveis de 5º e 6º curso, e está deseñada para facilitar a consolidación dos coñecementos teóricos mediante actividades interactivas e accesibles.</p>
     <p>Trátase dun recurso de apoio, polo que non substitúe o estudo previo da teoría. É fundamental que os nenos e nenas comprendan os contidos antes de realizar as actividades propostas. A eficacia desta ferramenta tamén depende da atención e constancia durante o seu uso.</p>
-    <p>Dirixímonos especialmente ás familias, ofrecendo un soporte adicional que facilite o seguimento das tarefas escolares no fogar. Esta plataforma pretende ser un aliado no acompañamento educativo dos seus fillos e fillas, proporcionando un entorno seguro, organizado e pedagoxicamente eficaz.</p>
-    <p>A nosa intención é ampliar progresivamente os contidos ata cubrir todos os niveis de Educación Primaria. Se considera oportuno incorporar materiais doutras materias ou cursos, ou desexa facer achegas para mellorar o proxecto, pode poñerse en contacto connosco. Así mesmo, se o desexa, pode colaborar mediante unha doazón por Bizum, o que contribuirá ao mantemento e desenvolvemento da plataforma.</p>
+    <p>O cuestionario funciona de maneira sinxela e dinámica. Cada vez que acceda, amósanse 12 preguntas diferentes de cada materia, seleccionadas aleatoriamente para ofrecer unha experiencia variada e divertida.</p>
+    <p>Unha vez completadas, pode volver xerar un novo conxunto de preguntas simplemente actualizando a páxina ou comezando de novo desde o inicio. Deste xeito, poderá practicar tantas veces como queira, reforzando o aprendizaxe de forma continua.</p>
     <p><em>“Aprender é a chave para abrir portas no futuro. Nunca deixemos de querer saber máis.”</em></p>
     <button onclick="goToStart()">Comezar</button>
 </div>
@@ -75,6 +76,17 @@
     <button onclick="selectCategory('ccnnFive')">Máquinas Simples y Compuestas</button>     
   </div>
 
+
+
+   <!-- Slide de selección de cuestionarios de CCNN-6 -->
+<div class="slide" id="ccnn_sexto-slide">
+    <h1>Cuestionarios Interactivos de CCSS</h1>
+    <p>🔁 As preguntas aparecen en orde diferente cada vez que xogas.</p>
+    <p>Isto fai que o xogo sexa máis divertido e que poidas practicar mellor. ¡Cada partida é única!</p>    
+    <button onclick="selectCategory('ccnn_6_tema1')">AS CÉLULAS E O SISTEMA NERVIOSO</button> 
+    <button onclick="selectCategory('ccnn_6_tema2')">UNIDADE 2: A NUTRICION NO SER HUMANO</button>  
+  </div>
+
   <!-- Pantalla de introducción al cuestionario -->
 <div class="slide" id="intro-slide">
   <h2 id="quiz-title"></h2>
@@ -83,8 +95,7 @@
   <button onclick="restartQuiz()">Volver atrás</button>
 </div>
 
-  <!-- Slide de preguntas CCSS Idade Media:  -->
- 
+  <!-- Slide de preguntas CCSS Idade Media:  --> 
  <div class="slide" id="ccsstres-slide">  
     <div class="timer" id="timer-ccsstres">Tempo restante: 25s</div>
     <div id="question-counter-ccsstres"></div>
@@ -259,6 +270,27 @@
       <button onclick="restartQuiz()">Inicio</button>
     </div>
   </div>
+  <!-- Slide de selección de cuestionarios de CCNN UD2 6to -->
+<div class="slide" id="ccnn_sexto-slide">
+    <h1>Cuestionarios Interactivos de CCNN</h1>
+    <p>🔁 As preguntas aparecen en orde diferente cada vez que xogas.</p>
+    <p>¡Cada partida é única!</p>    
+    <button onclick="selectCategory('ccnn_6_tema2')">UNIDADE 2: A NUTRICION NO SER HUMANO</button> 
+  </div>
+
+  <!-- Slide de preguntas CCNN Unidad 2 Nivel 6to -->
+<div class="slide" id="ccnn_6_tema2-slide">  
+    <div class="timer" id="timer-ccnn_6_tema2">Tempo restante: 25s</div>
+    <div id="question-counter-ccnn_6_tema2"></div>
+    <div class="question" id="question-text-ccnn_6_tema2"></div>
+    <div class="answers" id="answers-container-ccnn_6_tema2"></div>
+    <div class="feedback" id="feedback-ccnn_6_tema2"></div>
+    <div class="nav-buttons">
+      <button onclick="prevQuestion('ccnn_6_tema2')">Anterior</button>
+      <button onclick="nextQuestion('ccnn_6_tema2')">Seguinte</button>
+      <button onclick="restartQuiz()">Inicio</button>
+    </div>
+  </div>
 
   <!-- Slide de selección de cuestionarios de CCSS UD1 6to -->
 <div class="slide" id="ccss_sexto-slide">
@@ -281,6 +313,8 @@
       <button onclick="restartQuiz()">Inicio</button>
     </div>
   </div>
+
+   
   <!-- Slide final -->
   <div class="slide" id="end-slide">
     <h2>Remataste o cuestionario!</h2>

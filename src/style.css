@@ -1,0 +1,77 @@
+/* src/style.css - global styles + variables */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+:root{
+  --bg: #F0F9FF;
+  --card: #ffffff;
+  --muted: #94A3B8;
+  --accent:#f97316; /* azul */
+  --accent-2: #10B981; /* verde */
+  --accent-3: #F59E0B; /* amarillo */
+  --text: #0F172A;
+  --radius: 14px;
+  --shadow-soft: 0 6px 24px rgba(15,23,42,0.06);
+}
+
+html,body,#app{
+  height:100%;
+  background: linear-gradient(180deg,var(--bg), #fff);
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto;
+  color: var(--text);
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+/* Buttons */
+.btn-primary{
+  background: linear-gradient(90deg,var(--accent), #2563EB);
+  color: white;
+  padding: .6rem 1rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(59,130,246,0.12);
+  font-weight: 600;
+}
+.btn-soft{
+  background: #fff;
+  border-radius: 12px;
+  padding: .5rem .9rem;
+  border: 1px solid #E6EEF8;
+}
+
+/* Card */
+.card{
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-soft);
+  padding: 1rem;
+}
+
+/* Small helpers */
+.kid-badge{
+  display:inline-flex;
+  align-items:center;
+  gap:.5rem;
+  padding:.35rem .6rem;
+  border-radius:999px;
+  background: linear-gradient(90deg,#E0F2FE,#ECFDF5);
+  font-weight:600;
+}
+.progress {
+  height: 10px;
+  background: #E6EEF8;
+  border-radius: 999px;
+  overflow: hidden;
+}
+.progress > span {
+  display:block;
+  height:100%;
+  background: linear-gradient(90deg,var(--accent-2), #34D399);
+  width:0%;
+  transition: width .5s ease;
+}
+
+/* Small responsive tweaks */
+@media (min-width: 768px){
+  main { padding:2rem; }
+}

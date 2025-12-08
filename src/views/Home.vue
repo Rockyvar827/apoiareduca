@@ -205,7 +205,7 @@
 </template>
 
 <script setup>
-
+import { useHead } from '@vueuse/head'
 useHead({
   title: 'App educativa de niveles y preguntas',
   meta: [

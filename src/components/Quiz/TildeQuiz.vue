@@ -50,18 +50,27 @@
           {{ opt }}
         </button>
       </div>
+        <!-- Feedback / explicación -->
+        <div v-if="respuestas[index] !== null" class="mt-3">
+          <div
+            class="inline-flex items-start gap-3 text-sm sm:text-base px-4 py-3 rounded-xl border shadow-sm"
+            :class="respuestas[index] === q.correctIndex
+              ? 'bg-emerald-50 text-emerald-800 border-emerald-200'
+              : 'bg-rose-50 text-rose-800 border-rose-200'"
+          >
+            <span class="text-xl">
+              {{ respuestas[index] === q.correctIndex ? '✅' : '❌' }}
+            </span>
 
-      <!-- Feedback / explicación -->
-      <div v-if="respuestas[index] !== null" class="mt-3">
-        <p
-          class="inline-flex items-start gap-2 text-sm sm:text-base px-3 py-2 rounded-xl bg-sky-50 text-sky-900 border border-sky-100"
-        >
-          <span class="text-lg">
-            {{ respuestas[index] === q.correctIndex ? '✅' : '💡' }}
-          </span>
-          <span>{{ q.explanation }}</span>
-        </p>
-      </div>
+            <div class="flex flex-col">
+              <strong class="font-bold mb-1">
+                {{ respuestas[index] === q.correctIndex ? '¡Correcto!' : 'Respuesta incorrecta' }}
+              </strong>
+
+              <span>{{ q.explanation }}</span>
+            </div>
+          </div>
+        </div>
     </div>
 
     <!-- Mensaje final opcional -->

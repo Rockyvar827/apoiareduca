@@ -19,15 +19,46 @@
         </div>
 
         <div class="mt-4 grid grid-cols-1 gap-2">
-          <router-link
+          <!--
+            Soporte categorías por unidad SIN cambiar nombres:
+            - Si u.categories existe y tiene elementos -> varios links (una categoría por link).
+            - Si no existe u.categories -> mismo comportamiento de antes (un único link).
+          -->
+          <div
             v-for="u in mat.units"
             :key="u.id"
-            :to="`/nivel/${nivel}/materia/${encodeURIComponent(key)}/unidad/${u.id}`"
-            class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md text-white text-sm"
-            :class="u.colorClass"
+            class="space-y-1"
           >
-            {{ u.label }}
-          </router-link>
+            <!-- Caso con categorías: misma unidad, varias categorías -->
+            <template v-if="u.categories && u.categories.length">
+              <!-- Título de la unidad -->
+              <div class="text-sm font-medium">
+                {{ u.label }}
+              </div>
+
+              <!-- Un enlace por categoría -->
+              <router-link
+                v-for="c in u.categories"
+                :key="c.id ?? c.label"
+                :to="`/nivel/${nivel}/materia/${encodeURIComponent(key)}/unidad/${u.id}?categoria=${encodeURIComponent(c.id ?? c.label)}`"
+                class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md text-white text-sm w-full"
+                :class="c.colorClass || u.colorClass"
+              >
+                {{ c.label }}
+              </router-link>
+            </template>
+
+            <!-- Caso sin categorías: comportamiento original -->
+            <template v-else>
+              <router-link
+                :to="`/nivel/${nivel}/materia/${encodeURIComponent(key)}/unidad/${u.id}`"
+                class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md text-white text-sm w-full"
+                :class="u.colorClass"
+              >
+                {{ u.label }}
+              </router-link>
+            </template>
+          </div>
         </div>
       </article>
     </div>
@@ -38,18 +69,26 @@
 import { ref, computed, onMounted, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import { useHead } from '@vueuse/head'
-// importa tus funciones reales
-// import { loadQuestionsOnce, parseQuestionsData } from '@/composables/useQuestionsCache'
 
 const route = useRoute()
 const nivel = computed(() => route.params.nivel || '5')
 
 const rawQuestions = ref(null)
 
+// meta dinámico
+useHead({
+  title: `Nivel ${nivel.value} - Cuestionario`,
+  meta: [
+    {
+      name: 'description',
+      content: `Cuestionario interactivo del nivel ${nivel.value} con preguntas educativas para practicar.`
+    }
+  ]
+})
+
 onMounted(async () => {
   try {
     rawQuestions.value = await loadQuestionsOnce()
-    // si parseQuestionsData necesita el nivel, pásaselo también
     parseQuestionsData(rawQuestions.value)
   } catch (e) {
     console.error('Error cargando preguntas:', e)
@@ -62,30 +101,12 @@ watch(nivel, () => {
   }
 })
 
-
-// meta dinámico
-
-useHead({
-  title: `Nivel ${nivel} - Cuestionario`,
-  meta: [
-    {
-      name: 'description',
-      content: `Cuestionario interactivo del nivel ${nivel} con preguntas educativas para practicar.`
-    }
-  ]
-})
 /**
  * Mapea manualmente materias y unidades por nivel.
- * - key: materia id (se usará en la URL)
- * - title: título para mostrar
- * - description: texto debajo del título
- * - units: array de { id, label, colorClass }
- *
- * Para añadir un nuevo nivel, copia la estructura y añade la clave '7' (por ejemplo).
+ * (SIN cambios sobre tu estructura original)
  */
 const levelsData = {
   '5': {
-    // clave usada en URL: "CCNN"
     CCNN: {
       title: 'Ciencias Naturales',
       description: 'Fauna, clima y ecosistemas con preguntas claras y visuales.',
@@ -115,7 +136,6 @@ const levelsData = {
     }
   },
 
-  // ejemplo de otro nivel (6), puedes editar o ampliar
   '6': {
     CCNN: {
       title: 'Ciencias Naturales (6.º)',
@@ -131,6 +151,21 @@ const levelsData = {
       units: [
         { id: 1, label: 'Unidad 1', colorClass: 'bg-red-500' }
       ]
+    },
+    'Lengua Castellana': {
+      title: 'Lengua Castellana',
+      description: 'Gramática y vocabulario en español para 6.º',
+      units: [
+        { id: 1, label: 'Unidad 1', 
+        colorClass: 'bg-yellow-600 text-gray-900',
+        categories: [
+          { id: 'determinantes', label: 'determinantes', colorClass: 'bg-red-600'  },
+          { id: 'formacion de palabras', label: 'formacion de palabras', colorClass: 'bg-blue-600'  },
+          { id: 'tilde diacrítica', label: 'tilde diacrítica', colorClass: 'bg-yellow-600'  },
+          { id: 'lexemas y morfemas', label: 'lexemas y morfemas', colorClass: 'bg-blue-200'  }
+        ]
+    }
+      ]
     }
   }
 }
@@ -139,23 +174,28 @@ const levelsData = {
 const materiasData = computed(() => {
   const key = String(nivel.value)
   if (levelsData[key]) return levelsData[key]
-  // fallback: devolver el nivel 5 por defecto si no existe el nivel
   return levelsData['5']
 })
 
-/** helper displayName opcional (no usado directamente, pero lo dejo por compatibilidad) */
 function displayName(m) {
   if (!m) return ''
   if (m === 'CCNN') return 'Ciencias Naturales'
   if (m === 'CCSS') return 'Ciencias Sociales'
   if (m.toLowerCase().includes('gallego')) return 'Gallego'
-  return String(m).replace(/_/g, ' ').replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())
+  return String(m)
+    .replace(/_/g, ' ')
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, l => l.toUpperCase())
 }
 </script>
 
 <style scoped>
-.card { border-radius: 14px; }
+.card {
+  border-radius: 14px;
+}
 
 /* seguridad: si un color incluye text-gray-900 como clase compuesta, asegurar contraste */
-.bg-yellow-400.text-gray-900 { color: #1f2937; }
+.bg-yellow-400.text-gray-900 {
+  color: #1f2937;
+}
 </style>

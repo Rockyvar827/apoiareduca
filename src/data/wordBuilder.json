@@ -1,0 +1,72 @@
+[
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "goal": "Formar una palabra que signifique 'volver a hacer algo'",
+    "pieces": {
+      "prefijos": ["re", "in", "des"],
+      "lexemas": ["hacer", "vivir", "romper"],
+      "sufijos": ["ar", "ción", "oso"]
+    },
+    "correctCombo": ["re", "hacer", "ar"],
+    "explanation": "✅ 'Rehacer' se forma con el prefijo 're-' + lexema 'hacer' + sufijo '-ar'."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "goal": "Formar una palabra que indique una persona que canta",
+    "pieces": {
+      "prefijos": ["pre", "re", "in"],
+      "lexemas": ["cant", "bail", "pint"],
+      "sufijos": ["ante", "ista", "ero"]
+    },
+    "correctCombo": ["", "cant", "ante"],
+    "explanation": "✅ 'Cantante' se forma con el lexema 'cant' + sufijo '-ante'."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "goal": "Formar una palabra que indique negación de algo completo",
+    "pieces": {
+      "prefijos": ["in", "re", "sub"],
+      "lexemas": ["complet", "feliz", "visible"],
+      "sufijos": ["o", "ar", "dad"]
+    },
+    "correctCombo": ["in", "complet", "o"],
+    "explanation": "✅ 'Incompleto' se forma con el prefijo 'in-' + lexema 'complet' + sufijo '-o'."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "goal": "Formar una palabra que indique lugar donde se guarda fruta",
+    "pieces": {
+      "prefijos": ["", "re", "sub"],
+      "lexemas": ["frut", "pan", "moned"],
+      "sufijos": ["ero", "al", "ista"]
+    },
+    "correctCombo": ["", "frut", "al"],
+    "explanation": "✅ 'Frutal' indica lugar o relación con fruta, usando el lexema 'frut' + sufijo '-al'."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "goal": "Formar una palabra que indique una acción de buscar con intensidad",
+    "pieces": {
+      "prefijos": ["re", "in", "des"],
+      "lexemas": ["busc", "mir", "salt"],
+      "sufijos": ["ar", "ón", "oso"]
+    },
+    "correctCombo": ["re", "busc", "ar"],
+    "explanation": "✅ 'Rebuscar' se forma con el prefijo 're-' + lexema 'busc' + sufijo '-ar'."
+  }
+]

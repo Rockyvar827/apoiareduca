@@ -1,0 +1,112 @@
+[
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Ayer té ví pasar por él parque.",
+    "errorWord": "té",
+    "options": ["te", "té"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Te' es pronombre, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Con tú ayuda todo será más fácil.",
+    "errorWord": "tú",
+    "options": ["tu", "tú"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Tu' es determinante posesivo, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Mi primo sé llama Marcos.",
+    "errorWord": "sé",
+    "options": ["se", "sé"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Se' es pronombre, no lleva tilde en este caso."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "El me preguntó sí quería jugar.",
+    "errorWord": "sí",
+    "options": ["si", "sí"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Si' es conjunción condicional, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Aún no lo he probado, así que no puedo tomar más.",
+    "errorWord": "más",
+    "options": ["mas", "más"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Más' lleva tilde porque indica cantidad."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Ni mí madre ni mí padre sabían nada.",
+    "errorWord": "mí",
+    "options": ["mi", "mí"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Mi' es posesivo, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Déjame el libro que está en él estante.",
+    "errorWord": "él",
+    "options": ["el", "él"],
+    "correctIndex": 0,
+    "explanation": "✅ 'El' es artículo, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "No sé si vendrás, pero sí me gustaría.",
+    "errorWord": "sé",
+    "options": ["se", "sé"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Sé' lleva tilde porque es del verbo saber."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Mi hermana quiere té con limón.",
+    "errorWord": "té",
+    "options": ["te", "té"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Té' lleva tilde porque es la infusión."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "No le dé más vueltas al asunto.",
+    "errorWord": "dé",
+    "options": ["de", "dé"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Dé' lleva tilde porque es del verbo dar."
+  }
+]

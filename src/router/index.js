@@ -1,6 +1,8 @@
 
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
+import TildeQuiz from '../components/Quiz/TildeQuiz.vue'
+import WordBuilder from '../components/Quiz/WordBuilder.vue'
 import LevelMenu from '../views/LevelMenu.vue'
 import SubjectView from '../views/SubjectView.vue'
 import UnitQuiz from '../views/UnitQuiz.vue'
@@ -16,7 +18,9 @@ const routes = [
 { path: '/nivel/:nivel/materia/:materia/unidad/:unidad', name: 'UnitQuiz', component: UnitQuiz, props: true },
 { path: '/contacto', name: 'Contacto', component: Contact },
 { path: '/donar', name: 'Donacion', component: Donation },
-{ path: '/rss.xml', name: 'RSS', component: RSSView }
+{ path: '/rss.xml', name: 'RSS', component: RSSView },
+{ path: '/quiz/tilde-diacritica', name: 'TildeQuiz', component: TildeQuiz },
+{path: '/quiz/construccion-de-palabras', name: 'WordBuilder', component: WordBuilder }
 ]
 
 

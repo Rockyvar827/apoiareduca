@@ -14,11 +14,10 @@
       </div>
 
       <!-- NAV PRINCIPAL -->
-      <nav class="flex items-center gap-3" ref="navRef">
+      <nav class="flex items-center gap-10" ref="navRef">
 
         <router-link to="/" class="text-sm text-gray-700 hover:underline">Inicio</router-link>
-
-        <!-- MENU PRIMARIA CON DELAY -->
+      <!-- MENU PRIMARIA CON DELAY -->
         <div 
           class="relative inline-block"
           @mouseenter="openMenu"
@@ -37,7 +36,7 @@
           <!-- SUBMENÚ -->
           <div 
             v-show="menuOpen"
-            class="absolute bg-white border shadow-md rounded-md mt-1 min-w-[120px] z-50 divide-y transition-opacity duration-150"
+            class="absolute bg-white shadow-md rounded-md mt-1 min-w-[90px] z-50 divide-y transition-opacity duration-150"
             @mouseenter="openMenu"
             @mouseleave="closeMenuWithDelay"
           >
@@ -58,7 +57,48 @@
             </router-link>
           </div>
         </div>
-        <router-link to="/contacto" class="text-sm text-gray-700 hover:underline">Contacto</router-link>  
+      <!-- NAV JUEGOS --> 
+       
+      <div 
+          class="relative inline-block"
+          @mouseenter="openMenu"
+          @mouseleave="closeMenuWithDelay"
+        >
+          <button 
+            class="text-sm text-gray-700 hover:text-orange-600 flex items-center gap-1 transition"
+            @click.prevent="toggleMenu"
+          >
+            Juegos
+            <svg class="w-4 h-4 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </button>
+          
+          <!-- SUBMENÚ JUEGOS -->
+        <div 
+            v-show="menuOpen"
+            class="absolute bg-white shadow-md rounded-md mt-1 min-w-[120px] z-50 divide-y transition-opacity duration-150"
+            @mouseenter="openMenu"
+            @mouseleave="closeMenuWithDelay"
+          >
+            <router-link
+              to="/quiz/construccion-de-palabras"
+              class="block px-4 py-2 text-sm text-gray-700 hover:bg-red-500 hover:text-white transition"
+              @click="closeMenu"
+            >
+              Construcción de palabras
+            </router-link>
+
+            <router-link
+              to="/quiz/tilde-diacritica"
+              class="block px-4 py-2 text-sm text-gray-700 hover:bg-blue-500 hover:text-white transition"
+              @click="closeMenu"
+            >
+              Tilde diacrítica
+            </router-link>
+          </div>
+        </div>
+                <router-link to="/contacto" class="text-sm text-gray-700 hover:underline">Contacto</router-link>  
       </nav>
     </div>
   </header>
@@ -66,7 +106,6 @@
 
 <script setup>
 import { ref } from 'vue'
-
 const menuOpen = ref(false)
 let closeTimeout = null
 

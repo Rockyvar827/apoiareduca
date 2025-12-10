@@ -3755,8 +3755,936 @@
     "options":["Bosques de coníferas e prados","Selvas tropicais","Desertos","Tundra"],
     "correctIndex":0,
     "explanation":"✅ Na paisaxe continental predominan os bosques de coníferas e os prados."
+  },
+  {
+    "category": "determinantes","nivel": "6","materia": "Lengua Castellana","unidad": "1",
+    "text": "¿Cuál es el determinante en la frase: 'El perro ladra fuerte'?",
+    "options": ["El", "perro", "ladra", "fuerte"],
+    "correctIndex": 0,
+    "explanation": "✅ 'El' es un artículo determinado que acompaña al sustantivo 'perro'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Aquella casa es muy bonita', ¿qué tipo de determinante es 'Aquella'?",
+    "options": ["Artículo", "Demostrativo", "Posesivo", "Indefinido"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Aquella' es un determinante demostrativo que indica lejanía."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En 'Mis amigos juegan al fútbol', 'Mis' es un determinante posesivo.",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Mis' es un posesivo de primera persona plural."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Completa con un numeral: Tengo ___ caramelos en mi mochila.",
+    "options": ["tres", "muchos", "mis", "el"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Tres' es un numeral cardinal que indica cantidad exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en la frase: '¿Cuántos libros has leído?'",
+    "options": ["libros", "has", "Cuántos", "leído"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Cuántos' es un interrogativo que acompaña al sustantivo 'libros'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase '¡Qué sorpresa tan grande!', 'Qué' es un determinante...",
+    "options": ["Exclamativo", "Indefinido", "Posesivo", "Numeral"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Qué' es un exclamativo que intensifica el sustantivo 'sorpresa'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Selecciona el artículo correcto: ___ águila volaba alto.",
+    "options": ["La", "El", "Una", "Ese"],
+    "correctIndex": 1,
+    "explanation": "✅ Se usa 'El' porque 'águila' empieza por 'a' tónica."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Ningún' en 'Ningún alumno faltó a clase'?",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Demostrativo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Ningún' es un indefinido que indica ausencia."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Cinco amigos vinieron a la fiesta', 'Cinco' es un...",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Posesivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Cinco' es un numeral cardinal que indica cantidad exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Segundo' en 'Llegó en segundo lugar'?",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Artículo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Segundo' es un numeral ordinal que indica orden."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Nuestros padres nos ayudan', 'Nuestros' es un...",
+    "options": ["Artículo", "Posesivo", "Indefinido", "Demostrativo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Nuestros' es un posesivo de primera persona plural."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en 'Esos niños juegan en el parque'?",
+    "options": ["Esos", "niños", "juegan", "parque"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Esos' es un demostrativo que indica distancia media."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Algunos estudiantes aprobaron', 'Algunos' es un...",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Algunos' es un indefinido que indica cantidad no exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en '¡Cuánta gente vino!'?",
+    "options": ["Cuánta", "gente", "vino", "ninguno"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Cuánta' es un exclamativo que intensifica 'gente'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Selecciona el artículo correcto: ___ hambre terrible.",
+    "options": ["La", "El", "Una", "Ese"],
+    "correctIndex": 1,
+    "explanation": "✅ Se usa 'El' porque 'hambre' empieza por 'ha' tónica."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Ese coche es rápido', 'Ese' es un...",
+    "options": ["Artículo", "Demostrativo", "Posesivo", "Indefinido"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Ese' es un demostrativo que indica cercanía media."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Todos' en 'Todos los alumnos aprobaron'?",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Todos' es un indefinido que indica totalidad."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Todos' en 'Todos los alumnos aprobaron'?",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Todos' es un indefinido que indica totalidad."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'La quinta fila está ocupada', 'quinta' es un...",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Artículo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Quinta' es un numeral ordinal que indica orden."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en 'Sus explicaciones no me convencen'?",
+    "options": ["Sus", "explicaciones", "me", "convencen"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Sus' es un posesivo de tercera persona plural."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase '¡Qué barbaridad tan grande has dicho!', 'Qué' es un...",
+    "options": ["Exclamativo", "Indefinido", "Numeral", "Posesivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Qué' es un exclamativo que intensifica 'barbaridad'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Selecciona el artículo correcto: ___ aula está vacía.",
+    "options": ["La", "El", "Una", "Ese"],
+    "correctIndex": 1,
+    "explanation": "✅ Se usa 'El' porque 'aula' empieza por 'a' tónica."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Pocos' en 'Pocos premios se entregaron'?",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Pocos' es un indefinido que indica escasez."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Ese cuadro es famoso', 'Ese' es un...",
+    "options": ["Artículo", "Demostrativo", "Posesivo", "Indefinido"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Ese' es un demostrativo que indica cercanía media."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en '¿Qué libro lees?'?",
+    "options": ["Qué", "libro", "lees", "ninguno"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Qué' es un interrogativo que acompaña al sustantivo 'libro'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Un coche pasó rápido', 'Un' es un...",
+    "options": ["Artículo indeterminado", "Demostrativo", "Posesivo", "Indefinido"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Un' es un artículo indeterminado que acompaña al sustantivo 'coche'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Muchos' en 'Muchos días de lluvia'?",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Muchos' es un indefinido que indica cantidad abundante."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'El segundo libro está agotado', 'segundo' es un...",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Artículo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Segundo' es un numeral ordinal que indica orden."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en 'Nuestra casa es pequeña'?",
+    "options": ["Nuestra", "casa", "es", "pequeña"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Nuestra' es un posesivo de primera persona plural."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Algunos cromos son antiguos', 'Algunos' es un...",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Algunos' es un indefinido que indica cantidad no exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Cinco' en 'Cinco individuos atracaron dos joyerías'?",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Cinco' es un numeral cardinal que indica cantidad exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Ese árbol crece rápido', 'Ese' es un...",
+    "options": ["Artículo", "Demostrativo", "Posesivo", "Indefinido"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Ese' es un demostrativo que indica cercanía media."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en '¡Cuántos años tienes!'?",
+    "options": ["Cuántos", "años", "tienes", "ninguno"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Cuántos' es un exclamativo que intensifica 'años'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'El undécimo puesto es nuestro', 'undécimo' es un...",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Artículo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Undécimo' es un numeral ordinal que indica posición."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Ninguna' en 'Ninguna duda cabe'?",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Ninguna' es un indefinido que indica ausencia total."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Ese lápiz es mío', 'Ese' es un...",
+    "options": ["Artículo", "Demostrativo", "Posesivo", "Indefinido"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Ese' es un demostrativo que indica cercanía media."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en '¿Cuántos euros te has gastado?'",
+    "options": ["Cuántos", "euros", "gastado", "has"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Cuántos' es un interrogativo que acompaña al sustantivo 'euros'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'La otra tarde fuimos al cine', 'La' es un...",
+    "options": ["Artículo determinado", "Demostrativo", "Posesivo", "Indefinido"],
+    "correctIndex": 0,
+    "explanation": "✅ 'La' es un artículo determinado femenino singular."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Vuestro' en 'Vuestro abuelo cuenta historias'?",
+    "options": ["Artículo", "Posesivo", "Indefinido", "Numeral"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Vuestro' es un posesivo de segunda persona plural."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Cien años de soledad', 'Cien' es un...",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Cien' es un numeral cardinal que indica cantidad exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en '¡Qué día más nublado!'?",
+    "options": ["Qué", "día", "nublado", "más"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Qué' es un exclamativo que intensifica 'día'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Algunas niñas juegan en el patio', 'Algunas' es un...",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Algunas' es un indefinido que indica cantidad no exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de determinante es 'Quinto' en 'Alejandro llegó en quinto lugar'?",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Artículo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Quinto' es un numeral ordinal que indica posición."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Unos dicen la verdad, otros mienten', 'Unos' es un...",
+    "options": ["Indefinido", "Numeral", "Posesivo", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Unos' es un indefinido que indica cantidad no exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué determinante aparece en 'Ese niño tiene cinco pelotas'?",
+    "options": ["Ese", "niño", "cinco", "pelotas"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Ese' es un demostrativo que acompaña al sustantivo 'niño'."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "En la frase 'Cinco pelotas están en el suelo', 'Cinco' es un...",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Artículo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Cinco' es un numeral cardinal que indica cantidad exacta."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'pan' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Pan' es una palabra simple formada solo por el lexema."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'panadería' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Panadería' es derivada porque añade el sufijo '-ería' al lexema 'pan'."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'cumpleaños' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Cumpleaños' es compuesta: 'cumplir' + 'años'."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'empapelar' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Empapelar' es parasintética: prefijo 'em-' + lexema 'papel' + sufijo '-ar'."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'león' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 0,
+    "explanation": "✅ 'León' es simple porque solo tiene un lexema."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'deshacer' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Deshacer' es derivada: prefijo 'des-' + lexema 'hacer'."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'lavacoches' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Lavacoches' es compuesta: 'lava' + 'coches'."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'subterráneo' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Subterráneo' es parasintética: prefijo 'sub-' + lexema 'terr' + sufijo '-áneo'."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'frutero' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Frutero' es derivada: lexema 'fruta' + sufijo '-ero'."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'guardarropa' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Guardarropa' es compuesta: 'guardar' + 'ropa'."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'entristecer' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Entristecer' es parasintética: prefijo 'en-' + lexema 'triste' + sufijo '-ecer'."
+  },
+  {
+    "category": "formacion de palabras",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "La palabra 'naranjal' es...",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Naranjal' es derivada: lexema 'naranja' + sufijo '-al'."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál de estas palabras lleva tilde diacrítica?",
+    "options": ["el", "él", "de", "tu"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Él' lleva tilde para diferenciarse del artículo 'el'."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué monosílabo lleva tilde en la frase: 'Sé que lo harás bien'?",
+    "options": ["se", "sé", "si", "sí"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Sé' lleva tilde porque es del verbo saber."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál es la forma correcta en esta frase?: '¿Quieres té o café?'",
+    "options": ["te", "té", "téé", "téh"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Té' lleva tilde porque es el sustantivo de la infusión."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué monosílabo lleva tilde en la frase: 'Sí, quiero ir contigo'?",
+    "options": ["si", "sí", "mi", "mí"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Sí' lleva tilde porque es afirmación."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál es la forma correcta?: 'No le dé más vueltas al asunto'",
+    "options": ["de", "dé", "deh", "déé"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Dé' lleva tilde porque es del verbo dar."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué monosílabo lleva tilde en la frase: 'Lo hizo por mí'?",
+    "options": ["mi", "mí", "me", "míí"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Mí' lleva tilde porque es pronombre personal."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál es la forma correcta?: 'Tú tienes razón'",
+    "options": ["tu", "tú", "tuh", "túh"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Tú' lleva tilde porque es pronombre personal."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué monosílabo lleva tilde en la frase: 'Más vale tarde que nunca'?",
+    "options": ["mas", "más", "máss", "maás"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Más' lleva tilde porque indica cantidad."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál es la forma correcta?: 'Aún no ha llegado'",
+    "options": ["aun", "aún", "aúm", "aúnh"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Aún' lleva tilde porque significa 'todavía'."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué monosílabo lleva tilde en la frase: 'Él me preguntó si vendrías'?",
+    "options": ["el", "si", "él", "sí"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Él' lleva tilde porque es pronombre personal."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál es la forma correcta?: 'Mi hermano dijo que era para mí'",
+    "options": ["mi / mí", "mí / mi", "mí / mí", "mi / mi"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Mi' es posesivo, 'mí' es pronombre personal."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué monosílabo lleva tilde en la frase: 'Sé valiente y sé tú mismo'?",
+    "options": ["se", "sé", "tú", "mi"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Sé' lleva tilde porque es del verbo ser."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Ayer té ví pasar por él parque.",
+    "errorWord": "té",
+    "options": ["te", "té"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Te' es pronombre, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Con tú ayuda todo será más fácil.",
+    "errorWord": "tú",
+    "options": ["tu", "tú"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Tu' es determinante posesivo, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Mi primo sé llama Marcos.",
+    "errorWord": "sé",
+    "options": ["se", "sé"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Se' es pronombre, no lleva tilde en este caso."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "El me preguntó sí quería jugar.",
+    "errorWord": "sí",
+    "options": ["si", "sí"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Si' es conjunción condicional, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Aún no lo he probado, así que no puedo tomar más.",
+    "errorWord": "más",
+    "options": ["mas", "más"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Más' lleva tilde porque indica cantidad."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Ni mí madre ni mí padre sabían nada.",
+    "errorWord": "mí",
+    "options": ["mi", "mí"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Mi' es posesivo, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Déjame el libro que está en él estante.",
+    "errorWord": "él",
+    "options": ["el", "él"],
+    "correctIndex": 0,
+    "explanation": "✅ 'El' es artículo, no lleva tilde."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "No sé si vendrás, pero sí me gustaría.",
+    "errorWord": "sé",
+    "options": ["se", "sé"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Sé' lleva tilde porque es del verbo saber."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "Mi hermana quiere té con limón.",
+    "errorWord": "té",
+    "options": ["te", "té"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Té' lleva tilde porque es la infusión."
+  },
+  {
+    "category": "tilde diacrítica",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "No le dé más vueltas al asunto.",
+    "errorWord": "dé",
+    "options": ["de", "dé"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Dé' lleva tilde porque es del verbo dar."
+  },
+    {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué parte de la palabra 'gatito' es el lexema?",
+    "options": ["gat", "ito", "ga", "to"],
+    "correctIndex": 0,
+    "explanation": "✅ 'gat' es el lexema, la raíz que da el significado principal."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de morfema es 'ito' en 'gatito'?",
+    "options": ["Prefijo", "Sufijo derivativo", "Morfema flexivo", "Lexema"],
+    "correctIndex": 1,
+    "explanation": "✅ 'ito' es un sufijo derivativo que indica diminutivo."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de palabra es 'panadería'?",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Panadería' es derivada: lexema 'pan' + sufijo '-ería'."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál es el prefijo en la palabra 'rebuscar'?",
+    "options": ["buscar", "re", "car", "res"],
+    "correctIndex": 1,
+    "explanation": "✅ 're-' es el prefijo que indica repetición."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de palabra es 'cumpleañero'?",
+    "options": ["Derivada", "Compuesta", "Parasintética", "Simple"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Cumpleañero' es parasintética: palabra compuesta + sufijo."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de morfema es 's' en 'niñas'?",
+    "options": ["Prefijo", "Sufijo derivativo", "Morfema flexivo", "Lexema"],
+    "correctIndex": 2,
+    "explanation": "✅ 's' es un morfema flexivo que indica plural."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de palabra es 'sol'?",
+    "options": ["Derivada", "Compuesta", "Simple", "Parasintética"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Sol' es una palabra simple, solo tiene lexema."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de morfema es 'des-' en 'deshacer'?",
+    "options": ["Sufijo derivativo", "Morfema flexivo", "Prefijo derivativo", "Lexema"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Des-' es un prefijo derivativo que indica negación o inversión."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál es el lexema en la palabra 'instrumental'?",
+    "options": ["instrument", "al", "inst", "ment"],
+    "correctIndex": 0,
+    "explanation": "✅ 'instrument' es el lexema que aporta el significado principal."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de palabra es 'espantapájaros'?",
+    "options": ["Derivada", "Compuesta", "Parasintética", "Simple"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Espantapájaros' es compuesta: 'espanta' + 'pájaros'."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de palabra es 'subterráneo'?",
+    "options": ["Compuesta", "Derivada", "Parasintética", "Simple"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Subterráneo' es parasintética: prefijo + lexema + sufijo."
+  },
+  {
+    "category": "lexemas y morfemas",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de palabra es 'frutero'?",
+    "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Frutero' es derivada: lexema 'fruta' + sufijo '-ero'."
   }
 ]
+
 
 
 

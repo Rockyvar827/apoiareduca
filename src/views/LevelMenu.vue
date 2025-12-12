@@ -73,7 +73,7 @@ import { useHead } from '@vueuse/head'
 const route = useRoute()
 const nivel = computed(() => route.params.nivel || '5')
 
-const rawQuestions = ref(null)
+//const rawQuestions = ref(null)
 
 // meta dinámico
 useHead({
@@ -85,7 +85,7 @@ useHead({
     }
   ]
 })
-
+/* 
 onMounted(async () => {
   try {
     rawQuestions.value = await loadQuestionsOnce()
@@ -100,7 +100,7 @@ watch(nivel, () => {
     parseQuestionsData(rawQuestions.value)
   }
 })
-
+ */
 /**
  * Mapea manualmente materias y unidades por nivel.
  * (SIN cambios sobre tu estructura original)
@@ -153,20 +153,80 @@ const levelsData = {
       ]
     },
     'Lengua Castellana': {
-      title: 'Lengua Castellana',
+      title: 'Lengua Castellana (6.º)',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
-        { id: 1, label: 'Unidad 1', 
-        colorClass: 'bg-yellow-600 text-gray-900',
+        { id: 1,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
         categories: [
-          { id: 'determinantes', label: 'determinantes', colorClass: 'bg-red-600'  },
-          { id: 'formacion de palabras', label: 'formacion de palabras', colorClass: 'bg-blue-600'  },
-          { id: 'tilde diacrítica', label: 'tilde diacrítica', colorClass: 'bg-yellow-600'  },
-          { id: 'lexemas y morfemas', label: 'lexemas y morfemas', colorClass: 'bg-blue-200'  }
+          { id: 'determinantes', label: 'Determinantes', colorClass: 'bg-red-600'  },
+          { id: 'formacion de palabras', label: 'Formacion de palabras', colorClass: 'bg-blue-600'  },
+          { id: 'tilde diacrítica', label: 'Tilde diacrítica', colorClass: 'bg-yellow-600'  },
+          { id: 'lexemas y morfemas', label: 'Lexemas y morfemas', colorClass: 'bg-blue-300'  },
+          { id: 'acentuación', label: 'Acentuación', colorClass: 'bg-green-300'  }
+        ]
+    }
+  ]
+  },
+  'LC2': {
+      title: 'Lengua Castellana (6.º)',
+      description: 'Gramática y vocabulario en español para 6.º',
+      units: [
+        { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'diptongos e hiatos', label: 'Diptongos e hiatos', colorClass: 'bg-red-400'  }
         ]
     }
       ]
+  },
+  'LC3': {
+      title: 'Lengua Castellana',
+      description: 'Gramática y vocabulario en español para 6.º',
+      units: [
+        { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'siglas y abreviaturas', label: 'Siglas y abreviaturas', colorClass: 'bg-purple-400'  }
+        ]
     }
+      ]
+  },
+  'Lingua Galega': {
+      title: 'Lingua Galega (6.º)',
+      description: 'Gramática y vocabulario en gallego para 6.º',
+      units: [
+        { id: 1 ,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'elementos da comunicación', label: 'Elementos da comunicación', colorClass: 'bg-green-400'  },
+          { id: 'lexemas e morfemas', label: 'Lexemas e morfemas', colorClass: 'bg-blue-400'  },
+          { id: 'acentuación', label: 'Acentuación', colorClass: 'bg-purple-400'},
+          { id: 'variantes dialectais galegas', label: 'variantes dialectais', colorClass: 'bg-orange-400'}
+        ]
+    }
+      ]
+  },
+  'Lingua-Galega-2': {
+      title: 'Lingua Galega',
+      description: 'Gramática y vocabulario en gallego para 6.º',
+      units: [
+        { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'lexemas e morfemas', label: 'Lexemas e morfemas', colorClass: 'bg-blue-400'  }
+        ]
+    }
+      ]
+  },
+  'Lingua-Galega-3': {
+      title: 'Lingua Galega',
+      description: 'Gramática y vocabulario en gallego para 6.º',
+      units: [
+        { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'determinantes', label: 'Determinantes', colorClass: 'bg-blue-400'  },
+          { id: 'palabras primitivas, derivadas e compostas', label: 'Palabras primitivas, derivadas e compostas', colorClass: 'bg-green-400'  },
+          { id: 'acento diacrítico', label: 'Acento diacrítico', colorClass: 'bg-orange-400'}
+        ]
+    }
+      ]
+  }
   }
 }
 

@@ -4682,7 +4682,2168 @@
     "options": ["Simple", "Derivada", "Compuesta", "Parasintética"],
     "correctIndex": 1,
     "explanation": "✅ 'Frutero' es derivada: lexema 'fruta' + sufijo '-ero'."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuándo llevan tilde las palabras agudas?",
+    "options": ["Siempre", "Cuando terminan en vocal, -n o -s", "Nunca", "Solo si son largas"],
+    "correctIndex": 1,
+    "explanation": "✅ Las palabras agudas llevan tilde cuando terminan en vocal, -n o -s."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál es la sílaba tónica de las palabras llanas?",
+    "options": ["La última", "La penúltima", "La antepenúltima", "No tienen"],
+    "correctIndex": 1,
+    "explanation": "✅ Las palabras llanas tienen la sílaba tónica en la penúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuándo llevan tilde las palabras llanas?",
+    "options": ["Cuando terminan en vocal, -n o -s", "Cuando NO terminan en vocal, -n o -s", "Siempre", "Nunca"],
+    "correctIndex": 1,
+    "explanation": "✅ Las palabras llanas llevan tilde cuando NO terminan en vocal, -n o -s."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Dónde está la sílaba tónica en las palabras esdrújulas?",
+    "options": ["Última", "Penúltima", "Antepenúltima", "No tienen"],
+    "correctIndex": 2,
+    "explanation": "✅ Las palabras esdrújulas tienen la sílaba tónica en la antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Las palabras esdrújulas llevan tilde?",
+    "options": ["Sí, siempre", "Solo si terminan en vocal", "Nunca", "Depende de la palabra"],
+    "correctIndex": 0,
+    "explanation": "✅ Todas las palabras esdrújulas llevan tilde siempre."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál de estas palabras está correctamente acentuada?",
+    "options": ["Camion", "Camión", "Camíón", "Camiòn"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Camión' es correcta porque es aguda terminada en 'n'."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Cuál de estas palabras necesita tilde?",
+    "options": ["Arbol", "Mesa", "Coche", "Planta"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Árbol' lleva tilde porque es llana terminada en consonante distinta de 'n' o 's'."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de palabra es 'teléfono'?",
+    "options": ["Aguda", "Llana", "Esdrújula", "Sobreesdrújula"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Teléfono' es esdrújula porque la sílaba tónica está en la antepenúltima."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de palabra es 'cantarás'?",
+    "options": ["Aguda", "Llana", "Esdrújula", "Sobreesdrújula"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Cantarás' es aguda porque la sílaba tónica está en la última."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lengua Castellana",
+    "unidad": "1",
+    "text": "¿Qué tipo de palabra es 'difícil'?",
+    "options": ["Aguda", "Llana", "Esdrújula", "Sobreesdrújula"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Difícil' es llana porque la sílaba tónica está en la penúltima."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Qué es un diptongo?",
+    "options": [
+      "Dos vocales en sílabas distintas",
+      "Dos vocales en la misma sílaba",
+      "Tres vocales juntas",
+      "Una vocal con consonante"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El diptongo es la unión de dos vocales que se pronuncian en la misma sílaba."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Qué es un hiato?",
+    "options": [
+      "Dos vocales en la misma sílaba",
+      "Dos vocales en sílabas diferentes",
+      "Tres vocales juntas",
+      "Una vocal cerrada con consonante"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El hiato ocurre cuando dos vocales seguidas se pronuncian en sílabas distintas."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Dónde se coloca la tilde en un diptongo formado por vocal abierta (a, e, o) y vocal cerrada (i, u)?",
+    "options": [
+      "Siempre en la cerrada",
+      "Siempre en la abierta",
+      "En la primera vocal",
+      "En la última vocal"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ En los diptongos de abierta + cerrada, la tilde se coloca sobre la vocal abierta."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Dónde se coloca la tilde en un diptongo formado por dos vocales cerradas distintas (i, u)?",
+    "options": [
+      "En la primera vocal",
+      "En la segunda vocal",
+      "En ninguna vocal",
+      "Depende de la palabra"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ En los diptongos de dos vocales cerradas, la tilde se coloca sobre la segunda vocal."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Qué es un triptongo?",
+    "options": [
+      "Tres vocales en sílabas distintas",
+      "Tres vocales en la misma sílaba",
+      "Dos vocales abiertas seguidas",
+      "Una vocal cerrada con consonante"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El triptongo es la unión de tres vocales que se pronuncian en una sola sílaba."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Dónde se coloca la tilde en un triptongo?",
+    "options": [
+      "Sobre la primera vocal cerrada",
+      "Sobre la vocal abierta",
+      "Sobre la última vocal cerrada",
+      "No llevan tilde nunca"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ En los triptongos, la tilde siempre se coloca sobre la vocal abierta."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Por qué 'país' lleva tilde?",
+    "options": [
+      "Porque es aguda terminada en 's'",
+      "Porque forma hiato con 'a' abierta y 'í' cerrada tónica",
+      "Porque es esdrújula",
+      "Porque termina en vocal"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'País' lleva tilde porque forma hiato con vocal abierta átona y cerrada tónica."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Cuál de estas palabras contiene un diptongo?",
+    "options": ["Poeta", "Cielo", "Raúl", "Aéreo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Cielo' contiene un diptongo (ie)."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Cuál de estas palabras contiene un hiato?",
+    "options": ["Ciudad", "Baile", "Sandía", "Cuidado"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Sandía' contiene un hiato porque la 'í' cerrada tónica se separa de la 'a'."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Qué palabra está correctamente acentuada?",
+    "options": ["Caida", "Caída", "Caída", "Cáida"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Caída' es correcta porque forma hiato y la tilde va en la 'í'."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Por qué 'Raúl' lleva tilde?",
+    "options": [
+      "Porque es aguda terminada en 'l'",
+      "Porque forma hiato con 'a' abierta y 'ú' cerrada tónica",
+      "Porque es esdrújula",
+      "Porque termina en consonante"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'Raúl' lleva tilde porque forma hiato con vocal abierta átona y cerrada tónica."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Cuál de estas palabras contiene un triptongo?",
+    "options": ["Miau", "Poeta", "Raíz", "Aéreo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Miau' contiene un triptongo (i-a-u en una sola sílaba)."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Qué palabra está correctamente acentuada?",
+    "options": ["Heroe", "Héroe", "Heróe", "Héroe"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Héroe' es correcta porque forma hiato y la tilde va en la 'e'."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Qué palabra contiene un diptongo?",
+    "options": ["Poeta", "Ciudad", "Aéreo", "Raíz"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Ciudad' contiene un diptongo (iu)."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Qué palabra contiene un hiato?",
+    "options": ["Cielo", "Baile", "Aéreo", "Sueño"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Aéreo' contiene un hiato porque las vocales 'a-é' se pronuncian en sílabas distintas."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Por qué 'línea' lleva tilde?",
+    "options": [
+      "Porque es aguda terminada en vocal",
+      "Porque forma hiato con dos vocales abiertas seguidas",
+      "Porque es esdrújula",
+      "Porque termina en consonante"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'Línea' lleva tilde porque forma hiato con dos vocales abiertas seguidas."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Cuál de estas palabras contiene un diptongo?",
+    "options": ["Reunir", "Poeta", "Raúl", "Aéreo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Reunir' contiene un diptongo (ui)."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Cuál de estas palabras contiene un hiato?",
+    "options": ["Cuidado", "Caída", "Ciudad", "Sueño"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Caída' contiene un hiato porque la 'í' cerrada tónica se separa de la 'a'."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Qué palabra está correctamente acentuada?",
+    "options": ["Tecnologia", "Tecnología", "Tecnólogia", "Tecnologíá"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Tecnología' es correcta porque es llana terminada en vocal y lleva tilde en la 'í'."
+  },
+  {
+    "category": "diptongos e hiatos",
+    "nivel": "6",
+    "materia": "LC2",
+    "unidad": "2",
+    "text": "¿Qué palabra contiene un triptongo?",
+    "options": ["Estudiáis", "Poeta", "Raíz", "Aéreo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Estudiáis' contiene un triptongo (i-a-i en una sola sílaba)."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué significa la sigla 'ONG'?",
+    "options": [
+      "Organización Nacional de Gobierno",
+      "Organización No Gubernamental",
+      "Oficina Nacional de Gestión",
+      "Orden Nueva Global"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'ONG' significa Organización No Gubernamental."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Cuál es la abreviatura correcta de 'carretera'?",
+    "options": ["car.", "crta.", "crt.", "carr."],
+    "correctIndex": 1,
+    "explanation": "✅ La abreviatura correcta de 'carretera' es 'crta.'."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué significa la sigla 'AVE'?",
+    "options": [
+      "Alta Velocidad Española",
+      "Asociación de Vecinos Españoles",
+      "Academia Virtual Escolar",
+      "Agencia de Viajes Española"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'AVE' significa Alta Velocidad Española."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Cuál es la abreviatura correcta de 'izquierda'?",
+    "options": ["izq.", "izda.", "iz.", "izqu."],
+    "correctIndex": 1,
+    "explanation": "✅ La abreviatura correcta de 'izquierda' es 'izda.'."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué significa la sigla 'CEIP'?",
+    "options": [
+      "Colegio de Educación Infantil y Primaria",
+      "Centro Escolar Internacional Privado",
+      "Comisión de Estudios Infantiles Públicos",
+      "Curso de Enseñanza Inicial y Primaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'CEIP' significa Colegio de Educación Infantil y Primaria."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Cuál es la abreviatura correcta de 'ejercicio'?",
+    "options": ["ej.", "ejerc.", "ejc.", "ejrz."],
+    "correctIndex": 0,
+    "explanation": "✅ La abreviatura correcta de 'ejercicio' es 'ej.'."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué significa la sigla 'DGT'?",
+    "options": [
+      "Dirección General de Tráfico",
+      "Departamento General de Transporte",
+      "Documento de Gestión Técnica",
+      "División de Guardia Territorial"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'DGT' significa Dirección General de Tráfico."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Cuál es la abreviatura correcta de 'remitente'?",
+    "options": ["rem.", "Rte.", "rmt.", "rmte."],
+    "correctIndex": 1,
+    "explanation": "✅ La abreviatura correcta de 'remitente' es 'Rte.'."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué significa la sigla 'AMPA'?",
+    "options": [
+      "Asociación de Madres y Padres de Alumnos",
+      "Agencia Municipal de Profesores Asociados",
+      "Academia de Música y Pintura Avanzada",
+      "Área de Maestros y Profesores Académicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'AMPA' significa Asociación de Madres y Padres de Alumnos."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Cuál es la abreviatura correcta de 'calle'?",
+    "options": ["cl.", "c.", "cal.", "ca."],
+    "correctIndex": 1,
+    "explanation": "✅ La abreviatura correcta de 'calle' es 'C.'."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué es una abreviatura?",
+    "options": [
+      "Una palabra escrita con iniciales en mayúsculas",
+      "Una palabra representada con letras y un punto al final",
+      "Un conjunto de palabras unidas",
+      "Un nombre propio reducido"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Una abreviatura representa una palabra con letras y se escribe con un punto al final."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué es una sigla?",
+    "options": [
+      "Una palabra reducida con un punto",
+      "Las iniciales de un grupo de palabras en mayúsculas",
+      "Un nombre propio abreviado",
+      "Un símbolo matemático"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Una sigla se forma con las iniciales de un grupo de palabras escritas en mayúsculas."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Cuál es la abreviatura correcta de 'número'?",
+    "options": ["num", "núm.", "nro.", "nm."],
+    "correctIndex": 1,
+    "explanation": "✅ La abreviatura correcta de 'número' es 'núm.'."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué significa la sigla 'ESO'?",
+    "options": [
+      "Educación Superior Oficial",
+      "Educación Secundaria Obligatoria",
+      "Escuela Secundaria Oficial",
+      "Estudios Superiores Ordinarios"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'ESO' significa Educación Secundaria Obligatoria."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué significa la sigla 'OMS'?",
+    "options": [
+      "Organización Mundial de la Salud",
+      "Oficina Médica de Seguridad",
+      "Orden Militar de España",
+      "Organización de Médicos Solidarios"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'OMS' significa Organización Mundial de la Salud."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Cuál es la abreviatura correcta de 'página'?",
+    "options": ["pg.", "pág.", "pag.", "pgn."],
+    "correctIndex": 1,
+    "explanation": "✅ La abreviatura correcta de 'página' es 'pág.'."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué significa la sigla 'DNI'?",
+    "options": [
+      "Documento Nacional de Identidad",
+      "Documento Nuevo Internacional",
+      "Datos Nacionales de Información",
+      "Dirección Nacional de Inmigración"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'DNI' significa Documento Nacional de Identidad."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Cuál es la abreviatura correcta de 'señora'?",
+    "options": ["s.", "sra.", "srta.", "snr."],
+    "correctIndex": 1,
+    "explanation": "✅ La abreviatura correcta de 'señora' es 'sra.'."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Qué significa la sigla 'RAE'?",
+    "options": [
+      "Real Academia Española",
+      "Registro Académico Escolar",
+      "Red de Aprendizaje Escolar",
+      "Reglamento Académico Español"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'RAE' significa Real Academia Española."
+  },
+  {
+    "category": "siglas y abreviaturas",
+    "nivel": "6",
+    "materia": "LC3",
+    "unidad": "3",
+    "text": "¿Cuál es la abreviatura correcta de 'presidente'?",
+    "options": ["pres.", "pdte.", "pdt.", "prsd."],
+    "correctIndex": 1,
+    "explanation": "✅ La abreviatura correcta de 'presidente' es 'pdte.'."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Cal é o emisor cando unha carteira entrégalle unha carta ao teu avó?",
+    "options": ["A carteira", "O avó", "A carta", "O código"],
+    "correctIndex": 0,
+    "explanation": "✅ O emisor é a carteira, porque é quen transmite a mensaxe."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "No cartel 'Prohibido pasar', cal é a mensaxe?",
+    "options": ["Prohibido pasar", "O cartel", "O receptor", "O contexto"],
+    "correctIndex": 0,
+    "explanation": "✅ A mensaxe é 'Prohibido pasar', o contido que se transmite."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Cando soa o timbre da escola, cal é o código?",
+    "options": ["O son do timbre", "O profesor", "O alumno", "O contexto"],
+    "correctIndex": 0,
+    "explanation": "✅ O código é o son do timbre, que indica o final da clase."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Unha persoa cega le un texto en braille. Cal é o código?",
+    "options": ["Braille", "O dedo", "O texto", "O receptor"],
+    "correctIndex": 0,
+    "explanation": "✅ O código é o braille, o sistema de signos que permite transmitir a mensaxe."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Nun telexornal, quen é o emisor?",
+    "options": ["O presentador", "O receptor", "A televisión", "O contexto"],
+    "correctIndex": 0,
+    "explanation": "✅ O emisor é o presentador, porque transmite a noticia."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Cando un adestrador dá instrucións cun xesto, cal é a canle?",
+    "options": ["Os xestos", "O xogador", "O adestrador", "O campo de fútbol"],
+    "correctIndex": 0,
+    "explanation": "✅ A canle son os xestos, o medio polo que se transmite a mensaxe."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Unha nai tapa os oídos para non escoitar. Quen é o receptor?",
+    "options": ["A nai", "O fillo", "O berro", "O contexto"],
+    "correctIndex": 0,
+    "explanation": "✅ O receptor é a nai, porque recibe (ou evita recibir) a mensaxe."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Nunha entrevista televisiva, quen é o receptor?",
+    "options": ["O presidente", "O xornalista", "A televisión", "O público"],
+    "correctIndex": 0,
+    "explanation": "✅ O receptor é o presidente, porque recibe as preguntas do xornalista."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Cando soa unha sirena de ambulancia, cal é o contexto?",
+    "options": ["A rúa con coches", "A ambulancia", "O son da sirena", "O receptor"],
+    "correctIndex": 0,
+    "explanation": "✅ O contexto é a rúa con moitos coches, onde se produce a comunicación."
+  },
+  {
+    "category": "elementos da comunicación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que elemento da comunicación representa unha bandeira galega ondeando no concello?",
+    "options": ["Mensaxe", "Código", "Emisor", "Receptor"],
+    "correctIndex": 0,
+    "explanation": "✅ A bandeira é a mensaxe, porque transmite un significado simbólico."
+  },
+    {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'nenas', cal é o lexema?",
+    "options": ["nen", "na", "s", "nena"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'nen', que achega o significado principal."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'cociñeiro', cal é o morfema derivativo?",
+    "options": ["eiro", "cociñ", "o", "ei"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é '-eiro', que indica oficio ou profesión."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'xogaban', cal é o morfema flexivo?",
+    "options": ["xog", "aba", "n", "aban"],
+    "correctIndex": 2,
+    "explanation": "✅ O morfema flexivo é '-n', que marca a terceira persoa do plural."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'desleal', cal é o morfema derivativo?",
+    "options": ["des", "leal", "al", "le"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é 'des-', prefixo que indica negación."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'libreiros', cal é o lexema?",
+    "options": ["libr", "eiro", "os", "rei"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'libr', que achega o significado principal relacionado con libros."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'cantante', cal é o morfema derivativo?",
+    "options": ["ante", "cant", "te", "a"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é '-ante', que indica a persoa que realiza a acción."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'grandísimos', cal é o morfema derivativo?",
+    "options": ["grand", "ísim", "os", "imo"],
+    "correctIndex": 1,
+    "explanation": "✅ O morfema derivativo é '-ísim-', que indica grao superlativo."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'rapididade', cal é o morfema derivativo?",
+    "options": ["idade", "rapid", "de", "dad"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é '-idade', que forma substantivos abstractos."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'bailarás', cal é o morfema flexivo?",
+    "options": ["ás", "bail", "ar", "rá"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema flexivo é '-ás', que marca segunda persoa do singular no futuro."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'imposible', cal é o morfema derivativo?",
+    "options": ["im", "pos", "ible", "si"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é 'im-', prefixo que indica negación."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'meniña', cal é o morfema derivativo?",
+    "options": ["iña", "men", "ni", "ña"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é '-iña', que indica diminutivo."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'corredor', cal é o morfema derivativo?",
+    "options": ["dor", "corre", "or", "dorres"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é '-dor', que indica a persoa que realiza a acción."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Raquitico', onde vai a tilde?",
+    "options": ["Raquítico", "Ráquitico", "Raquitíco", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Raquítico' é esdrúxula, leva tilde sempre na antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Sofa', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Sofá' é aguda terminada en vocal, por iso leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Telefono', onde vai a tilde?",
+    "options": ["Teléfono", "Télefono", "Telefonó", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Teléfono' é esdrúxula, leva tilde na antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Facil', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Fácil' é grave terminada en consoante distinta de n ou s, por iso leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Martir', onde vai a tilde?",
+    "options": ["Mártir", "Martír", "Martírr", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Mártir' é grave terminada en consoante distinta de n ou s, por iso leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Torax', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Tórax' é grave terminada en consoante distinta de n ou s, por iso leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Exame', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Exame' é grave terminada en vocal, non leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Avion', onde vai a tilde?",
+    "options": ["Avión", "Ávion", "Avíón", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Avión' é aguda terminada en 'n', por iso leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Compas', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Compás' é aguda terminada en 's', por iso leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Bambu', onde vai a tilde?",
+    "options": ["Bambú", "Bámbu", "Bambúu", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Bambú' é aguda terminada en vocal, por iso leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Estraño', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Estraño' é grave terminada en vocal, non leva tilde adicional."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Maquina', onde vai a tilde?",
+    "options": ["Máquina", "Maqúina", "Maquiná", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Máquina' é esdrúxula, leva tilde sempre na antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Mastil', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Mástil' é aguda porque a sílaba tónica está na última e remata en consoante distinta de n ou s."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Basico', onde debe ir a tilde?",
+    "options": ["Básico", "Basíco", "Basicó", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Básico' é esdrúxula, leva tilde sempre na antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Pais', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 0,
+    "explanation": "✅ 'País' é aguda con hiato, leva tilde na última sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Boligrafo', onde vai a tilde?",
+    "options": ["Bolígrafo", "Bóligrafo", "Boligrafó", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Bolígrafo' é esdrúxula, leva tilde sempre na antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Camion', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Camión' é aguda terminada en 'n', por iso leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Television', onde vai a tilde?",
+    "options": ["Televisión", "Télevision", "Televisió", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Televisión' é aguda terminada en 'n', leva tilde na última sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Album', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Álbum' é grave terminada en consoante distinta de n ou s, por iso leva tilde."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Regimen', onde vai a tilde?",
+    "options": ["Régimen", "Regímen", "Regimenó", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Régimen' é esdrúxula, leva tilde sempre na antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Atmosfera', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Atmósfera' é esdrúxula, leva tilde na antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Musica', onde vai a tilde?",
+    "options": ["Música", "Musíca", "Musicá", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Música' é esdrúxula, leva tilde sempre na antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Principe', que tipo de palabra é?",
+    "options": ["Aguda", "Grave (llana)", "Esdrúxula", "Sobreesdrúxula"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Príncipe' é esdrúxula, leva tilde sempre na antepenúltima sílaba."
+  },
+  {
+    "category": "acentuación",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na palabra 'Limite', onde vai a tilde?",
+    "options": ["Límite", "Limíte", "Limité", "Non leva tilde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Límite' é esdrúxula, leva tilde sempre na antepenúltima sílaba."
+  },
+    {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que característica distingue o Bloque Occidental no uso das formas verbais?",
+    "options": ["Colliches, vendiches, fuches", "Colleches, vendeches, foches", "Cantais, cantabais", "Cantades, cantabades"],
+    "correctIndex": 1,
+    "explanation": "✅ No Bloque Occidental aparecen formas como 'colleches, vendeches, foches'."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que característica distingue o Bloque Central no plural dos nomes rematados en -n?",
+    "options": ["Cans, ladróns, bens", "Cas, bes, ladrós", "Cais, ladrois, beis", "Cuatro, cuando"],
+    "correctIndex": 1,
+    "explanation": "✅ No Bloque Central o plural aparece como 'cas, bes, ladrós'."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que característica distingue o Bloque Oriental no plural dos nomes rematados en -n?",
+    "options": ["Cans, ladróns, bens", "Cas, bes, ladrós", "Cais, ladrois, beis", "Cuatro, cuando"],
+    "correctIndex": 2,
+    "explanation": "✅ No Bloque Oriental o plural aparece como 'cais, ladrois, beis'."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que característica verbal distingue o Bloque Oriental?",
+    "options": ["Uso de -des", "Uso de -is", "Uso de -ndes", "Uso de -s"],
+    "correctIndex": 1,
+    "explanation": "✅ No Bloque Oriental aparece o morfema número-persoa '-is' (cantais, cantabais)."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que característica fonética distingue o Bloque Occidental?",
+    "options": ["Non hai seseo", "Seseo e gheada", "Distinción TE/CHE", "Uso de 'cuatro' e 'cuando'"],
+    "correctIndex": 1,
+    "explanation": "✅ No Bloque Occidental aparece o seseo ('sapato') e a gheada ('amigho')."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que característica fonética distingue o Bloque Central?",
+    "options": ["Non hai gheada", "Ten gheada nalgunhas zonas", "Sempre seseo", "Uso de 'cuatro'"],
+    "correctIndex": 1,
+    "explanation": "✅ No Bloque Central pode aparecer gheada nalgunhas zonas."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que característica fonética distingue o Bloque Oriental?",
+    "options": ["Non hai gheada", "Hai seseo", "Hai cheísmo", "Uso de gheada en todas as zonas"],
+    "correctIndex": 0,
+    "explanation": "✅ No Bloque Oriental non hai gheada nin seseo."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que terminación se usa no Bloque Occidental para o substantivo 'irmán'?",
+    "options": ["-án para ambos xéneros", "-ao/-á", "-án só masculino", "-án só feminino"],
+    "correctIndex": 0,
+    "explanation": "✅ No Bloque Occidental a terminación é '-án' para ambos xéneros: o irmán / a irmán."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que terminación se usa no Bloque Central para o substantivo 'irmán'?",
+    "options": ["-án para ambos xéneros", "-ao/-á", "-án só masculino", "-án só feminino"],
+    "correctIndex": 1,
+    "explanation": "✅ No Bloque Central diferénciase o xénero con -ao/-á: o irmao / a irmá."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Que terminación se usa no Bloque Oriental para o substantivo 'irmán'?",
+    "options": ["-án para ambos xéneros", "-ao/-á", "-án só masculino", "-án só feminino"],
+    "correctIndex": 1,
+    "explanation": "✅ No Bloque Oriental tamén se distingue o xénero con -ao/-á: o irmao / a irmá."
+  },
+{
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na oración 'O meu sapato novo estragouse cando fun ver os cans do meu veciño', de que bloque dialectal é?",
+    "options": ["Bloque Occidental", "Bloque Central", "Bloque Oriental", "Ningún"],
+    "correctIndex": 0,
+    "explanation": "✅ É do Bloque Occidental porque aparece o seseo ('sapato') e o plural en -ns ('cans')."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na oración 'Onte colleches o autobús coa miña irmán para ir á vila', de que bloque dialectal é?",
+    "options": ["Bloque Occidental", "Bloque Central", "Bloque Oriental", "Ningún"],
+    "correctIndex": 0,
+    "explanation": "✅ É do Bloque Occidental porque se usa 'colleches' e a terminación '-án' para ambos xéneros ('irmán')."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na oración 'Os meus amighos sempre cantades moi ben nas festas do pobo', de que bloque dialectal é?",
+    "options": ["Bloque Occidental", "Bloque Central", "Bloque Oriental", "Ningún"],
+    "correctIndex": 0,
+    "explanation": "✅ É do Bloque Occidental porque aparece a gheada ('amighos') e o morfema '-des' ('cantades')."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na oración 'Os cas da aldea fuxiron mentres os ladrós durmían', de que bloque dialectal é?",
+    "options": ["Bloque Occidental", "Bloque Central", "Bloque Oriental", "Ningún"],
+    "correctIndex": 1,
+    "explanation": "✅ É do Bloque Central porque o plural de nomes en -n aparece como 'cas' e 'ladrós'."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na oración 'O irmao trouxo pan fresco e a irmá preparou café', de que bloque dialectal é?",
+    "options": ["Bloque Occidental", "Bloque Central", "Bloque Oriental", "Ningún"],
+    "correctIndex": 1,
+    "explanation": "✅ É do Bloque Central porque se distingue o xénero con -ao/-á ('irmao/irmá')."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na oración 'Cais son os que máis che gustan?', de que bloque dialectal é?",
+    "options": ["Bloque Occidental", "Bloque Central", "Bloque Oriental", "Ningún"],
+    "correctIndex": 2,
+    "explanation": "✅ É do Bloque Oriental porque o plural de nomes en -n aparece como 'cais'."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na oración 'Cuatro rapaces ladrois apareceron cando vos cantais na igrexa', de que bloque dialectal é?",
+    "options": ["Bloque Occidental", "Bloque Central", "Bloque Oriental", "Ningún"],
+    "correctIndex": 2,
+    "explanation": "✅ É do Bloque Oriental porque aparece 'cuatro', 'ladrois' e o morfema '-is' ('cantais')."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na oración 'Sempre dicimos cando chove, non cando vente', de que bloque dialectal é?",
+    "options": ["Bloque Occidental", "Bloque Central", "Bloque Oriental", "Ningún"],
+    "correctIndex": 1,
+    "explanation": "✅ É do Bloque Central porque se mantén a forma estándar 'cándo'."
+  },
+  {
+    "category": "variantes dialectais galegas",
+    "nivel": "6",
+    "materia": "Lingua Galega",
+    "unidad": "1",
+    "text": "Na oración 'Cando che vin, xa tiñas colliches o tren e os cans esperaban', de que bloque dialectal é?",
+    "options": ["Bloque Occidental", "Bloque Central", "Bloque Oriental", "Ningún"],
+    "correctIndex": 1,
+    "explanation": "✅ É do Bloque Central porque se usa 'colliches' e o plural en -ns ('cans')."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'CORRENDO', cal é o morfema derivativo?",
+    "options": ["endo", "corr", "ndo", "ren"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é '-endo', que indica acción en desenvolvemento (xerundio)."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'PANADERÍA', cal é o morfema derivativo?",
+    "options": ["pan", "ader", "ería", "ría"],
+    "correctIndex": 2,
+    "explanation": "✅ O morfema derivativo é '-ería', que indica lugar ou establecemento relacionado co lexema."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'SUBCAMPIÓN', cal é o morfema derivativo?",
+    "options": ["sub", "ión", "camp", "pi"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é 'sub-', prefixo que indica inferioridade ou segunda posición."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'DESMELLORADO', cal é o morfema flexivo?",
+    "options": ["ado", "des", "mellor", "or"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema flexivo é '-ado', que indica participio masculino singular."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'INCRIBLE', cal é o lexema?",
+    "options": ["cr", "in", "ible", "cri"],
+    "correctIndex": 3,
+    "explanation": "✅ O lexema é 'crib', que achega o significado principal da palabra 'incrible'."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'DESORDENADAS', cal é o lexema?",
+    "options": ["orden", "des", "adas", "den"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'orden', que achega o significado principal da palabra."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'ZAPATERÍA', cal é o lexema?",
+    "options": ["zap", "ater", "ería", "ría"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'zap', que achega o significado principal relacionado con zapatos."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'AMIGABLE', cal é o lexema?",
+    "options": ["amig", "able", "iga", "ble"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'amig', que achega o significado principal relacionado coa amizade."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'GATIÑO', cal é o lexema?",
+    "options": ["gat", "iño", "i", "ño"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'gat', que achega o significado principal relacionado con gato."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'FELIZMENTE', cal é o lexema?",
+    "options": ["feliz", "mente", "men", "te"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'feliz', que achega o significado principal da palabra."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'REESCRIBIR', cal é o lexema?",
+    "options": ["escrib", "re", "ir", "escri"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'escrib', que achega o significado principal relacionado coa acción de escribir."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'MODERNIZACIÓN', cal é o lexema?",
+    "options": ["modern", "ización", "iz", "ción"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'modern', que achega o significado principal relacionado coa modernidade."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'SUBCAMPIÓN', cal é o lexema?",
+    "options": ["camp", "sub", "ión", "pi"],
+    "correctIndex": 0,
+    "explanation": "✅ O lexema é 'camp', que achega o significado principal relacionado con 'campo' ou 'competición'."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'DESMELLORADO', cal é o morfema derivativo?",
+    "options": ["des", "mellor", "ado", "or"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é 'des-', prefixo que indica negación ou contrariedade."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'CANTAMOS', cal é o morfema flexivo?",
+    "options": ["cant", "amos", "mos", "a"],
+    "correctIndex": 1,
+    "explanation": "✅ O morfema flexivo é '-amos', que indica primeira persoa do plural en presente."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'INCRIBLE', cal é o morfema derivativo?",
+    "options": ["in", "cr", "ible", "cri"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é 'in-', prefixo que indica negación."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'DESORDENADAS', cal é o morfema flexivo?",
+    "options": ["des", "orden", "adas", "das"],
+    "correctIndex": 2,
+    "explanation": "✅ O morfema flexivo é '-adas', que marca feminino plural."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'ZAPATERÍA', cal é o morfema derivativo?",
+    "options": ["zap", "ater", "ería", "ría"],
+    "correctIndex": 2,
+    "explanation": "✅ O morfema derivativo é '-ería', que indica lugar ou establecemento."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'AMIGABLE', cal é o morfema derivativo?",
+    "options": ["amig", "able", "ble", "iga"],
+    "correctIndex": 1,
+    "explanation": "✅ O morfema derivativo é '-able', que indica capacidade ou cualidade."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'GATIÑO', cal é o morfema derivativo?",
+    "options": ["gat", "iño", "i", "ño"],
+    "correctIndex": 1,
+    "explanation": "✅ O morfema derivativo é '-iño', que indica diminutivo."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'FELIZMENTE', cal é o morfema derivativo?",
+    "options": ["feliz", "mente", "men", "te"],
+    "correctIndex": 1,
+    "explanation": "✅ O morfema derivativo é '-mente', que forma adverbios de modo."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'REESCRIBIR', cal é o morfema derivativo?",
+    "options": ["re", "escrib", "ir", "escri"],
+    "correctIndex": 0,
+    "explanation": "✅ O morfema derivativo é 're-', prefixo que indica repetición da acción."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'VOLTAREMOS', cal é o morfema flexivo?",
+    "options": ["volt", "aremos", "mos", "are"],
+    "correctIndex": 1,
+    "explanation": "✅ O morfema flexivo é '-aremos', que indica primeira persoa do plural en futuro."
+  },
+  {
+    "category": "lexemas e morfemas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-2",
+    "unidad": "2",
+    "text": "Na palabra 'MODERNIZACIÓN', cal é o morfema derivativo?",
+    "options": ["modern", "ización", "iz", "ción"],
+    "correctIndex": 1,
+    "explanation": "✅ O morfema derivativo é '-ización', que indica acción ou efecto de modernizar."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Na oración 'A rúa está baleira', que tipo de artigo aparece?",
+    "options": ["Determinado", "Indeterminado", "Plural", "Feminino"],
+    "correctIndex": 0,
+    "explanation": "✅ O artigo 'A' é determinado, singular e feminino."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Na oración 'Xandre ten un gato moi manso', que tipo de artigo aparece?",
+    "options": ["Determinado", "Indeterminado", "Plural", "Feminino"],
+    "correctIndex": 1,
+    "explanation": "✅ O artigo 'un' é indeterminado, singular e masculino."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Na oración 'Os libros están ordenados', que tipo de artigo aparece?",
+    "options": ["Determinado", "Indeterminado", "Singular", "Feminino"],
+    "correctIndex": 0,
+    "explanation": "✅ O artigo 'Os' é determinado, plural e masculino."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Na oración 'Eu teño unha enciclopedia de historia', que tipo de artigo aparece?",
+    "options": ["Determinado", "Indeterminado", "Plural", "Masculino"],
+    "correctIndex": 1,
+    "explanation": "✅ O artigo 'unha' é indeterminado, singular e feminino."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é o demostrativo correcto para indicar proximidade?",
+    "options": ["ese", "aquel", "este", "esa"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Este' indica proximidade respecto da persoa que fala."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é o demostrativo correcto para indicar distancia media?",
+    "options": ["este", "ese", "aquel", "esta"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Ese' indica distancia media respecto da persoa que fala."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é o demostrativo correcto para indicar lonxanía?",
+    "options": ["este", "ese", "aquel", "esta"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Aquel' indica lonxanía respecto da persoa que fala."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Na frase 'A súa mochila vermella', cal é o determinante posesivo?",
+    "options": ["súa", "mochila", "vermella", "a"],
+    "correctIndex": 0,
+    "explanation": "✅ O determinante posesivo é 'súa', que indica pertenza."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Na frase 'Os nosos país xogaron ao baloncesto', cal é o determinante posesivo?",
+    "options": ["os", "nosos", "país", "baloncesto"],
+    "correctIndex": 1,
+    "explanation": "✅ O determinante posesivo é 'nosos', que indica pertenza."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Na frase 'Os tres nenos xogaron aos bolos', que tipo de determinante aparece?",
+    "options": ["Numeral", "Indefinido", "Posesivo", "Interrogativo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Tres' é un numeral cardinal porque indica cantidade exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Na frase 'Xa tiña algún xogo de destreza', que tipo de determinante aparece?",
+    "options": ["Numeral", "Indefinido", "Posesivo", "Interrogativo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Algún' é un determinante indefinido porque indica cantidade non exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Na frase 'A rapaza vive no terceiro piso', que tipo de determinante aparece?",
+    "options": ["Numeral cardinal", "Numeral ordinal", "Indefinido", "Posesivo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Terceiro' é un numeral ordinal porque indica orde ou posición."
+  },
+{
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Que son os artigos?",
+    "options": [
+      "Determinantes que indican posesión",
+      "Determinantes que acompañan ao nome para indicar se é coñecido ou descoñecido",
+      "Determinantes que indican número ou orde",
+      "Determinantes que expresan cantidade descoñecida"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os artigos acompañan ao nome e indican se se trata dun ser coñecido ou descoñecido."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un artigo determinado?",
+    "options": ["un", "uns", "o", "unha"],
+    "correctIndex": 2,
+    "explanation": "✅ 'O' é un artigo determinado porque se refire a algo concreto e coñecido."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un artigo indeterminado?",
+    "options": ["o", "a", "os", "unha"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Unha' é un artigo indeterminado porque se refire a algo non concreto."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un demostrativo de cercanía?",
+    "options": ["ese", "aquel", "este", "esa"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Este' é un demostrativo de cercanía porque indica proximidade respecto da persoa que fala."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un demostrativo de lonxanía?",
+    "options": ["ese", "este", "aquel", "esa"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Aquel' é un demostrativo de lonxanía porque indica distancia respecto da persoa que fala."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un posesivo?",
+    "options": ["meu", "este", "un", "tres"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Meu' é un posesivo porque indica pertenza a unha persoa."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un numeral cardinal?",
+    "options": ["primeiro", "oitavo", "dous", "algún"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Dous' é un numeral cardinal porque indica cantidade exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un numeral ordinal?",
+    "options": ["tres", "oitavo", "moitos", "algúns"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Oitavo' é un numeral ordinal porque indica orde ou posición."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un indefinido?",
+    "options": ["dous", "oitavo", "moitos", "primeiro"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Moitos' é un indefinido porque indica cantidade non exacta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un interrogativo?",
+    "options": ["que", "meu", "este", "un"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Que' é un determinante interrogativo porque introduce unha pregunta."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal destes é un exclamativo?",
+    "options": ["cantos", "unha", "esa", "meu"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Cantos' é un determinante exclamativo porque expresa sorpresa ou intensidade."
+  },
+  {
+    "category": "determinantes",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Que característica teñen todos os determinantes?",
+    "options": [
+      "Son palabras que acompañan ao verbo",
+      "Son palabras que acompañan ao nome e concordan en xénero e número",
+      "Son palabras que acompañan ao adxectivo",
+      "Son palabras que acompañan ao adverbio"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os determinantes acompañan ao nome e concordan en xénero e número con el."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'O xardineiro plantou unhas flores preciosas no xardín da escola', que tipo de palabra é 'xardineiro'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Interrogativa"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Xardineiro' é derivada porque se forma de 'xardín' + sufixo '-eiro'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'O xardineiro plantou unhas flores preciosas no xardín da escola', que tipo de palabra é 'flores'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Ordinal"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Flor/flores' é primitiva porque non procede doutra palabra."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'As gaivotas sobrevoaban o porto mentres os mariñeiros descargaban o peixe', que tipo de palabra é 'mariñeiros'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Interrogativa"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Mariñeiros' é derivada porque se forma de 'mar' + sufixo '-eiro'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'As gaivotas sobrevoaban o porto mentres os mariñeiros descargaban o peixe', que tipo de palabra é 'porto'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Ordinal"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Porto' é primitiva porque non procede doutra palabra."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'O descontento dos veciños fixo que o alcalde organizase unha reunión', que tipo de palabra é 'descontento'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Interrogativa"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Descontento' é derivada porque se forma de 'contento' + prefixo 'des-'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'O descontento dos veciños fixo que o alcalde organizase unha reunión', que tipo de palabra é 'veciños'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Ordinal"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Veciño/veciños' é primitiva porque non procede doutra palabra."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'O neno miraba o arco da vella dende a ventá da súa casa', que tipo de palabra é 'arco da vella'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Interrogativa"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Arco da vella' é composta porque se forma da unión de varias palabras."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'O neno miraba o arco da vella dende a ventá da súa casa', que tipo de palabra é 'casa'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Ordinal"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Casa' é primitiva porque non procede doutra palabra."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'A avoa mercou un limpavaixelas novo porque o vello xa non funcionaba', que tipo de palabra é 'limpavaixelas'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Interrogativa"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Limpavaixelas' é composta porque se forma da unión de 'limpa' + 'vaixelas'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na oración 'A avoa mercou un limpavaixelas novo porque o vello xa non funcionaba', que tipo de palabra é 'avoa'?",
+    "options": ["Primitiva", "Derivada", "Composta", "Ordinal"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Avoa' é primitiva porque non procede doutra palabra."
+  },
+{
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Cal destas palabras é primitiva?",
+    "options": ["luz", "montañoso", "paraugas", "amabilidade"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Luz' é unha palabra primitiva porque non procede doutra palabra."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Cal destas palabras é derivada?",
+    "options": ["casa", "flor", "cariñoso", "pedra"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Cariñoso' é derivada porque se forma a partir da palabra 'cariño' máis o sufixo '-oso'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Cal destas palabras é composta?",
+    "options": ["rompepistas", "arboredo", "bravura", "luz"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Rompepistas' é composta porque se forma da unión de dúas palabras: 'rompe' + 'pistas'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na palabra 'montañoso', que tipo de palabra é?",
+    "options": ["Primitiva", "Derivada", "Composta", "Sobreesdrúxula"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Montañoso' é derivada porque se forma de 'montaña' + sufixo '-oso'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na palabra 'paraugas', que tipo de palabra é?",
+    "options": ["Primitiva", "Derivada", "Composta", "Indefinida"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Paraugas' é composta porque se forma de 'para' + 'augas'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na palabra 'amabilidade', que tipo de palabra é?",
+    "options": ["Primitiva", "Derivada", "Composta", "Numeral"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Amabilidade' é derivada porque se forma de 'amable' + sufixo '-idade'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na palabra 'papaventos', que tipo de palabra é?",
+    "options": ["Primitiva", "Derivada", "Composta", "Interrogativa"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Papaventos' é composta porque se forma de 'papa' + 'ventos'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na palabra 'leñador', que tipo de palabra é?",
+    "options": ["Primitiva", "Derivada", "Composta", "Posesiva"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Leñador' é derivada porque se forma de 'leña' + sufixo '-dor'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na palabra 'anteollo', que tipo de palabra é?",
+    "options": ["Primitiva", "Derivada", "Composta", "Ordinal"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Anteollo' é composta porque se forma de 'ante' + 'ollo'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na palabra 'bravura', que tipo de palabra é?",
+    "options": ["Primitiva", "Derivada", "Composta", "Indefinida"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Bravura' é derivada porque se forma de 'bravo' + sufixo '-ura'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na palabra 'arboredo', que tipo de palabra é?",
+    "options": ["Primitiva", "Derivada", "Composta", "Interrogativa"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Arboredo' é derivada porque se forma de 'árbore' + sufixo '-edo'."
+  },
+  {
+    "category": "palabras primitivas, derivadas e compostas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "4",
+    "text": "Na palabra 'sacaaugas', que tipo de palabra é?",
+    "options": ["Primitiva", "Derivada", "Composta", "Exclamativa"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Sacaaugas' é composta porque se forma de 'saca' + 'augas'."
+  },
+   {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'oso' e 'óso'?",
+    "options": ["Animal vs. óso do corpo", "Animal vs. bebida", "Animal vs. adxectivo", "Animal vs. pronome"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Oso' é o animal, mentres que 'óso' é o óso do corpo."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'mais' e 'máis'?",
+    "options": ["Conxunción vs. adverbio de cantidade", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Mais' é conxunción equivalente a 'pero', e 'máis' é adverbio de cantidade."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'te' e 'té'?",
+    "options": ["Pronome vs. infusión", "Pronome vs. artigo", "Pronome vs. adxectivo", "Pronome vs. verbo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Te' é pronome átono, e 'té' é a bebida (infusión)."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'do' e 'dó'?",
+    "options": ["Preposición vs. compaixón", "Artigo vs. pronome", "Animal vs. planta", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Do' é contracción de 'de + o', mentres que 'dó' significa compaixón ou loito."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'fora' e 'fóra'?",
+    "options": ["Verbo vs. adverbio de lugar", "Animal vs. planta", "Artigo vs. pronome", "Conxunción vs. numeral"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Fora' pode ser forma verbal (de ser ou ir), e 'fóra' é adverbio de lugar."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'presa' e 'présa'?",
+    "options": ["Dique vs. apuro", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Presa' pode ser dique ou cousa prendida, e 'présa' significa apuro."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'ves' e 'vés'?",
+    "options": ["Forma de ver vs. forma de vir", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Ves' é forma do verbo ver, e 'vés' é forma do verbo vir."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'pe' e 'pé'?",
+    "options": ["Letra vs. parte do corpo", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Pe' é a letra, e 'pé' é a parte do corpo."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'pola' e 'póla'?",
+    "options": ["Galiña vs. rama", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Pola' pode ser galiña ou contracción de 'por + a', e 'póla' é rama dunha árbore."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'vos' e 'vós'?",
+    "options": ["Pronome átono vs. pronome tónico", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Vos' é pronome átono, e 'vós' é pronome tónico."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'oso' e 'óso'?",
+    "options": ["Animal vs. óso do corpo", "Animal vs. bebida", "Animal vs. adxectivo", "Animal vs. pronome"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Oso' é o animal, mentres que 'óso' é o óso do corpo."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'mais' e 'máis'?",
+    "options": ["Conxunción vs. adverbio de cantidade", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Mais' é conxunción equivalente a 'pero', e 'máis' é adverbio de cantidade."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'te' e 'té'?",
+    "options": ["Pronome vs. infusión", "Pronome vs. artigo", "Pronome vs. adxectivo", "Pronome vs. verbo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Te' é pronome átono, e 'té' é a bebida (infusión)."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'do' e 'dó'?",
+    "options": ["Preposición vs. compaixón", "Artigo vs. pronome", "Animal vs. planta", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Do' é contracción de 'de + o', mentres que 'dó' significa compaixón ou loito."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'fora' e 'fóra'?",
+    "options": ["Verbo vs. adverbio de lugar", "Animal vs. planta", "Artigo vs. pronome", "Conxunción vs. numeral"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Fora' pode ser forma verbal (de ser ou ir), e 'fóra' é adverbio de lugar."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'presa' e 'présa'?",
+    "options": ["Dique vs. apuro", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Presa' pode ser dique ou cousa prendida, e 'présa' significa apuro."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'ves' e 'vés'?",
+    "options": ["Forma de ver vs. forma de vir", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Ves' é forma do verbo ver, e 'vés' é forma do verbo vir."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'pe' e 'pé'?",
+    "options": ["Letra vs. parte do corpo", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Pe' é a letra, e 'pé' é a parte do corpo."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'pola' e 'póla'?",
+    "options": ["Galiña vs. rama", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Pola' pode ser galiña ou contracción de 'por + a', e 'póla' é rama dunha árbore."
+  },
+  {
+    "category": "acento diacrítico",
+    "nivel": "6",
+    "materia": "Lingua-Galega-3",
+    "unidad": "3",
+    "text": "Cal é a diferenza entre 'vos' e 'vós'?",
+    "options": ["Pronome átono vs. pronome tónico", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Vos' é pronome átono, e 'vós' é pronome tónico."
   }
+
 ]
 
 

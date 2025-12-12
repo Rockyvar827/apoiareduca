@@ -1,19 +1,18 @@
 [
   {
-    "category": "lexemas y morfemas",
-    "nivel": "6",
-    "materia": "Lengua Castellana",
-    "unidad": "1",
-    "goal": "Formar una palabra que signifique 'volver a hacer algo'",
-    "pieces": {
-      "prefijos": ["re", "in", "des"],
-      "lexemas": ["hacer", "vivir", "romper"],
-      "sufijos": ["ar", "ción", "oso"]
-    },
-    "correctCombo": ["re", "hacer", "ar"],
-    "explanation": "✅ 'Rehacer' se forma con el prefijo 're-' + lexema 'hacer' + sufijo '-ar'."
+  "category": "lexemas y morfemas",
+  "nivel": 6,
+  "materia": "Lengua Castellana",
+  "unidad": 1,
+  "goal": "Formar una palabra que signifique 'volver a hacer algo'",
+  "pieces": {
+    "prefijos": ["re", "in", "des"],
+    "lexemas": ["hacer", "vivir", "romper"],
+    "sufijos": ["ar", "er", "ción", "oso"]
   },
-  {
+  "correctCombo": ["re", "hacer"],
+  "explanation": "✅ 'Rehacer' se forma con el prefijo 're-' + lexema 'hacer' (re + hacer = rehacer)."
+}, {
     "category": "lexemas y morfemas",
     "nivel": "6",
     "materia": "Lengua Castellana",
@@ -24,8 +23,8 @@
       "lexemas": ["cant", "bail", "pint"],
       "sufijos": ["ante", "ista", "ero"]
     },
-    "correctCombo": ["", "cant", "ante"],
-    "explanation": "✅ 'Cantante' se forma con el lexema 'cant' + sufijo '-ante'."
+    "correctCombo": ["cant", "ante"],
+    "explanation": "✅ 'Cantante' se forma con el lexema 'cant' + sufijo '-ante' (cant + ante = cantante)."
   },
   {
     "category": "lexemas y morfemas",
@@ -39,7 +38,7 @@
       "sufijos": ["o", "ar", "dad"]
     },
     "correctCombo": ["in", "complet", "o"],
-    "explanation": "✅ 'Incompleto' se forma con el prefijo 'in-' + lexema 'complet' + sufijo '-o'."
+    "explanation": "✅ 'Incompleto' se forma con el prefijo 'in-' + lexema 'complet' + sufijo '-o' (in + complet + o = incompleto)."
   },
   {
     "category": "lexemas y morfemas",
@@ -52,8 +51,8 @@
       "lexemas": ["frut", "pan", "moned"],
       "sufijos": ["ero", "al", "ista"]
     },
-    "correctCombo": ["", "frut", "al"],
-    "explanation": "✅ 'Frutal' indica lugar o relación con fruta, usando el lexema 'frut' + sufijo '-al'."
+    "correctCombo": ["frut", "ero"],
+    "explanation": "✅ 'Frutero' (frut + -ero) puede indicar el recipiente donde se guarda fruta o la persona/puesto que vende fruta; se ajusta al objetivo 'lugar donde se guarda fruta'."
   },
   {
     "category": "lexemas y morfemas",
@@ -67,6 +66,6 @@
       "sufijos": ["ar", "ón", "oso"]
     },
     "correctCombo": ["re", "busc", "ar"],
-    "explanation": "✅ 'Rebuscar' se forma con el prefijo 're-' + lexema 'busc' + sufijo '-ar'."
+    "explanation": "✅ 'Rebuscar' se forma con el prefijo 're-' + lexema 'busc' + sufijo '-ar' (re + busc + ar = rebuscar), y significa buscar con mayor intensidad o profundidad."
   }
 ]

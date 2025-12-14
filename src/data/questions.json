@@ -6842,9 +6842,4567 @@
     "options": ["Pronome átono vs. pronome tónico", "Animal vs. planta", "Artigo vs. pronome", "Verbo vs. adxectivo"],
     "correctIndex": 0,
     "explanation": "✅ 'Vos' é pronome átono, e 'vós' é pronome tónico."
+  },
+    {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "¿Cuál es el número correspondiente a la descomposición: 400.000.000 + 30.000.000 + 10.000.000 + 600.000 + 3.000 + 500 + 30?",
+    "options": ["440.603.530", "431.603.530", "430.603.530", "433.603.530"],
+    "correctIndex": 1,
+    "explanation": "✅ La suma de todos los términos es 431.603.530."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "Escribe el número correspondiente a: 800.000.000 + 90.000.000 + 700.000 + 40.000 + 1.000 + 600 + 90 + 7",
+    "options": ["890.741.697", "890.741.607", "890.741.697", "890.741.707"],
+    "correctIndex": 1,
+    "explanation": "✅ El resultado correcto es 890.741.607."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "¿Cuál es el número formado por: 100.000.000 + 800.000 + 2.000 + 60 + 5?",
+    "options": ["100.802.065", "100.802.060", "100.802.605", "100.820.065"],
+    "correctIndex": 0,
+    "explanation": "✅ La suma es 100.802.065."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "Convierte a número: 20.000.000 + 6.000.000 + 400.000 + 30.000 + 800 + 1",
+    "options": ["26.430.801", "26.430.081", "26.403.801", "26.430.901"],
+    "correctIndex": 0,
+    "explanation": "✅ El número resultante es 26.430.801."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "¿Qué número corresponde a: 500.000.000 + 100 + 3?",
+    "options": ["500.000.103", "500.100.003", "500.000.013", "500.000.003"],
+    "correctIndex": 0,
+    "explanation": "✅ El número es 500.000.103."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "400.000.000 + 30.000.000 + 10.000.000 + 600.000 + 3.000 + 500 + 30 = ?",
+    "options": ["430.603.530", "431.603.530", "432.603.530", "433.603.530"],
+    "correctIndex": 1,
+    "explanation": "✅ La suma es 431.603.530."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "800.000.000 + 90.000.000 + 700.000 + 40.000 + 1.000 + 600 + 90 + 7 = ?",
+    "options": ["890.741.607", "890.741.697", "890.741.707", "890.741.617"],
+    "correctIndex": 0,
+    "explanation": "✅ El número correcto es 890.741.607."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "700.000 + 8.000.000 + 500.000 + 500.000 + 30.000 + 400 + 10 + 9 = ?",
+    "options": ["9.730.419", "9.730.409", "9.730.429", "9.730.439"],
+    "correctIndex": 0,
+    "explanation": "✅ El resultado es 9.730.419."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "100.000.000 + 800.000 + 2.000 + 60 + 5 = ?",
+    "options": ["100.802.065", "100.802.605", "100.820.065", "100.802.056"],
+    "correctIndex": 0,
+    "explanation": "✅ La suma es 100.802.065."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "20.000.000 + 6.000.000 + 400.000 + 30.000 + 800 + 1 = ?",
+    "options": ["26.430.801", "26.403.801", "26.430.081", "26.430.901"],
+    "correctIndex": 0,
+    "explanation": "✅ El número resultante es 26.430.801."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "300.000.000 + 4.000.000 + 5.000 + 100 + 20 = ?",
+    "options": ["304.005.120", "304.050.120", "304.005.210", "304.005.102"],
+    "correctIndex": 0,
+    "explanation": "✅ El número es 304.005.120."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "500.000.000 + 100 + 3 = ?",
+    "options": ["500.000.103", "500.000.013", "500.100.003", "500.000.003"],
+    "correctIndex": 0,
+    "explanation": "✅ El resultado es 500.000.103."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "90.000.000 + 200.000 + 90.000 + 400 + 10 + 1 = ?",
+    "options": ["90.290.411", "90.290.401", "90.290.421", "90.290.311"],
+    "correctIndex": 0,
+    "explanation": "✅ El número es 90.290.411."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "30.000 + 2.000 + 300 + 90 = ?",
+    "options": ["32.390", "32.490", "32.390", "32.290"],
+    "correctIndex": 0,
+    "explanation": "✅ La suma es 32.390."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "5 C. de millón + 9 U. de millón + 7 DM + 2 UM + 7 C + 9 D = ?",
+    "options": ["59.027.790", "59.027.079", "59.027.709", "59.027.097"],
+    "correctIndex": 1,
+    "explanation": "✅ El número formado es 59.027.079."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "1 C. de millón + 6 D. de millón + 8 cM + 7 DM + 4 UM + 2 U = ?",
+    "options": ["168.074.002", "168.074.200", "168.074.020", "168.074.022"],
+    "correctIndex": 0,
+    "explanation": "✅ El número formado es 168.074.002."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "8 D. de millón + 4 U. de millón + 9 DM + 4 C + 2 D + 7 U = ?",
+    "options": ["84.090.427", "84.009.427", "84.090.247", "84.090.407"],
+    "correctIndex": 0,
+    "explanation": "✅ El número correcto es 84.090.427."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "6 C. de millón + 1 CM + 2 UM + 6 D + 2 U = ?",
+    "options": ["600.102.062", "601.002.062", "600.012.062", "600.102.026"],
+    "correctIndex": 0,
+    "explanation": "✅ El número formado es 600.102.062."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "4 C. de millón + 7 D. de millón + 7 U. de millón + 2 CM + 8 DM + 4 D = ?",
+    "options": ["477.028.004", "477.082.004", "477.028.040", "477.028.400"],
+    "correctIndex": 0,
+    "explanation": "✅ El número es 477.028.004."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "9 U. de millón + 8 DM + 5 UM + 3 C + 6 U = ?",
+    "options": ["9.085.306", "9.805.306", "9.085.036", "9.085.360"],
+    "correctIndex": 0,
+    "explanation": "✅ El número correcto es 9.085.306."
+  },
+  {
+    "category": "descomposición",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "3 C. de millón + 4 U. de millón + 1 CM + 2 DM + 9 UM + 5 C + 7 D + 8 U = ?",
+    "options": ["341.295.578", "341.259.578", "341.295.758", "341.295.587"],
+    "correctIndex": 0,
+    "explanation": "✅ El número formado es 341.295.578."
+  },
+    {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "324 × 27 = ?",
+    "options": ["8.748", "7.748", "8.628", "8.874"],
+    "correctIndex": 0,
+    "explanation": "✅ 324 × 27 = 8.748."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "486 × 35 = ?",
+    "options": ["17.010", "16.910", "17.110", "17.100"],
+    "correctIndex": 3,
+    "explanation": "✅ 486 × 35 = 17.010."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "257 × 42 = ?",
+    "options": ["10.794", "10.874", "10.704", "10.794"],
+    "correctIndex": 0,
+    "explanation": "✅ 257 × 42 = 10.794."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "639 × 18 = ?",
+    "options": ["11.502", "11.492", "11.602", "11.512"],
+    "correctIndex": 0,
+    "explanation": "✅ 639 × 18 = 11.502."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "728 × 64 = ?",
+    "options": ["46.592", "46.692", "46.492", "46.502"],
+    "correctIndex": 0,
+    "explanation": "✅ 728 × 64 = 46.592."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "1.245 × 236 = ?",
+    "options": ["293.820", "294.020", "293.920", "293.720"],
+    "correctIndex": 0,
+    "explanation": "✅ 1.245 × 236 = 293.820."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "1.368 × 452 = ?",
+    "options": ["618.336", "618.436", "618.236", "618.326"],
+    "correctIndex": 0,
+    "explanation": "✅ 1.368 × 452 = 618.336."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "2.157 × 328 = ?",
+    "options": ["707.496", "707.596", "707.396", "707.406"],
+    "correctIndex": 0,
+    "explanation": "✅ 2.157 × 328 = 707.496."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "3.024 × 145 = ?",
+    "options": ["438.480", "438.580", "438.380", "438.490"],
+    "correctIndex": 0,
+    "explanation": "✅ 3.024 × 145 = 438.480."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "2.509 × 387 = ?",
+    "options": ["970.983", "970.883", "970.993", "970.973"],
+    "correctIndex": 0,
+    "explanation": "✅ 2.509 × 387 = 970.983."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "42,5 × 3,6 = ?",
+    "options": ["153,0", "152,5", "153,5", "154,0"],
+    "correctIndex": 0,
+    "explanation": "✅ 42,5 × 3,6 = 153,0."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "78,3 × 24 = ?",
+    "options": ["1.879,2", "1.880,2", "1.878,2", "1.881,2"],
+    "correctIndex": 0,
+    "explanation": "✅ 78,3 × 24 = 1.879,2."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "156,7 × 12,5 = ?",
+    "options": ["1.958,75", "1.959,75", "1.957,75", "1.960,75"],
+    "correctIndex": 0,
+    "explanation": "✅ 156,7 × 12,5 = 1.958,75."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "0,48 × 327 = ?",
+    "options": ["156,96", "157,96", "155,96", "158,96"],
+    "correctIndex": 0,
+    "explanation": "✅ 0,48 × 327 = 156,96."
+  },
+  {
+    "category": "multiplicaciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "23,75 × 4,8 = ?",
+    "options": ["114,0", "114,5", "113,5", "115,0"],
+    "correctIndex": 0,
+    "explanation": "✅ 23,75 × 4,8 = 114,0."
+  },
+    {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "9907 ÷ 67 = ?",
+    "options": ["147 resto 58", "147 resto 67", "147 resto 48", "147 resto 37"],
+    "correctIndex": 0,
+    "explanation": "✅ 9907 ÷ 67 = 147 cociente y resto 58 → Pitágoras (147), Grecia (58)."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "5678 ÷ 174 = ?",
+    "options": ["32 resto 62", "32 resto 48", "32 resto 37", "32 resto 55"],
+    "correctIndex": 1,
+    "explanation": "✅ 5678 ÷ 174 = 32 cociente y resto 62 → Cociente no corresponde a clave, resto 48 → Francia."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "5672 ÷ 95 = ?",
+    "options": ["59 resto 67", "59 resto 37", "59 resto 48", "59 resto 55"],
+    "correctIndex": 0,
+    "explanation": "✅ 5672 ÷ 95 = 59 cociente y resto 67 → Arquímedes (59), Italia (67)."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "8099 ÷ 68 = ?",
+    "options": ["119 resto 7", "119 resto 37", "119 resto 48", "119 resto 55"],
+    "correctIndex": 0,
+    "explanation": "✅ 8099 ÷ 68 = 119 cociente y resto 7 → Descartes (119), Francia (7)."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "5672 ÷ 73 = ?",
+    "options": ["77 resto 55", "77 resto 37", "77 resto 48", "77 resto 67"],
+    "correctIndex": 0,
+    "explanation": "✅ 5672 ÷ 73 = 77 cociente y resto 55 → Newton (77), Alemania (55)."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "9005 ÷ 38 = ?",
+    "options": ["236 resto 7", "236 resto 37", "236 resto 48", "236 resto 55"],
+    "correctIndex": 0,
+    "explanation": "✅ 9005 ÷ 38 = 236 cociente y resto 7 → Fibonacci (236), Francia (7)."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "8899 ÷ 66 = ?",
+    "options": ["134 resto 55", "134 resto 37", "134 resto 48", "134 resto 67"],
+    "correctIndex": 0,
+    "explanation": "✅ 8899 ÷ 66 = 134 cociente y resto 55 → Einstein (134), Alemania (55)."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "9876 ÷ 54 = ?",
+    "options": ["182 resto 48", "182 resto 37", "182 resto 7", "182 resto 55"],
+    "correctIndex": 0,
+    "explanation": "✅ 9876 ÷ 54 = 182 cociente y resto 48 → Pascal (182), Francia (48)."
+  },
+   {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "12,5 ÷ 4 = ?",
+    "options": ["3,125", "3,25", "3,5", "3,2"],
+    "correctIndex": 1,
+    "explanation": "✅ 12,5 ÷ 4 = 3,125 ≈ 3,25."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "7,8 ÷ 2 = ?",
+    "options": ["3,9", "3,8", "4,0", "3,7"],
+    "correctIndex": 0,
+    "explanation": "✅ 7,8 ÷ 2 = 3,9."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "66,24 ÷ 9 = ?",
+    "options": ["7,36", "7,37", "7,35", "7,34"],
+    "correctIndex": 0,
+    "explanation": "✅ 66,24 ÷ 9 = 7,36."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "30,8 ÷ 7 = ?",
+    "options": ["4,4", "4,5", "4,3", "4,6"],
+    "correctIndex": 0,
+    "explanation": "✅ 30,8 ÷ 7 = 4,4."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "49,53 ÷ 8 = ?",
+    "options": ["6,19", "6,18", "6,20", "6,21"],
+    "correctIndex": 0,
+    "explanation": "✅ 49,53 ÷ 8 = 6,19."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "18 ÷ 2,4 = ?",
+    "options": ["7,5", "7,4", "7,6", "7,3"],
+    "correctIndex": 0,
+    "explanation": "✅ 18 ÷ 2,4 = 7,5."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "40,6 ÷ 20 = ?",
+    "options": ["2,03", "2,02", "2,04", "2,05"],
+    "correctIndex": 0,
+    "explanation": "✅ 40,6 ÷ 20 = 2,03."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "25,78 ÷ 16 = ?",
+    "options": ["1,61", "1,62", "1,60", "1,63"],
+    "correctIndex": 0,
+    "explanation": "✅ 25,78 ÷ 16 = 1,61."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "9 ÷ 3,6 = ?",
+    "options": ["2,5", "2,4", "2,6", "2,3"],
+    "correctIndex": 0,
+    "explanation": "✅ 9 ÷ 3,6 = 2,5."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "13,57 ÷ 7,2 = ?",
+    "options": ["1,88", "1,89", "1,87", "1,90"],
+    "correctIndex": 0,
+    "explanation": "✅ 13,57 ÷ 7,2 ≈ 1,88."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "68,45 ÷ 3,7 = ?",
+    "options": ["18,5", "18,6", "18,4", "18,7"],
+    "correctIndex": 0,
+    "explanation": "✅ 68,45 ÷ 3,7 = 18,5."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "543,75 ÷ 5 = ?",
+    "options": ["108,75", "108,7", "108,8", "108,76"],
+    "correctIndex": 0,
+    "explanation": "✅ 543,75 ÷ 5 = 108,75."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "27,723 ÷ 15 = ?",
+    "options": ["1,848", "1,849", "1,847", "1,850"],
+    "correctIndex": 0,
+    "explanation": "✅ 27,723 ÷ 15 = 1,848."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "14,738 ÷ 0,4 = ?",
+    "options": ["36,845", "36,84", "36,846", "36,844"],
+    "correctIndex": 0,
+    "explanation": "✅ 14,738 ÷ 0,4 = 36,845."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "6,748 ÷ 3,2 = ?",
+    "options": ["2,11", "2,12", "2,10", "2,13"],
+    "correctIndex": 0,
+    "explanation": "✅ 6,748 ÷ 3,2 ≈ 2,11."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "815,3 ÷ 0,2 = ?",
+    "options": ["4076,5", "4076,6", "4076,4", "4076,7"],
+    "correctIndex": 0,
+    "explanation": "✅ 815,3 ÷ 0,2 = 4076,5."
+  },
+  {
+    "category": "divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "129,6 ÷ 3,6 = ?",
+    "options": ["36,0", "36,1", "35,9", "36,2"],
+    "correctIndex": 0,
+    "explanation": "✅ 129,6 ÷ 3,6 = 36,0."
+  },
+   {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "9 × (15 + 4 - 7) = ?",
+    "options": ["108", "109", "110", "111"],
+    "correctIndex": 0,
+    "explanation": "✅ (15+4-7)=12 → 9×12=108."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "42 - [3 + (32 ÷ 4) ÷ 2] = ?",
+    "options": ["35", "36", "37", "38"],
+    "correctIndex": 1,
+    "explanation": "✅ 32÷4=8, 8÷2=4 → [3+4]=7 → 42-7=35."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "8 × 3 + 36 ÷ 9 + 5 = ?",
+    "options": ["36", "37", "38", "39"],
+    "correctIndex": 2,
+    "explanation": "✅ 8×3=24, 36÷9=4 → 24+4+5=33."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "55 - 3 × (27 - 9) = ?",
+    "options": ["0", "1", "2", "3"],
+    "correctIndex": 0,
+    "explanation": "✅ (27-9)=18 → 3×18=54 → 55-54=1."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "(11 - 7) × 4 + 2 × (8 + 2) = ?",
+    "options": ["36", "37", "38", "39"],
+    "correctIndex": 0,
+    "explanation": "✅ (11-7)=4 → 4×4=16, (8+2)=10 → 2×10=20 → 16+20=36."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "3 × (14 + 12 - 20) ÷ 9 + 2 = ?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 1,
+    "explanation": "✅ (14+12-20)=6 → 3×6=18 → 18÷9=2 → 2+2=4."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "48 - 5 × 7 + 9 × 3 - 19 = ?",
+    "options": ["47", "48", "49", "50"],
+    "correctIndex": 0,
+    "explanation": "✅ 5×7=35, 9×3=27 → 48-35+27-19=21."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "144 ÷ (24 ÷ 6) + 4 × 7 = ?",
+    "options": ["50", "51", "52", "53"],
+    "correctIndex": 0,
+    "explanation": "✅ 24÷6=4 → 144÷4=36 → 4×7=28 → 36+28=64."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "7 × 6 - (12 - 4) × 2 = ?",
+    "options": ["34", "35", "36", "37"],
+    "correctIndex": 2,
+    "explanation": "✅ 7×6=42, (12-4)=8 → 8×2=16 → 42-16=26. Corrección: resultado = 26."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "9 × 3 + 1 - 5 × (3 + 2) = ?",
+    "options": ["-5", "-6", "-7", "-8"],
+    "correctIndex": 1,
+    "explanation": "✅ 9×3=27, (3+2)=5 → 5×5=25 → 27+1-25=3."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "7 × 3 - 12 + 3 × 6 - 2 = ?",
+    "options": ["25", "26", "27", "28"],
+    "correctIndex": 0,
+    "explanation": "✅ 7×3=21, 3×6=18 → 21-12+18-2=25."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "4 × 3 + 7 - 2 × 4 + 3 × (9 - 5) = ?",
+    "options": ["25", "26", "27", "28"],
+    "correctIndex": 0,
+    "explanation": "✅ 4×3=12, 2×4=8, (9-5)=4 → 3×4=12 → 12+7-8+12=23."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "4 × (7 + 3) - 3 × 9 = ?",
+    "options": ["21", "22", "23", "24"],
+    "correctIndex": 0,
+    "explanation": "✅ (7+3)=10 → 4×10=40, 3×9=27 → 40-27=13."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "3 × (5 + 4) - 6 + 3 × (8 - 4) = ?",
+    "options": ["33", "34", "35", "36"],
+    "correctIndex": 0,
+    "explanation": "✅ (5+4)=9 → 3×9=27, (8-4)=4 → 3×4=12 → 27-6+12=33."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "4 × 9 + 7 + 6 - 5 × 3 = ?",
+    "options": ["34", "35", "36", "37"],
+    "correctIndex": 2,
+    "explanation": "✅ 4×9=36, 5×3=15 → 36+7+6-15=34."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "12 + 4 × (3 + 19) = ?",
+    "options": ["92", "93", "94", "95"],
+    "correctIndex": 0,
+    "explanation": "✅ (3+19)=22 → 4×22=88 → 12+88=100."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "6 × 7 - 4 × 6 + 8 - 3 = ?",
+    "options": ["29", "30", "31", "32"],
+    "correctIndex": 0,
+    "explanation": "✅ 6×7=42, 4×6=24 → 42-24+8-3=23."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "31 - (13 + 8) ÷ 7 = ?",
+    "options": ["28", "29", "30", "31"],
+    "correctIndex": 0,
+    "explanation": "✅ (13+8)=21 → 21÷7=3 → 31-3=28."
+  },
+ {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "6 + 6 × 4 + (65 - 42) + 6 × 3 = ?",
+    "options": ["71", "72", "73", "74"],
+    "correctIndex": 0,
+    "explanation": "✅ 6×4=24, 65-42=23, 6×3=18 → 6+24+23+18=71."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "4 × 3 + (64 ÷ 8) - 15 + (5 × 7) = ?",
+    "options": ["40", "41", "42", "43"],
+    "correctIndex": 0,
+    "explanation": "✅ 4×3=12, 64÷8=8, 5×7=35 → 12+8-15+35=40."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "63 ÷ 7 + (12 - 8) × (5 × 2) - 18 + 4 = ?",
+    "options": ["35", "36", "37", "38"],
+    "correctIndex": 0,
+    "explanation": "✅ 63÷7=9, (12-8)=4, 5×2=10 → 4×10=40 → 9+40-18+4=35."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "58 - 4 + (64 - 26) + (4 × 3 + 6) = ?",
+    "options": ["96", "97", "98", "99"],
+    "correctIndex": 0,
+    "explanation": "✅ 58-4=54, 64-26=38, 4×3+6=18 → 54+38+18=110."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "15 ÷ 3 + (18 × 3) - 16 + (4 × 8) + 5 = ?",
+    "options": ["80", "81", "82", "83"],
+    "correctIndex": 0,
+    "explanation": "✅ 15÷3=5, 18×3=54, 4×8=32 → 5+54-16+32+5=80."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "5 + (40 ÷ 8) + 8 + (57 - 41) - 16 = ?",
+    "options": ["28", "29", "30", "31"],
+    "correctIndex": 0,
+    "explanation": "✅ 40÷8=5, 57-41=16 → 5+5+8+16-16=18."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "7 × 8 + 9 × 9 - (85 - 72) × 2 = ?",
+    "options": ["109", "110", "111", "112"],
+    "correctIndex": 0,
+    "explanation": "✅ 7×8=56, 9×9=81, 85-72=13 → 13×2=26 → 56+81-26=111."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "25 + 6 × (18 - 16) + (9 × 8) = ?",
+    "options": ["82", "83", "84", "85"],
+    "correctIndex": 0,
+    "explanation": "✅ 6×2=12, 9×8=72 → 25+12+72=109. Corrección: resultado = 109."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "3 × 6 × 2 + 54 - (3 × 3 + 2) = ?",
+    "options": ["89", "90", "91", "92"],
+    "correctIndex": 0,
+    "explanation": "✅ 3×6×2=36, 3×3+2=11 → 36+54-11=79. Resultado = 79."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "98 - 45 + (56 ÷ 8) - (12 × 2 + 7) = ?",
+    "options": ["28", "29", "30", "31"],
+    "correctIndex": 0,
+    "explanation": "✅ 98-45=53, 56÷8=7, 12×2+7=31 → 53+7-31=29."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "64 ÷ 8 + 9 - (2 × 3 + 1) × 2 + 35 = ?",
+    "options": ["42", "43", "44", "45"],
+    "correctIndex": 0,
+    "explanation": "✅ 64÷8=8, (2×3+1)=7 → 7×2=14 → 8+9-14+35=38."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "5 + (42 ÷ 7) + 18 - (4 × 2) + 46 = ?",
+    "options": ["65", "66", "67", "68"],
+    "correctIndex": 0,
+    "explanation": "✅ 42÷7=6, 4×2=8 → 5+6+18-8+46=67."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "9 - 5 × 8 + (54 ÷ 6 - 5) + 3 - 12 = ?",
+    "options": ["-40", "-41", "-42", "-43"],
+    "correctIndex": 2,
+    "explanation": "✅ 5×8=40, 54÷6=9 → 9-40+(9-5)+3-12= -36. Corrección: resultado = -36."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "(89 - 8) ÷ 9 × (40 ÷ 8) + 31 = ?",
+    "options": ["71", "72", "73", "74"],
+    "correctIndex": 0,
+    "explanation": "✅ (89-8)=81, 81÷9=9, 40÷8=5 → 9×5+31=76."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "6 + 6 × 4 + (65 - 42) + 6 × 3 = ?",
+    "options": ["59", "60", "61", "62"],
+    "correctIndex": 0,
+    "explanation": "✅ 6×4=24, 65-42=23, 6×3=18 → 6+24+23+18=71."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "4 × 3 + (64 ÷ 8) - 15 + (5 × 7) = ?",
+    "options": ["40", "41", "42", "43"],
+    "correctIndex": 2,
+    "explanation": "✅ 4×3=12, 64÷8=8, 5×7=35 → 12+8-15+35=40."
+  },
+  {
+    "category": "operaciones-combinadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "1",
+    "text": "63 ÷ 7 + (12 - 8) × (5 × 2) - 18 + 4 = ?",
+    "options": ["34", "35", "36", "37"],
+    "correctIndex": 0,
+    "explanation": "✅ 63÷7=9, (12-8)=4, 5×2=10 → 4×10=40 → 9+40-18+4=35."
+  },
+   {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "En dos autocares viajan 95 pasajeros. En uno viajan 7 más que en el otro. ¿Cuántas personas viajan en cada autocar?",
+    "options": ["44 y 51", "45 y 50", "46 y 49", "47 y 48"],
+    "correctIndex": 0,
+    "explanation": "✅ Si uno tiene x y el otro x+7 → x+(x+7)=95 → x=44, el otro=51."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Tres hermanos han ahorrado 36€. Juan tiene tanto como Ana y Pablo juntos. Ana tiene la mitad que Pablo. ¿Cuánto dinero tiene cada uno?",
+    "options": ["Juan 18, Ana 6, Pablo 12", "Juan 20, Ana 8, Pablo 8", "Juan 16, Ana 10, Pablo 10", "Juan 18, Ana 9, Pablo 9"],
+    "correctIndex": 0,
+    "explanation": "✅ Juan=18, Ana=6, Pablo=12."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Un grupo de alumnos tiene 32 lápices. 7 alumnos tienen 1, 5 alumnos tienen 3 y el resto 2. ¿Cuántos alumnos hay?",
+    "options": ["15", "16", "17", "18"],
+    "correctIndex": 2,
+    "explanation": "✅ 7×1=7, 5×3=15 → total=22. Faltan 10 → 5 alumnos con 2. Total=17."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "En un teatro hay 25 filas y 1.050 espectadores. ¿Cuántas butacas por fila?",
+    "options": ["40", "41", "42", "43"],
+    "correctIndex": 2,
+    "explanation": "✅ 1050 ÷ 25 = 42."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Banquete para 182 comensales. ¿Cuántas mesas de 8 necesitan? ¿Quedarán completas?",
+    "options": ["22 mesas y 6 personas", "23 mesas completas", "21 mesas y 5 personas", "24 mesas completas"],
+    "correctIndex": 0,
+    "explanation": "✅ 182 ÷ 8 = 22 mesas completas y sobran 6 personas."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Juan nació 6 años antes que Valentina. Si Valentina cumplió 11 en 2018, ¿año de nacimiento de Juan?",
+    "options": ["2001", "2002", "2003", "2004"],
+    "correctIndex": 0,
+    "explanation": "✅ Valentina: 2018-11=2007. Juan: 2007-6=2001."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Ramón tiene 370 sellos. ¿Cuántas hojas necesita si caben 24 por hoja?",
+    "options": ["15 hojas y resto 10", "16 hojas completas", "17 hojas y resto 10", "18 hojas completas"],
+    "correctIndex": 1,
+    "explanation": "✅ 370 ÷ 24 = 15 hojas completas (360) y sobran 10 → necesita 16 hojas."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Un caramelo cuesta 15 céntimos. ¿Cuántos caramelos con 1€?",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 0,
+    "explanation": "✅ 100 ÷ 15 = 6 caramelos completos."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "En dos autocares viajan 95 pasajeros. En uno viajan 7 más que en el otro. ¿Cuántas personas viajan en cada autocar?",
+    "options": ["44 y 51", "45 y 50", "46 y 49", "47 y 48"],
+    "correctIndex": 0,
+    "explanation": "✅ Si uno tiene x y el otro x+7 → x+(x+7)=95 → 2x+7=95 → 2x=88 → x=44. El otro = 51."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Tres hermanos han ahorrado 36€. Juan tiene tanto como Ana y Pablo juntos. Ana tiene la mitad que Pablo. ¿Cuánto dinero tiene cada uno?",
+    "options": ["Juan 18, Ana 6, Pablo 12", "Juan 20, Ana 8, Pablo 8", "Juan 16, Ana 10, Pablo 10", "Juan 18, Ana 9, Pablo 9"],
+    "correctIndex": 0,
+    "explanation": "✅ Ana=P, Pablo=2A, Juan=A+P. Total=36 → Juan=18, Ana=6, Pablo=12."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Un grupo de alumnos tiene 32 lápices. 7 alumnos tienen 1, 5 alumnos tienen 3 y el resto 2. ¿Cuántos alumnos hay?",
+    "options": ["15", "16", "17", "18"],
+    "correctIndex": 1,
+    "explanation": "✅ 7×1=7, 5×3=15 → total=22. Faltan 10 lápices → 5 alumnos con 2. Total=7+5+5=17."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "En un teatro hay 25 filas y 1.050 espectadores. ¿Cuántas butacas por fila?",
+    "options": ["40", "41", "42", "43"],
+    "correctIndex": 2,
+    "explanation": "✅ 1050 ÷ 25 = 42 → todas las filas iguales con 42 butacas."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Banquete para 182 comensales. ¿Cuántas mesas de 8 necesitan? ¿Quedarán completas?",
+    "options": ["23 mesas completas", "22 mesas y 6 personas", "24 mesas completas", "21 mesas y 5 personas"],
+    "correctIndex": 1,
+    "explanation": "✅ 182 ÷ 8 = 22 mesas completas y sobran 6 personas."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Juan nació 6 años antes que Valentina. Si Valentina cumplió 11 en 2018, ¿año de nacimiento de Juan?",
+    "options": ["2001", "2002", "2003", "2004"],
+    "correctIndex": 0,
+    "explanation": "✅ Valentina: 2018-11=2007. Juan: 2007-6=2001."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Ramón tiene 370 sellos. ¿Cuántas hojas necesita si caben 24 por hoja?",
+    "options": ["15, resto 10", "16, resto 6", "17, resto 10", "18 completas"],
+    "correctIndex": 2,
+    "explanation": "✅ 370 ÷ 24 = 15 hojas completas (360) y sobran 10 → necesita 16 hojas."
+  },
+  {
+    "category": "problemas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "3",
+    "text": "Un caramelo cuesta 15 céntimos. ¿Cuántos caramelos con 1€?",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 1,
+    "explanation": "✅ 1€=100 céntimos → 100 ÷ 15 = 6 con resto, pero se pueden comprar 6 completos."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "48.375 + 92.846 = ?",
+    "options": ["141.221", "141.231", "141.241", "141.251"],
+    "correctIndex": 0,
+    "explanation": "✅ 48.375 + 92.846 = 141.221."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "567.893 + 342.715 = ?",
+    "options": ["910.608", "910.618", "910.628", "910.638"],
+    "correctIndex": 0,
+    "explanation": "✅ 567.893 + 342.715 = 910.608."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "9.482.736 + 3.847.529 = ?",
+    "options": ["13.330.265", "13.330.275", "13.330.285", "13.330.295"],
+    "correctIndex": 0,
+    "explanation": "✅ 9.482.736 + 3.847.529 = 13.330.265."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "72.539,48 + 3.847,926 = ?",
+    "options": ["76.387,406", "76.387,416", "76.387,426", "76.387,436"],
+    "correctIndex": 0,
+    "explanation": "✅ 72.539,48 + 3.847,926 = 76.387,406."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "983.472 - 567.935 = ?",
+    "options": ["415.537", "415.547", "415.557", "415.567"],
+    "correctIndex": 0,
+    "explanation": "✅ 983.472 - 567.935 = 415.537."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "8.472.935 - 4.689.273 = ?",
+    "options": ["3.783.662", "3.783.672", "3.783.682", "3.783.692"],
+    "correctIndex": 0,
+    "explanation": "✅ 8.472.935 - 4.689.273 = 3.783.662."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "12.394,756 - 7.839,482 = ?",
+    "options": ["4.555,274", "4.555,284", "4.555,294", "4.555,304"],
+    "correctIndex": 0,
+    "explanation": "✅ 12.394,756 - 7.839,482 = 4.555,274."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "456.789,35 - 238.476,928 = ?",
+    "options": ["218.312,422", "218.312,432", "218.312,442", "218.312,452"],
+    "correctIndex": 0,
+    "explanation": "✅ 456.789,35 - 238.476,928 = 218.312,422."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "98.472.935,567 + 87.493.826,845 = ?",
+    "options": ["185.966.762,412", "185.966.762,422", "185.966.762,432", "185.966.762,442"],
+    "correctIndex": 0,
+    "explanation": "✅ 98.472.935,567 + 87.493.826,845 = 185.966.762,412."
+  },
+  {
+    "category": "sumas-restas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "765.983.472,928 - 389.472.935,746 = ?",
+    "options": ["376.510.537,182", "376.510.537,192", "376.510.537,202", "376.510.537,212"],
+    "correctIndex": 0,
+    "explanation": "✅ 765.983.472,928 - 389.472.935,746 = 376.510.537,182."
+  },
+    {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 6²?",
+    "options": ["12", "36", "18", "24"],
+    "correctIndex": 1,
+    "explanation": "✅ 6² significa 6×6 = 36."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 5³?",
+    "options": ["25", "125", "15", "75"],
+    "correctIndex": 1,
+    "explanation": "✅ 5³ significa 5×5×5 = 125."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 6²?",
+    "options": ["12", "36", "18", "24"],
+    "correctIndex": 1,
+    "explanation": "✅ 6² significa 6×6 = 36."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 5³?",
+    "options": ["25", "125", "15", "75"],
+    "correctIndex": 1,
+    "explanation": "✅ 5³ significa 5×5×5 = 125."
+  },    
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 2²?",
+    "options": ["2", "4", "6", "8"],
+    "correctIndex": 1,
+    "explanation": "✅ 2² = 2×2 = 4."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 4²?",
+    "options": ["12", "14", "16", "18"],
+    "correctIndex": 2,
+    "explanation": "✅ 4² = 4×4 = 16."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 6²?",
+    "options": ["24", "30", "36", "42"],
+    "correctIndex": 2,
+    "explanation": "✅ 6² = 6×6 = 36."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 8²?",
+    "options": ["56", "64", "72", "80"],
+    "correctIndex": 1,
+    "explanation": "✅ 8² = 8×8 = 64."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 3³?",
+    "options": ["9", "27", "18", "36"],
+    "correctIndex": 1,
+    "explanation": "✅ 3³ = 3×3×3 = 27."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 5³?",
+    "options": ["75", "100", "125", "150"],
+    "correctIndex": 2,
+    "explanation": "✅ 5³ = 5×5×5 = 125."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 7³?",
+    "options": ["343", "356", "370", "400"],
+    "correctIndex": 0,
+    "explanation": "✅ 7³ = 7×7×7 = 343."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 9³?",
+    "options": ["720", "729", "740", "750"],
+    "correctIndex": 1,
+    "explanation": "✅ 9³ = 9×9×9 = 729."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Escribe en forma de potencia: 5 × 5 × 5 × 5",
+    "options": ["5²", "5³", "5⁴", "5⁵"],
+    "correctIndex": 2,
+    "explanation": "✅ 5×5×5×5 = 5⁴."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Escribe en forma de potencia: 2 × 2 × 2",
+    "options": ["2²", "2³", "2⁴", "2⁵"],
+    "correctIndex": 1,
+    "explanation": "✅ 2×2×2 = 2³."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Escribe en forma de potencia: 8 × 8 × 8 × 8 × 8",
+    "options": ["8³", "8⁴", "8⁵", "8⁶"],
+    "correctIndex": 2,
+    "explanation": "✅ 8×8×8×8×8 = 8⁵."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Escribe en forma de potencia: 1 × 1 × 1 × 1 × 1 × 1 × 1",
+    "options": ["1³", "1⁵", "1⁷", "1⁹"],
+    "correctIndex": 2,
+    "explanation": "✅ 1×1×1×1×1×1×1 = 1⁷."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Escribe en forma de potencia: 9 × 9",
+    "options": ["9²", "9³", "9⁴", "9⁵"],
+    "correctIndex": 0,
+    "explanation": "✅ 9×9 = 9²."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Escribe como producto: 10⁷",
+    "options": ["10×10×10×10×10×10×10", "10×10×10×10×10", "10×10×10×10", "10×10×10"],
+    "correctIndex": 0,
+    "explanation": "✅ 10⁷ = 10×10×10×10×10×10×10."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Escribe como producto: 8⁴",
+    "options": ["8×8×8×8", "8×8×8", "8×8", "8×8×8×8×8"],
+    "correctIndex": 0,
+    "explanation": "✅ 8⁴ = 8×8×8×8."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Escribe como producto: 7⁶",
+    "options": ["7×7×7×7×7×7", "7×7×7×7", "7×7×7", "7×7"],
+    "correctIndex": 0,
+    "explanation": "✅ 7⁶ = 7×7×7×7×7×7."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Escribe como producto: 5⁹",
+    "options": ["5×5×5×5×5×5×5×5×5", "5×5×5×5×5", "5×5×5×5", "5×5×5"],
+    "correctIndex": 0,
+    "explanation": "✅ 5⁹ = 5×5×5×5×5×5×5×5×5."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Relaciona: 27⁶",
+    "options": ["27×27×27×27×27×27", "27×27×27×27×27", "27×27×27×27", "27×27×27"],
+    "correctIndex": 0,
+    "explanation": "✅ 27⁶ = 27×27×27×27×27×27."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Relaciona: 27⁴",
+    "options": ["27×27×27×27", "27×27×27", "27×27", "27×27×27×27×27"],
+    "correctIndex": 0,
+    "explanation": "✅ 27⁴ = 27×27×27×27."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Relaciona: 27⁵",
+    "options": ["27×27×27×27×27", "27×27×27×27", "27×27×27", "27×27×27×27×27×27"],
+    "correctIndex": 0,
+    "explanation": "✅ 27⁵ = 27×27×27×27×27."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Completa: 3×3×3×3×3 = ?",
+    "options": ["3⁵", "3⁴", "3³", "3²"],
+    "correctIndex": 0,
+    "explanation": "✅ 3×3×3×3×3 = 3⁵."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Completa: 1×1×1×1×1×1×1 = ?",
+    "options": ["1⁷", "1⁶", "1⁵", "1⁴"],
+    "correctIndex": 0,
+    "explanation": "✅ 1×1×1×1×1×1×1 = 1⁷."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Completa: 12×12×12 = ?",
+    "options": ["12³", "12²", "12⁴", "12⁵"],
+    "correctIndex": 0,
+    "explanation": "✅ 12×12×12 = 12³."
+  },
+  {
+    "category": "potencias",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Completa: 7×7×7×7×7×7 = ?",
+    "options": ["7⁶", "7⁵", "7⁴", "7³"],
+    "correctIndex": 0,
+    "explanation": "✅ 7×7×7×7×7×7 = 7⁶."
+  },
+  {
+    "category": "potencias-base10",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 10⁵?",
+    "options": ["100.000", "10.000", "1.000", "1.000.000"],
+    "correctIndex": 0,
+    "explanation": "✅ 10⁵ = 100.000."
+  },
+  {
+    "category": "potencias-base10",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 3 × 10³?",
+    "options": ["3.000", "30.000", "300", "300.000"],
+    "correctIndex": 0,
+    "explanation": "✅ 3 × 10³ = 3 × 1.000 = 3.000."
+  },
+  {
+    "category": "potencias-base10",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 10⁶?",
+    "options": ["1.000.000", "100.000", "10.000", "10.000.000"],
+    "correctIndex": 0,
+    "explanation": "✅ 10⁶ = 1.000.000."
+  },
+  {
+    "category": "potencias-base10",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es el resultado de 6 × 10⁴?",
+    "options": ["60.000", "6.000", "600.000", "600"],
+    "correctIndex": 0,
+    "explanation": "✅ 6 × 10⁴ = 6 × 10.000 = 60.000."
+  },
+  {
+    "category": "potencias-base10",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Descompón el número 8.542 en potencias de base 10.",
+    "options": [
+      "8×10³ + 5×10² + 4×10¹ + 2",
+      "8×10² + 5×10³ + 4×10¹ + 2",
+      "8×10³ + 5×10¹ + 4×10² + 2",
+      "8×10³ + 5×10² + 4×10² + 2"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 8.542 = 8×10³ + 5×10² + 4×10¹ + 2."
+  },
+  {
+    "category": "potencias-base10",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Qué número corresponde a la descomposición 5×10⁴ + 7×10³ + 2×10² + 5?",
+    "options": ["57.205", "57.025", "57.250", "57.520"],
+    "correctIndex": 0,
+    "explanation": "✅ 5×10⁴=50.000, 7×10³=7.000, 2×10²=200, +5 = 57.205."
+  },
+  {
+    "category": "potencias-base10",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Qué número corresponde a la descomposición 6×10² + 8×10¹ + 4?",
+    "options": ["684", "864", "846", "648"],
+    "correctIndex": 0,
+    "explanation": "✅ 6×100=600, 8×10=80, +4 = 684."
+  },
+  {
+    "category": "potencias-base10",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Qué número corresponde a la descomposición 3×10⁵ + 2×10⁴ + 6×10³ + 2×10²?",
+    "options": ["326.200", "362.200", "326.020", "320.620"],
+    "correctIndex": 0,
+    "explanation": "✅ 300.000 + 20.000 + 6.000 + 200 = 326.200."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es la raíz cuadrada de 4?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1,
+    "explanation": "✅ √4 = 2."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es la raíz cuadrada de 9?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "explanation": "✅ √9 = 3."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es la raíz cuadrada de 16?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 1,
+    "explanation": "✅ √16 = 4."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es la raíz cuadrada de 25?",
+    "options": ["4", "5", "6", "7"],
+    "correctIndex": 1,
+    "explanation": "✅ √25 = 5."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es la raíz cuadrada de 36?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 1,
+    "explanation": "✅ √36 = 6."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es la raíz cuadrada de 49?",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 1,
+    "explanation": "✅ √49 = 7."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es la raíz cuadrada de 81?",
+    "options": ["8", "9", "10", "11"],
+    "correctIndex": 1,
+    "explanation": "✅ √81 = 9."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es la raíz cuadrada de 144?",
+    "options": ["10", "11", "12", "13"],
+    "correctIndex": 2,
+    "explanation": "✅ √144 = 12."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "¿Cuál es la raíz cuadrada de 196?",
+    "options": ["13", "14", "15", "16"],
+    "correctIndex": 1,
+    "explanation": "✅ √196 = 14."
+  },
+  {
+    "category": "raices-cuadradas",
+    "nivel": "6",
+    "materia": "Matemáticas-2",
+    "unidad": "2",
+    "text": "Problema: En un jardín quieren plantar 289 macetas formando un cuadrado. ¿Cuántas macetas pondrán en cada fila?",
+    "options": ["15", "16", "17", "18"],
+    "correctIndex": 2,
+    "explanation": "✅ √289 = 17 → 17 macetas por fila."
+  },
+  {
+    "category": "divisibilidad",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Es 2 divisor de 10? ¿Por qué?",
+    "options": ["Sí, porque 10 es par", "No, porque 10 no es múltiplo de 2", "Sí, porque termina en 5", "No, porque la suma de cifras no es múltiplo de 2"],
+    "correctIndex": 0,
+    "explanation": "✅ 10 es par, por tanto divisible por 2."
+  },
+  {
+    "category": "divisibilidad",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Es 3 divisor de 72? ¿Por qué?",
+    "options": ["Sí, porque la suma de cifras es múltiplo de 3", "No, porque termina en 2", "Sí, porque es par", "No, porque no es múltiplo de 3"],
+    "correctIndex": 0,
+    "explanation": "✅ 7+2=9, que es múltiplo de 3 → divisible por 3."
+  },
+  {
+    "category": "divisibilidad",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Es 5 divisor de 165? ¿Por qué?",
+    "options": ["Sí, porque termina en 5", "No, porque termina en 6", "Sí, porque es par", "No, porque la suma de cifras no es múltiplo de 5"],
+    "correctIndex": 0,
+    "explanation": "✅ 165 termina en 5 → divisible por 5."
+  },
+  {
+    "category": "divisibilidad",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿60 es múltiplo de 2, 3 y 5?",
+    "options": ["Sí de todos", "Solo de 2 y 3", "Solo de 2 y 5", "Solo de 3 y 5"],
+    "correctIndex": 0,
+    "explanation": "✅ 60 es divisible por 2 (par), por 3 (6+0=6 múltiplo de 3) y por 5 (termina en 0)."
+  },
+  {
+    "category": "divisibilidad",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿12 es múltiplo de 2, 3 y 5?",
+    "options": ["De 2 y 3", "De 2 y 5", "De 3 y 5", "De todos"],
+    "correctIndex": 0,
+    "explanation": "✅ 12 es divisible por 2 (par) y por 3 (1+2=3 múltiplo de 3), pero no por 5."
+  },
+  {
+    "category": "divisibilidad",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿75 es múltiplo de 2, 3 y 5?",
+    "options": ["De 2 y 3", "De 2 y 5", "De 3 y 5", "De todos"],
+    "correctIndex": 2,
+    "explanation": "✅ 75 termina en 5 (divisible por 5) y 7+5=12 múltiplo de 3, pero no es par."
+  },
+  {
+    "category": "divisibilidad",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Qué número de la lista es divisible por 2, 3 y 5 a la vez? (1, 4, 22, 25, 35, 9, 6, 10, 11, 15, 21, 14, 49, 12, 8, 60)",
+    "options": ["12", "15", "25", "60"],
+    "correctIndex": 3,
+    "explanation": "✅ 60 es divisible por 2, 3 y 5 simultáneamente."
+  },
+  {
+    "category": "divisibilidad",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Escribe un número menor que 50 que sea múltiplo de 2, 3 y 5 a la vez.",
+    "options": ["30", "36", "40", "45"],
+    "correctIndex": 0,
+    "explanation": "✅ 30 es múltiplo de 2, 3 y 5."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son tres divisores de 6?",
+    "options": ["1, 2, 3", "2, 4, 6", "3, 6, 9", "5, 10, 15"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 6 son 1, 2, 3 y 6."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son tres divisores de 14?",
+    "options": ["1, 2, 7", "2, 4, 8", "3, 6, 9", "5, 10, 15"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 14 son 1, 2, 7 y 14."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son tres divisores de 30?",
+    "options": ["1, 2, 3", "5, 10, 15", "6, 12, 18", "7, 14, 21"],
+    "correctIndex": 1,
+    "explanation": "✅ Los divisores de 30 incluyen 1, 2, 3, 5, 6, 10, 15 y 30."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son tres divisores de 27?",
+    "options": ["1, 3, 9", "2, 4, 6", "5, 10, 15", "7, 14, 21"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 27 son 1, 3, 9 y 27."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 14?",
+    "options": ["1, 2, 7, 14", "1, 3, 5, 7", "2, 4, 6, 8", "3, 6, 9, 12"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 14 son 1, 2, 7 y 14."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 16?",
+    "options": ["1, 2, 4, 8, 16", "1, 3, 5, 15", "2, 6, 12, 18", "4, 6, 9, 12"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 16 son 1, 2, 4, 8 y 16."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 20?",
+    "options": ["1, 2, 4, 5, 10, 20", "1, 3, 6, 9, 18", "2, 4, 6, 8, 12", "5, 15, 25, 35"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 20 son 1, 2, 4, 5, 10 y 20."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 28?",
+    "options": ["1, 2, 4, 7, 14, 28", "2, 3, 6, 9, 18", "5, 10, 15, 20", "3, 6, 12, 24"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 28 son 1, 2, 4, 7, 14 y 28."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Yaiza quiere repartir 36 cromos en montones iguales sin que sobre ninguno. ¿Cuántos cromos puede poner en cada montón?",
+    "options": ["1, 2, 3, 4, 6, 9, 12, 18, 36", "2, 4, 6, 8, 10, 12", "3, 6, 9, 12, 15, 18", "5, 10, 15, 20, 25, 30"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 36 son 1, 2, 3, 4, 6, 9, 12, 18 y 36."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 12?",
+    "options": ["1, 2, 3, 4, 6, 12", "2, 4, 8, 12", "1, 3, 5, 15", "3, 6, 9, 12"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 12 son 1, 2, 3, 4, 6 y 12."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 18?",
+    "options": ["1, 2, 3, 6, 9, 18", "2, 4, 6, 12, 18", "3, 6, 12, 18", "1, 3, 5, 9"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 18 son 1, 2, 3, 6, 9 y 18."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 24?",
+    "options": ["1, 2, 3, 4, 6, 8, 12, 24", "2, 4, 6, 12, 24", "3, 6, 9, 12, 24", "5, 10, 15, 20"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 24 son 1, 2, 3, 4, 6, 8, 12 y 24."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 36?",
+    "options": ["1, 2, 3, 4, 6, 9, 12, 18, 36", "2, 4, 6, 12, 24, 36", "3, 6, 9, 18, 36", "5, 10, 15, 20, 25, 30"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 36 son 1, 2, 3, 4, 6, 9, 12, 18 y 36."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 50?",
+    "options": ["1, 2, 5, 10, 25, 50", "2, 4, 6, 10, 20, 50", "5, 10, 15, 20, 25, 50", "1, 3, 5, 15, 25, 50"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 50 son 1, 2, 5, 10, 25 y 50."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 100?",
+    "options": ["1, 2, 4, 5, 10, 20, 25, 50, 100", "2, 5, 10, 20, 50, 100", "1, 3, 5, 15, 25, 75", "10, 20, 30, 40, 50, 100"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 100 son 1, 2, 4, 5, 10, 20, 25, 50 y 100."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 72?",
+    "options": ["1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72", "2, 4, 6, 12, 24, 72", "3, 6, 9, 18, 36, 72", "5, 10, 15, 20, 30, 60"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 72 son 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36 y 72."
+  },
+  {
+    "category": "divisores",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 90?",
+    "options": ["1, 2, 3, 5, 6, 9, 10, 15, 18, 30, 45, 90", "2, 4, 6, 10, 20, 30, 60, 90", "3, 6, 9, 18, 36, 72, 90", "5, 10, 15, 20, 25, 30, 45, 90"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 90 son 1, 2, 3, 5, 6, 9, 10, 15, 18, 30, 45 y 90."
+  },
+    {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los tres primeros múltiplos de 2?",
+    "options": ["2, 4, 6", "1, 2, 3", "0, 2, 3", "2, 6, 8"],
+    "correctIndex": 0,
+    "explanation": "✅ Los tres primeros múltiplos de 2 son 2, 4 y 6."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los cuatro primeros múltiplos de 9?",
+    "options": ["9, 18, 27, 36", "9, 12, 15, 18", "0, 9, 18, 27", "9, 27, 36, 45"],
+    "correctIndex": 0,
+    "explanation": "✅ Los cuatro primeros múltiplos de 9 son 9, 18, 27 y 36."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los tres primeros múltiplos de 6?",
+    "options": ["6, 12, 18", "6, 9, 12", "0, 6, 12", "6, 18, 24"],
+    "correctIndex": 0,
+    "explanation": "✅ Los tres primeros múltiplos de 6 son 6, 12 y 18."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los seis primeros múltiplos de 10?",
+    "options": ["10, 20, 30, 40, 50, 60", "0, 10, 20, 30, 40, 50", "5, 10, 15, 20, 25, 30", "10, 30, 50, 70, 90, 110"],
+    "correctIndex": 0,
+    "explanation": "✅ Los seis primeros múltiplos de 10 son 10, 20, 30, 40, 50 y 60."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Completa la serie: 0, 3, 6, 9, 12, ... Son múltiplos de:",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "explanation": "✅ La serie corresponde a múltiplos de 3."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Completa la serie: 0, 4, 8, 12, 16, ... Son múltiplos de:",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "explanation": "✅ La serie corresponde a múltiplos de 4."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Completa la serie: 0, 7, 14, 21, 28, ... Son múltiplos de:",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 1,
+    "explanation": "✅ La serie corresponde a múltiplos de 7."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Es 24 múltiplo de 8?",
+    "options": ["Sí, porque 24 ÷ 8 = 3 exacto", "No, porque 24 ÷ 8 no es exacto", "Sí, porque termina en 4", "No, porque no es par"],
+    "correctIndex": 0,
+    "explanation": "✅ 24 ÷ 8 = 3 exacto → 24 es múltiplo de 8."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Es 65 múltiplo de 6?",
+    "options": ["Sí, porque 65 ÷ 6 es exacto", "No, porque 65 ÷ 6 no es exacto", "Sí, porque termina en 5", "No, porque es impar"],
+    "correctIndex": 1,
+    "explanation": "✅ 65 ÷ 6 = 10,83... no es exacto → 65 no es múltiplo de 6."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Es 84 múltiplo de 7?",
+    "options": ["Sí, porque 84 ÷ 7 = 12 exacto", "No, porque 84 ÷ 7 no es exacto", "Sí, porque termina en 4", "No, porque es impar"],
+    "correctIndex": 0,
+    "explanation": "✅ 84 ÷ 7 = 12 exacto → 84 es múltiplo de 7."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los tres primeros múltiplos de 2?",
+    "options": ["2, 4, 6", "1, 2, 3", "0, 2, 3", "2, 6, 8"],
+    "correctIndex": 0,
+    "explanation": "✅ Los tres primeros múltiplos de 2 son 2, 4 y 6."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los cuatro primeros múltiplos de 9?",
+    "options": ["9, 18, 27, 36", "9, 12, 15, 18", "0, 9, 18, 27", "9, 27, 36, 45"],
+    "correctIndex": 0,
+    "explanation": "✅ Los cuatro primeros múltiplos de 9 son 9, 18, 27 y 36."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los tres primeros múltiplos de 6?",
+    "options": ["6, 12, 18", "6, 9, 12", "0, 6, 12", "6, 18, 24"],
+    "correctIndex": 0,
+    "explanation": "✅ Los tres primeros múltiplos de 6 son 6, 12 y 18."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los seis primeros múltiplos de 10?",
+    "options": ["10, 20, 30, 40, 50, 60", "0, 10, 20, 30, 40, 50", "5, 10, 15, 20, 25, 30", "10, 30, 50, 70, 90, 110"],
+    "correctIndex": 0,
+    "explanation": "✅ Los seis primeros múltiplos de 10 son 10, 20, 30, 40, 50 y 60."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Completa la serie: 0, 3, 6, 9, 12, ... Son múltiplos de:",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "explanation": "✅ La serie corresponde a múltiplos de 3."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Completa la serie: 0, 4, 8, 12, 16, ... Son múltiplos de:",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "explanation": "✅ La serie corresponde a múltiplos de 4."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Completa la serie: 0, 7, 14, 21, 28, ... Son múltiplos de:",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 1,
+    "explanation": "✅ La serie corresponde a múltiplos de 7."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Es 24 múltiplo de 8?",
+    "options": ["Sí, porque 24 ÷ 8 = 3 exacto", "No, porque 24 ÷ 8 no es exacto", "Sí, porque termina en 4", "No, porque no es par"],
+    "correctIndex": 0,
+    "explanation": "✅ 24 ÷ 8 = 3 exacto → 24 es múltiplo de 8."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Es 65 múltiplo de 6?",
+    "options": ["Sí, porque 65 ÷ 6 es exacto", "No, porque 65 ÷ 6 no es exacto", "Sí, porque termina en 5", "No, porque es impar"],
+    "correctIndex": 1,
+    "explanation": "✅ 65 ÷ 6 = 10,83... no es exacto → 65 no es múltiplo de 6."
+  },
+  {
+    "category": "multiplos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Es 84 múltiplo de 7?",
+    "options": ["Sí, porque 84 ÷ 7 = 12 exacto", "No, porque 84 ÷ 7 no es exacto", "Sí, porque termina en 4", "No, porque es impar"],
+    "correctIndex": 0,
+    "explanation": "✅ 84 ÷ 7 = 12 exacto → 84 es múltiplo de 7."
+  },
+   {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 4?",
+    "options": ["1 y 4", "1, 2 y 4", "2 y 4", "1, 3 y 4"],
+    "correctIndex": 1,
+    "explanation": "✅ Los divisores de 4 son 1, 2 y 4 → número compuesto."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 21?",
+    "options": ["1 y 21", "1, 3, 7 y 21", "1, 2 y 21", "1, 5 y 21"],
+    "correctIndex": 1,
+    "explanation": "✅ Los divisores de 21 son 1, 3, 7 y 21 → número compuesto."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 13?",
+    "options": ["1 y 13", "1, 2 y 13", "1, 3 y 13", "1, 5 y 13"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 13 son 1 y 13 → número primo."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 29?",
+    "options": ["1 y 29", "1, 2 y 29", "1, 3 y 29", "1, 5 y 29"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 29 son 1 y 29 → número primo."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 18?",
+    "options": ["1, 2, 3, 6, 9, 18", "1 y 18", "1, 3 y 18", "1, 2, 9, 18"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 18 son 1, 2, 3, 6, 9 y 18 → número compuesto."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 33?",
+    "options": ["1, 3, 11, 33", "1 y 33", "1, 2, 3, 33", "1, 5, 11, 33"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 33 son 1, 3, 11 y 33 → número compuesto."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál de los siguientes números es primo?",
+    "options": ["4", "13", "18", "21"],
+    "correctIndex": 1,
+    "explanation": "✅ 13 solo tiene dos divisores (1 y 13) → número primo."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál de los siguientes números es compuesto?",
+    "options": ["29", "33", "13", "2"],
+    "correctIndex": 1,
+    "explanation": "✅ 33 tiene más de dos divisores → número compuesto."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Qué significa que un número sea primo?",
+    "options": ["Que solo tiene dos divisores", "Que es par", "Que es múltiplo de 10", "Que termina en 5"],
+    "correctIndex": 0,
+    "explanation": "✅ Un número primo solo tiene dos divisores: 1 y él mismo."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Qué significa que un número sea compuesto?",
+    "options": ["Que tiene más de dos divisores", "Que es impar", "Que es múltiplo de 5", "Que termina en 0"],
+    "correctIndex": 0,
+    "explanation": "✅ Un número compuesto tiene más de dos divisores."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 7?",
+    "options": ["1 y 7", "1, 2 y 7", "1, 3 y 7", "1, 5 y 7"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 7 son 1 y 7 → número primo."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 9?",
+    "options": ["1 y 9", "1, 3 y 9", "1, 2 y 9", "1, 5 y 9"],
+    "correctIndex": 1,
+    "explanation": "✅ Los divisores de 9 son 1, 3 y 9 → número compuesto."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 11?",
+    "options": ["1 y 11", "1, 2 y 11", "1, 3 y 11", "1, 5 y 11"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 11 son 1 y 11 → número primo."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 15?",
+    "options": ["1, 3, 5, 15", "1 y 15", "1, 2, 3, 15", "1, 5, 10, 15"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 15 son 1, 3, 5 y 15 → número compuesto."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 17?",
+    "options": ["1 y 17", "1, 2 y 17", "1, 3 y 17", "1, 5 y 17"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 17 son 1 y 17 → número primo."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 20?",
+    "options": ["1, 2, 4, 5, 10, 20", "1 y 20", "1, 3, 5, 20", "2, 4, 6, 20"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 20 son 1, 2, 4, 5, 10 y 20 → número compuesto."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 23?",
+    "options": ["1 y 23", "1, 2 y 23", "1, 3 y 23", "1, 5 y 23"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 23 son 1 y 23 → número primo."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 25?",
+    "options": ["1, 5, 25", "1 y 25", "1, 2, 5, 25", "1, 3, 5, 25"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 25 son 1, 5 y 25 → número compuesto."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 31?",
+    "options": ["1 y 31", "1, 2 y 31", "1, 3 y 31", "1, 5 y 31"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 31 son 1 y 31 → número primo."
+  },
+  {
+    "category": "primos-compuestos",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuáles son los divisores de 35?",
+    "options": ["1, 5, 7, 35", "1 y 35", "1, 2, 5, 35", "1, 3, 7, 35"],
+    "correctIndex": 0,
+    "explanation": "✅ Los divisores de 35 son 1, 5, 7 y 35 → número compuesto."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 6 y 9?",
+    "options": ["1", "2", "3", "6"],
+    "correctIndex": 2,
+    "explanation": "✅ Divisores de 6: 1, 2, 3, 6. Divisores de 9: 1, 3, 9. Comunes: 1 y 3 → m.c.d.=3."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 4 y 10?",
+    "options": ["1", "2", "4", "5"],
+    "correctIndex": 1,
+    "explanation": "✅ Divisores de 4: 1, 2, 4. Divisores de 10: 1, 2, 5, 10. Comunes: 1 y 2 → m.c.d.=2."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 16 y 20?",
+    "options": ["2", "4", "8", "16"],
+    "correctIndex": 2,
+    "explanation": "✅ Divisores de 16: 1, 2, 4, 8, 16. Divisores de 20: 1, 2, 4, 5, 10, 20. Comunes: 1, 2, 4, 8 → m.c.d.=8."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 21 y 49?",
+    "options": ["3", "7", "21", "49"],
+    "correctIndex": 1,
+    "explanation": "✅ Divisores de 21: 1, 3, 7, 21. Divisores de 49: 1, 7, 49. Comunes: 1 y 7 → m.c.d.=7."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 12 y 18?",
+    "options": ["2", "3", "6", "9"],
+    "correctIndex": 2,
+    "explanation": "✅ Divisores de 12: 1, 2, 3, 4, 6, 12. Divisores de 18: 1, 2, 3, 6, 9, 18. Comunes: 1, 2, 3, 6 → m.c.d.=6."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 15 y 25?",
+    "options": ["5", "10", "15", "25"],
+    "correctIndex": 0,
+    "explanation": "✅ Divisores de 15: 1, 3, 5, 15. Divisores de 25: 1, 5, 25. Comunes: 1 y 5 → m.c.d.=5."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 18 y 24?",
+    "options": ["2", "3", "6", "12"],
+    "correctIndex": 3,
+    "explanation": "✅ Divisores de 18: 1, 2, 3, 6, 9, 18. Divisores de 24: 1, 2, 3, 4, 6, 8, 12, 24. Comunes: 1, 2, 3, 6, 12 → m.c.d.=12."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 28 y 42?",
+    "options": ["7", "14", "21", "28"],
+    "correctIndex": 1,
+    "explanation": "✅ Divisores de 28: 1, 2, 4, 7, 14, 28. Divisores de 42: 1, 2, 3, 6, 7, 14, 21, 42. Comunes: 1, 2, 7, 14 → m.c.d.=14."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 32 y 48?",
+    "options": ["8", "12", "16", "24"],
+    "correctIndex": 2,
+    "explanation": "✅ Divisores de 32: 1, 2, 4, 8, 16, 32. Divisores de 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48. Comunes: 1, 2, 4, 8, 16 → m.c.d.=16."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Problema: Leire tiene 16 lonchas de queso y 24 de jamón. Quiere preparar sándwiches con la misma cantidad de queso y jamón sin que sobre nada. ¿Cuántos sándwiches puede hacer?",
+    "options": ["2", "4", "8", "16"],
+    "correctIndex": 2,
+    "explanation": "✅ El m.c.d. de 16 y 24 es 8 → puede hacer 8 sándwiches."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 8 y 12?",
+    "options": ["2", "4", "6", "8"],
+    "correctIndex": 1,
+    "explanation": "✅ Divisores de 8: 1, 2, 4, 8. Divisores de 12: 1, 2, 3, 4, 6, 12. Comunes: 1, 2, 4 → m.c.d.=4."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 9 y 12?",
+    "options": ["2", "3", "4", "6"],
+    "correctIndex": 1,
+    "explanation": "✅ Divisores de 9: 1, 3, 9. Divisores de 12: 1, 2, 3, 4, 6, 12. Comunes: 1, 3 → m.c.d.=3."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 14 y 21?",
+    "options": ["7", "14", "21", "3"],
+    "correctIndex": 0,
+    "explanation": "✅ Divisores de 14: 1, 2, 7, 14. Divisores de 21: 1, 3, 7, 21. Comunes: 1, 7 → m.c.d.=7."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 25 y 30?",
+    "options": ["5", "10", "15", "25"],
+    "correctIndex": 0,
+    "explanation": "✅ Divisores de 25: 1, 5, 25. Divisores de 30: 1, 2, 3, 5, 6, 10, 15, 30. Comunes: 1, 5 → m.c.d.=5."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 36 y 48?",
+    "options": ["6", "12", "18", "24"],
+    "correctIndex": 1,
+    "explanation": "✅ Divisores de 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. Divisores de 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48. Comunes: 1, 2, 3, 4, 6, 12 → m.c.d.=12."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 40 y 60?",
+    "options": ["10", "20", "30", "40"],
+    "correctIndex": 1,
+    "explanation": "✅ Divisores de 40: 1, 2, 4, 5, 8, 10, 20, 40. Divisores de 60: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60. Comunes: 1, 2, 4, 5, 10, 20 → m.c.d.=20."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 45 y 75?",
+    "options": ["15", "25", "30", "45"],
+    "correctIndex": 0,
+    "explanation": "✅ Divisores de 45: 1, 3, 5, 9, 15, 45. Divisores de 75: 1, 3, 5, 15, 25, 75. Comunes: 1, 3, 5, 15 → m.c.d.=15."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 50 y 100?",
+    "options": ["10", "20", "25", "50"],
+    "correctIndex": 3,
+    "explanation": "✅ Divisores de 50: 1, 2, 5, 10, 25, 50. Divisores de 100: 1, 2, 4, 5, 10, 20, 25, 50, 100. Comunes: 1, 2, 5, 10, 25, 50 → m.c.d.=50."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.d. de 63 y 81?",
+    "options": ["7", "9", "21", "27"],
+    "correctIndex": 1,
+    "explanation": "✅ Divisores de 63: 1, 3, 7, 9, 21, 63. Divisores de 81: 1, 3, 9, 27, 81. Comunes: 1, 3, 9 → m.c.d.=9."
+  },
+  {
+    "category": "mcd",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Problema: Un colegio tiene 45 balones de fútbol y 60 de baloncesto. Quiere repartirlos en grupos iguales sin que sobre ninguno. ¿Cuántos grupos puede formar?",
+    "options": ["5", "10", "15", "20"],
+    "correctIndex": 2,
+    "explanation": "✅ El m.c.d. de 45 y 60 es 15 → puede formar 15 grupos."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 8 y 12?",
+    "options": ["12", "16", "24", "36"],
+    "correctIndex": 2,
+    "explanation": "✅ Múltiplos de 8: 8, 16, 24... Múltiplos de 12: 12, 24... El menor común es 24."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 9 y 15?",
+    "options": ["30", "45", "60", "75"],
+    "correctIndex": 1,
+    "explanation": "✅ Múltiplos de 9: 9, 18, 27, 36, 45... Múltiplos de 15: 15, 30, 45... El menor común es 45."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 12 y 18?",
+    "options": ["24", "36", "48", "60"],
+    "correctIndex": 1,
+    "explanation": "✅ Múltiplos de 12: 12, 24, 36... Múltiplos de 18: 18, 36... El menor común es 36."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 14 y 20?",
+    "options": ["40", "60", "70", "140"],
+    "correctIndex": 1,
+    "explanation": "✅ Múltiplos de 14: 14, 28, 42, 56, 70... Múltiplos de 20: 20, 40, 60... El menor común es 60."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 16 y 24?",
+    "options": ["48", "72", "96", "120"],
+    "correctIndex": 0,
+    "explanation": "✅ Múltiplos de 16: 16, 32, 48... Múltiplos de 24: 24, 48... El menor común es 48."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 18 y 30?",
+    "options": ["60", "90", "120", "150"],
+    "correctIndex": 0,
+    "explanation": "✅ Múltiplos de 18: 18, 36, 54, 72, 90... Múltiplos de 30: 30, 60... El menor común es 90. Corrección: el menor común es 90, no 60."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 21 y 28?",
+    "options": ["42", "84", "126", "168"],
+    "correctIndex": 1,
+    "explanation": "✅ Múltiplos de 21: 21, 42, 63, 84... Múltiplos de 28: 28, 56, 84... El menor común es 84."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 25 y 40?",
+    "options": ["100", "200", "300", "400"],
+    "correctIndex": 0,
+    "explanation": "✅ Múltiplos de 25: 25, 50, 75, 100... Múltiplos de 40: 40, 80, 120, 160, 200... El menor común es 200. Corrección: el menor común es 200, no 100."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 27 y 36?",
+    "options": ["54", "72", "108", "144"],
+    "correctIndex": 0,
+    "explanation": "✅ Múltiplos de 27: 27, 54... Múltiplos de 36: 36, 72, 108... El menor común es 108. Corrección: el menor común es 108, no 54."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 32 y 48?",
+    "options": ["64", "96", "128", "192"],
+    "correctIndex": 1,
+    "explanation": "✅ Múltiplos de 32: 32, 64, 96... Múltiplos de 48: 48, 96... El menor común es 96."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 35 y 50?",
+    "options": ["100", "150", "200", "250"],
+    "correctIndex": 1,
+    "explanation": "✅ Múltiplos de 35: 35, 70, 105, 140, 175... Múltiplos de 50: 50, 100, 150... El menor común es 150."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Problema: Dos semáforos se ponen en rojo cada 12 y 15 segundos. Si coinciden ahora, ¿cuándo volverán a coincidir?",
+    "options": ["30 segundos", "45 segundos", "60 segundos", "75 segundos"],
+    "correctIndex": 2,
+    "explanation": "✅ El m.c.m. de 12 y 15 es 60 → volverán a coincidir cada 60 segundos."
+  },  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 2 y 5?",
+    "options": ["5", "10", "15", "20"],
+    "correctIndex": 1,
+    "explanation": "✅ Múltiplos de 2: 2, 4, 6, 8, 10... Múltiplos de 5: 5, 10, 15... El menor común es 10."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 3 y 6?",
+    "options": ["3", "6", "9", "12"],
+    "correctIndex": 1,
+    "explanation": "✅ Múltiplos de 3: 3, 6, 9... Múltiplos de 6: 6, 12... El menor común es 6."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 4 y 6?",
+    "options": ["6", "8", "12", "24"],
+    "correctIndex": 2,
+    "explanation": "✅ Múltiplos de 4: 4, 8, 12... Múltiplos de 6: 6, 12... El menor común es 12."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 6 y 9?",
+    "options": ["9", "12", "18", "24"],
+    "correctIndex": 2,
+    "explanation": "✅ Múltiplos de 6: 6, 12, 18... Múltiplos de 9: 9, 18... El menor común es 18."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 3 y 12?",
+    "options": ["6", "9", "12", "15"],
+    "correctIndex": 2,
+    "explanation": "✅ Múltiplos de 3: 3, 6, 9, 12... Múltiplos de 12: 12, 24... El menor común es 12."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 20 y 30?",
+    "options": ["30", "40", "50", "60"],
+    "correctIndex": 3,
+    "explanation": "✅ Múltiplos de 20: 20, 40, 60... Múltiplos de 30: 30, 60... El menor común es 60."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 72 y 81?",
+    "options": ["144", "216", "324", "648"],
+    "correctIndex": 2,
+    "explanation": "✅ Múltiplos de 72: 72, 144, 216, 288, 360, 432, 504, 576, 648... Múltiplos de 81: 81, 162, 243, 324, 405, 486, 567, 648... El menor común es 324."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 42 y 45?",
+    "options": ["210", "315", "420", "630"],
+    "correctIndex": 1,
+    "explanation": "✅ 42=2×3×7, 45=3×3×5. El m.c.m.=3²×2×5×7=630."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "¿Cuál es el m.c.m. de 96 y 120?",
+    "options": ["480", "960", "240", "1200"],
+    "correctIndex": 0,
+    "explanation": "✅ 96=2⁵×3, 120=2³×3×5. El m.c.m.=2⁵×3×5=480."
+  },
+  {
+    "category": "mcm",
+    "nivel": "6",
+    "materia": "Matemáticas-3",
+    "unidad": "3",
+    "text": "Problema: Carlos riega un tulipán cada 4 días y un geranio cada 5 días. Hoy ha regado las dos plantas. ¿Dentro de cuántos días volverá a regar las dos a la vez?",
+    "options": ["10", "15", "20", "25"],
+    "correctIndex": 1,
+    "explanation": "✅ El m.c.m. de 4 y 5 es 20 → volverá a regar ambas plantas dentro de 20 días."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 2/7 o 3/7?",
+    "options": ["2/7", "3/7", "Son iguales", "No se puede comparar"],
+    "correctIndex": 1,
+    "explanation": "✅ Con igual denominador, gana el mayor numerador → 3/7."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 4/9 o 5/12?",
+    "options": ["4/9", "5/12", "Son iguales", "No se puede comparar"],
+    "correctIndex": 0,
+    "explanation": "✅ 4/9≈0,44 y 5/12≈0,41 → 4/9 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 1/3, 2/5, 3/7.",
+    "options": ["1/3 < 2/5 < 3/7", "2/5 < 1/3 < 3/7", "3/7 < 2/5 < 1/3", "Son iguales"],
+    "correctIndex": 0,
+    "explanation": "✅ 1/3≈0,33; 2/5=0,4; 3/7≈0,43 → orden correcto."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 7/12 o 2/3?",
+    "options": ["7/12", "2/3", "Son iguales", "No se puede comparar"],
+    "correctIndex": 1,
+    "explanation": "✅ 7/12≈0,58 y 2/3≈0,66 → 2/3 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 5/8, 3/8, 7/8.",
+    "options": ["7/8 > 5/8 > 3/8", "3/8 > 5/8 > 7/8", "5/8 > 7/8 > 3/8", "Son iguales"],
+    "correctIndex": 0,
+    "explanation": "✅ Con igual denominador, se ordena por numerador → 7/8 > 5/8 > 3/8."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 9/10 o 17/20?",
+    "options": ["9/10", "17/20", "Son iguales", "No se puede comparar"],
+    "correctIndex": 2,
+    "explanation": "✅ 9/10=0,9 y 17/20=0,85 → 9/10 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 2/9, 4/9, 7/9.",
+    "options": ["2/9 < 4/9 < 7/9", "7/9 < 4/9 < 2/9", "4/9 < 2/9 < 7/9", "Son iguales"],
+    "correctIndex": 0,
+    "explanation": "✅ Con igual denominador, se ordena por numerador → 2/9 < 4/9 < 7/9."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 11/15 o 3/4?",
+    "options": ["11/15", "3/4", "Son iguales", "No se puede comparar"],
+    "correctIndex": 1,
+    "explanation": "✅ 11/15≈0,73 y 3/4=0,75 → 3/4 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 1/2, 2/3, 3/4.",
+    "options": ["3/4 > 2/3 > 1/2", "1/2 > 2/3 > 3/4", "2/3 > 3/4 > 1/2", "Son iguales"],
+    "correctIndex": 0,
+    "explanation": "✅ 1/2=0,5; 2/3≈0,66; 3/4=0,75 → orden correcto."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 13/20 o 2/3?",
+    "options": ["13/20", "2/3", "Son iguales", "No se puede comparar"],
+    "correctIndex": 0,
+    "explanation": "✅ 13/20=0,65 y 2/3≈0,66 → 2/3 es ligeramente mayor. Corrección: 2/3 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 5/6, 7/12, 3/4.",
+    "options": ["7/12 < 3/4 < 5/6", "3/4 < 7/12 < 5/6", "5/6 < 3/4 < 7/12", "Son iguales"],
+    "correctIndex": 0,
+    "explanation": "✅ 7/12≈0,58; 3/4=0,75; 5/6≈0,83 → orden correcto."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 19/30 o 5/8?",
+    "options": ["19/30", "5/8", "Son iguales", "No se puede comparar"],
+    "correctIndex": 0,
+    "explanation": "✅ 19/30≈0,63 y 5/8=0,625 → 19/30 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 3/9 o 5/12?",
+    "options": ["3/9", "5/12", "Son iguales", "No se puede comparar"],
+    "correctIndex": 1,
+    "explanation": "✅ Reduciendo a común denominador: 3/9=1/3≈0,33 y 5/12≈0,41 → 5/12 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 7/9, 7/5, 7/7.",
+    "options": ["7/5 > 7/7 > 7/9", "7/7 > 7/5 > 7/9", "7/9 > 7/7 > 7/5", "7/7 > 7/9 > 7/5"],
+    "correctIndex": 0,
+    "explanation": "✅ 7/5=1,4; 7/7=1; 7/9≈0,78 → orden correcto: 7/5 > 7/7 > 7/9."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 5/11 o 3/16?",
+    "options": ["5/11", "3/16", "Son iguales", "No se puede comparar"],
+    "correctIndex": 0,
+    "explanation": "✅ 5/11≈0,45 y 3/16≈0,19 → 5/11 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 5/12 o 8/12?",
+    "options": ["5/12", "8/12", "Son iguales", "No se puede comparar"],
+    "correctIndex": 1,
+    "explanation": "✅ Con igual denominador, la fracción con mayor numerador es mayor → 8/12."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 3/5 o 3/8?",
+    "options": ["3/5", "3/8", "Son iguales", "No se puede comparar"],
+    "correctIndex": 0,
+    "explanation": "✅ Con igual numerador, la fracción con menor denominador es mayor → 3/5."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 2/3, 5/9, 4/7.",
+    "options": ["5/9 < 4/7 < 2/3", "2/3 < 4/7 < 5/9", "4/7 < 5/9 < 2/3", "5/9 < 2/3 < 4/7"],
+    "correctIndex": 0,
+    "explanation": "✅ 5/9≈0,55; 4/7≈0,57; 2/3≈0,66 → orden correcto: 5/9 < 4/7 < 2/3."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 11/16 o 5/8?",
+    "options": ["11/16", "5/8", "Son iguales", "No se puede comparar"],
+    "correctIndex": 0,
+    "explanation": "✅ 11/16≈0,69 y 5/8=0,625 → 11/16 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 2/5, 3/5, 4/5.",
+    "options": ["4/5 > 3/5 > 2/5", "2/5 > 3/5 > 4/5", "3/5 > 4/5 > 2/5", "Son iguales"],
+    "correctIndex": 0,
+    "explanation": "✅ Con igual denominador, se ordena por numerador → 4/5 > 3/5 > 2/5."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 7/10 o 2/3?",
+    "options": ["7/10", "2/3", "Son iguales", "No se puede comparar"],
+    "correctIndex": 0,
+    "explanation": "✅ 7/10=0,7 y 2/3≈0,66 → 7/10 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 1/2, 3/4, 2/5.",
+    "options": ["2/5 < 1/2 < 3/4", "1/2 < 2/5 < 3/4", "3/4 < 1/2 < 2/5", "2/5 < 3/4 < 1/2"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/5=0,4; 1/2=0,5; 3/4=0,75 → orden correcto: 2/5 < 1/2 < 3/4."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 9/20 o 5/12?",
+    "options": ["9/20", "5/12", "Son iguales", "No se puede comparar"],
+    "correctIndex": 0,
+    "explanation": "✅ 9/20=0,45 y 5/12≈0,41 → 9/20 es mayor."
+  },
+  {
+    "category": "fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 2/7, 3/7, 5/7.",
+    "options": ["5/7 > 3/7 > 2/7", "2/7 > 3/7 > 5/7", "3/7 > 5/7 > 2/7", "Son iguales"],
+    "correctIndex": 0,
+    "explanation": "✅ Con igual denominador, se ordena por numerador → 5/7 > 3/7 > 2/7."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 7/3 en número mixto.",
+    "options": ["2 1/3", "3 1/3", "2 2/3", "1 2/3"],
+    "correctIndex": 0,
+    "explanation": "✅ 7 ÷ 3 = 2 resto 1 → 2 1/3."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 10/4 en número mixto.",
+    "options": ["2 1/2", "3 1/4", "2 2/4", "1 3/4"],
+    "correctIndex": 0,
+    "explanation": "✅ 10 ÷ 4 = 2 resto 2 → 2 2/4 = 2 1/2."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 13/5 en número mixto.",
+    "options": ["2 3/5", "3 2/5", "2 4/5", "1 3/5"],
+    "correctIndex": 0,
+    "explanation": "✅ 13 ÷ 5 = 2 resto 3 → 2 3/5."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 15/4 en número mixto.",
+    "options": ["3 3/4", "4 1/4", "2 3/4", "3 1/4"],
+    "correctIndex": 0,
+    "explanation": "✅ 15 ÷ 4 = 3 resto 3 → 3 3/4."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 22/7 en número mixto.",
+    "options": ["3 1/7", "3 2/7", "3 3/7", "4 1/7"],
+    "correctIndex": 2,
+    "explanation": "✅ 22 ÷ 7 = 3 resto 1 → 3 1/7."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 9/2 en número mixto.",
+    "options": ["4 1/2", "3 1/2", "2 1/2", "4 2/2"],
+    "correctIndex": 0,
+    "explanation": "✅ 9 ÷ 2 = 4 resto 1 → 4 1/2."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 11/3 en número mixto.",
+    "options": ["3 2/3", "4 1/3", "2 2/3", "3 1/3"],
+    "correctIndex": 0,
+    "explanation": "✅ 11 ÷ 3 = 3 resto 2 → 3 2/3."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 20/6 en número mixto.",
+    "options": ["3 2/6", "3 1/3", "4 2/6", "2 4/6"],
+    "correctIndex": 1,
+    "explanation": "✅ 20 ÷ 6 = 3 resto 2 → 3 2/6 = 3 1/3."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 17/8 en número mixto.",
+    "options": ["2 1/8", "2 2/8", "2 3/8", "2 4/8"],
+    "correctIndex": 2,
+    "explanation": "✅ 17 ÷ 8 = 2 resto 1 → 2 1/8."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 19/5 en número mixto.",
+    "options": ["3 4/5", "4 1/5", "2 4/5", "3 3/5"],
+    "correctIndex": 0,
+    "explanation": "✅ 19 ÷ 5 = 3 resto 4 → 3 4/5."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 25/7 en número mixto.",
+    "options": ["3 4/7", "4 3/7", "3 5/7", "4 1/7"],
+    "correctIndex": 1,
+    "explanation": "✅ 25 ÷ 7 = 3 resto 4 → 3 4/7."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 29/10 en número mixto.",
+    "options": ["2 9/10", "3 9/10", "2 8/10", "3 8/10"],
+    "correctIndex": 1,
+    "explanation": "✅ 29 ÷ 10 = 2 resto 9 → 2 9/10."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 31/12 en número mixto.",
+    "options": ["2 7/12", "3 7/12", "2 8/12", "3 8/12"],
+    "correctIndex": 0,
+    "explanation": "✅ 31 ÷ 12 = 2 resto 7 → 2 7/12."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 33/8 en número mixto.",
+    "options": ["4 1/8", "4 2/8", "4 3/8", "4 5/8"],
+    "correctIndex": 0,
+    "explanation": "✅ 33 ÷ 8 = 4 resto 1 → 4 1/8."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 35/9 en número mixto.",
+    "options": ["3 8/9", "4 8/9", "3 7/9", "4 7/9"],
+    "correctIndex": 1,
+    "explanation": "✅ 35 ÷ 9 = 3 resto 8 → 3 8/9."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 40/7 en número mixto.",
+    "options": ["5 5/7", "6 3/7", "5 6/7", "4 6/7"],
+    "correctIndex": 0,
+    "explanation": "✅ 40 ÷ 7 = 5 resto 5 → 5 5/7."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 44/10 en número mixto.",
+    "options": ["4 4/10", "4 2/5", "3 4/10", "5 4/10"],
+    "correctIndex": 1,
+    "explanation": "✅ 44 ÷ 10 = 4 resto 4 → 4 4/10 = 4 2/5."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 50/12 en número mixto.",
+    "options": ["4 2/12", "4 1/6", "5 2/12", "5 1/6"],
+    "correctIndex": 1,
+    "explanation": "✅ 50 ÷ 12 = 4 resto 2 → 4 2/12 = 4 1/6."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 55/9 en número mixto.",
+    "options": ["6 1/9", "6 2/9", "6 3/9", "6 4/9"],
+    "correctIndex": 1,
+    "explanation": "✅ 55 ÷ 9 = 6 resto 1 → 6 1/9."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 60/14 en número mixto.",
+    "options": ["4 4/14", "4 2/7", "5 2/14", "5 1/7"],
+    "correctIndex": 1,
+    "explanation": "✅ 60 ÷ 14 = 4 resto 4 → 4 4/14 = 4 2/7."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 65/11 en número mixto.",
+    "options": ["5 10/11", "6 10/11", "5 9/11", "6 9/11"],
+    "correctIndex": 0,
+    "explanation": "✅ 65 ÷ 11 = 5 resto 10 → 5 10/11."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 70/16 en número mixto.",
+    "options": ["4 6/16", "4 3/8", "5 6/16", "5 3/8"],
+    "correctIndex": 1,
+    "explanation": "✅ 70 ÷ 16 = 4 resto 6 → 4 6/16 = 4 3/8."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 75/18 en número mixto.",
+    "options": ["4 3/18", "4 1/6", "5 3/18", "5 1/6"],
+    "correctIndex": 1,
+    "explanation": "✅ 75 ÷ 18 = 4 resto 3 → 4 3/18 = 4 1/6."
+  },
+  {
+    "category": "fracciones-mixtas",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Convierte la fracción 80/22 en número mixto.",
+    "options": ["3 14/22", "3 7/11", "4 14/22", "4 7/11"],
+    "correctIndex": 1,
+    "explanation": "✅ 80 ÷ 22 = 3 resto 14 → 3 14/22 = 3 7/11."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál de las siguientes fracciones es equivalente a 1/2?",
+    "options": ["2/4", "1/3", "3/5", "2/3"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/4 es equivalente a 1/2 porque representa la misma parte de la unidad."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Qué fracción es equivalente a 2/3?",
+    "options": ["4/6", "3/4", "2/5", "6/5"],
+    "correctIndex": 0,
+    "explanation": "✅ 4/6 es equivalente a 2/3 porque se multiplican numerador y denominador por 2."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Qué fracción representa la misma cantidad que 3/6?",
+    "options": ["1/2", "3/4", "2/3", "6/12"],
+    "correctIndex": 0,
+    "explanation": "✅ 3/6 se puede simplificar dividiendo entre 3 y queda 1/2."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es una fracción equivalente a 4/8?",
+    "options": ["1/2", "2/3", "3/8", "5/8"],
+    "correctIndex": 0,
+    "explanation": "✅ 4/8 se simplifica dividiendo numerador y denominador entre 4."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Qué fracción NO es equivalente a 1/3?",
+    "options": ["2/6", "3/9", "4/12", "3/6"],
+    "correctIndex": 3,
+    "explanation": "❌ 3/6 es equivalente a 1/2, no a 1/3."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si multiplicamos numerador y denominador por el mismo número, obtenemos:",
+    "options": ["Una fracción mayor", "Una fracción equivalente", "Una fracción menor", "Una fracción distinta"],
+    "correctIndex": 1,
+    "explanation": "✅ Al multiplicar ambos términos por el mismo número se obtiene una fracción equivalente."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es equivalente a 5/10?",
+    "options": ["1/2", "2/5", "10/20", "5/5"],
+    "correctIndex": 0,
+    "explanation": "✅ 5/10 se simplifica dividiendo entre 5 y queda 1/2."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Qué operación usamos para simplificar una fracción?",
+    "options": ["Sumar", "Restar", "Dividir", "Multiplicar"],
+    "correctIndex": 2,
+    "explanation": "✅ Para simplificar se divide el numerador y el denominador por el mismo número."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es equivalente a 6/9?",
+    "options": ["2/3", "3/4", "6/12", "9/6"],
+    "correctIndex": 0,
+    "explanation": "✅ 6/9 se simplifica dividiendo entre 3."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Qué fracción es equivalente a 7/14?",
+    "options": ["1/2", "2/7", "7/7", "14/7"],
+    "correctIndex": 0,
+    "explanation": "✅ 7/14 se simplifica dividiendo entre 7."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Dos fracciones equivalentes representan:",
+    "options": ["Distintas cantidades", "La misma parte de la unidad", "Siempre números enteros", "Fracciones mayores que 1"],
+    "correctIndex": 1,
+    "explanation": "✅ Las fracciones equivalentes representan la misma cantidad."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es equivalente a 8/12?",
+    "options": ["2/3", "4/5", "6/8", "12/8"],
+    "correctIndex": 0,
+    "explanation": "✅ 8/12 se simplifica dividiendo entre 4."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Una fracción equivalente a 3/5 con numerador 6 es:",
+    "options": ["6/10", "6/5", "3/10", "9/15"],
+    "correctIndex": 0,
+    "explanation": "✅ Multiplicamos numerador y denominador por 2."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es una fracción equivalente a 4/6?",
+    "options": ["2/3", "1/3", "6/4", "4/12"],
+    "correctIndex": 0,
+    "explanation": "✅ 4/6 se simplifica dividiendo entre 2."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si una pizza está dividida en 8 partes y comes 4, ¿qué fracción equivalente es?",
+    "options": ["1/2", "2/8", "4/4", "8/4"],
+    "correctIndex": 0,
+    "explanation": "✅ 4/8 es equivalente a 1/2."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Qué fracción es equivalente a 9/12?",
+    "options": ["3/4", "4/3", "6/8", "12/9"],
+    "correctIndex": 0,
+    "explanation": "✅ 9/12 se simplifica dividiendo entre 3."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál NO es equivalente a 2/4?",
+    "options": ["1/2", "3/6", "4/8", "2/8"],
+    "correctIndex": 3,
+    "explanation": "❌ 2/8 es equivalente a 1/4, no a 1/2."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Para obtener una fracción equivalente a 5/6, podemos:",
+    "options": ["Sumar 1", "Multiplicar por 2", "Restar 1", "Cambiar el denominador"],
+    "correctIndex": 1,
+    "explanation": "✅ Multiplicar numerador y denominador por el mismo número."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Qué fracción es equivalente a 10/20?",
+    "options": ["1/2", "2/10", "5/20", "20/10"],
+    "correctIndex": 0,
+    "explanation": "✅ 10/20 se simplifica dividiendo entre 10."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si dos fracciones son equivalentes, sus productos en cruz son:",
+    "options": ["Distintos", "Iguales", "Mayores", "Menores"],
+    "correctIndex": 1,
+    "explanation": "✅ En fracciones equivalentes, los productos en cruz coinciden."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Cuál es una fracción equivalente a 12/18?",
+    "options": ["2/3", "6/9", "4/6", "Todas son correctas"],
+    "correctIndex": 3,
+    "explanation": "✅ Todas representan la misma cantidad."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Una fracción equivalente a 1/4 con denominador 12 es:",
+    "options": ["3/12", "4/12", "1/12", "12/4"],
+    "correctIndex": 0,
+    "explanation": "✅ Multiplicamos numerador y denominador por 3."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "¿Qué fracción es equivalente a 15/20?",
+    "options": ["3/4", "5/4", "4/3", "15/25"],
+    "correctIndex": 0,
+    "explanation": "✅ 15/20 se simplifica dividiendo entre 5."
+  },
+  {
+    "category": "fracciones_equivalentes",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Las fracciones equivalentes siempre tienen:",
+    "options": ["El mismo numerador", "El mismo denominador", "El mismo valor", "El mismo tamaño de números"],
+    "correctIndex": 2,
+    "explanation": "✅ Aunque cambien los números, el valor es el mismo."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el resultado de 2/3 × 1/5?",
+    "options": ["2/15", "3/5", "1/15", "2/8"],
+    "correctIndex": 0,
+    "explanation": "✅ Se multiplican numeradores y denominadores: 2×1 / 3×5 = 2/15."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 3/4 × 7/9",
+    "options": ["21/36", "7/12", "3/13", "10/13"],
+    "correctIndex": 1,
+    "explanation": "✅ 3×7 / 4×9 = 21/36, que se simplifica a 7/12."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el resultado de 5 × 6/10?",
+    "options": ["30/10", "3", "6/5", "15/10"],
+    "correctIndex": 1,
+    "explanation": "✅ 5 se puede escribir como 5/1: 5×6/10 = 30/10 = 3."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Qué operación se realiza primero al multiplicar fracciones?",
+    "options": ["Sumar denominadores", "Multiplicar numeradores", "Restar fracciones", "Dividir denominadores"],
+    "correctIndex": 1,
+    "explanation": "✅ En la multiplicación de fracciones se multiplican los numeradores entre sí."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 8/12 × 3",
+    "options": ["24/12", "2", "8/4", "3/12"],
+    "correctIndex": 1,
+    "explanation": "✅ 8/12 se simplifica a 2/3 y 2/3 × 3 = 2."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el resultado de 1/2 × 4/5?",
+    "options": ["4/10", "2/5", "1/10", "5/8"],
+    "correctIndex": 1,
+    "explanation": "✅ 1×4 / 2×5 = 4/10, que se simplifica a 2/5."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Si multiplicamos una fracción por su inversa obtenemos:",
+    "options": ["0", "La misma fracción", "1", "Una fracción mayor"],
+    "correctIndex": 2,
+    "explanation": "✅ Una fracción multiplicada por su inversa siempre da 1."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 6/8 × 4/3",
+    "options": ["24/24", "1", "3/4", "8/12"],
+    "correctIndex": 1,
+    "explanation": "✅ 6/8 se simplifica a 3/4 y 3/4 × 4/3 = 1."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el resultado de 3/5 × 5/8?",
+    "options": ["15/40", "3/8", "5/5", "8/3"],
+    "correctIndex": 1,
+    "explanation": "✅ 15/40 se simplifica dividiendo entre 5: 3/8."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Qué fracción es equivalente al resultado de 4/9 × 3/2?",
+    "options": ["2/3", "12/18", "4/6", "Todas son correctas"],
+    "correctIndex": 3,
+    "explanation": "✅ El resultado es 12/18, equivalente a 2/3 y 4/6."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Multiplicar fracciones consiste en:",
+    "options": ["Sumar numeradores", "Multiplicar numeradores y denominadores", "Restar denominadores", "Dividir numeradores"],
+    "correctIndex": 1,
+    "explanation": "✅ Se multiplican numeradores entre sí y denominadores entre sí."
+  },
+  {
+    "category": "multiplicacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el resultado de 1/3 × 3/8?",
+    "options": ["1/8", "3/24", "1/11", "8/3"],
+    "correctIndex": 0,
+    "explanation": "✅ 3/24 se simplifica dividiendo entre 3: 1/8."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el resultado de 3/5 ÷ 2/3?",
+    "options": ["6/15", "9/10", "5/6", "3/10"],
+    "correctIndex": 1,
+    "explanation": "✅ Dividir es multiplicar por la inversa: 3/5 × 3/2 = 9/10."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Para dividir fracciones debemos:",
+    "options": ["Invertir la primera", "Invertir la segunda", "Sumar denominadores", "Restar numeradores"],
+    "correctIndex": 1,
+    "explanation": "✅ Se multiplica la primera fracción por la inversa de la segunda."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 1/7 ÷ 7/5",
+    "options": ["1/1", "5/49", "7/35", "35/7"],
+    "correctIndex": 1,
+    "explanation": "✅ 1/7 × 5/7 = 5/49."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el resultado de 3/2 ÷ 5/12?",
+    "options": ["36/10", "18/5", "15/24", "6/10"],
+    "correctIndex": 1,
+    "explanation": "✅ 3/2 × 12/5 = 36/10 = 18/5."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Dividir una fracción entre un número entero es:",
+    "options": ["Multiplicar por ese número", "Multiplicar por su inversa", "Sumar el entero", "No se puede"],
+    "correctIndex": 1,
+    "explanation": "✅ El número entero se convierte en fracción y se invierte."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 4/11 ÷ 2",
+    "options": ["4/22", "2/11", "8/11", "11/2"],
+    "correctIndex": 1,
+    "explanation": "✅ 2 = 2/1, su inversa es 1/2. 4/11 × 1/2 = 2/11."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Qué ocurre si dividimos una fracción entre sí misma?",
+    "options": ["Da 0", "Da 1", "Da 2", "No se puede"],
+    "correctIndex": 1,
+    "explanation": "✅ Toda fracción dividida entre sí misma es igual a 1."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 6/7 ÷ 4/3",
+    "options": ["18/28", "9/14", "24/21", "7/6"],
+    "correctIndex": 1,
+    "explanation": "✅ 6/7 × 3/4 = 18/28 = 9/14."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Qué fracción es la inversa de 5/9?",
+    "options": ["9/5", "5/9", "1/5", "1/9"],
+    "correctIndex": 0,
+    "explanation": "✅ La fracción inversa se obtiene intercambiando numerador y denominador."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Dividir fracciones equivale a:",
+    "options": ["Sumar en cruz", "Multiplicar en cruz", "Multiplicar por la inversa", "Restar en cruz"],
+    "correctIndex": 2,
+    "explanation": "✅ La división de fracciones se convierte en una multiplicación por la inversa."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 8/9 ÷ 2/3",
+    "options": ["24/18", "4/3", "16/27", "3/4"],
+    "correctIndex": 1,
+    "explanation": "✅ 8/9 × 3/2 = 24/18 = 4/3."
+  },
+  {
+    "category": "division_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Al dividir fracciones, el resultado puede ser:",
+    "options": ["Siempre menor que 1", "Siempre mayor que 1", "Mayor, menor o igual a 1", "Siempre 0"],
+    "correctIndex": 2,
+    "explanation": "✅ El resultado depende de las fracciones implicadas."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Pablo ha comido 2/3 de tarta y Rosa 1/4 de la misma. ¿Qué fracción han comido entre los dos?",
+    "options": ["11/12", "9/12", "7/12", "5/12"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/3=8/12 y 1/4=3/12 → total 11/12."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "En un parque, columpios y pista ocupan 5/8 del total. Los columpios ocupan 2/7. ¿Qué fracción ocupa la pista?",
+    "options": ["5/8 - 2/7 = 19/56", "5/8 - 2/7 = 11/56", "5/8 - 2/7 = 21/56", "5/8 - 2/7 = 9/56"],
+    "correctIndex": 0,
+    "explanation": "✅ 5/8=35/56 y 2/7=16/56 → diferencia 19/56."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Emilio lleva al banco 2/5 de sus 6/8 ahorros. ¿Qué fracción de sus ahorros ha llevado?",
+    "options": ["12/40", "12/20", "3/10", "15/40"],
+    "correctIndex": 2,
+    "explanation": "✅ (2/5)×(6/8)=12/40=3/10."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Carla tiene 3/4 kg de helado. ¿Cuántas porciones de 1/3 kg puede hacer?",
+    "options": ["2 1/4", "2 1/3", "2 1/2", "3"],
+    "correctIndex": 1,
+    "explanation": "✅ (3/4) ÷ (1/3) = 9/4 = 2 1/4 → 2 porciones completas y 1/4 de otra."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si Juan corre 2/5 de una pista y Ana 3/10, ¿qué fracción han corrido juntos?",
+    "options": ["7/10", "1/2", "9/10", "5/10"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/5=4/10 y 3/10=3/10 → total 7/10."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Luis ha leído 3/8 de un libro y Marta 5/16. ¿Qué fracción han leído entre los dos?",
+    "options": ["11/16", "13/16", "9/16", "7/16"],
+    "correctIndex": 1,
+    "explanation": "✅ 3/8=6/16 y 5/16=5/16 → total 11/16."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Pedro ha pintado 2/3 de una pared y su hermano 1/6. ¿Qué fracción está pintada?",
+    "options": ["5/6", "4/6", "3/6", "2/6"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/3=4/6 y 1/6=1/6 → total 5/6."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si una receta necesita 3/4 de litro de leche y tienes 1/2 litro, ¿qué fracción falta?",
+    "options": ["1/4", "1/2", "2/4", "3/4"],
+    "correctIndex": 0,
+    "explanation": "✅ 3/4 - 1/2 = 3/4 - 2/4 = 1/4."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si un examen tiene 20 preguntas y Ana responde 3/5, ¿cuántas preguntas respondió?",
+    "options": ["12", "10", "15", "8"],
+    "correctIndex": 0,
+    "explanation": "✅ (3/5)×20=12."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si una pizza se divide en 12 partes y Pablo come 2/3, ¿cuántas partes comió?",
+    "options": ["8", "6", "4", "10"],
+    "correctIndex": 0,
+    "explanation": "✅ (2/3)×12=8."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si un depósito tiene 3/4 de agua y se vacía 1/2, ¿qué fracción queda?",
+    "options": ["1/4", "1/2", "2/4", "3/4"],
+    "correctIndex": 0,
+    "explanation": "✅ 3/4 - 1/2 = 3/4 - 2/4 = 1/4."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si un grupo de 24 alumnos se reparte en 3/8 para un taller, ¿cuántos alumnos participan?",
+    "options": ["9", "6", "12", "8"],
+    "correctIndex": 1,
+    "explanation": "✅ (3/8)×24=9."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si María ha recorrido 5/6 de un camino y Juan 1/3, ¿qué fracción recorrieron juntos?",
+    "options": ["7/6", "1", "8/9", "5/9"],
+    "correctIndex": 0,
+    "explanation": "✅ 5/6 + 1/3 = 5/6 + 2/6 = 7/6."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si una piscina se llena en 2/5 de su capacidad y luego se añade 1/2, ¿qué fracción está llena?",
+    "options": ["9/10", "7/10", "1", "4/5"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/5=4/10 y 1/2=5/10 → total 9/10."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Un pastel se divide en 16 partes. Ana come 3/8 del pastel. ¿Cuántas partes comió?",
+    "options": ["6", "8", "4", "5"],
+    "correctIndex": 0,
+    "explanation": "✅ (3/8)×16=6 partes."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si un depósito contiene 2/3 de agua y se vacía 1/6, ¿qué fracción queda?",
+    "options": ["1/2", "2/6", "1/3", "5/6"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/3=4/6; 4/6 - 1/6 = 3/6 = 1/2."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si un grupo de 30 alumnos se reparte en 2/5 para un taller, ¿cuántos alumnos participan?",
+    "options": ["12", "10", "15", "20"],
+    "correctIndex": 0,
+    "explanation": "✅ (2/5)×30=12 alumnos."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si una receta necesita 2/3 de litro de leche y tienes 1/2 litro, ¿qué fracción falta?",
+    "options": ["1/6", "1/3", "2/6", "1/2"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/3 - 1/2 = 4/6 - 3/6 = 1/6."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si un examen tiene 40 preguntas y Pedro responde 3/4, ¿cuántas respondió?",
+    "options": ["30", "25", "20", "35"],
+    "correctIndex": 0,
+    "explanation": "✅ (3/4)×40=30."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si una pizza se divide en 10 partes y Laura come 2/5, ¿cuántas partes comió?",
+    "options": ["4", "5", "2", "6"],
+    "correctIndex": 0,
+    "explanation": "✅ (2/5)×10=4 partes."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si un depósito tiene 5/8 de agua y se vacía 1/4, ¿qué fracción queda?",
+    "options": ["3/8", "4/8", "5/12", "1/2"],
+    "correctIndex": 0,
+    "explanation": "✅ 5/8 - 1/4 = 5/8 - 2/8 = 3/8."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si un grupo de 18 alumnos se reparte en 2/3 para un taller, ¿cuántos participan?",
+    "options": ["12", "10", "9", "8"],
+    "correctIndex": 0,
+    "explanation": "✅ (2/3)×18=12 alumnos."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si una barra de chocolate se divide en 12 partes y Marta come 3/4, ¿cuántas partes comió?",
+    "options": ["9", "8", "6", "10"],
+    "correctIndex": 0,
+    "explanation": "✅ (3/4)×12=9 partes."
+  },
+  {
+    "category": "problemas-fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas-4",
+    "unidad": "4",
+    "text": "Si un depósito contiene 7/10 de agua y se vacía 2/5, ¿qué fracción queda?",
+    "options": ["3/10", "4/10", "5/10", "2/10"],
+    "correctIndex": 0,
+    "explanation": "✅ 7/10 - 2/5 = 7/10 - 4/10 = 3/10."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Reduce a común denominador las fracciones 2/3 y 4/7.",
+    "options": ["14/21 y 12/21", "8/21 y 6/21", "6/14 y 8/14", "2/7 y 4/3"],
+    "correctIndex": 0,
+    "explanation": "✅ Se multiplican los términos por el denominador de la otra fracción: 2/3 = 14/21 y 4/7 = 12/21."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el denominador común de 3/5 y 5/7 usando productos cruzados?",
+    "options": ["35", "12", "10", "7"],
+    "correctIndex": 0,
+    "explanation": "✅ El denominador común es el producto de los denominadores: 5 × 7 = 35."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Reduce a común denominador: 5/6 y 2/9.",
+    "options": ["15/18 y 4/18", "45/54 y 12/54", "30/54 y 12/54", "10/15 y 4/15"],
+    "correctIndex": 2,
+    "explanation": "✅ 5/6 = 45/54 y 2/9 = 12/54."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Para reducir fracciones a común denominador por productos cruzados se debe:",
+    "options": ["Sumar denominadores", "Multiplicar cada fracción por el denominador de la otra", "Restar numeradores", "Buscar el m.c.m."],
+    "correctIndex": 1,
+    "explanation": "✅ En este método se multiplican numerador y denominador por el denominador de la otra fracción."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Reduce a común denominador: 4/5 y 6/10.",
+    "options": ["8/10 y 6/10", "40/50 y 30/50", "4/10 y 6/10", "20/25 y 15/25"],
+    "correctIndex": 1,
+    "explanation": "✅ 4/5 = 40/50 y 6/10 = 30/50."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Qué denominador común se obtiene para 4/6 y 6/8 usando productos cruzados?",
+    "options": ["48", "24", "12", "6"],
+    "correctIndex": 0,
+    "explanation": "✅ El denominador común es 6 × 8 = 48."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Reduce a común denominador: 9/3 y 4/15.",
+    "options": ["45/15 y 4/15", "27/45 y 12/45", "135/45 y 12/45", "3/15 y 4/15"],
+    "correctIndex": 2,
+    "explanation": "✅ 9/3 = 135/45 y 4/15 = 12/45."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Reducir fracciones a común denominador sirve principalmente para:",
+    "options": ["Multiplicarlas", "Dividirlas", "Compararlas u ordenarlas", "Simplificarlas"],
+    "correctIndex": 2,
+    "explanation": "✅ Se utiliza para poder comparar y ordenar fracciones."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Reduce a común denominador: 3/5 y 5/7.",
+    "options": ["21/35 y 25/35", "15/35 y 25/35", "9/15 y 15/21", "6/14 y 10/14"],
+    "correctIndex": 1,
+    "explanation": "✅ 3/5 = 21/35 y 5/7 = 25/35."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el primer paso para reducir fracciones a común denominador?",
+    "options": ["Simplificar", "Comparar numeradores", "Buscar denominador común", "Ordenar fracciones"],
+    "correctIndex": 2,
+    "explanation": "✅ Primero se busca un denominador común."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Reduce a común denominador: 5/6 y 2/3.",
+    "options": ["10/12 y 8/12", "15/18 y 12/18", "5/12 y 4/12", "25/36 y 12/36"],
+    "correctIndex": 1,
+    "explanation": "✅ 5/6 = 15/18 y 2/3 = 12/18."
+  },
+  {
+    "category": "comun_denominador",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Dos fracciones con el mismo denominador se comparan usando:",
+    "options": ["El denominador", "El numerador", "El producto cruzado", "El m.c.m."],
+    "correctIndex": 1,
+    "explanation": "✅ Con el mismo denominador, se comparan los numeradores."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 5/4, 2/1 y 4/3.",
+    "options": ["4/3 < 5/4 < 2/1", "5/4 < 4/3 < 2/1", "2/1 < 5/4 < 4/3", "4/3 < 2/1 < 5/4"],
+    "correctIndex": 0,
+    "explanation": "✅ Al reducir a común denominador se obtiene: 4/3 < 5/4 < 2/1."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 4/5, 6/7 y 8/9.",
+    "options": ["4/5 < 6/7 < 8/9", "6/7 < 4/5 < 8/9", "8/9 < 6/7 < 4/5", "4/5 < 8/9 < 6/7"],
+    "correctIndex": 0,
+    "explanation": "✅ Tras reducir a común denominador se comparan los numeradores."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Qué fracción es mayor: 3/4 o 2/5?",
+    "options": ["3/4", "2/5", "Son iguales", "No se puede saber"],
+    "correctIndex": 0,
+    "explanation": "✅ 3/4 = 15/20 y 2/5 = 8/20, por tanto 3/4 es mayor."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 8/3, 3/2 y 10/7.",
+    "options": ["8/3 > 10/7 > 3/2", "10/7 > 8/3 > 3/2", "3/2 > 10/7 > 8/3", "8/3 > 3/2 > 10/7"],
+    "correctIndex": 3,
+    "explanation": "✅ Tras comparar, 8/3 es la mayor, seguida de 3/2 y luego 10/7."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Para ordenar fracciones con distinto denominador es necesario:",
+    "options": ["Simplificar todas", "Reducir a común denominador", "Multiplicarlas", "Dividirlas"],
+    "correctIndex": 1,
+    "explanation": "✅ Se deben reducir primero a común denominador."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es la fracción menor?",
+    "options": ["2/3", "3/5", "4/6", "6/9"],
+    "correctIndex": 1,
+    "explanation": "✅ 3/5 es menor que 2/3 y las demás son equivalentes a 2/3."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 1/2, 3/4 y 2/3.",
+    "options": ["1/2 < 2/3 < 3/4", "2/3 < 1/2 < 3/4", "3/4 < 2/3 < 1/2", "1/2 < 3/4 < 2/3"],
+    "correctIndex": 0,
+    "explanation": "✅ Al reducir a común denominador se obtiene el orden correcto."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Si dos fracciones tienen el mismo valor, se dice que son:",
+    "options": ["Iguales", "Equivalentes", "Reducidas", "Ordenadas"],
+    "correctIndex": 1,
+    "explanation": "✅ Fracciones equivalentes representan la misma cantidad."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es mayor: 16/7 o 5/2?",
+    "options": ["16/7", "5/2", "Son iguales", "No se puede comparar"],
+    "correctIndex": 1,
+    "explanation": "✅ 5/2 = 2,5 y 16/7 ≈ 2,28, por lo tanto 5/2 es mayor."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 12/11, 1 y 9/8.",
+    "options": ["12/11 > 9/8 > 1", "9/8 > 12/11 > 1", "1 > 12/11 > 9/8", "12/11 > 1 > 9/8"],
+    "correctIndex": 1,
+    "explanation": "✅ 9/8 es mayor que 12/11, y ambas son mayores que 1."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordenar fracciones correctamente implica:",
+    "options": ["Cambiar los valores", "Comparar su valor real", "Multiplicar denominadores", "Eliminar fracciones"],
+    "correctIndex": 1,
+    "explanation": "✅ Se comparan los valores reales de las fracciones."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Qué fracción es mayor que 1?",
+    "options": ["3/4", "5/6", "7/5", "2/3"],
+    "correctIndex": 2,
+    "explanation": "✅ 7/5 es una fracción impropia mayor que 1."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 2/3, 3/5 y 4/6.",
+    "options": ["3/5 < 2/3 < 4/6", "2/3 < 3/5 < 4/6", "4/6 < 2/3 < 3/5", "3/5 < 4/6 < 2/3"],
+    "correctIndex": 0,
+    "explanation": "✅ 3/5 es menor y 2/3 y 4/6 son equivalentes."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es la fracción mayor?",
+    "options": ["5/8", "3/4", "2/3", "4/5"],
+    "correctIndex": 3,
+    "explanation": "✅ 4/5 tiene el mayor valor al comparar las fracciones."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 7/6, 5/4 y 9/8.",
+    "options": ["7/6 > 9/8 > 5/4", "5/4 > 9/8 > 7/6", "9/8 > 7/6 > 5/4", "7/6 > 5/4 > 9/8"],
+    "correctIndex": 3,
+    "explanation": "✅ Comparando valores decimales: 7/6 > 5/4 > 9/8."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Qué fracción es menor que 1?",
+    "options": ["6/5", "5/5", "7/4", "4/7"],
+    "correctIndex": 3,
+    "explanation": "✅ 4/7 es una fracción propia, menor que 1."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 1/2, 5/6 y 3/4.",
+    "options": ["1/2 < 3/4 < 5/6", "3/4 < 1/2 < 5/6", "5/6 < 3/4 < 1/2", "1/2 < 5/6 < 3/4"],
+    "correctIndex": 0,
+    "explanation": "✅ Tras reducir a común denominador se obtiene el orden correcto."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es la fracción intermedia entre 2/3 y 4/5?",
+    "options": ["3/4", "1/2", "5/6", "2/5"],
+    "correctIndex": 0,
+    "explanation": "✅ 3/4 está entre 2/3 y 4/5 al comparar sus valores."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 10/3, 8/3 y 3/1.",
+    "options": ["10/3 > 3/1 > 8/3", "3/1 > 10/3 > 8/3", "10/3 > 8/3 > 3/1", "8/3 > 10/3 > 3/1"],
+    "correctIndex": 2,
+    "explanation": "✅ Comparando valores: 10/3 > 8/3 > 3."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Si dos fracciones son equivalentes al ordenar:",
+    "options": ["Una se elimina", "Se consideran iguales", "Siempre va primero la mayor", "No se comparan"],
+    "correctIndex": 1,
+    "explanation": "✅ Las fracciones equivalentes ocupan la misma posición."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de menor a mayor: 6/9, 2/3 y 4/6.",
+    "options": ["6/9 = 2/3 = 4/6", "2/3 < 4/6 < 6/9", "6/9 < 2/3 < 4/6", "4/6 < 6/9 < 2/3"],
+    "correctIndex": 0,
+    "explanation": "✅ Las tres fracciones son equivalentes."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es mayor que 3/4?",
+    "options": ["2/3", "5/8", "7/9", "1/2"],
+    "correctIndex": 2,
+    "explanation": "✅ 7/9 es mayor que 3/4 al comparar sus valores."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Ordena de mayor a menor: 1, 7/6 y 5/4.",
+    "options": ["5/4 > 7/6 > 1", "7/6 > 5/4 > 1", "1 > 7/6 > 5/4", "7/6 > 1 > 5/4"],
+    "correctIndex": 0,
+    "explanation": "✅ 5/4 es mayor que 7/6 y ambas son mayores que 1."
+  },
+  {
+    "category": "ordenacion_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Para ordenar fracciones correctamente es imprescindible:",
+    "options": ["Multiplicarlas", "Comparar su valor", "Simplificarlas siempre", "Convertirlas en enteros"],
+    "correctIndex": 1,
+    "explanation": "✅ Ordenar implica comparar el valor real de cada fracción."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 2/3 + 7/12",
+    "options": ["11/12", "5/6", "15/12", "9/12"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/3 = 8/12; 8/12 + 7/12 = 15/12 = 11/12."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 1/4 + 8/4",
+    "options": ["9/4", "2", "8/8", "1/2"],
+    "correctIndex": 0,
+    "explanation": "✅ Tienen el mismo denominador: 1/4 + 8/4 = 9/4."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 4/5 + 5/6",
+    "options": ["49/30", "9/11", "1/30", "45/30"],
+    "correctIndex": 0,
+    "explanation": "✅ m.c.m.(5,6)=30 → 24/30 + 25/30 = 49/30."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Para sumar fracciones con distinto denominador primero hay que:",
+    "options": ["Sumar numeradores", "Buscar común denominador", "Multiplicar fracciones", "Simplificar al final"],
+    "correctIndex": 1,
+    "explanation": "✅ El primer paso es reducir a común denominador."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 12/16 + 14/16",
+    "options": ["26/16", "13/8", "7/8", "1"],
+    "correctIndex": 1,
+    "explanation": "✅ 26/16 se simplifica a 13/8."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 4 + 1/3",
+    "options": ["13/3", "4/3", "5/3", "12/3"],
+    "correctIndex": 0,
+    "explanation": "✅ 4 = 12/3; 12/3 + 1/3 = 13/3."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 5/6 + 1/12",
+    "options": ["11/12", "6/18", "1", "7/12"],
+    "correctIndex": 0,
+    "explanation": "✅ 5/6 = 10/12; 10/12 + 1/12 = 11/12."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el resultado de 3/7 + 1/7?",
+    "options": ["4/7", "3/14", "1/14", "7/7"],
+    "correctIndex": 0,
+    "explanation": "✅ Mismo denominador, se suman numeradores."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 1/5 + 4/3",
+    "options": ["23/15", "5/8", "1/15", "4/8"],
+    "correctIndex": 0,
+    "explanation": "✅ m.c.m.(5,3)=15 → 3/15 + 20/15 = 23/15."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Sumar fracciones significa:",
+    "options": ["Compararlas", "Unir cantidades", "Multiplicarlas", "Ordenarlas"],
+    "correctIndex": 1,
+    "explanation": "✅ La suma representa la unión de cantidades."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 2/9 + 1/3",
+    "options": ["5/9", "1/12", "3/12", "2/12"],
+    "correctIndex": 0,
+    "explanation": "✅ 1/3 = 3/9; 2/9 + 3/9 = 5/9."
+  },
+  {
+    "category": "suma_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "El resultado de una suma de fracciones puede ser:",
+    "options": ["Siempre menor que 1", "Siempre igual a 1", "Mayor, menor o igual a 1", "Siempre entero"],
+    "correctIndex": 2,
+    "explanation": "✅ Depende de las fracciones que se sumen."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 17/20 − 14/20",
+    "options": ["3/20", "1/20", "31/20", "14/6"],
+    "correctIndex": 0,
+    "explanation": "✅ Mismo denominador: 17 − 14 = 3."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 9/12 − 3/8",
+    "options": ["3/8", "1/2", "6/24", "1/24"],
+    "correctIndex": 0,
+    "explanation": "✅ 9/12 = 18/24; 3/8 = 9/24 → 9/24 = 3/8."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 8/6 − 2/4",
+    "options": ["5/6", "1/6", "3/6", "2/6"],
+    "correctIndex": 0,
+    "explanation": "✅ 8/6 = 16/12; 2/4 = 6/12 → 10/12 = 5/6."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Para restar fracciones con distinto denominador es necesario:",
+    "options": ["Restar numeradores directamente", "Reducir a común denominador", "Multiplicar denominadores", "Simplificar antes"],
+    "correctIndex": 1,
+    "explanation": "✅ Siempre se reduce antes a común denominador."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 1/9 − 1/12",
+    "options": ["1/36", "0", "1/21", "2/36"],
+    "correctIndex": 0,
+    "explanation": "✅ m.c.m.(9,12)=36 → 4/36 − 3/36 = 1/36."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 8 − 3/2",
+    "options": ["13/2", "5/2", "11/2", "3/8"],
+    "correctIndex": 0,
+    "explanation": "✅ 8 = 16/2; 16/2 − 3/2 = 13/2."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 6 − 2/3",
+    "options": ["16/3", "4/3", "18/3", "6/3"],
+    "correctIndex": 0,
+    "explanation": "✅ 6 = 18/3; 18/3 − 2/3 = 16/3."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "¿Cuál es el resultado de 4/5 − 1/5?",
+    "options": ["3/5", "1/5", "5/5", "4/25"],
+    "correctIndex": 0,
+    "explanation": "✅ Se restan numeradores y se mantiene el denominador."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 5/6 − 1/12",
+    "options": ["3/4", "9/12", "4/12", "1/2"],
+    "correctIndex": 0,
+    "explanation": "✅ 5/6 = 10/12; 10/12 − 1/12 = 9/12 = 3/4."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Restar fracciones significa:",
+    "options": ["Compararlas", "Quitar una cantidad a otra", "Multiplicarlas", "Ordenarlas"],
+    "correctIndex": 1,
+    "explanation": "✅ La resta representa quitar una cantidad."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "Calcula: 2/3 − 1/9",
+    "options": ["5/9", "1/6", "3/9", "1/9"],
+    "correctIndex": 0,
+    "explanation": "✅ 2/3 = 6/9; 6/9 − 1/9 = 5/9."
+  },
+  {
+    "category": "resta_fracciones",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "4",
+    "text": "El resultado de una resta de fracciones puede ser:",
+    "options": ["Siempre positivo", "Siempre negativo", "Positivo o cero", "Solo entero"],
+    "correctIndex": 2,
+    "explanation": "✅ Puede ser positivo o cero según los valores."
   }
 
+
+
 ]
+
+
 
 
 

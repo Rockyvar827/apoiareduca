@@ -226,6 +226,71 @@ const levelsData = {
         ]
     }
       ]
+  },
+  'Matemáticas': {
+      title: 'Matemáticas',
+      description: 'Matemáticas para 6.º',
+      units: [
+        { id: 1 ,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'descomposición', label: 'Descomposición', colorClass: 'bg-blue-400'  },
+          { id: 'multiplicaciones', label: 'Multiplicaciones', colorClass: 'bg-green-400'  },
+          { id: 'divisiones', label: 'Divisiones', colorClass: 'bg-orange-400'},
+          { id: 'operaciones-combinadas', label: 'Operaciones combinadas', colorClass: 'bg-purple-400'},
+          { id: 'problemas', label: 'Problemas', colorClass: 'bg-red-400'},
+          { id: 'sumas-restas', label: 'Sumas y restas', colorClass: 'bg-pink-400'  }
+        ]
+    }
+      ]
+  },
+  'Matemáticas-2': {
+      title: 'Matemáticas',
+      description: 'Matemáticas para 6.º',
+      units: [
+        { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'potencias', label: 'Potencias', colorClass: 'bg-blue-400'  },
+          { id: 'potencias-base10', label: 'Potencias-base10', colorClass: 'bg-green-400'  },
+          { id: 'raices-cuadradas', label: 'Raices-cuadradas', colorClass: 'bg-orange-400'}
+        ]
+    }
+      ]
+  },
+  'Matemáticas-3': {
+      title: 'Matemáticas',
+      description: 'Matemáticas para 6.º',
+      units: [
+        { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'divisibilidad', label: 'Divisibilidad', colorClass: 'bg-blue-400'  },
+          { id: 'divisores', label: 'Divisores', colorClass: 'bg-green-400'  },
+          { id: 'multiplos', label: 'Multiplos', colorClass: 'bg-orange-400'},
+          { id: 'primos-compuestos', label: 'Primos-compuestos', colorClass: 'bg-purple-300'},
+          { id: 'mcd', label: 'MCD', colorClass: 'bg-red-400'  },
+          { id: 'mcm', label: 'MCM', colorClass: 'bg-pink-400'  }
+        ]
+    }
+      ]
+  },
+  'Matemáticas-4': {
+      title: 'Matemáticas',
+      description: 'Matemáticas para 6.º',
+      units: [
+        { id: 4 ,  label: 'Unidad 4', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'fracciones', label: 'Fracciones', colorClass: 'bg-blue-400'  },
+          { id: 'fracciones-mixtas', label: 'Fracciones-mixtas', colorClass: 'bg-green-400'  },
+          { id: 'fracciones_equivalentes', label: 'Fracciones_equivalentes', colorClass: 'bg-orange-400'},
+          { id: 'multiplicacion_fracciones', label: 'Multiplicacion_fracciones', colorClass: 'bg-purple-300'},
+          { id: 'division_fracciones', label: 'Division_fracciones', colorClass: 'bg-red-400'  },
+          { id: 'problemas-fracciones', label: 'Problemas-fracciones', colorClass: 'bg-pink-400'  },
+          { id: 'comun_denominador', label: 'Comun_denominador', colorClass: 'bg-teal-400'},
+          { id: 'ordenacion_fracciones', label: 'Ordenacion_fracciones', colorClass: 'bg-yellow-300'},
+          { id: 'suma_fracciones', label: 'Suma_fracciones', colorClass: 'bg-lime-400'},
+          { id: 'resta_fracciones', label: 'Resta_fracciones', colorClass: 'bg-cyan-400'  }
+        ]
+    }
+      ]
   }
   }
 }

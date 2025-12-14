@@ -1,0 +1,77 @@
+
+[
+  {
+    "category": "operaciones-combinadas-gamificadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "25 + 6 × (18 - 16) + (9 × 8)",
+    "steps": [
+      "Resolver el paréntesis (18 - 16)",
+      "Multiplicar 6 × resultado",
+      "Multiplicar 9 × 8",
+      "Sumar 25 + resultados anteriores"
+    ],
+    "correctOrder": [1, 2, 3, 4],
+    "solution": "✅ (18-16)=2 → 6×2=12 → 9×8=72 → 25+12+72=109."
+  },
+  {
+    "category": "operaciones-combinadas-gamificadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "3 × 6 × 2 + 54 - (3 × 3 + 2)",
+    "steps": [
+      "Multiplicar 3 × 6 × 2",
+      "Resolver el paréntesis (3 × 3 + 2)",
+      "Sumar resultado + 54",
+      "Restar el paréntesis"
+    ],
+    "correctOrder": [1, 2, 3, 4],
+    "solution": "✅ 3×6×2=36 → (3×3+2)=11 → 36+54=90 → 90-11=79."
+  },
+  {
+    "category": "operaciones-combinadas-gamificadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "98 - 45 + (56 ÷ 8) - (12 × 2 + 7)",
+    "steps": [
+      "Restar 98 - 45",
+      "Dividir 56 ÷ 8",
+      "Resolver el paréntesis (12 × 2 + 7)",
+      "Sumar y restar resultados"
+    ],
+    "correctOrder": [1, 2, 3, 4],
+    "solution": "✅ 98-45=53 → 56÷8=7 → (12×2+7)=31 → 53+7-31=29."
+  },
+  {
+    "category": "operaciones-combinadas-gamificadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "64 ÷ 8 + 9 - (2 × 3 + 1) × 2 + 35",
+    "steps": [
+      "Dividir 64 ÷ 8",
+      "Resolver el paréntesis (2 × 3 + 1)",
+      "Multiplicar resultado × 2",
+      "Sumar y restar con 9 y 35"
+    ],
+    "correctOrder": [1, 2, 3, 4],
+    "solution": "✅ 64÷8=8 → (2×3+1)=7 → 7×2=14 → 8+9-14+35=38."
+  },
+  {
+    "category": "operaciones-combinadas-gamificadas",
+    "nivel": "6",
+    "materia": "Matemáticas",
+    "unidad": "2",
+    "text": "5 + (42 ÷ 7) + 18 - (4 × 2) + 46",
+    "steps": [
+      "Dividir 42 ÷ 7",
+      "Multiplicar 4 × 2",
+      "Sumar y restar con 5, 18 y 46"
+    ],
+    "correctOrder": [1, 2, 3],
+    "solution": "✅ 42÷7=6 → 4×2=8 → 5+6+18-8+46=67."
+  }
+]

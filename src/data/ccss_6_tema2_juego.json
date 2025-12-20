@@ -1,0 +1,46 @@
+[
+  {
+    "gameType": "verdadeiro_falso",
+    "text": "A Meseta ocupa o centro da Península Ibérica.",
+    "correctAnswer": true,
+    "explanation": "✅ Verdadeiro. A Meseta está no centro da península."
+  },
+  {
+    "gameType": "reto_mapa",
+    "image": "espana-o-relevo.jpg",
+    "text": "Que cordilleira aparece ao nordeste de España?",
+    "options": [
+      "Sistema Central",
+      "Pireneos",
+      "Serra Morena",
+      "Cordilleira Cantábrica"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os Pireneos están ao nordeste de España."
+  },
+  {
+    "gameType": "pistas_visuais",
+    "image": "espana-costas.png",
+    "text": "Costa alta, con cantís e poucas praias. De cal falamos?",
+    "options": [
+      "Atlántica andaluza",
+      "Mediterránea",
+      "Cantábrica",
+      "Canaria"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A costa cantábrica é alta e rochosa."
+  },
+  {
+    "gameType": "desafio_final",
+    "text": "Onde se atopa o punto máis alto de España?",
+    "options": [
+      "Pireneos",
+      "Serra Nevada",
+      "Illas Baleares",
+      "Illas Canarias"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ O Teide está nas Illas Canarias."
+  }
+]

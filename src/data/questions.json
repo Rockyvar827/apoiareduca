@@ -11396,10 +11396,247 @@
     "options": ["Siempre positivo", "Siempre negativo", "Positivo o cero", "Solo entero"],
     "correctIndex": 2,
     "explanation": "✅ Puede ser positivo o cero según los valores."
+  },
+    {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Cal é a altitude aproximada da Meseta española?",
+    "options":["100-200 m","600-700 m","1200-1500 m","50-80 m"],
+    "correctIndex":1,
+    "explanation":"A Meseta é unha extensa chaira situada a uns 600-700 metros de altitude."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que sistema montañoso divide a Meseta en norte e sur?",
+    "options":["Pirineos","Sistema Ibérico","Sistema Central","Cordilleira Cantábrica"],
+    "correctIndex":2,
+    "explanation":"O Sistema Central atravesa a Meseta e divídea en submeseta norte e sur."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Cal das seguintes NON é unha cordilleira que rodea a Meseta?",
+    "options":["Montes de León","Cordilleira Cantábrica","Sistema Ibérico","Pirineos"],
+    "correctIndex":3,
+    "explanation":"Os Pirineos forman parte das unidades exteriores, non das que rodean a Meseta."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que depresión se atopa no nordeste de España?",
+    "options":["Depresión do Guadalquivir","Depresión do Ebro","Depresión do Miño","Depresión do Douro"],
+    "correctIndex":1,
+    "explanation":"A Depresión do Ebro está situada no nordeste da península."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Como é o relevo das Illas Canarias?",
+    "options":["Moi plano","De orixe volcánica","Cuberto de grandes chairas","Semellante ao das Baleares"],
+    "correctIndex":1,
+    "explanation":"O relevo canario é volcánico e nel está o Teide, o punto máis alto de España."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que tipo de costa presenta altos acantilados e poucas praias?",
+    "options":["Costa Mediterránea","Costa Atlántica de Andalucía","Costa Cantábrica","Costa de Lanzarote"],
+    "correctIndex":2,
+    "explanation":"A Costa Cantábrica é alta, rochosa e con numerosos acantilados."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Cal é o río máis caudaloso e longo de Galicia?",
+    "options":["Ulla","Eume","Miño","Tambre"],
+    "correctIndex":2,
+    "explanation":"O Miño percorre Galicia de norte a sur e é o máis longo e caudaloso."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que rías se estenden desde Ribadeo ata Fisterra?",
+    "options":["Rías Baixas","Rías Altas","Rías do Cantábrico","Rías Mixtas"],
+    "correctIndex":1,
+    "explanation":"As Rías Altas van desde Ribadeo ata Fisterra e teñen cantís altos e estreitos."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Cal das seguintes é unha serra oriental galega?",
+    "options":["Serra da Capelada","Serra do Suído","Serra dos Ancares","Serra da Loba"],
+    "correctIndex":2,
+    "explanation":"A Serra dos Ancares forma parte das serras orientais, no límite coa Meseta."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que tipo de espazo protexido NON permite actividades humanas?",
+    "options":["Parque Rexional","Parque Natural","Parque Nacional","Reserva Agraria"],
+    "correctIndex":2,
+    "explanation":"Os Parques Nacionais deben conservarse sen modificación humana."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que vertente europea inclúe ríos longos e xeados no inverno?",
+    "options":["Vertente Mediterránea","Vertente Atlántica","Vertente Ártica","Vertente do Mar Negro"],
+    "correctIndex":2,
+    "explanation":"A vertente Ártica destaca por ríos longos, caudalosos e xeados no inverno."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Onde se atopan os lagos Ladoga e Onega?",
+    "options":["Italia","Francia","Rusia","Alemaña"],
+    "correctIndex":2,
+    "explanation":"Os lagos máis grandes de Europa, Ladoga e Onega, están en Rusia."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Cal das seguintes opcións pertence ás unidades exteriores de España?",
+    "options":["Meseta","Montes de Toledo","Cordilleiras Béticas","Sistema Central"],
+    "correctIndex":2,
+    "explanation":"As Cordilleiras Béticas forman parte das unidades exteriores."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que costa presenta o delta do Ebro?",
+    "options":["Costa Cantábrica","Costa Atlántica","Costa Mediterránea","Costa Galega"],
+    "correctIndex":2,
+    "explanation":"O delta do Ebro atópase na costa Mediterránea."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que factor fai que un río sexa máis caudaloso?",
+    "options":["Clima seco","Clima chuvioso","Nacer preto do mar","Ter moitas curvas"],
+    "correctIndex":1,
+    "explanation":"Os ríos das zonas chuviosas levan máis caudal."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que vertente española inclúe o río Guadalquivir?",
+    "options":["Cantábrica","Mediterránea","Atlántica","Insular"],
+    "correctIndex":2,
+    "explanation":"O Guadalquivir desemboca no Atlántico, polo que pertence á vertente atlántica."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Cal é o punto máis alto de Galicia?",
+    "options":["Cabeza de Manzaneda","Pena Trevinca","Serra do Xistral","Monte Pindo"],
+    "correctIndex":1,
+    "explanation":"Pena Trevinca é o punto máis alto de Galicia, con máis de 2.000 metros."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que ría pertence ás Rías Baixas?",
+    "options":["Ría de Viveiro","Ría de Betanzos","Ría de Arousa","Ría de Ribadeo"],
+    "correctIndex":2,
+    "explanation":"A Ría de Arousa é unha das máis grandes das Rías Baixas."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que tipo de relevo predomina en Europa central e oriental?",
+    "options":["Cordilleiras novas","Macizos antigos","Chairas","Illas volcánicas"],
+    "correctIndex":2,
+    "explanation":"A Gran Chaira Europea ocupa gran parte do centro e leste do continente."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Cal destes ríos europeos desemboca no Mar Negro?",
+    "options":["Rin","Danubio","Sena","Volga"],
+    "correctIndex":1,
+    "explanation":"O Danubio desemboca no Mar Negro tras atravesar numerosos países europeos."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que serra galega forma unha barreira fronte ao Cantábrico?",
+    "options":["Serra da Capelada","Serra do Suído","Serra do Faro","Serra da Loba"],
+    "correctIndex":0,
+    "explanation":"A Serra da Capelada é unha das serras setentrionais que miran ao Cantábrico."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que tipo de costa presenta moitas rías e acantilados altos en Galicia?",
+    "options":["Costa Mediterránea","Costa Cantábrica","Costa Atlántica galega","Costa Andaluza"],
+    "correctIndex":2,
+    "explanation":"A costa atlántica galega destaca polas rías e os acantilados."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que espazo protexido permite actividades compatibles coa natureza?",
+    "options":["Parque Nacional","Parque Natural","Parque Rexional","Reserva Integral"],
+    "correctIndex":1,
+    "explanation":"Nos Parques Naturais permítense actividades sempre que non danen o entorno."
+  },
+  {
+    "category":"ccss_6_tema2",
+    "nivel":"6",
+    "materia":"CCSS",
+    "unidad":"2",
+    "text":"Que cordilleira europea é unha cordilleira nova?",
+    "options":["Montes Urais","Montes Escandinavos","Alpes","Macizo Central"],
+    "correctIndex":2,
+    "explanation":"Os Alpes son unha das cordilleiras novas máis importantes de Europa."
   }
-
-
-
 ]
 
 

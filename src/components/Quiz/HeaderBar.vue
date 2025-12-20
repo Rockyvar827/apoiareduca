@@ -17,88 +17,104 @@
       <nav class="flex items-center gap-10" ref="navRef">
 
         <router-link to="/" class="text-sm text-gray-700 hover:underline">Inicio</router-link>
-      <!-- MENU PRIMARIA CON DELAY -->
-        <div 
-          class="relative inline-block"
-          @mouseenter="openMenu"
-          @mouseleave="closeMenuWithDelay"
-        >
-          <button 
-            class="text-sm text-gray-700 hover:text-orange-600 flex items-center gap-1 transition"
-            @click.prevent="toggleMenu"
-          >
-            Primaria
-            <svg class="w-4 h-4 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-            </svg>
-          </button>
+     
 
-          <!-- SUBMENÚ -->
-          <div 
-            v-show="menuOpen"
-            class="absolute bg-white shadow-md rounded-md mt-1 min-w-[90px] z-50 divide-y transition-opacity duration-150"
-            @mouseenter="openMenu"
+          <!-- MENU PRIMARIA -->
+          <div
+            class="relative inline-block"
+            @mouseenter="openMenu('primaria')"
             @mouseleave="closeMenuWithDelay"
           >
-            <router-link
-              to="/nivel/5"
-              class="block px-4 py-2 text-sm text-gray-700 hover:bg-red-500 hover:text-white transition"
-              @click="closeMenu"
+            <button
+              class="text-sm text-gray-700 hover:text-orange-600 flex items-center gap-1 transition"
+              @click.prevent="toggleMenu('primaria')"
             >
-              5º
-            </router-link>
+              Primaria
+              <svg class="w-4 h-4 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+              </svg>
+            </button>
 
-            <router-link
-              to="/nivel/6"
-              class="block px-4 py-2 text-sm text-gray-700 hover:bg-blue-500 hover:text-white transition"
-              @click="closeMenu"
+            <div
+              v-show="activeMenu === 'primaria'"
+              class="absolute bg-white shadow-md rounded-md mt-1 min-w-[90px] z-50 divide-y"
+              @mouseenter="openMenu('primaria')"
+              @mouseleave="closeMenuWithDelay"
             >
-              6º
-            </router-link>
+              <router-link
+                to="/nivel/5"
+                class="block px-4 py-2 text-sm hover:bg-red-500 hover:text-white transition"
+                @click="closeMenu"
+              >
+                5º
+              </router-link>
+
+              <router-link
+                to="/nivel/6"
+                class="block px-4 py-2 text-sm hover:bg-blue-500 hover:text-white transition"
+                @click="closeMenu"
+              >
+                6º
+              </router-link>
+            </div>
           </div>
-        </div>
-      <!-- NAV JUEGOS --> 
-       
-      <div 
-          class="relative inline-block"
-          @mouseenter="openMenu"
-          @mouseleave="closeMenuWithDelay"
-        >
-          <button 
-            class="text-sm text-gray-700 hover:text-orange-600 flex items-center gap-1 transition"
-            @click.prevent="toggleMenu"
-          >
-            Juegos
-            <svg class="w-4 h-4 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-            </svg>
-          </button>
-          
-          <!-- SUBMENÚ JUEGOS -->
-        <div 
-            v-show="menuOpen"
-            class="absolute bg-white shadow-md rounded-md mt-1 min-w-[120px] z-50 divide-y transition-opacity duration-150"
-            @mouseenter="openMenu"
+
+          <!-- MENU JUEGOS -->
+          <div
+            class="relative inline-block"
+            @mouseenter="openMenu('juegos')"
             @mouseleave="closeMenuWithDelay"
           >
-            <router-link
-              to="/quiz/construccion-de-palabras"
-              class="block px-4 py-2 text-sm text-gray-700 hover:bg-red-500 hover:text-white transition"
-              @click="closeMenu"
+            <button
+              class="text-sm text-gray-700 hover:text-orange-600 flex items-center gap-1 transition"
+              @click.prevent="toggleMenu('juegos')"
             >
-              Construcción de palabras
-            </router-link>
+              Juegos
+              <svg class="w-4 h-4 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+              </svg>
+            </button>
 
-            <router-link
-              to="/quiz/tilde-diacritica"
-              class="block px-4 py-2 text-sm text-gray-700 hover:bg-blue-500 hover:text-white transition"
-              @click="closeMenu"
+            <div
+              v-show="activeMenu === 'juegos'"
+              class="absolute bg-white shadow-md rounded-md mt-1 min-w-[140px] z-50 divide-y"
+              @mouseenter="openMenu('juegos')"
+              @mouseleave="closeMenuWithDelay"
             >
-              Tilde diacrítica
-            </router-link>
-          </div>
+              <router-link
+                to="/quiz/construccion-de-palabras"
+                class="block px-4 py-2 text-sm hover:bg-red-500 hover:text-white transition"
+                @click="closeMenu"
+              >
+                Construcción de palabras
+              </router-link>
+
+              <router-link
+                to="/quiz/tilde-diacritica"
+                class="block px-4 py-2 text-sm hover:bg-blue-500 hover:text-white transition"
+                @click="closeMenu"
+              >
+                Tilde diacrítica
+              </router-link>
+
+              <router-link
+                to="/quiz/detectives-del-calculo"
+                class="block px-4 py-2 text-sm hover:bg-blue-500 hover:text-white transition"
+                @click="closeMenu"
+              >
+                Detectives del cálculo
+              </router-link>            
+              <router-link
+                to="/quiz/unidade-o-mapa"
+                class="block px-4 py-2 text-sm hover:bg-blue-500 hover:text-white transition"
+                @click="closeMenu"
+              >
+                Mapa do España-Europa
+              </router-link>
+            </div>        
+            
         </div>
-                <router-link to="/contacto" class="text-sm text-gray-700 hover:underline">Contacto</router-link>  
+            <router-link to="/contacto" class="text-sm text-gray-700 hover:underline">Contacto</router-link>  
       </nav>
     </div>
   </header>
@@ -106,27 +122,27 @@
 
 <script setup>
 import { ref } from 'vue'
-const menuOpen = ref(false)
+
+const activeMenu = ref(null)
 let closeTimeout = null
 
-function openMenu() {
+const openMenu = (menu) => {
   clearTimeout(closeTimeout)
-  menuOpen.value = true
+  activeMenu.value = menu
 }
 
-function closeMenuWithDelay() {
-  clearTimeout(closeTimeout)
+const closeMenuWithDelay = () => {
   closeTimeout = setTimeout(() => {
-    menuOpen.value = false
-  }, 200) // <-- RETARDO PARA QUE NO DESAPAREZCA AL MOVER EL RATÓN
+    activeMenu.value = null
+  }, 200)
 }
 
-function toggleMenu() {
-  menuOpen.value = !menuOpen.value
+const toggleMenu = (menu) => {
+  activeMenu.value = activeMenu.value === menu ? null : menu
 }
 
-function closeMenu() {
-  menuOpen.value = false
+const closeMenu = () => {
+  activeMenu.value = null
 }
 </script>
 

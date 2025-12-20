@@ -9,6 +9,8 @@ import UnitQuiz from '../views/UnitQuiz.vue'
 import Contact from '../views/Contact.vue'
 import Donation from '../views/Donation.vue'
 import RSSView from '../views/RSSView.vue'
+import DetectivesDelCalculo from '../components/Quiz/DetectivesDelCalculo.vue'
+import GeoGame from '../components/Quiz/GeoGame.vue'
 
 
 const routes = [
@@ -20,7 +22,9 @@ const routes = [
 { path: '/donar', name: 'Donacion', component: Donation },
 { path: '/rss.xml', name: 'RSS', component: RSSView },
 { path: '/quiz/tilde-diacritica', name: 'TildeQuiz', component: TildeQuiz },
-{path: '/quiz/construccion-de-palabras', name: 'WordBuilder', component: WordBuilder }
+{path: '/quiz/construccion-de-palabras', name: 'WordBuilder', component: WordBuilder },
+{path: '/quiz/detectives-del-calculo', name: 'DetectivesDelCalculo', component: DetectivesDelCalculo },
+{path: '/quiz/unidade-o-mapa', name: 'GeoGame', component: GeoGame },
 ]
 
 

@@ -60,120 +60,54 @@
 
     <!-- CATEGORIES -->
     <main class="flex-1">
-      <div class="max-w-6xl mx-auto px-4 py-10">
-        <div class="flex items-center justify-between mb-6">
-          <h2 class="text-xl font-bold text-gray-900">Materias</h2>
-          <p class="text-sm text-gray-500 hidden sm:block">Selecciona nivel y unidad para comenzar</p>
+  <div class="max-w-6xl mx-auto px-4 py-12">
+    <header class="mb-8 text-center">
+      <h2 class="text-2xl font-bold text-gray-900">
+        Materias por nivel
+      </h2>
+      <p class="mt-2 text-sm text-gray-600">
+        Explora qué materias trabajamos en cada curso
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <router-link
+        v-for="nivel in niveles"
+        :key="nivel.id"
+        :to="`/nivel/${nivel.id}`"
+        class="group block rounded-3xl bg-white p-6 shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1"
+      >
+        <div class="flex items-center justify-between mb-4">
+          <h3 class="text-xl font-semibold text-gray-900">
+            {{ nivel.nombre }}
+          </h3>
+          <span class="text-sm text-gray-400 group-hover:text-gray-600 transition">
+            Ver nivel →
+          </span>
         </div>
 
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          <!-- Reusable card: CCNN -->
-          <article class="group relative bg-white rounded-2xl p-5 shadow-lg hover:shadow-2xl transition">
-            <div class="flex items-start gap-4">
-              <div class="w-14 h-14 rounded-lg flex items-center justify-center bg-orange-100 text-2xl">🔬</div>
-              <div class="flex-1">
-                <div class="flex items-center justify-between gap-2">
-                  <h3 class="font-semibold text-gray-900">Ciencias Naturales</h3>
-                  <span class="text-xs text-gray-500">5.º</span>
-                </div>
-                <p class="mt-2 text-sm text-gray-600">Fauna, clima y ecosistemas con preguntas claras y visuales.</p>
-              </div>
-            </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div
+            v-for="materia in nivel.materias"
+            :key="materia.nombre"
+            class="flex items-start gap-3 rounded-2xl bg-orange-50 px-4 py-3
+                  text-gray-800 group-hover:bg-orange-100 transition"
+          >
+            <span class="text-2xl leading-none">
+              {{ materia.icono }}
+            </span>
 
-            <div class="mt-4 grid grid-cols-1 gap-2">
-             <router-link
-              to="/nivel/5/materia/CCNN/unidad/1"
-              class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md bg-green-400 text-white text-sm"
-            >
-              Unidad-Plantas
-            </router-link>
-
-            <router-link
-              to="/nivel/5/materia/CCNN/unidad/2"
-              class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md bg-blue-400 text-white text-sm"
-            >
-              Unidad-Ecosistemas
-            </router-link>
-
-            <router-link
-              to="/nivel/5/materia/CCNN/unidad/3"
-              class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md bg-purple-400 text-white text-sm"
-            >
-              Unidad-Clima
-            </router-link>
-
-            <router-link
-              to="/nivel/5/materia/CCNN/unidad/4"
-              class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md bg-orange-400 text-white text-sm"
-            >
-              Unidad-Naturais
-            </router-link>
-
-            <router-link
-              to="/nivel/5/materia/CCNN/unidad/5"
-              class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md bg-pink-400 text-white text-sm"
-            >
-              Unidad 5
-            </router-link>
-            </div>
-          </article>
-
-          <!-- CCSS -->
-          <article class="group relative bg-white rounded-2xl p-5 shadow-lg hover:shadow-2xl transition">
-            <div class="flex items-start gap-4">
-              <div class="w-14 h-14 rounded-lg flex items-center justify-center bg-orange-100 text-2xl">🌍</div>
-              <div class="flex-1">
-                <div class="flex items-center justify-between gap-2">
-                  <h3 class="font-semibold text-gray-900">Ciencias Sociales</h3>
-                  <span class="text-xs text-gray-500">5.º</span>
-                </div>
-                <p class="mt-2 text-sm text-gray-600">Historia y sociedad explicado con ejemplos y preguntas.</p>
-              </div>
-            </div>
-
-            <div class="mt-4 grid grid-cols-1 gap-2">
-              <router-link to="/nivel/5/materia/CCSS/unidad/3"
-                class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md bg-red-600 text-white text-sm"
-              >
-                Unidad 1
-              </router-link>
-
-              <router-link to="/nivel/5/materia/CCSS/unidad/4"
-                class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md bg-blue-600 text-white text-sm"
-              >
-                Unidad 2
-              </router-link>
-
-              <router-link to="/nivel/5/materia/CCSS/unidad/6"
-                class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md bg-yellow-400 text-gray-900 text-sm"
-              >
-                Unidad 3
-              </router-link>
-            </div>
-          </article>
-
-          <!-- Gallego -->
-          <article class="group relative bg-white rounded-2xl p-5 shadow-lg hover:shadow-2xl transition">
-            <div class="flex items-start gap-4">
-              <div class="w-14 h-14 rounded-lg flex items-center justify-center bg-orange-100 text-2xl">📚</div>
-              <div class="flex-1">
-                <div class="flex items-center justify-between gap-2">
-                  <h3 class="font-semibold text-gray-900">Gallego</h3>
-                  <span class="text-xs text-gray-500">5.º</span>
-                </div>
-                <p class="mt-2 text-sm text-gray-600">Gramática y vocabulario con explicaciones simples.</p>
-              </div>
-            </div>
-
-            <div class="mt-4 grid grid-cols-1 gap-2">
-              <router-link :to="`/nivel/5/materia/${encodeURIComponent('Lingua Galega')}/unidad/1`" class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md bg-orange-600 text-white text-sm">
-                Gramática
-              </router-link>
-            </div>
-          </article>
+            <span class="font-medium text-sm leading-snug break-words">
+              {{ materia.nombre }}
+            </span>
+          </div>
         </div>
-      </div>
-    </main>
+
+      </router-link>
+    </div>
+  </div>
+</main>
+
 
     <!-- FOOTER -->
    <footer class="bg-gray-50">
@@ -216,6 +150,29 @@ useHead({
     }
   ]
 })  
+
+const niveles = [
+  {
+    id: 5,
+    nombre: '5.º Primaria',
+    materias: [
+      { nombre: 'Ciencias Naturales', icono: '🔬' },
+      { nombre: 'Ciencias Sociales', icono: '🌍' },
+      { nombre: 'Lingua Galega', icono: '📘' }
+    ]
+  },
+  {
+    id: 6,
+    nombre: '6.º Primaria',
+    materias: [
+      { nombre: 'Ciencias Naturales', icono: '🧬' },
+      { nombre: 'Ciencias Sociales', icono: '🗺️' },
+      { nombre: 'Lengua Castellana', icono: '📖' },
+      { nombre: 'Lingua Galega', icono: '📗' },
+      { nombre: 'Matemáticas', icono: '📐' }
+    ]
+  }
+]
 /* función mínima para copiar el Bizum al portapapeles y notificar */
 function copiarBizum() {
   try {

@@ -7,94 +7,40 @@
     "text": "9907 ÷ 67",
     "dragItems": ["147", "58"],
     "dropZones": ["Matemático", "País"],
-    "solutions": {
-      "Matemático": "Pitágoras",
-      "País": "Grecia"
-    },
-    "explanation": "✅ Cociente 147 → Pitágoras, resto 58 → Grecia."
+    "map": { "147": "Pitágoras", "58": "Grecia" },
+    "solutions": { "Matemático": "Pitágoras", "País": "Grecia" },
+    "explanation": "✅ Cociente 147 → Pitágoras. Resto 58 → Grecia."
   },
   {
-    "category": "divisiones-gamificadas",
-    "nivel": "6",
-    "materia": "Matemáticas",
-    "unidad": "1",
     "text": "5672 ÷ 95",
     "dragItems": ["59", "67"],
     "dropZones": ["Matemático", "País"],
-    "solutions": {
-      "Matemático": "Arquímedes",
-      "País": "Italia"
-    },
-    "explanation": "✅ Cociente 59 → Arquímedes, resto 67 → Italia."
+    "map": { "59": "Arquímedes", "67": "Italia" },
+    "solutions": { "Matemático": "Arquímedes", "País": "Italia" },
+    "explanation": "✅ Cociente 59 → Arquímedes. Resto 67 → Italia."
   },
   {
-    "category": "divisiones-gamificadas",
-    "nivel": "6",
-    "materia": "Matemáticas",
-    "unidad": "1",
     "text": "8099 ÷ 68",
     "dragItems": ["119", "7"],
     "dropZones": ["Matemático", "País"],
-    "solutions": {
-      "Matemático": "Descartes",
-      "País": "Francia"
-    },
-    "explanation": "✅ Cociente 119 → Descartes, resto 7 → Francia."
+    "map": { "119": "Descartes", "7": "Francia" },
+    "solutions": { "Matemático": "Descartes", "País": "Francia" },
+    "explanation": "✅ Cociente 119 → Descartes. Resto 7 → Francia."
   },
   {
-    "category": "divisiones-gamificadas",
-    "nivel": "6",
-    "materia": "Matemáticas",
-    "unidad": "1",
     "text": "5672 ÷ 73",
     "dragItems": ["77", "55"],
     "dropZones": ["Matemático", "País"],
-    "solutions": {
-      "Matemático": "Newton",
-      "País": "Alemania"
-    },
-    "explanation": "✅ Cociente 77 → Newton, resto 55 → Alemania."
+    "map": { "77": "Newton", "55": "Reino Unido" },
+    "solutions": { "Matemático": "Newton", "País": "Reino Unido" },
+    "explanation": "✅ Cociente 77 → Newton. Resto 55 → Reino Unido."
   },
   {
-    "category": "divisiones-gamificadas",
-    "nivel": "6",
-    "materia": "Matemáticas",
-    "unidad": "1",
     "text": "9005 ÷ 38",
     "dragItems": ["236", "7"],
     "dropZones": ["Matemático", "País"],
-    "solutions": {
-      "Matemático": "Fibonacci",
-      "País": "Francia"
-    },
-    "explanation": "✅ Cociente 236 → Fibonacci, resto 7 → Francia."
-  },
-  {
-    "category": "divisiones-gamificadas",
-    "nivel": "6",
-    "materia": "Matemáticas",
-    "unidad": "1",
-    "text": "8899 ÷ 66",
-    "dragItems": ["134", "55"],
-    "dropZones": ["Matemático", "País"],
-    "solutions": {
-      "Matemático": "Einstein",
-      "País": "Alemania"
-    },
-    "explanation": "✅ Cociente 134 → Einstein, resto 55 → Alemania."
-  },
-  {
-    "category": "divisiones-gamificadas",
-    "nivel": "6",
-    "materia": "Matemáticas",
-    "unidad": "1",
-    "text": "9876 ÷ 54",
-    "dragItems": ["182", "48"],
-    "dropZones": ["Matemático", "País"],
-    "solutions": {
-      "Matemático": "Pascal",
-      "País": "Francia"
-    },
-    "explanation": "✅ Cociente 182 → Pascal, resto 48 → Francia."
+    "map": { "236": "Fibonacci", "7": "Italia" },
+    "solutions": { "Matemático": "Fibonacci", "País": "Italia" },
+    "explanation": "✅ Cociente 236 → Fibonacci. Resto 7 → Italia."
   }
 ]

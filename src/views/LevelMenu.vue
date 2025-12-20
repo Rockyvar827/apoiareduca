@@ -149,7 +149,8 @@ const levelsData = {
       title: 'Ciencias Sociales (6.º)',
       description: 'Historia y sociedad para 6.º',
       units: [
-        { id: 1, label: 'Unidad 1', colorClass: 'bg-red-500' }
+        { id: 1, label: 'Unidad 1', colorClass: 'bg-red-500' },
+        { id: 2, label: 'Unidad 2', colorClass: 'bg-blue-500' }
       ]
     },
     'Lengua Castellana': {

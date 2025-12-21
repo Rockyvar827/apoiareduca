@@ -7,47 +7,50 @@
         🌍 Xogo Xeográfico – Unidade 2
       </h2>
       <p class="text-sky-600 mt-2">
-        Aprende xogando con mapas e retos
+        Preme no emoji correcto no mapa
       </p>
     </header>
-
-    <!-- CARGA -->
-    <div v-if="loading" class="text-center text-sky-600">
-      ⏳ Cargando preguntas...
+    <!-- SELECTOR DE ÁMBITO -->
+    <div class="flex justify-center gap-3 mb-6">
+      <button
+        v-for="s in scopes"
+        :key="s.id"
+        class="px-4 py-2 rounded-full font-semibold transition"
+        :class="scope === s.id
+          ? 'bg-sky-600 text-white'
+          : 'bg-sky-100 text-sky-700 hover:bg-sky-200'"
+        @click="changeScope(s.id)"
+      >
+        {{ s.label }}
+      </button>
     </div>
 
+
     <!-- TARXETA -->
-    <div v-else-if="current" class="bg-white rounded-3xl shadow-md p-6 border">
+    <div v-if="current" class="bg-white rounded-3xl shadow-md p-6 border">
 
-      <!-- IMAXE -->
-      <div v-if="current.image" class="mb-4 flex justify-center">
-        <img
-          :src="`/images/${current.image}`"
-          class="max-h-64 rounded-xl border"
-          alt="Mapa ou pista visual"
-        />
-      </div>
-
-      <!-- TEXTO -->
+      <!-- CONSIGNA -->
       <h3 class="text-lg sm:text-xl font-semibold mb-4 text-gray-800">
-        {{ current.text }}
+        📍 Localiza:
+        <span class="text-sky-700">{{ current.target.name }}</span>
       </h3>
 
-      <!-- VERDADEIRO / FALSO -->
-      <div v-if="current.gameType === 'verdadeiro_falso'" class="flex gap-4">
-        <button class="btn" @click="checkBoolean(true)">✔ Verdadeiro</button>
-        <button class="btn" @click="checkBoolean(false)">✖ Falso</button>
-      </div>
+      <!-- MAPA + EMOJIS -->
+      <div class="relative flex justify-center mb-4">
+        <img
+          :src="`/images/${current.mapImage}`"
+          class="max-h-80 rounded-xl border"
+          alt="Mapa xeográfico"
+        />
 
-      <!-- OPCIÓNS -->
-      <div v-else class="grid gap-3">
         <button
-          v-for="(opt, i) in current.options"
-          :key="i"
-          class="btn text-left"
-          @click="checkOption(i)"
+          v-for="item in emojisForCurrentMap"
+          :key="item.id"
+          class="absolute text-3xl transition hover:scale-125"
+          :style="emojiStyle(item)"
+          @click="checkEmoji(item)"
         >
-          {{ opt }}
+          {{ item.emoji }}
         </button>
       </div>
 
@@ -71,7 +74,9 @@
 
     <!-- FINAL -->
     <div v-else class="text-center p-8 bg-green-50 rounded-3xl">
-      <h3 class="text-2xl font-bold text-green-700">🎉 Xogo completado!</h3>
+      <h3 class="text-2xl font-bold text-green-700">
+        🎉 Xogo completado!
+      </h3>
       <button class="btn-primary mt-4" @click="reset">
         Xogar de novo
       </button>
@@ -81,40 +86,103 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue'
-import questionsData from '../../data/ccss_6_tema2_juego.json'
+import { ref, computed, watch } from 'vue'
+import data from '../../data/ccss_6_tema2_juego.json'
+
+const scopes = [
+  { id: 'espana', label: '🇪🇸 España' },
+  { id: 'europa', label: '🇪🇺 Europa' },
+  { id: 'galicia', label: '🌿 Galicia' }
+]
+
+const scope = ref('galicia')
+
 
 /* ============================
    ESTADO
-   ============================ */
-const questions = ref(questionsData)
+============================ */
+const filteredMaps = computed(() => {
+  return data.maps.filter(m => m.scope === scope.value)
+})
+
+const challenges = ref(generateChallenges(filteredMaps.value))
 const index = ref(0)
 const feedback = ref(null)
 
 /* ============================
    COMPUTED
-   ============================ */
-const current = computed(() => questions.value[index.value])
+============================ */
+const current = computed(() => challenges.value[index.value])
+
+/* Índice estable de mapas → emojis */
+const mapsByImage = computed(() => {
+  const result = {}
+  filteredMaps.value.forEach(map => {
+    result[map.image] = map.items
+  })
+  return result
+})
+
+
+/* Emojis do mapa actual (SIN DUPLICADOS) */
+const emojisForCurrentMap = computed(() => {
+  if (!current.value) return []
+  return mapsByImage.value[current.value.mapImage] || []
+})
 
 /* ============================
-   MÉTODOS
-   ============================ */
-function checkOption(i) {
-  const ok = i === current.value.correctIndex
-  feedback.value = {
-    ok,
-    msg: ok ? '🎉 Correcto!' : current.value.explanation
+   XERADOR DE RETOS
+============================ */
+function generateChallenges(maps) {
+  const list = []
+  maps.forEach(map => {
+    map.items.forEach(item => {
+      list.push({
+        mapImage: map.image,
+        target: item
+      })
+    })
+  })
+  return list
+}
+
+/* ============================
+   ESTILO EMOJI
+============================ */
+function emojiStyle(item) {
+  return {
+    left: `${item.emojiPos.x * 100}%`,
+    top: `${item.emojiPos.y * 100}%`,
+    transform: 'translate(-50%, -50%)'
   }
 }
 
-function checkBoolean(val) {
-  const ok = val === current.value.correctAnswer
+/* ============================
+   VALIDACIÓN
+============================ */
+function checkEmoji(item) {
+  if (feedback.value) return
+
+  const ok = item.id === current.value.target.id
+
   feedback.value = {
     ok,
-    msg: ok ? '🎉 Correcto!' : current.value.explanation
+    msg: ok
+      ? '🎉 Correcto! Moi ben!'
+      : buildErrorMessage(current.value.target)
   }
 }
 
+function buildErrorMessage(target) {
+  if (target.hints && target.hints.length) {
+    return `❌ Non é correcto. Pista: ${target.hints[0]}`
+  }
+  return '❌ Non é correcto. Proba outro emoji.'
+}
+
+/* ============================
+   FLUXO
+============================ */
 function next() {
   feedback.value = null
   index.value++
@@ -124,26 +192,27 @@ function reset() {
   index.value = 0
   feedback.value = null
 }
+
+watch(scope, () => {
+  challenges.value = generateChallenges(filteredMaps.value)
+  index.value = 0
+  feedback.value = null
+})
+
+function changeScope(newScope) {
+  scope.value = newScope
+}
+
+
 </script>
 
-
 <style scoped>
-.btn {
-  padding: 0.75rem 1rem;
-  border-radius: 1rem;
-  border: 1px solid #bae6fd;
-  background: #f0f9ff;
-  transition: 0.2s;
-  font-weight: 500;
-}
-.btn:hover {
-  background: #e0f2fe;
-}
 .btn-primary {
   padding: 0.75rem 1.25rem;
   border-radius: 1rem;
   background: #0284c7;
   color: white;
+  font-weight: 600;
 }
 .btn-primary:hover {
   background: #0369a1;

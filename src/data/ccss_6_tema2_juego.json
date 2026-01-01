@@ -45,7 +45,7 @@
         {
           "id": "macizo_galaico",
           "name": "Macizo Galaico",
-          "emoji": "🪨",
+          "emoji": "🏔️",
           "emojiPos": { "x": 0.22, "y": 0.28 },
           "level": 2
         },
@@ -449,8 +449,7 @@
   ]
 }
 ,
-
-    {
+  {
   "scope": "galicia",
   "category": "relevo",
   "image": "mapa_relevo_galicia_emojis.png",
@@ -543,7 +542,7 @@
     {
       "id": "chairas",
       "name": "Chairas de Galicia",
-      "emoji": "😎",
+      "emoji": "🌄",
       "emojiPos": { "x": 0.50, "y": 0.35 },
       "hints": [
         "Inclúe a Terra Chá"

@@ -8,23 +8,27 @@
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "npm run build && npm run copy-docs && npm run dev",
-    "copy-docs": "rmdir /S /Q docs && mkdir docs && xcopy dist docs /E /I /Y",   
+    "copy-docs": "rmdir /S /Q docs && mkdir docs && xcopy dist docs /E /I /Y",
     "postbuild": "copy dist\\index.html dist\\404.html"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
     "@vueuse/head": "^2.0.0",
-    "vue": "^3.5.24",
-    "vue-router": "^4.6.3"
+    "vue": "^3.5.24"
   },
   "devDependencies": {
+    "@playwright/test": "^1.57.0",
     "@tailwindcss/forms": "^0.5.10",
     "@tailwindcss/postcss": "^4.1.17",
     "@tailwindcss/typography": "^0.5.19",
     "@vitejs/plugin-vue": "^6.0.1",
+    "@vue/test-utils": "^2.4.6",
     "autoprefixer": "^10.4.22",
+    "jsdom": "^27.4.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.17",
-    "vite": "^7.2.4"
+    "vite": "^7.2.4",
+    "vitest": "^4.0.16",
+    "vue-router": "^4.6.4"
   }
 }

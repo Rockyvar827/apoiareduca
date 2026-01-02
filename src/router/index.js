@@ -25,6 +25,7 @@ const routes = [
 {path: '/quiz/construccion-de-palabras', name: 'WordBuilder', component: WordBuilder },
 {path: '/quiz/detectives-del-calculo', name: 'DetectivesDelCalculo', component: DetectivesDelCalculo },
 {path: '/quiz/unidade-o-mapa', name: 'GeoGame', component: GeoGame },
+{path: '/:pathMatch(.*)*',  name: 'NotFound',component: () => import('../views/NotFound.vue')},
 ]
 
 

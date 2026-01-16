@@ -142,7 +142,8 @@ const levelsData = {
       description: 'Temas avanzados de naturaleza para 6.º',
       units: [
         { id: 1, label: 'Unidad 1', colorClass: 'bg-green-500' },
-        { id: 2, label: 'Unidad 2', colorClass: 'bg-teal-400' }
+        { id: 2, label: 'Unidad 2', colorClass: 'bg-teal-400' },
+        { id: 3, label: 'Unidad 3', colorClass: 'bg-teal-600' }
       ]
     },
     CCSS: {

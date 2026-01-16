@@ -11636,6 +11636,261 @@
     "options":["Montes Urais","Montes Escandinavos","Alpes","Macizo Central"],
     "correctIndex":2,
     "explanation":"Os Alpes son unha das cordilleiras novas máis importantes de Europa."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Que é a reprodución?",
+    "options": [
+      "O proceso de respirar",
+      "O proceso polo cal os seres vivos crean descendencia",
+      "O crecemento do corpo",
+      "A alimentación dos seres vivos"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ A reprodución é o proceso polo cal os seres vivos crean descendencia."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Que tipo de reprodución necesita dous individuos de distinto sexo?",
+    "options": [
+      "Reprodución asexual",
+      "Reprodución celular",
+      "Reprodución sexual",
+      "Reprodución artificial"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A reprodución sexual necesita dous individuos de distinto sexo."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Como se chaman as células sexuais masculinas?",
+    "options": [
+      "Óvulos",
+      "Espermatozoides",
+      "Cigotos",
+      "Embrións"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ As células sexuais masculinas chámanse espermatozoides."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Como se chaman as células sexuais femininas?",
+    "options": [
+      "Espermatozoides",
+      "Fetos",
+      "Óvulos",
+      "Embrións"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ As células sexuais femininas chámanse óvulos."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Cal destes é un carácter sexual primario?",
+    "options": [
+      "A voz grave",
+      "O pelo corporal",
+      "O pene",
+      "A masa muscular"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ O pene é un órgano do aparello reprodutor, polo tanto é un carácter sexual primario."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Cal destes é un carácter sexual secundario nos homes?",
+    "options": [
+      "A vaxina",
+      "O útero",
+      "A voz máis grave",
+      "Os ovarios"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A voz máis grave é un carácter sexual secundario nos homes."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Cal é a función principal do aparello reprodutor masculino?",
+    "options": [
+      "Protexer ao bebé",
+      "Producir óvulos",
+      "Producir espermatozoides",
+      "Permitir a respiración"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ O aparello reprodutor masculino produce espermatozoides."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Cal é unha función do aparello reprodutor feminino?",
+    "options": [
+      "Producir espermatozoides",
+      "Alimentar e protexer ao novo ser",
+      "Respirar",
+      "Mover o corpo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ O aparello reprodutor feminino produce óvulos e protexe ao novo ser."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Que son as ETS?",
+    "options": [
+      "Enfermidades do corazón",
+      "Enfermidades que se transmiten polo aire",
+      "Enfermidades de transmisión sexual",
+      "Enfermidades dos ósos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ As ETS son enfermidades de transmisión sexual."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Como se pode evitar o contaxio das ETS?",
+    "options": [
+      "Non durmindo moito",
+      "Usando preservativo",
+      "Comendo saudable",
+      "Facendo deporte"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ O uso do preservativo axuda a evitar o contaxio das ETS."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Cada canto tempo sucede aproximadamente o ciclo reprodutivo feminino?",
+    "options": [
+      "Cada 7 días",
+      "Cada 15 días",
+      "Cada 28 días",
+      "Cada ano"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ O ciclo reprodutivo feminino sucede aproximadamente cada 28 días."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Como se chama a primeira célula que se forma tras a fecundación?",
+    "options": [
+      "Embrión",
+      "Feto",
+      "Óvulo",
+      "Cigoto"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ A primeira célula formada chámase cigoto."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Cando comeza o embarazo?",
+    "options": [
+      "Cando nace o bebé",
+      "Cando o embrión se adhire ao útero",
+      "Cando aparece a puberdade",
+      "Cando se produce a menstruación"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ O embarazo comeza cando o embrión se adhire ao útero."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Como se chama o embrión a partir do segundo mes?",
+    "options": [
+      "Cigoto",
+      "Óvulo",
+      "Feto",
+      "Bebé"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A partir do segundo mes chámase feto."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Por onde sae o bebé durante o parto?",
+    "options": [
+      "Polo útero",
+      "Pola vaxina",
+      "Polo embigo",
+      "Polo abdome"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Durante o parto o bebé sae pola vaxina."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Cal é a primeira etapa da vida?",
+    "options": [
+      "Adolescencia",
+      "Xuventude",
+      "Infancia",
+      "Vellez"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A primeira etapa da vida é a infancia."
+  },
+  {
+    "category": "ccnn_6_tema3",
+    "nivel": "6",
+    "materia": "CCNN",
+    "unidad": "3",
+    "text": "Que é a puberdade?",
+    "options": [
+      "A última etapa da vida",
+      "O inicio da adolescencia",
+      "Unha enfermidade",
+      "O final da infancia"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ A puberdade é o período que inicia a adolescencia."
   }
 ]
 

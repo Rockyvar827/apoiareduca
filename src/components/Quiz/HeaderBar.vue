@@ -111,6 +111,13 @@
               >
                 Mapa do España-Europa
               </router-link>
+              <router-link
+                to="/quiz/reproduccion-drag-drop"
+                class="block px-4 py-2 text-sm hover:bg-blue-500 hover:text-white transition"
+                @click="closeMenu"
+                >
+                Reprodución
+              </router-link>
             </div>        
             
         </div>

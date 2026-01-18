@@ -11,6 +11,7 @@ import Donation from '../views/Donation.vue'
 import RSSView from '../views/RSSView.vue'
 import DetectivesDelCalculo from '../components/Quiz/DetectivesDelCalculo.vue'
 import GeoGame from '../components/Quiz/GeoGame.vue'
+import ReproducionDragDrop from '../components/Quiz/ReproducionDragDrop.vue'
 
 
 const routes = [
@@ -25,6 +26,7 @@ const routes = [
 {path: '/quiz/construccion-de-palabras', name: 'WordBuilder', component: WordBuilder },
 {path: '/quiz/detectives-del-calculo', name: 'DetectivesDelCalculo', component: DetectivesDelCalculo },
 {path: '/quiz/unidade-o-mapa', name: 'GeoGame', component: GeoGame },
+{path: '/quiz/reproduccion-drag-drop', name: 'ReproducionDragDrop', component: ReproducionDragDrop },
 {path: '/:pathMatch(.*)*',  name: 'NotFound',component: () => import('../views/NotFound.vue')},
 ]
 

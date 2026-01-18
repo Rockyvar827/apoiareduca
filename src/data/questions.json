@@ -11891,7 +11891,307 @@
     ],
     "correctIndex": 1,
     "explanation": "✅ A puberdade é o período que inicia a adolescencia."
-  }
+  },
+  {
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Que é a puberdade?",
+  "options": [
+    "A última etapa da vida",
+    "O inicio da adolescencia",
+    "Unha enfermidade",
+    "O final da infancia"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ A puberdade é o período no que comeza a adolescencia e se producen cambios físicos importantes."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Que ocorre durante a adolescencia?",
+  "options": [
+    "Só cambios emocionais",
+    "Só cambios físicos",
+    "Crecemento e maduración sexual",
+    "Envellecemento do corpo"
+  ],
+  "correctIndex": 2,
+  "explanation": "✅ Durante a adolescencia prodúcense cambios físicos, crecemento e maduración sexual."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Cal é un cambio físico común nos rapaces durante a adolescencia?",
+  "options": [
+    "A aparición da menstruación",
+    "O cambio de voz",
+    "O desenvolvemento das mamas",
+    "A menopausa"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ Nos rapaces prodúcese o cambio de voz durante a adolescencia."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Que cambio físico é característico das rapazas na puberdade?",
+  "options": [
+    "Cambio de voz grave",
+    "Primeira menstruación",
+    "Crecemento da barba",
+    "Desaparición do vello corporal"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ A primeira menstruación chámase menarquia."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Onde aparece vello durante a adolescencia?",
+  "options": [
+    "Só na cabeza",
+    "Nas axilas e nos xenitais",
+    "Só nas pernas",
+    "Desaparece o vello"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ Durante a adolescencia aparece vello nas axilas e nos xenitais."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Cal é a función principal dos ovarios?",
+  "options": [
+    "Producir espermatozoides",
+    "Producir óvulos",
+    "Almacenar ouriños",
+    "Transportar o óvulo"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ Os ovarios producen os óvulos."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Que órgano comunica os ovarios co útero?",
+  "options": [
+    "A vaxina",
+    "A vulva",
+    "As trompas de Falopio",
+    "A uretra"
+  ],
+  "correctIndex": 2,
+  "explanation": "✅ As trompas de Falopio conectan os ovarios co útero."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Onde se desenvolve o bebé durante o embarazo?",
+  "options": [
+    "Na vaxina",
+    "No útero",
+    "Nos ovarios",
+    "Na vulva"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ O útero é onde se desenvolve o bebé durante o embarazo."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Cal é a función dos testículos?",
+  "options": [
+    "Producir óvulos",
+    "Producir espermatozoides",
+    "Almacenar ouriños",
+    "Fabricar hormonas femininas"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ Os testículos producen os espermatozoides."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Que órgano permite a saída dos espermatozoides?",
+  "options": [
+    "A próstata",
+    "A uretra",
+    "Os condutos deferentes",
+    "Os testículos"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ A uretra permite a saída dos espermatozoides."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Cando comeza o ciclo reprodutor feminino?",
+  "options": [
+    "Co embarazo",
+    "Coa ovulación",
+    "Co inicio da menstruación",
+    "Co final da adolescencia"
+  ],
+  "correctIndex": 2,
+  "explanation": "✅ O ciclo reprodutor feminino comeza coa menstruación."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Como se chama a liberación dun óvulo do ovario?",
+  "options": [
+    "Menstruación",
+    "Fecundación",
+    "Ovulación",
+    "Xestación"
+  ],
+  "correctIndex": 2,
+  "explanation": "✅ A liberación do óvulo chámase ovulación."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Onde se produce a fecundación?",
+  "options": [
+    "No útero",
+    "Na vaxina",
+    "Nas trompas de Falopio",
+    "Nos ovarios"
+  ],
+  "correctIndex": 2,
+  "explanation": "✅ A fecundación prodúcese nas trompas de Falopio."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Que se forma cando un espermatozoide se une a un óvulo?",
+  "options": [
+    "Un embrión",
+    "Un feto",
+    "Un cigoto",
+    "Un bebé"
+  ],
+  "correctIndex": 2,
+  "explanation": "✅ A unión do espermatozoide e o óvulo forma un cigoto."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Que ocorre durante a unión sexual entre un home e unha muller?",
+  "options": [
+    "O óvulo descende ao útero",
+    "O home deposita espermatozoides na vaxina",
+    "Prodúcese directamente o embarazo",
+    "Fórmase o embrión"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ Durante a unión sexual, o home deposita millóns de espermatozoides na vaxina da muller."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Cara onde se desprazan os espermatozoides despois de entrar na vaxina?",
+  "options": [
+    "Directamente aos ovarios",
+    "Á uretra",    
+    "Á parede do útero",
+    "Ao útero e ás trompas de Falopio"
+  ],
+  "correctIndex": 3,
+  "explanation": "✅ Os espermatozoides pasan da vaxina ao útero e ascenden polas trompas de Falopio."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Onde se produce a fecundación?",
+  "options": [
+    "No útero",
+    "Na vaxina",
+    "Na trompa de Falopio",
+    "No ovario"
+  ],
+  "correctIndex": 2,
+  "explanation": "✅ A fecundación prodúcese na trompa de Falopio cando un espermatozoide se une cun óvulo."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Como se chama a célula que se forma tras a fecundación?",
+  "options": [
+    "Cigoto",
+    "Embrión",
+    "Feto",    
+    "Bebé"
+  ],
+  "correctIndex": 0,
+  "explanation": "✅ A unión do espermatozoide e do óvulo dá lugar ao cigoto."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Que ocorre co cigoto mentres descende cara ao útero?",
+  "options": [
+    "Desaparece",
+    "Divídese en moitas células formando o embrión",
+    "Convértese directamente en feto",    
+    "É expulsado do corpo"
+  ],
+  "correctIndex": 1,
+  "explanation": "✅ O cigoto divídese en moitas células e forma o embrión mentres baixa ao útero."
+},
+{
+  "category": "ccnn_6_tema3",
+  "nivel": "6",
+  "materia": "CCNN",
+  "unidad": "3",
+  "text": "Que sucede cando o embrión chega ao útero?",
+  "options": [
+    "Adhírese á parede do útero e iníciase o embarazo",
+    "É eliminado",
+    "Fórmase o cigoto",   
+    "Prodúcese a ovulación"
+  ],
+  "correctIndex": 0,
+  "explanation": "✅ O embrión adhírese á parede do útero e comeza o embarazo."
+}
 ]
 
 

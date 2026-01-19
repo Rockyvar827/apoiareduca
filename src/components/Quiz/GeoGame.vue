@@ -1,220 +1,174 @@
-<template>
-  <section class="max-w-4xl mx-auto p-4 sm:p-6">
-
-    <!-- CABECEIRA -->
-    <header class="text-center mb-6">
-      <h2 class="text-2xl sm:text-3xl font-bold text-sky-800">
-        🌍 Xogo Xeográfico – Unidade 2
-      </h2>
-      <p class="text-sky-600 mt-2">
-        Preme no emoji correcto no mapa
-      </p>
-    </header>
-    <!-- SELECTOR DE ÁMBITO -->
-    <div class="flex justify-center gap-3 mb-6">
-      <button
-        v-for="s in scopes"
-        :key="s.id"
-        class="px-4 py-2 rounded-full font-semibold transition"
-        :class="scope === s.id
-          ? 'bg-sky-600 text-white'
-          : 'bg-sky-100 text-sky-700 hover:bg-sky-200'"
-        @click="changeScope(s.id)"
-      >
-        {{ s.label }}
-      </button>
-    </div>
-
-
-    <!-- TARXETA -->
-    <div v-if="current" class="bg-white rounded-3xl shadow-md p-6 border">
-
-      <!-- CONSIGNA -->
-      <h3 class="text-lg sm:text-xl font-semibold mb-4 text-gray-800">
-        📍 Localiza:
-        <span class="text-sky-700">{{ current.target.name }}</span>
-      </h3>
-
-      <!-- MAPA + EMOJIS -->
-      <div class="relative flex justify-center mb-4">
-        <img
-          :src="`/images/${current.mapImage}`"
-          class="max-h-80 rounded-xl border"
-          alt="Mapa xeográfico"
-        />
-
-        <button
-          v-for="item in emojisForCurrentMap"
-          :key="item.id"
-          class="absolute text-3xl transition hover:scale-125"
-          :style="emojiStyle(item)"
-          @click="checkEmoji(item)"
-        >
-          {{ item.emoji }}
-        </button>
-      </div>
-
-      <!-- FEEDBACK -->
-      <div
-        v-if="feedback"
-        class="mt-4 p-4 rounded-xl"
-        :class="feedback.ok ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'"
-      >
-        {{ feedback.msg }}
-      </div>
-
-      <!-- SEGUINTE -->
-      <div v-if="feedback" class="mt-4 text-right">
-        <button class="btn-primary" @click="next">
-          Seguinte →
-        </button>
-      </div>
-
-    </div>
-
-    <!-- FINAL -->
-    <div v-else class="text-center p-8 bg-green-50 rounded-3xl">
-      <h3 class="text-2xl font-bold text-green-700">
-        🎉 Xogo completado!
-      </h3>
-      <button class="btn-primary mt-4" @click="reset">
-        Xogar de novo
-      </button>
-    </div>
-
-  </section>
-</template>
-
 <script setup>
-import { ref, computed, watch } from 'vue'
-import data from '../../data/ccss_6_tema2_juego.json'
+import { ref, computed } from 'vue'
+import gameData from '../../data/ccss_6_tema2_juego.json'
 
-const scopes = [
-  { id: 'espana', label: '🇪🇸 España' },
-  { id: 'europa', label: '🇪🇺 Europa' },
-  { id: 'galicia', label: '🌿 Galicia' }
-]
+/* =====================================================
+   NORMALIZACIÓN DE DATOS
+   (admite 1 mapa o maps[])
+===================================================== */
+const maps = computed(() => {
+  if (Array.isArray(gameData.maps)) return gameData.maps
+  if (Array.isArray(gameData.items)) return [gameData]
+  return []
+})
 
-const scope = ref('galicia')
-
-
-/* ============================
+/* =====================================================
    ESTADO
-============================ */
-const filteredMaps = computed(() => {
-  return data.maps.filter(m => m.scope === scope.value)
+===================================================== */
+const mapIndex = ref(0)
+const feedback = ref('')
+
+/* =====================================================
+   MAPA ACTUAL
+===================================================== */
+const currentMap = computed(() => maps.value[mapIndex.value] ?? null)
+
+/* =====================================================
+   MODELO DE JUEGO (DIRECTO DESDE JSON)
+===================================================== */
+const places = computed(() => {
+  if (!currentMap.value) return []
+
+  return currentMap.value.items.map(item => ({
+    id: item.id,
+    number: item.number,
+    name: item.name,
+    state: 'idle' // idle | ok | error
+  }))
 })
 
-const challenges = ref(generateChallenges(filteredMaps.value))
-const index = ref(0)
-const feedback = ref(null)
-
-/* ============================
-   COMPUTED
-============================ */
-const current = computed(() => challenges.value[index.value])
-
-/* Índice estable de mapas → emojis */
-const mapsByImage = computed(() => {
-  const result = {}
-  filteredMaps.value.forEach(map => {
-    result[map.image] = map.items
-  })
-  return result
-})
-
-
-/* Emojis do mapa actual (SIN DUPLICADOS) */
-const emojisForCurrentMap = computed(() => {
-  if (!current.value) return []
-  return mapsByImage.value[current.value.mapImage] || []
-})
-
-/* ============================
-   XERADOR DE RETOS
-============================ */
-function generateChallenges(maps) {
-  const list = []
-  maps.forEach(map => {
-    map.items.forEach(item => {
-      list.push({
-        mapImage: map.image,
-        target: item
-      })
-    })
-  })
-  return list
+/* =====================================================
+   DRAG & DROP REAL (HTML5)
+===================================================== */
+function onDragStart(place, event) {
+  event.dataTransfer.effectAllowed = 'move'
+  event.dataTransfer.setData('text/plain', place.id)
 }
 
-/* ============================
-   ESTILO EMOJI
-============================ */
-function emojiStyle(item) {
-  return {
-    left: `${item.emojiPos.x * 100}%`,
-    top: `${item.emojiPos.y * 100}%`,
-    transform: 'translate(-50%, -50%)'
+function onDrop(target, event) {
+  event.preventDefault()
+
+  const draggedId = event.dataTransfer.getData('text/plain')
+  if (!draggedId) return
+
+  const draggedPlace = places.value.find(p => p.id === draggedId)
+  if (!draggedPlace || draggedPlace.state === 'ok') return
+
+  const ok = draggedPlace.id === target.id
+  draggedPlace.state = ok ? 'ok' : 'error'
+  target.state = draggedPlace.state
+
+  feedback.value = ok
+    ? `✅ ${target.number} → ${target.name}`
+    : '❌ Non é correcto. Inténtao de novo.'
+}
+
+/* =====================================================
+   CONTROL DE AVANCE
+===================================================== */
+const activityCompleted = computed(() =>
+  places.value.length > 0 &&
+  places.value.every(p => p.state === 'ok')
+)
+
+function nextActivity() {
+  if (mapIndex.value < maps.value.length - 1) {
+    mapIndex.value++
+    feedback.value = ''
+  } else {
+    feedback.value = '🎉 Actividade completada'
   }
 }
-
-/* ============================
-   VALIDACIÓN
-============================ */
-function checkEmoji(item) {
-  if (feedback.value) return
-
-  const ok = item.id === current.value.target.id
-
-  feedback.value = {
-    ok,
-    msg: ok
-      ? '🎉 Correcto! Moi ben!'
-      : buildErrorMessage(current.value.target)
-  }
-}
-
-function buildErrorMessage(target) {
-  if (target.hints && target.hints.length) {
-    return `❌ Non é correcto. Pista: ${target.hints[0]}`
-  }
-  return '❌ Non é correcto. Proba outro emoji.'
-}
-
-/* ============================
-   FLUXO
-============================ */
-function next() {
-  feedback.value = null
-  index.value++
-}
-
-function reset() {
-  index.value = 0
-  feedback.value = null
-}
-
-watch(scope, () => {
-  challenges.value = generateChallenges(filteredMaps.value)
-  index.value = 0
-  feedback.value = null
-})
-
-function changeScope(newScope) {
-  scope.value = newScope
-}
-
-
 </script>
 
-<style scoped>
-.btn-primary {
-  padding: 0.75rem 1.25rem;
-  border-radius: 1rem;
-  background: #0284c7;
-  color: white;
-  font-weight: 600;
-}
-.btn-primary:hover {
-  background: #0369a1;
-}
-</style>
+<template>
+  <!-- CARGA SEGURA -->
+  <div v-if="currentMap" class="max-w-4xl mx-auto p-4">
+    <!-- TÍTULO -->
+    <h2 class="text-xl font-semibold text-center mb-2">
+      {{ currentMap.category }} · {{ currentMap.scope }}
+    </h2>
+
+    <!-- MAPA NUMERADO -->
+    <div class="flex justify-center mb-6">
+      <img
+        :src="`/images/${currentMap.image}`"
+        class="w-full max-w-5xl max-h-[70vh] object-contain
+               rounded-xl border shadow"
+        alt="Mapa numerado"
+      />
+    </div>
+<!-- ZONAS + NÚMEROS -->
+<div class="grid grid-cols-1 lg:grid-cols-[1fr_120px] gap-6 mb-6 max-w-5xl mx-auto">
+
+  <!-- ZONAS -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+    <div
+      v-for="zone in places"
+      :key="zone.id"
+      @dragover.prevent
+      @drop="onDrop(zone, $event)"
+      class="border rounded-lg p-4 text-center bg-gray-50 transition"
+      :class="{ 'bg-green-100 border-green-500': zone.state === 'ok' }"
+    >
+      <strong>{{ zone.name }}</strong>
+
+      <p v-if="zone.state === 'ok'" class="text-green-700 mt-1">
+        ✔ {{ zone.number }}
+      </p>
+
+      <p v-else class="text-gray-400 italic mt-1">
+        Arrastra aquí
+      </p>
+    </div>
+  </div>
+
+  <!-- NÚMEROS -->
+  <div
+    class="flex flex-col items-center gap-2
+           max-h-[60vh] overflow-y-auto
+           border rounded-lg p-3 bg-gray-50"
+  >
+    <button
+      v-for="place in places"
+      :key="place.id"
+      draggable="true"
+      @dragstart="onDragStart(place, $event)"
+      class="w-10 h-10 rounded-full bg-blue-600 text-white font-bold
+             flex items-center justify-center cursor-grab transition"
+      :class="{ 'opacity-40 cursor-not-allowed': place.state === 'ok' }"
+    >
+      {{ place.number }}
+    </button>
+  </div>
+
+</div>
+
+    <!-- FEEDBACK -->
+    <p v-if="feedback" class="text-center font-medium mb-4">
+      {{ feedback }}
+    </p>
+
+    <!-- CONTROLES -->
+    <div class="flex flex-col items-center gap-2">
+      <button
+        class="px-5 py-2 rounded bg-blue-600 text-white font-semibold
+               hover:bg-blue-700 transition disabled:opacity-40"
+        :disabled="!activityCompleted"
+        @click="nextActivity"
+      >
+        ➜ Seguinte
+      </button>
+
+      <p v-if="!activityCompleted" class="text-sm text-gray-400 italic">
+        🧩 Completa todas as partes para continuar
+      </p>
+    </div>
+  </div>
+
+  <!-- FALLBACK -->
+  <div v-else class="text-center p-6 text-gray-400">
+    Cargando xogo…
+  </div>
+  
+</template>

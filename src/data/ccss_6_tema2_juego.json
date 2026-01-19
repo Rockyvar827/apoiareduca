@@ -1,860 +1,164 @@
 {
-  "unit": "Unidade 2: Viaxamos por España e Europa",
-  "subject": "Ciencias Sociais",
+  "unit": "CCSS 6º · Xeografía",
   "maps": [
     {
       "scope": "espana",
       "category": "relevo",
-      "image": "mapa_relevo_espana_emojis.png",
+      "image": "mapa_relevo_espana_num.png",
       "items": [
-        {
-          "id": "meseta",
-          "name": "Meseta",
-          "emoji": "🟨",
-          "emojiPos": { "x": 0.50, "y": 0.45 },
-          "hints": [
-            "Ocupa o centro da Península",
-            "Divídese en submeseta norte e sur"
-          ],
-          "level": 1
-        },
-        {
-          "id": "sistema_central",
-          "name": "Sistema Central",
-          "emoji": "⛰️",
-          "emojiPos": { "x": 0.50, "y": 0.50 },
-          "hints": [
-            "Divide a Meseta en norte e sur"
-          ],
-          "level": 2
-        },
-        {
-          "id": "montes_toledo",
-          "name": "Montes de Toledo",
-          "emoji": "🌄",
-          "emojiPos": { "x": 0.50, "y": 0.60 },
-          "level": 2
-        },
-        {
-          "id": "cordilleira_cantabrica",
-          "name": "Cordilleira Cantábrica",
-          "emoji": "🏔️",
-          "emojiPos": { "x": 0.45, "y": 0.23 },
-          "level": 1
-        },
-        {
-          "id": "macizo_galaico",
-          "name": "Macizo Galaico",
-          "emoji": "🏔️",
-          "emojiPos": { "x": 0.22, "y": 0.28 },
-          "level": 2
-        },
-        {
-          "id": "montes_vascos",
-          "name": "Montes Vascos",
-          "emoji": "⛰️",
-          "emojiPos": { "x": 0.68, "y": 0.25 },
-          "level": 2
-        },
-        {
-          "id": "pirineos",
-          "name": "Pirineos",
-          "emoji": "🏔️",
-          "emojiPos": { "x": 0.82, "y": 0.22 },
-          "hints": [
-            "Separan España de Francia"
-          ],
-          "level": 1
-        },
-        {
-          "id": "sistema_iberico",
-          "name": "Sistema Ibérico",
-          "emoji": "⛰️",
-          "emojiPos": { "x": 0.68, "y": 0.42 },
-          "level": 2
-        },
-        {
-          "id": "serra_morena",
-          "name": "Serra Morena",
-          "emoji": "🌵",
-          "emojiPos": { "x": 0.50, "y": 0.70 },
-          "level": 2
-        },
-        {
-          "id": "cordilleiras_beticas",
-          "name": "Cordilleiras Béticas",
-          "emoji": "🔥",
-          "emojiPos": { "x": 0.72, "y": 0.82 },
-          "level": 1
-        },
-        {
-          "id": "depresion_ebro",
-          "name": "Depresión do Ebro",
-          "emoji": "🌾",
-          "emojiPos": { "x": 0.72, "y": 0.35 },
-          "level": 2
-        },
-        {
-          "id": "depresion_guadalquivir",
-          "name": "Depresión do Guadalquivir",
-          "emoji": "🌻",
-          "emojiPos": { "x": 0.50, "y": 0.80 },
-          "level": 2
-        },
-        {
-          "id": "illas_baleares",
-          "name": "Illas Baleares",
-          "emoji": "🏝️",
-          "emojiPos": { "x": 0.92, "y": 0.48 },
-          "level": 2
-        },
-        {
-          "id": "illas_canarias",
-          "name": "Illas Canarias",
-          "emoji": "🌋",
-          "emojiPos": { "x": 0.18, "y": 0.92 },
-          "hints": [
-            "O Teide é o punto máis alto de España"
-          ],
-          "level": 2
-        
-    }
+        { "id": "macizo_galaico", "number": 1, "name": "Macizo Galaico", "level": 1 },
+        { "id": "cordilleira_cantabrica", "number": 2, "name": "Cordilleira Cantábrica", "level": 1 },
+        { "id": "montes_vascos", "number": 3, "name": "Montes Vascos", "level": 1 },
+        { "id": "pirineos", "number": 4, "name": "Pirineos", "level": 1 },
+        { "id": "depresion_ebro", "number": 5, "name": "Depresión do Ebro", "level": 1 },
+        { "id": "sistema_iberico", "number": 6, "name": "Sistema Ibérico", "level": 1 },
+        { "id": "submeseta_norte", "number": 7, "name": "Submeseta Norte", "level": 1 },
+        { "id": "sistema_central", "number": 8, "name": "Sistema Central", "level": 1 },
+        { "id": "submeseta_sur", "number": 9, "name": "Submeseta Sur", "level": 1 },
+        { "id": "montes_toledo", "number": 10, "name": "Montes de Toledo", "level": 1 },
+        { "id": "serra_morena", "number": 11, "name": "Serra Morena", "level": 1 },
+        { "id": "depresion_guadalquivir", "number": 12, "name": "Depresión do Guadalquivir", "level": 1 },
+        { "id": "cordilleiras_beticas", "number": 13, "name": "Cordilleiras Béticas", "level": 1 },
+        { "id": "illas_baleares", "number": 14, "name": "Illas Baleares", "level": 1 },
+        { "id": "illas_canarias", "number": 15, "name": "Illas Canarias", "level": 1 }
       ]
     },
-  
-    {
-  "scope": "espana",
-  "category": "rios",
-  "image": "mapa_rios_espana_emojis.png",
-  "items": [
-    {
-      "id": "mino",
-      "name": "Miño",
-      "emoji": "🌊",
-      "emojiPos": { "x": 0.18, "y": 0.20 },
-      "hints": [
-        "É o río máis caudaloso de Galicia"
-      ],
-      "level": 1
-    },
-    {
-      "id": "duero",
-      "name": "Douro",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.40, "y": 0.30 },
-      "hints": [
-        "Desemboca no océano Atlántico"
-      ],
-      "level": 1
-    },
-    {
-      "id": "tajo",
-      "name": "Texo",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.42, "y": 0.50 },
-      "hints": [
-        "É o río máis longo da Península Ibérica"
-      ],
-      "level": 1
-    },
-    {
-      "id": "guadiana",
-      "name": "Guadiana",
-      "emoji": "🏞️",
-      "emojiPos": { "x": 0.38, "y": 0.62 },
-      "hints": [
-        "Parte do seu percorrido é subterráneo"
-      ],
-      "level": 1
-    },
-    {
-      "id": "guadalquivir",
-      "name": "Guadalquivir",
-      "emoji": "🌊",
-      "emojiPos": { "x": 0.50, "y": 0.78 },
-      "hints": [
-        "Desemboca no Atlántico por Andalucía"
-      ],
-      "level": 1
-    },
-    {
-      "id": "ebro",
-      "name": "Ebro",
-      "emoji": "🌊",
-      "emojiPos": { "x": 0.70, "y": 0.30 },
-      "hints": [
-        "Desemboca no mar Mediterráneo"
-      ],
-      "level": 1
-    },
-    {
-      "id": "jucar",
-      "name": "Xúcar",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.68, "y": 0.52 },
-      "level": 2
-    },
-    {
-      "id": "segura",
-      "name": "Segura",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.72, "y": 0.60 },
-      "hints": [
-        "É un río curto e pouco caudaloso"
-      ],
-      "level": 2
-    }
-  ]
-}
-,
 
     {
-  "scope": "europa",
-  "category": "relevo",
-  "image": "mapa_relevo_europa_emojis.png",
-  "items": [
-    {
-      "id": "montes_escandinavos",
-      "name": "Montes Escandinavos",
-      "emoji": "🏔️",
-      "emojiPos": { "x": 0.50, "y": 0.18 },
-      "hints": [
-        "Sitúanse no norte de Europa"
-      ],
-      "level": 1
+      "scope": "espana",
+      "category": "rios",
+      "image": "mapa_rios_espana_num.png",
+      "items": [
+        { "id": "mino", "number": 1, "name": "Miño", "level": 1 },
+        { "id": "duero", "number": 2, "name": "Douro", "level": 1 },
+        { "id": "tajo", "number": 3, "name": "Texo", "level": 1 },
+        { "id": "guadiana", "number": 4, "name": "Guadiana", "level": 1 },
+        { "id": "guadalquivir", "number": 5, "name": "Guadalquivir", "level": 1 },
+        { "id": "ebro", "number": 6, "name": "Ebro", "level": 1 },
+        { "id": "jucar", "number": 7, "name": "Xúcar", "level": 2 },
+        { "id": "segura", "number": 8, "name": "Segura", "level": 2 }
+      ]
     },
-    {
-      "id": "macizo_central",
-      "name": "Macizo Central",
-      "emoji": "🪨",
-      "emojiPos": { "x": 0.40, "y": 0.48 },
-      "hints": [
-        "Atópase en Francia"
-      ],
-      "level": 2
-    },
-    {
-      "id": "montes_urais",
-      "name": "Montes Urais",
-      "emoji": "🌲",
-      "emojiPos": { "x": 0.82, "y": 0.35 },
-      "hints": [
-        "Separan Europa de Asia"
-      ],
-      "level": 1
-    },
-    {
-      "id": "gran_chaira_europea",
-      "name": "Gran Chaira Europea",
-      "emoji": "😎",
-      "emojiPos": { "x": 0.62, "y": 0.42 },
-      "hints": [
-        "É unha ampla chaira no centro e leste de Europa"
-      ],
-      "level": 1
-    },
-    {
-      "id": "pirineos",
-      "name": "Pireneos",
-      "emoji": "🏔️",
-      "emojiPos": { "x": 0.34, "y": 0.58 },
-      "hints": [
-        "Separan España de Francia"
-      ],
-      "level": 1
-    },
-    {
-      "id": "alpes",
-      "name": "Alpes",
-      "emoji": "⛰️",
-      "emojiPos": { "x": 0.48, "y": 0.62 },
-      "hints": [
-        "Aquí está o Mont Blanc"
-      ],
-      "level": 1
-    },
-    {
-      "id": "apenninos",
-      "name": "Apeninos",
-      "emoji": "🏔️",
-      "emojiPos": { "x": 0.54, "y": 0.70 },
-      "hints": [
-        "Atravesan Italia de norte a sur"
-      ],
-      "level": 2
-    },
-    {
-      "id": "carpatos",
-      "name": "Cárpatos",
-      "emoji": "⛰️",
-      "emojiPos": { "x": 0.62, "y": 0.60 },
-      "level": 2
-    },
-    {
-      "id": "balcans",
-      "name": "Balcáns",
-      "emoji": "⛰️",
-      "emojiPos": { "x": 0.60, "y": 0.72 },
-      "level": 2
-    },
-    {
-      "id": "caucaso",
-      "name": "Cáucaso",
-      "emoji": "🌋",
-      "emojiPos": { "x": 0.75, "y": 0.70 },
-      "hints": [
-        "Zona montañosa entre Europa e Asia"
-      ],
-      "level": 1
-    }
-  ]
-},
-
 
     {
-  "scope": "europa",
-  "category": "rios",
-  "image": "mapa_rios_europa_emojis.png",
-  "items": [
-    {
-      "id": "tamesis",
-      "name": "Támesis",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.33, "y": 0.44 },
-      "hints": [
-        "Pasa por Londres"
-      ],
-      "level": 1
+      "scope": "europa",
+      "category": "relevo",
+      "image": "mapa_relevo_europa_num.png",
+      "items": [
+        { "id": "montes_escandinavos", "number": 1, "name": "Montes Escandinavos", "level": 1 },
+        { "id": "gran_chaira_europea", "number": 2, "name": "Gran Chaira Europea", "level": 1 },
+        { "id": "macizo_central", "number": 3, "name": "Macizo Central", "level": 2 },
+        { "id": "pirineos", "number": 4, "name": "Pireneos", "level": 1 },
+        { "id": "alpes", "number": 5, "name": "Alpes", "level": 1 },
+        { "id": "apenninos", "number": 6, "name": "Apeninos", "level": 2 },
+        { "id": "carpatos", "number": 7, "name": "Cárpatos", "level": 2 },
+        { "id": "balcans", "number": 8, "name": "Balcáns", "level": 2 },
+        { "id": "montes_urais", "number": 9, "name": "Montes Urais", "level": 1 },
+        { "id": "caucaso", "number": 10, "name": "Cáucaso", "level": 1 }
+      ]
     },
-    {
-      "id": "sena",
-      "name": "Sena",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.36, "y": 0.50 },
-      "hints": [
-        "Pasa por París"
-      ],
-      "level": 1
-    },
-    {
-      "id": "loira",
-      "name": "Loira",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.34, "y": 0.56 },
-      "level": 1
-    },
-    {
-      "id": "rin",
-      "name": "Rin",
-      "emoji": "🌊",
-      "emojiPos": { "x": 0.45, "y": 0.52 },
-      "hints": [
-        "Desemboca no mar do Norte"
-      ],
-      "level": 1
-    },
-    {
-      "id": "elba",
-      "name": "Elba",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.50, "y": 0.48 },
-      "level": 2
-    },
-    {
-      "id": "vistula",
-      "name": "Vístula",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.56, "y": 0.46 },
-      "level": 2
-    },
-    {
-      "id": "oder",
-      "name": "Oder",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.52, "y": 0.50 },
-      "level": 2
-    },
-    {
-      "id": "danubio",
-      "name": "Danubio",
-      "emoji": "🌊",
-      "emojiPos": { "x": 0.54, "y": 0.62 },
-      "hints": [
-        "Desemboca no mar Negro"
-      ],
-      "level": 1
-    },
-    {
-      "id": "po",
-      "name": "Po",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.50, "y": 0.66 },
-      "level": 2
-    },
-    {
-      "id": "rodano",
-      "name": "Ródano",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.44, "y": 0.60 },
-      "level": 1
-    },
-    {
-      "id": "dniester",
-      "name": "Dniéster",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.62, "y": 0.58 },
-      "level": 2
-    },
-    {
-      "id": "dnieper",
-      "name": "Dniéper",
-      "emoji": "🌊",
-      "emojiPos": { "x": 0.64, "y": 0.54 },
-      "level": 1
-    },
-    {
-      "id": "don",
-      "name": "Don",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.70, "y": 0.52 },
-      "level": 2
-    },
-    {
-      "id": "volga",
-      "name": "Volga",
-      "emoji": "🌊",
-      "emojiPos": { "x": 0.74, "y": 0.48 },
-      "hints": [
-        "Desemboca no mar Caspio"
-      ],
-      "level": 1
-    },
-    {
-      "id": "pechora",
-      "name": "Pechora",
-      "emoji": "❄️",
-      "emojiPos": { "x": 0.68, "y": 0.24 },
-      "hints": [
-        "Pertence á vertente ártica"
-      ],
-      "level": 2
-    },
-    {
-      "id": "dvina",
-      "name": "Dviná Setentrional",
-      "emoji": "❄️",
-      "emojiPos": { "x": 0.62, "y": 0.28 },
-      "level": 2
-    }
-  ]
-}
-,
-  {
-  "scope": "galicia",
-  "category": "relevo",
-  "image": "mapa_relevo_galicia_emojis.png",
-  "items": [
-    {
-      "id": "serras_setentrionais",
-      "name": "Serras Setentrionais",
-      "emoji": "🏔️",
-      "emojiPos": { "x": 0.48, "y": 0.20 },
-      "hints": [
-        "Situadas ao norte de Galicia"
-      ],
-      "level": 1
-    },
-    {
-      "id": "serras_centrais",
-      "name": "Serras Centrais",
-      "emoji": "⛰️",
-      "emojiPos": { "x": 0.50, "y": 0.45 },
-      "hints": [
-        "Atravesan Galicia de norte a sur"
-      ],
-      "level": 1
-    },
-    {
-      "id": "serras_orientais",
-      "name": "Serras Orientais",
-      "emoji": "⛰️",
-      "emojiPos": { "x": 0.72, "y": 0.50 },
-      "hints": [
-        "Marcan o límite con Castela e León"
-      ],
-      "level": 1
-    },
-    {
-      "id": "serra_ancares",
-      "name": "Serra dos Ancares",
-      "emoji": "🌲",
-      "emojiPos": { "x": 0.75, "y": 0.42 },
-      "level": 2
-    },
-    {
-      "id": "serra_courel",
-      "name": "Serra do Courel",
-      "emoji": "🍃",
-      "emojiPos": { "x": 0.74, "y": 0.52 },
-      "level": 2
-    },
-    {
-      "id": "serra_xures",
-      "name": "Serra do Xurés",
-      "emoji": "🌄",
-      "emojiPos": { "x": 0.55, "y": 0.78 },
-      "level": 2
-    },
-    {
-      "id": "serra_queixa",
-      "name": "Serra de Queixa",
-      "emoji": "⛰️",
-      "emojiPos": { "x": 0.65, "y": 0.65 },
-      "level": 2
-    },
-    {
-      "id": "serra_segundeira",
-      "name": "Serra Segundeira",
-      "emoji": "⛰️",
-      "emojiPos": { "x": 0.68, "y": 0.72 },
-      "level": 2
-    },
-    {
-      "id": "pena_trevinca",
-      "name": "Pena Trevinca",
-      "emoji": "❄️",
-      "emojiPos": { "x": 0.70, "y": 0.75 },
-      "hints": [
-        "É o punto máis alto de Galicia"
-      ],
-      "level": 3
-    },
-    {
-      "id": "cabeza_manzaneda",
-      "name": "Cabeza de Manzaneda",
-      "emoji": "🏔️",
-      "emojiPos": { "x": 0.66, "y": 0.68 },
-      "hints": [
-        "Segundo punto máis alto de Galicia"
-      ],
-      "level": 3
-    },
-    {
-      "id": "chairas",
-      "name": "Chairas de Galicia",
-      "emoji": "🌄",
-      "emojiPos": { "x": 0.50, "y": 0.35 },
-      "hints": [
-        "Inclúe a Terra Chá"
-      ],
-      "level": 1
-    }
-  ]
-}
-,
 
-   {
-  "scope": "galicia",
-  "category": "rios",
-  "image": "mapa_rios_galicia_emojis.png",
-  "items": [
     {
-      "id": "mino",
-      "name": "Miño",
-      "emoji": "🌊",
-      "emojiPos": { "x": 0.55, "y": 0.55 },
-      "hints": [
-        "É o río máis longo e caudaloso de Galicia"
-      ],
-      "level": 1
+      "scope": "europa",
+      "category": "rios",
+      "image": "mapa_rios_europa_num.png",
+      "items": [
+        { "id": "tamesis", "number": 1, "name": "Támesis", "level": 1 },
+        { "id": "sena", "number": 2, "name": "Sena", "level": 1 },
+        { "id": "loira", "number": 3, "name": "Loira", "level": 1 },
+        { "id": "rin", "number": 4, "name": "Rin", "level": 1 },
+        { "id": "elba", "number": 5, "name": "Elba", "level": 2 },
+        { "id": "oder", "number": 6, "name": "Oder", "level": 2 },
+        { "id": "vistula", "number": 7, "name": "Vístula", "level": 2 },
+        { "id": "danubio", "number": 8, "name": "Danubio", "level": 1 },
+        { "id": "rodano", "number": 9, "name": "Ródano", "level": 1 },
+        { "id": "po", "number": 10, "name": "Po", "level": 2 },
+        { "id": "dniester", "number": 11, "name": "Dniéster", "level": 2 },
+        { "id": "dnieper", "number": 12, "name": "Dniéper", "level": 1 },
+        { "id": "don", "number": 13, "name": "Don", "level": 2 },
+        { "id": "volga", "number": 14, "name": "Volga", "level": 1 },
+        { "id": "dvina", "number": 15, "name": "Dviná Setentrional", "level": 2 },
+        { "id": "pechora", "number": 16, "name": "Pechora", "level": 2 }
+      ]
     },
-    {
-      "id": "sil",
-      "name": "Sil",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.68, "y": 0.58 },
-      "hints": [
-        "É o principal afluente do Miño"
-      ],
-      "level": 1
-    },
-    {
-      "id": "eume",
-      "name": "Eume",
-      "emoji": "🌲",
-      "emojiPos": { "x": 0.48, "y": 0.30 },
-      "level": 2
-    },
-    {
-      "id": "mandeo",
-      "name": "Mandeo",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.45, "y": 0.35 },
-      "level": 2
-    },
-    {
-      "id": "ullа",
-      "name": "Ulla",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.42, "y": 0.50 },
-      "level": 1
-    },
-    {
-      "id": "tambre",
-      "name": "Tambre",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.38, "y": 0.42 },
-      "level": 1
-    },
-    {
-      "id": "xallas",
-      "name": "Xallas",
-      "emoji": "🌊",
-      "emojiPos": { "x": 0.30, "y": 0.40 },
-      "hints": [
-        "Desemboca directamente no mar en Ézaro"
-      ],
-      "level": 2
-    },
-    {
-      "id": "leres",
-      "name": "Lérez",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.42, "y": 0.60 },
-      "level": 2
-    },
-    {
-      "id": "verdugo",
-      "name": "Verdugo",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.44, "y": 0.65 },
-      "level": 2
-    },
-    {
-      "id": "umla",
-      "name": "Umia",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.36, "y": 0.60 },
-      "level": 2
-    },
-    {
-      "id": "limia",
-      "name": "Limia",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.52, "y": 0.78 },
-      "hints": [
-        "Continúa o seu curso por Portugal"
-      ],
-      "level": 2
-    },
-    {
-      "id": "eo",
-      "name": "Eo",
-      "emoji": "❄️",
-      "emojiPos": { "x": 0.72, "y": 0.32 },
-      "hints": [
-        "Marca parte da fronteira con Asturias"
-      ],
-      "level": 2
-    },
-    {
-      "id": "masma",
-      "name": "Masma",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.62, "y": 0.30 },
-      "level": 3
-    },
-    {
-      "id": "ouro",
-      "name": "Ouro",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.58, "y": 0.28 },
-      "level": 3
-    },
-    {
-      "id": "landro",
-      "name": "Landro",
-      "emoji": "💧",
-      "emojiPos": { "x": 0.56, "y": 0.26 },
-      "level": 3
-    }
-  ]
-},
-{
-  "scope": "galicia",
-  "category": "rias_altas",
-  "image": "galicia_rias_altas_emojis.png",
-  "items": [
-    {
-      "id": "ria_coruna",
-      "name": "Ría da Coruña",
-      "emoji": "⚓",
-      "zone": { "shape": "circle", "coords": [0.46, 0.42, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_ares_betanzos",
-      "name": "Ría de Ares e Betanzos",
-      "emoji": "🦀",
-      "zone": { "shape": "circle", "coords": [0.44, 0.37, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_ferrol",
-      "name": "Ría de Ferrol",
-      "emoji": "🚢",
-      "zone": { "shape": "circle", "coords": [0.49, 0.34, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_cedeira",
-      "name": "Ría de Cedeira",
-      "emoji": "🐟",
-      "zone": { "shape": "circle", "coords": [0.55, 0.30, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_ortigueira",
-      "name": "Ría de Ortigueira",
-      "emoji": "🌿",
-      "zone": { "shape": "circle", "coords": [0.60, 0.28, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_barqueiro",
-      "name": "Ría do Barqueiro",
-      "emoji": "⛵",
-      "zone": { "shape": "circle", "coords": [0.65, 0.27, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_viveiro",
-      "name": "Ría de Viveiro",
-      "emoji": "🦋",
-      "zone": { "shape": "circle", "coords": [0.69, 0.29, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_foz",
-      "name": "Ría de Foz",
-      "emoji": "🌊",
-      "zone": { "shape": "circle", "coords": [0.75, 0.32, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_ribadeo",
-      "name": "Ría de Ribadeo",
-      "emoji": "🏖️",
-      "zone": { "shape": "circle", "coords": [0.80, 0.30, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_corme_laxe",
-      "name": "Ría de Corme e Laxe",
-      "emoji": "❤️",
-      "zone": { "shape": "circle", "coords": [0.30, 0.48, 0.03] },
-      "level": 2
-    },
-    {
-      "id": "ria_camarinas",
-      "name": "Ría de Camariñas",
-      "emoji": "🌈",
-      "zone": { "shape": "circle", "coords": [0.28, 0.54, 0.03] },
-      "level": 2
-    },
-    {
-      "id": "ria_corubion_cee",
-      "name": "Ría de Corcubión e Cee",
-      "emoji": "🧜‍♀️",
-      "zone": { "shape": "circle", "coords": [0.24, 0.60, 0.03] },
-      "level": 2
-    }
-  ]
-},
-{
-  "scope": "galicia",
-  "category": "rias_baixas",
-  "image": "galicia_rias_baixas_emojis.png",
-  "items": [
-    {
-      "id": "ria_muross_noia",
-      "name": "Ría de Muros e Noia",
-      "emoji": "🌊",
-      "zone": { "shape": "circle", "coords": [0.48, 0.12, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_arousa",
-      "name": "Ría de Arousa",
-      "emoji": "🦪",
-      "zone": { "shape": "circle", "coords": [0.52, 0.22, 0.035] },
-      "level": 1
-    },
-    {
-      "id": "ria_pontevedra",
-      "name": "Ría de Pontevedra",
-      "emoji": "⛵",
-      "zone": { "shape": "circle", "coords": [0.54, 0.36, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "ria_vigo",
-      "name": "Ría de Vigo",
-      "emoji": "🚢",
-      "zone": { "shape": "circle", "coords": [0.56, 0.46, 0.03] },
-      "level": 1
-    },
-    {
-      "id": "illas_sálvora",
-      "name": "Illa de Sálvora",
-      "emoji": "🏝️",
-      "zone": { "shape": "circle", "coords": [0.47, 0.24, 0.025] },
-      "level": 2
-    },
-    {
-      "id": "illas_ons",
-      "name": "Illas de Ons",
-      "emoji": "🐬",
-      "zone": { "shape": "circle", "coords": [0.53, 0.33, 0.025] },
-      "level": 2
-    },
-    {
-      "id": "illas_cies",
-      "name": "Illas Cíes",
-      "emoji": "🌴",
-      "zone": { "shape": "circle", "coords": [0.55, 0.44, 0.025] },
-      "level": 2
-    },
-    {
-      "id": "cabo_corrubedo",
-      "name": "Cabo Corrubedo",
-      "emoji": "🪨",
-      "zone": { "shape": "circle", "coords": [0.45, 0.28, 0.025] },
-      "level": 3
-    },
-    {
-      "id": "punta_tegra",
-      "name": "Punta de Santa Trega",
-      "emoji": "🧭",
-      "zone": { "shape": "circle", "coords": [0.56, 0.55, 0.025] },
-      "level": 3
-    }
-  ]
-}
-  ],
 
-  "questions": [
     {
-      "gameType": "verdadeiro_falso",
-      "text": "A Meseta ocupa o centro da Península Ibérica.",
-      "correctAnswer": true,
-      "explanation": "✅ Verdadeiro. A Meseta ocupa o centro da Península."
+      "scope": "galicia",
+      "category": "relevo",
+      "image": "mapa_relevo_galicia_num.png",
+      "items": [
+        { "id": "serras_setentrionais", "number": 1, "name": "Serras Setentrionais", "level": 1 },
+        { "id": "chairas", "number": 2, "name": "Chairas de Galicia", "level": 1 },
+        { "id": "serras_centrais", "number": 3, "name": "Serras Centrais", "level": 1 },
+        { "id": "serras_orientais", "number": 4, "name": "Serras Orientais", "level": 1 },
+        { "id": "serra_ancares", "number": 5, "name": "Serra dos Ancares", "level": 2 },
+        { "id": "serra_courel", "number": 6, "name": "Serra do Courel", "level": 2 },
+        { "id": "serra_queixa", "number": 7, "name": "Serra de Queixa", "level": 2 },
+        { "id": "serra_segundeira", "number": 8, "name": "Serra Segundeira", "level": 2 },
+        { "id": "serra_xures", "number": 9, "name": "Serra do Xurés", "level": 2 },
+        { "id": "cabeza_manzaneda", "number": 10, "name": "Cabeza de Manzaneda", "level": 3 },
+        { "id": "pena_trevinca", "number": 11, "name": "Pena Trevinca", "level": 3 }
+      ]
     },
+
     {
-      "gameType": "verdadeiro_falso",
-      "text": "O Danubio desemboca no mar Mediterráneo.",
-      "correctAnswer": false,
-      "explanation": "❌ Falso. O Danubio desemboca no mar Negro."
+      "scope": "galicia",
+      "category": "rios",
+      "image": "mapa_rios_galicia_num.png",
+      "items": [
+        { "id": "mino", "number": 1, "name": "Miño", "level": 1 },
+        { "id": "sil", "number": 2, "name": "Sil", "level": 1 },
+        { "id": "ulla", "number": 3, "name": "Ulla", "level": 1 },
+        { "id": "tambre", "number": 4, "name": "Tambre", "level": 1 },
+        { "id": "eume", "number": 5, "name": "Eume", "level": 2 },
+        { "id": "mandeo", "number": 6, "name": "Mandeo", "level": 2 },
+        { "id": "xallas", "number": 7, "name": "Xallas", "level": 2 },
+        { "id": "leres", "number": 8, "name": "Lérez", "level": 2 },
+        { "id": "verdugo", "number": 9, "name": "Verdugo", "level": 2 },
+        { "id": "umia", "number": 10, "name": "Umia", "level": 2 },
+        { "id": "limia", "number": 11, "name": "Limia", "level": 2 },
+        { "id": "eo", "number": 12, "name": "Eo", "level": 2 },
+        { "id": "masma", "number": 13, "name": "Masma", "level": 3 },
+        { "id": "ouro", "number": 14, "name": "Ouro", "level": 3 },
+        { "id": "landro", "number": 15, "name": "Landro", "level": 3 }
+      ]
+    },
+
+    {
+      "scope": "galicia",
+      "category": "rias_altas",
+      "image": "galicia_rias_altas_num.png",
+      "items": [
+        { "id": "ria_coruna", "number": 1, "name": "Ría da Coruña", "level": 1 },
+        { "id": "ria_ares_betanzos", "number": 2, "name": "Ría de Ares e Betanzos", "level": 1 },
+        { "id": "ria_ferrol", "number": 3, "name": "Ría de Ferrol", "level": 1 },
+        { "id": "ria_cedeira", "number": 4, "name": "Ría de Cedeira", "level": 1 },
+        { "id": "ria_ortigueira", "number": 5, "name": "Ría de Ortigueira", "level": 1 },
+        { "id": "ria_barqueiro", "number": 6, "name": "Ría do Barqueiro", "level": 1 },
+        { "id": "ria_viveiro", "number": 7, "name": "Ría de Viveiro", "level": 1 },
+        { "id": "ria_foz", "number": 8, "name": "Ría de Foz", "level": 1 },
+        { "id": "ria_ribadeo", "number": 9, "name": "Ría de Ribadeo", "level": 1 },
+        { "id": "ria_corme_laxe", "number": 10, "name": "Ría de Corme e Laxe", "level": 2 },
+        { "id": "ria_camarinas", "number": 11, "name": "Ría de Camariñas", "level": 2 },
+        { "id": "ria_corubion_cee", "number": 12, "name": "Ría de Corcubión e Cee", "level": 2 }
+      ]
+    },
+
+    {
+      "scope": "galicia",
+      "category": "rias_baixas",
+      "image": "galicia_rias_baixas_num.png",
+      "items": [
+        { "id": "ria_muross_noia", "number": 1, "name": "Ría de Muros e Noia", "level": 1 },
+        { "id": "ria_arousa", "number": 2, "name": "Ría de Arousa", "level": 1 },
+        { "id": "ria_pontevedra", "number": 3, "name": "Ría de Pontevedra", "level": 1 },
+        { "id": "ria_vigo", "number": 4, "name": "Ría de Vigo", "level": 1 },
+        { "id": "illas_salvora", "number": 5, "name": "Illa de Sálvora", "level": 2 },
+        { "id": "illas_ons", "number": 6, "name": "Illas de Ons", "level": 2 },
+        { "id": "illas_cies", "number": 7, "name": "Illas Cíes", "level": 2 },
+        { "id": "cabo_corrubedo", "number": 8, "name": "Cabo Corrubedo", "level": 3 },
+        { "id": "punta_tegra", "number": 9, "name": "Punta de Santa Trega", "level": 3 }
+      ]
     }
   ]
 }

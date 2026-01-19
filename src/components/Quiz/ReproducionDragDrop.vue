@@ -208,53 +208,95 @@ function restart() {
 </script>
 
 <template>
-  <div class="game-container">
-    <h2>{{ current.title }}</h2>
+<div class="max-w-4xl mx-auto p-4">
+  <!-- TÍTULO -->
+  <h2 class="text-xl font-semibold text-center mb-1">
+    {{ current.title }}
+  </h2>
 
-    <div class="game">
-      <img :src="current.image" alt="Xogo de identificación" />
+  <!-- MAPA -->
+  <div class="flex justify-center mb-6">
+   <img
+    :src="current.image"
+    class="w-full max-w-6xl max-h-[70vh] object-contain
+          rounded-xl border shadow-lg"
+    alt="Xogo de identificación"
+/>
 
-      <div class="zones">
-        <div
-          v-for="zone in zones"
-          :key="zone.id"
-          class="zone"
-          @dragover.prevent
-          @drop="onDrop(zone)"
-        >
-          <strong>{{ zone.label }}</strong>
-          <p v-if="zone.placed">{{ zone.placed }}</p>
-          <p v-else class="hint">Arrastra aquí</p>
-        </div>
-      </div>
+
+  </div>
+
+  <!-- ZONAS (DROP) -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6 max-w-3xl mx-auto">
+    <div
+      v-for="zone in zones"
+      :key="zone.id"
+      @dragover.prevent
+      @drop="onDrop(zone)"
+      class="border rounded-lg p-4 text-center bg-gray-50 transition"
+      :class="{
+        'bg-green-100 border-green-500': zone.placed,
+        'hover:bg-gray-100': !zone.placed
+      }"
+    >
+      <strong class="block mb-2">{{ zone.label }}</strong>
+
+      <p v-if="zone.placed" class="font-semibold text-green-700">
+        {{ zone.placed }}
+      </p>
+
+      <p v-else class="text-gray-400 italic">
+        Arrastra aquí
+      </p>
     </div>
+  </div>
 
-    <div class="labels">
-      <div
-        v-for="label in labels"
-        :key="label.id"
-        class="label"
-        draggable="true"
-        @dragstart="onDragStart(label)"
-      >
-        {{ label.text }}
-      </div>
+  <!-- ETIQUETAS (DRAG) -->
+  <div class="flex flex-wrap justify-center gap-3 max-w-3xl mx-auto mb-6">
+    <div
+      v-for="label in labels"
+      :key="label.id"
+      draggable="true"
+      @dragstart="onDragStart(label)"
+      class="w-10 h-10 rounded-full bg-blue-600 text-white font-bold
+             flex items-center justify-center cursor-grab
+             hover:bg-blue-700 transition"
+    >
+      {{ label.text }}
     </div>
+  </div>
 
-    <p class="message">{{ message }}</p>
+  <!-- MENSAJE -->
+  <p
+    v-if="message"
+    class="text-center font-medium mb-4"
+    :class="messageType === 'success'
+      ? 'text-green-600'
+      : 'text-red-600'"
+  >
+    {{ message }}
+  </p>
 
-   <button
-      class="next"
+  <!-- CONTROLES -->
+  <div class="flex flex-col items-center gap-2">
+    <button
+      class="px-5 py-2 rounded bg-blue-600 text-white font-semibold
+             hover:bg-blue-700 transition disabled:opacity-40"
       :disabled="!activityCompleted"
       @click="nextActivity"
     >
       ➜ Seguinte
-</button>
-  <p v-if="!activityCompleted" class="helper">
-     🧩 Completa todas as partes para continuar
-  </p>
+    </button>
 
+    <p
+      v-if="!activityCompleted"
+      class="text-sm text-gray-400 italic"
+    >
+      🧩 Completa todas as partes para continuar
+    </p>
   </div>
+</div>
+
 
 
   <div v-if="showFinalFeedback" class="final-feedback">
@@ -306,12 +348,6 @@ function restart() {
   display: flex;
   gap: 20px;
 }
-
-img {
-  max-width: 320px;
-  border-radius: 8px;
-}
-
 .zones {
   display: grid;
   grid-template-columns: repeat(2, 1fr);

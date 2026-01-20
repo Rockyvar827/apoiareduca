@@ -18,9 +18,7 @@
         { "id": "montes_toledo", "number": 10, "name": "Montes de Toledo", "level": 1 },
         { "id": "serra_morena", "number": 11, "name": "Serra Morena", "level": 1 },
         { "id": "depresion_guadalquivir", "number": 12, "name": "Depresión do Guadalquivir", "level": 1 },
-        { "id": "cordilleiras_beticas", "number": 13, "name": "Cordilleiras Béticas", "level": 1 },
-        { "id": "illas_baleares", "number": 14, "name": "Illas Baleares", "level": 1 },
-        { "id": "illas_canarias", "number": 15, "name": "Illas Canarias", "level": 1 }
+        { "id": "cordilleiras_beticas", "number": 13, "name": "Cordilleiras Béticas", "level": 1 }
       ]
     },
 

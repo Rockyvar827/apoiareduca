@@ -1,10 +1,9 @@
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed, watch } from 'vue'
 import gameData from '../../data/ccss_6_tema2_juego.json'
 
 /* =====================================================
    NORMALIZACIÓN DE DATOS
-   (admite 1 mapa o maps[])
 ===================================================== */
 const maps = computed(() => {
   if (Array.isArray(gameData.maps)) return gameData.maps
@@ -17,6 +16,7 @@ const maps = computed(() => {
 ===================================================== */
 const mapIndex = ref(0)
 const feedback = ref('')
+const places = ref([])
 
 /* =====================================================
    MAPA ACTUAL
@@ -24,21 +24,26 @@ const feedback = ref('')
 const currentMap = computed(() => maps.value[mapIndex.value] ?? null)
 
 /* =====================================================
-   MODELO DE JUEGO (DIRECTO DESDE JSON)
+   INICIALIZAR PLACES AL CAMBIAR MAPA
 ===================================================== */
-const places = computed(() => {
-  if (!currentMap.value) return []
+watch(currentMap, map => {
+  if (!map) {
+    places.value = []
+    return
+  }
 
-  return currentMap.value.items.map(item => ({
+  places.value = map.items.map(item => ({
     id: item.id,
     number: item.number,
     name: item.name,
     state: 'idle' // idle | ok | error
   }))
-})
+
+  feedback.value = ''
+}, { immediate: true })
 
 /* =====================================================
-   DRAG & DROP REAL (HTML5)
+   DRAG & DROP HTML5
 ===================================================== */
 function onDragStart(place, event) {
   event.dataTransfer.effectAllowed = 'move'
@@ -55,8 +60,16 @@ function onDrop(target, event) {
   if (!draggedPlace || draggedPlace.state === 'ok') return
 
   const ok = draggedPlace.id === target.id
-  draggedPlace.state = ok ? 'ok' : 'error'
-  target.state = draggedPlace.state
+
+  places.value = places.value.map(p => {
+    if (p.id === draggedPlace.id) {
+      return { ...p, state: ok ? 'ok' : 'error' }
+    }
+    if (p.id === target.id) {
+      return { ...p, state: ok ? 'ok' : 'error' }
+    }
+    return p
+  })
 
   feedback.value = ok
     ? `✅ ${target.number} → ${target.name}`
@@ -74,12 +87,12 @@ const activityCompleted = computed(() =>
 function nextActivity() {
   if (mapIndex.value < maps.value.length - 1) {
     mapIndex.value++
-    feedback.value = ''
   } else {
     feedback.value = '🎉 Actividade completada'
   }
 }
 </script>
+
 
 <template>
   <!-- CARGA SEGURA -->

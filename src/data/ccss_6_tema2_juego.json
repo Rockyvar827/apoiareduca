@@ -6,19 +6,18 @@
       "category": "relevo",
       "image": "mapa_relevo_espana_num.png",
       "items": [
-        { "id": "macizo_galaico", "number": 1, "name": "Macizo Galaico", "level": 1 },
-        { "id": "cordilleira_cantabrica", "number": 2, "name": "Cordilleira Cantábrica", "level": 1 },
-        { "id": "montes_vascos", "number": 3, "name": "Montes Vascos", "level": 1 },
-        { "id": "pirineos", "number": 4, "name": "Pirineos", "level": 1 },
-        { "id": "depresion_ebro", "number": 5, "name": "Depresión do Ebro", "level": 1 },
-        { "id": "sistema_iberico", "number": 6, "name": "Sistema Ibérico", "level": 1 },
+        { "id": "macizo_galaico", "number": 1, "name": "Macizo Galaico", "level": 1 },        
+        { "id": "montes_vascos", "number": 5, "name": "Montes Vascos", "level": 1 },
+        { "id": "pirineos", "number": 12, "name": "Pirineos", "level": 1 },
+        { "id": "depresion_ebro", "number": 11, "name": "Depresión do Ebro", "level": 1 },
+        { "id": "sistema_iberico", "number": 9, "name": "Sistema Ibérico", "level": 1 },
         { "id": "submeseta_norte", "number": 7, "name": "Submeseta Norte", "level": 1 },
-        { "id": "sistema_central", "number": 8, "name": "Sistema Central", "level": 1 },
-        { "id": "submeseta_sur", "number": 9, "name": "Submeseta Sur", "level": 1 },
-        { "id": "montes_toledo", "number": 10, "name": "Montes de Toledo", "level": 1 },
-        { "id": "serra_morena", "number": 11, "name": "Serra Morena", "level": 1 },
-        { "id": "depresion_guadalquivir", "number": 12, "name": "Depresión do Guadalquivir", "level": 1 },
-        { "id": "cordilleiras_beticas", "number": 13, "name": "Cordilleiras Béticas", "level": 1 }
+        { "id": "sistema_central", "number": 3, "name": "Sistema Central", "level": 1 },
+        { "id": "submeseta_sur", "number": 6, "name": "Submeseta Sur", "level": 1 },
+        { "id": "cordilleira_catalana", "number": 13, "name": "Cordilleira Catalanas", "level": 1 },
+        { "id": "cordilleira_cantabrica", "number": 2, "name": "Cordilleira Cantábrica", "level": 1 },
+        { "id": "depresion_guadalquivir", "number": 4, "name": "Depresión do Guadalquivir", "level": 1 },
+        { "id": "cordilleiras_beticas", "number": 10, "name": "Cordilleiras Béticas", "level": 1 }
       ]
     },
 
@@ -28,12 +27,12 @@
       "image": "mapa_rios_espana_num.png",
       "items": [
         { "id": "mino", "number": 1, "name": "Miño", "level": 1 },
-        { "id": "duero", "number": 2, "name": "Douro", "level": 1 },
-        { "id": "tajo", "number": 3, "name": "Texo", "level": 1 },
-        { "id": "guadiana", "number": 4, "name": "Guadiana", "level": 1 },
         { "id": "guadalquivir", "number": 5, "name": "Guadalquivir", "level": 1 },
         { "id": "ebro", "number": 6, "name": "Ebro", "level": 1 },
-        { "id": "jucar", "number": 7, "name": "Xúcar", "level": 2 },
+        { "id": "duero", "number": 2, "name": "Douro", "level": 1 },
+        { "id": "jucar", "number": 7, "name": "Xúcar", "level": 2 },           
+        { "id": "tajo", "number": 3, "name": "Texo", "level": 1 },
+        { "id": "guadiana", "number": 4, "name": "Guadiana", "level": 1 },
         { "id": "segura", "number": 8, "name": "Segura", "level": 2 }
       ]
     },
@@ -44,15 +43,15 @@
       "image": "mapa_relevo_europa_num.png",
       "items": [
         { "id": "montes_escandinavos", "number": 1, "name": "Montes Escandinavos", "level": 1 },
-        { "id": "gran_chaira_europea", "number": 2, "name": "Gran Chaira Europea", "level": 1 },
-        { "id": "macizo_central", "number": 3, "name": "Macizo Central", "level": 2 },
-        { "id": "pirineos", "number": 4, "name": "Pireneos", "level": 1 },
-        { "id": "alpes", "number": 5, "name": "Alpes", "level": 1 },
-        { "id": "apenninos", "number": 6, "name": "Apeninos", "level": 2 },
-        { "id": "carpatos", "number": 7, "name": "Cárpatos", "level": 2 },
-        { "id": "balcans", "number": 8, "name": "Balcáns", "level": 2 },
+        { "id": "gran_chaira_europea", "number": 3, "name": "Gran Chaira Europea", "level": 1 },
+        { "id": "macizo_central", "number": 2, "name": "Macizo Central", "level": 2 },
+        { "id": "pirineos", "number": 10, "name": "Pireneos", "level": 1 },
+        { "id": "alpes", "number": 4, "name": "Alpes", "level": 1 },
+        { "id": "apenninos", "number": 11, "name": "Apeninos", "level": 2 },
+        { "id": "carpatos", "number": 5, "name": "Cárpatos", "level": 2 },
+        { "id": "balcans", "number": 6, "name": "Balcáns", "level": 2 },
         { "id": "montes_urais", "number": 9, "name": "Montes Urais", "level": 1 },
-        { "id": "caucaso", "number": 10, "name": "Cáucaso", "level": 1 }
+        { "id": "caucaso", "number": 8, "name": "Cáucaso", "level": 1 }
       ]
     },
 
@@ -61,22 +60,22 @@
       "category": "rios",
       "image": "mapa_rios_europa_num.png",
       "items": [
-        { "id": "tamesis", "number": 1, "name": "Támesis", "level": 1 },
-        { "id": "sena", "number": 2, "name": "Sena", "level": 1 },
-        { "id": "loira", "number": 3, "name": "Loira", "level": 1 },
-        { "id": "rin", "number": 4, "name": "Rin", "level": 1 },
-        { "id": "elba", "number": 5, "name": "Elba", "level": 2 },
-        { "id": "oder", "number": 6, "name": "Oder", "level": 2 },
-        { "id": "vistula", "number": 7, "name": "Vístula", "level": 2 },
-        { "id": "danubio", "number": 8, "name": "Danubio", "level": 1 },
-        { "id": "rodano", "number": 9, "name": "Ródano", "level": 1 },
-        { "id": "po", "number": 10, "name": "Po", "level": 2 },
-        { "id": "dniester", "number": 11, "name": "Dniéster", "level": 2 },
-        { "id": "dnieper", "number": 12, "name": "Dniéper", "level": 1 },
-        { "id": "don", "number": 13, "name": "Don", "level": 2 },
-        { "id": "volga", "number": 14, "name": "Volga", "level": 1 },
-        { "id": "dvina", "number": 15, "name": "Dviná Setentrional", "level": 2 },
-        { "id": "pechora", "number": 16, "name": "Pechora", "level": 2 }
+        { "id": "tamesis", "number": 3, "name": "Támesis", "level": 1 },
+        { "id": "sena", "number": 4, "name": "Sena", "level": 1 },
+        { "id": "loira", "number": 1, "name": "Loira", "level": 1 },
+        { "id": "rin", "number": 2, "name": "Rin", "level": 1 },
+        { "id": "elba", "number": 9, "name": "Elba", "level": 2 },
+        { "id": "oder", "number": 12, "name": "Oder", "level": 2 },
+        { "id": "vistula", "number": 14, "name": "Vístula", "level": 2 },
+        { "id": "danubio", "number": 11, "name": "Danubio", "level": 1 },
+        { "id": "rodano", "number": 6, "name": "Ródano", "level": 1 },
+        { "id": "po", "number": 8, "name": "Po", "level": 2 },
+        { "id": "dniester", "number": 13, "name": "Dniéster", "level": 2 },
+        { "id": "dnieper", "number": 17, "name": "Dniéper", "level": 1 },
+        { "id": "don", "number": 15, "name": "Don", "level": 2 },
+        { "id": "volga", "number": 16, "name": "Volga", "level": 1 },
+        { "id": "dvina", "number": 10, "name": "Dviná Setentrional", "level": 2 },
+        { "id": "tiber", "number": 18, "name": "Tiber", "level": 2 }
       ]
     },
 
@@ -86,7 +85,6 @@
       "image": "mapa_relevo_galicia_num.png",
       "items": [
         { "id": "serras_setentrionais", "number": 1, "name": "Serras Setentrionais", "level": 1 },
-        { "id": "chairas", "number": 2, "name": "Chairas de Galicia", "level": 1 },
         { "id": "serras_centrais", "number": 3, "name": "Serras Centrais", "level": 1 },
         { "id": "serras_orientais", "number": 4, "name": "Serras Orientais", "level": 1 },
         { "id": "serra_ancares", "number": 5, "name": "Serra dos Ancares", "level": 2 },

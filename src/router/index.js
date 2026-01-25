@@ -37,4 +37,21 @@ routes
 })
 
 
+
+// 🔽 NORMALIZAR URLs A MINÚSCULAS (SEO SAFE)
+router.beforeEach((to, from, next) => {
+  const normalizedPath = to.path.toLowerCase()
+
+  if (to.path !== normalizedPath) {
+    next({
+      path: normalizedPath,
+      query: to.query,
+      hash: to.hash,
+      replace: true
+    })
+  } else {
+    next()
+  }
+})
+
 export default router

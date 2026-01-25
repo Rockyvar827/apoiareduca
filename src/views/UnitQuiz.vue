@@ -57,9 +57,10 @@ import KidConfirmModal from '../components/Quiz/KidConfirmModal.vue'
 const route = useRoute()
 
 const nivel = route.params.nivel || route.query.nivel || ''
-const materia = route.params.materia || route.query.materia || ''
+const materia = (route.params.materia || route.query.materia || '').toLowerCase()
 const unidad = route.params.unidad || route.query.unidad || ''
 const category = route.query.category || undefined
+
 
 const title = computed(() => {
   if (category) return `${category} — Unidad ${unidad || '1'}`

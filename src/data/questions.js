@@ -8,16 +8,20 @@ import allQuestions from './questions.json' assert { type: 'json' };
 export function getQuestionsFor({ nivel, materia, unidad, category, count = 12 } = {}) {
   // normalize to strings when provided
   const lvl = nivel === undefined ? undefined : String(nivel);
-  const mat = materia === undefined ? undefined : String(materia);
+  const mat = materia === undefined ? undefined : String(materia).toLowerCase();
   const uni = unidad === undefined ? undefined : String(unidad);
   const cat = category === undefined ? undefined : String(category);
+  
 
   let pool = allQuestions.slice();
 
   if (lvl !== undefined) pool = pool.filter(q => String(q.nivel) === lvl);
-  if (mat !== undefined) pool = pool.filter(q => String(q.materia) === mat);
+  if (mat !== undefined)
+  pool = pool.filter(q => String(q.materia).toLowerCase() === mat);
   if (uni !== undefined) pool = pool.filter(q => String(q.unidad) === uni);
   if (cat !== undefined) pool = pool.filter(q => String(q.category) === cat);
+
+
 
   if (!pool.length) {
     // return empty array if nothing matches

@@ -191,6 +191,32 @@ const levelsData = {
     }
       ]
   },
+  'LC5': {
+      title: 'Lengua Castellana',
+      description: 'Gramática y vocabulario en español para 6.º',
+      units: [
+        { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'pronombres personales', label: 'PRONOMBRES PERSONALES', colorClass: 'bg-blue-300'  },
+          { id: 'pronombres relativos', label: 'PRONOMBRES RELATIVOS', colorClass: 'bg-red-500'  },
+          { id: 'sinonimos y antonimos', label: 'SINÓNIMOS Y ANTÓNIMOS', colorClass: 'bg-yellow-600'  },
+          { id: 'palabras juntas y separadas', label: 'PALABRAS JUNTAS Y SEPARADAS', colorClass: 'bg-green-400'}
+        ]
+    }
+      ]
+  },
+  'LC6': {
+      title: 'Lengua Castellana',
+      description: 'Gramática y vocabulario en español para 6.º',
+      units: [
+        { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'neologismos y arcaismos', label: 'NEOLOGISMOS Y ARCAÍSMOS', colorClass: 'bg-blue-300'  },
+          { id: 'verbos', label: 'VERBOS', colorClass: 'bg-green-500'  }
+        ]
+    }
+      ]
+  },
   'Lingua Galega': {
       title: 'Lingua Galega (6.º)',
       description: 'Gramática y vocabulario en gallego para 6.º',

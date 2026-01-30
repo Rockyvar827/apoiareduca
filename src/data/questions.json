@@ -12191,8 +12191,870 @@
   ],
   "correctIndex": 0,
   "explanation": "✅ O embrión adhírese á parede do útero e comeza o embarazo."
-}
+},
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Mi hermana tiene 3 años más que ________.",
+    "options": ["yo", "me", "mí", "mí me"],
+    "correctIndex": 2,
+    "explanation": "✅ 'mí' es un pronombre personal tónico usado tras preposición."
+  },
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "________ es una chica estupenda.",
+    "options": ["La", "Ella", "Le", "Me"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Ella' es un pronombre personal sujeto, tónico, 3.ª persona."
+  },
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Has traído la revista? Sí, ______ he traído.",
+    "options": ["la", "ella", "le", "mí"],
+    "correctIndex": 0,
+    "explanation": "✅ 'la' es un pronombre personal átono de complemento directo."
+  },
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Ayer compré un regalo para Carmen y Lola.",
+    "options": [
+      "Ayer les compré un regalo.",
+      "Ayer compré regalo las.",
+      "Ayer compré un regalo a ellas.",
+      "Ayer le compré un regalo."
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'les' sustituye a 'Carmen y Lola' como complemento indirecto."
+  },
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "En la oración «Mi amigo me ha pedido la bicicleta», ¿qué tipo de pronombre es 'me'?",
+    "options": [
+      "Pronombre personal átono",
+      "Pronombre demostrativo",
+      "Pronombre numeral",
+      "Pronombre interrogativo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'me' es un pronombre personal átono de 1.ª persona."
+  },
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "__________ no arranca (distancia media).",
+    "options": ["Esto", "Eso", "Aquello", "Ese"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Eso' es un pronombre demostrativo de distancia media."
+  },
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Mi hermano mayor trabajó mucho, pero el pequeño trabajó el ________.",
+    "options": ["doble", "menos", "segundo", "último"],
+    "correctIndex": 1,
+    "explanation": "✅ 'menos' funciona como pronombre numeral comparativo."
+  },
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Llevas algo en la cartera? No, no llevo ________.",
+    "options": ["nada", "algo", "alguien", "ninguno"],
+    "correctIndex": 0,
+    "explanation": "✅ 'nada' es un pronombre indefinido."
+  },
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿________ ganó la carrera?",
+    "options": ["Quién", "Que", "Cual", "Donde"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Quién' es un pronombre interrogativo con tilde."
+  },
+  {
+    "category": "pronombres personales",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Para ________ quieres su número de teléfono?",
+    "options": ["qué", "quién", "cuál", "dónde"],
+    "correctIndex": 1,
+    "explanation": "✅ 'quién' se usa para preguntar por personas."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Une las dos oraciones usando un pronombre relativo correcto: «El ordenador no funciona. Compré el ordenador la semana pasada.»",
+    "options": [
+      "El ordenador que compré la semana pasada no funciona.",
+      "El ordenador el cual compré la semana pasada no funciona.",
+      "El ordenador comprado la semana pasada no funciona.",
+      "El ordenador lo compré la semana pasada no funciona."
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Se usa «que» para unir las dos oraciones sin necesidad de artículo."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Cuál es la forma correcta?",
+    "options": [
+      "El hombre el cual vi ayer es mi vecino.",
+      "El hombre que vi ayer es mi vecino.",
+      "El hombre, que vi ayer es mi vecino.",
+      "El hombre cual vi ayer es mi vecino."
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ «Que» es el pronombre relativo correcto en oraciones especificativas sin comas."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Selecciona la oración correctamente escrita.",
+    "options": [
+      "Me gusta el árbol que su flor es blanca.",
+      "Me gusta el árbol cuya flor es blanca.",
+      "Me gusta el árbol cual flor es blanca.",
+      "Me gusta el árbol que la flor blanca."
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ «Cuyo/a» es el determinante relativo correcto para indicar posesión."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Qué tipo de construcción es esta oración?: «Los turistas que conocimos este verano nos enviaron una postal.»",
+    "options": [
+      "Explicativa",
+      "Especificativa",
+      "Incorrecta",
+      "Yuxtapuesta"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Es especificativa porque la información es necesaria y no va entre comas."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Cuál de estas oraciones es explicativa?",
+    "options": [
+      "La casa que está en ruinas será derruida.",
+      "Los árboles que se quemaron se talarán.",
+      "Las barcas, que son viejas, serán reparadas.",
+      "El coche que compré es rojo."
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Las explicativas van entre comas y aportan información no esencial."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿En qué caso es correcto usar «el cual / la cual»?",
+    "options": [
+      "Siempre que aparezca «que»",
+      "En oraciones especificativas",
+      "En construcciones explicativas entre comas",
+      "Nunca es correcto"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ «El cual» solo se usa correctamente en oraciones explicativas entre comas."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Completa correctamente: «Las versiones de los juglares, ______ difieren entre sí, han enriquecido la leyenda.»",
+    "options": [
+      "que",
+      "las que",
+      "las cuales",
+      "cuyas"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ «Las cuales» aclara el referente en una oración explicativa."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Elige la opción correcta con «cuyo».",
+    "options": [
+      "Conocí a un escritor que los libros han ganado premios.",
+      "Conocí a un escritor cuyos libros han ganado premios.",
+      "Conocí a un escritor que sus libros ganaron premios.",
+      "Conocí a un escritor cual libros ganaron premios."
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ «Cuyos» concuerda con «libros» y expresa relación de posesión."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Cuál es la diferencia principal entre una oración especificativa y una explicativa?",
+    "options": [
+      "La explicativa siempre es incorrecta",
+      "La especificativa va entre comas",
+      "La explicativa aporta información prescindible",
+      "No hay ninguna diferencia"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ La información de las explicativas puede eliminarse sin perder sentido."
+  },
+  {
+    "category": "pronombres relativos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Cuál de estas oraciones está correctamente puntuada?",
+    "options": [
+      "La casa que está en ruinas, será derruida.",
+      "La casa, que está en ruinas, será derruida.",
+      "La casa que, está en ruinas será derruida.",
+      "La casa que está en ruinas será, derruida."
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Las oraciones explicativas deben ir siempre entre comas."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Cuándo dos palabras son sinónimas?",
+    "options": [
+      "Cuando se escriben igual",
+      "Cuando tienen el mismo significado",
+      "Cuando significan lo contrario",
+      "Cuando son nombres propios"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Las palabras sinónimas tienen el mismo significado."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Cuál es el sinónimo de «camino»?",
+    "options": ["senda", "cima", "andar", "principio"],
+    "correctIndex": 0,
+    "explanation": "✅ «Senda» tiene un significado similar a «camino»."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Marca el antónimo correcto de «alegría».",
+    "options": ["felicidad", "tristeza", "diversión", "risa"],
+    "correctIndex": 1,
+    "explanation": "✅ «Tristeza» expresa el significado contrario a «alegría»."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Qué tipo de antónimos son «caro / barato»?",
+    "options": [
+      "Complementarios",
+      "Graduales",
+      "Recíprocos",
+      "Iguales"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Son graduales porque admiten grados intermedios."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Qué tipo de antónimos son «encendido / apagado»?",
+    "options": [
+      "Graduales",
+      "Recíprocos",
+      "Complementarios",
+      "Sinónimos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Son complementarios: uno excluye completamente al otro."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Qué tipo de antónimos son «comprar / vender»?",
+    "options": [
+      "Graduales",
+      "Recíprocos",
+      "Complementarios",
+      "Parciales"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Son recíprocos porque una acción implica la otra."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Sustituye por un sinónimo: «El sillón es muy cómodo».",
+    "options": [
+      "El sillón es muy confortable",
+      "El sillón es muy incómodo",
+      "El sillón es muy duro",
+      "El sillón es muy viejo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ «Confortable» es sinónimo de «cómodo»."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Sustituye por un antónimo: «El edificio es antiguo».",
+    "options": [
+      "El edificio es viejo",
+      "El edificio es moderno",
+      "El edificio es grande",
+      "El edificio es alto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ «Moderno» es el antónimo de «antiguo»."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Cuál es el sinónimo de «valiente»?",
+    "options": ["cobarde", "miedoso", "valeroso", "tímido"],
+    "correctIndex": 2,
+    "explanation": "✅ «Valeroso» tiene el mismo significado que «valiente»."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Marca la pareja de sinónimos.",
+    "options": [
+      "rápido / lento",
+      "bonito / feo",
+      "difícil / complicado",
+      "lleno / vacío"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ «Difícil» y «complicado» son sinónimos."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Marca la pareja de antónimos.",
+    "options": [
+      "hermoso / precioso",
+      "alegre / contento",
+      "rico / pobre",
+      "rápido / veloz"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ «Rico» y «pobre» tienen significados opuestos."
+  },
+  {
+    "category": "sinonimos y antonimos",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Completa: El antónimo de «ganar» es ________.",
+    "options": ["vencer", "perder", "lograr", "triunfar"],
+    "correctIndex": 1,
+    "explanation": "✅ «Perder» es el antónimo de «ganar»."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿__________ no has terminado todavía los deberes?",
+    "options": ["Porque", "Por que", "Por qué", "Porqué"],
+    "correctIndex": 2,
+    "explanation": "✅ «Por qué» se usa en oraciones interrogativas y lleva tilde."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "No fui al parque __________ estaba lloviendo.",
+    "options": ["por qué", "por que", "porque", "porqué"],
+    "correctIndex": 2,
+    "explanation": "✅ «Porque» introduce la causa o la razón."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "No entiendo el __________ de tu enfado.",
+    "options": ["por qué", "porque", "porqué", "por que"],
+    "correctIndex": 2,
+    "explanation": "✅ «Porqué» es un sustantivo y puede ir precedido de un determinante."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Ese es el motivo __________ te llamé ayer.",
+    "options": ["por qué", "porque", "porqué", "por que"],
+    "correctIndex": 3,
+    "explanation": "✅ «Por que» = preposición «por» + relativo «que» (puede sustituirse por «por el cual»)."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿__________ vas tan rápido?",
+    "options": ["Adonde", "A donde", "Adónde", "A donde"],
+    "correctIndex": 2,
+    "explanation": "✅ «Adónde» lleva tilde cuando se usa en preguntas."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "La casa __________ vamos está muy cerca.",
+    "options": ["adónde", "a dónde", "adonde", "a donde"],
+    "correctIndex": 2,
+    "explanation": "✅ «Adonde» se usa para indicar lugar, sin interrogación."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Completa correctamente: «He aprobado el examen __________ he estudiado mucho».",
+    "options": ["por qué", "por que", "porque", "porqué"],
+    "correctIndex": 2,
+    "explanation": "✅ «Porque» expresa causa y puede sustituirse por «ya que»."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿Cuál de estas frases usa correctamente «por que»?",
+    "options": [
+      "No sé por qué no ha venido.",
+      "Ese fue el motivo por que dimití.",
+      "No vino porque estaba enfermo.",
+      "No entiendo el porqué de esto."
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ «Por que» se usa cuando puede sustituirse por «por el cual»."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "¿En qué caso «porqué» es correcto?",
+    "options": [
+      "En preguntas",
+      "Para indicar causa",
+      "Como sustantivo",
+      "En oraciones explicativas"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ «Porqué» es un nombre y admite plural: «los porqués»."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Completa: «Dime __________ has escondido el mapa».",
+    "options": ["adonde", "a donde", "adónde", "a dónde"],
+    "correctIndex": 2,
+    "explanation": "✅ «Adónde» se usa en interrogativas directas o indirectas."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Elige la opción correcta: «No compro el piso __________ no tengo dinero».",
+    "options": ["por qué", "por que", "porque", "porqué"],
+    "correctIndex": 2,
+    "explanation": "✅ «Porque» introduce la causa de la acción."
+  },
+  {
+    "category": "palabras juntas y separadas",
+    "nivel": "6",
+    "materia": "LC5",
+    "unidad": "5",
+    "text": "Selecciona la frase correctamente escrita.",
+    "options": [
+      "¿Por que no vienes hoy?",
+      "No sé el porque de tu decisión.",
+      "¿Por qué estás tan contento?",
+      "No vino porqué estaba enfermo."
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ «Por qué» lleva tilde y se usa en preguntas."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "Las palabras del español antiguo que hoy casi no se usan se llaman:",
+    "options": ["neologismos", "extranjerismos", "arcaísmos", "sinónimos"],
+    "correctIndex": 2,
+    "explanation": "✅ Los arcaísmos son palabras antiguas en desuso."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "Las palabras creadas para nombrar realidades nuevas reciben el nombre de:",
+    "options": ["arcaísmos", "neologismos", "extranjerismos", "préstamos"],
+    "correctIndex": 1,
+    "explanation": "✅ Los neologismos surgen para nombrar objetos o conceptos nuevos."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "Las palabras tomadas de otras lenguas se llaman:",
+    "options": ["neologismos", "arcaísmos", "extranjerismos", "derivadas"],
+    "correctIndex": 2,
+    "explanation": "✅ Los extranjerismos proceden de otras lenguas."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Cuál de estas palabras es un extranjerismo?",
+    "options": ["hamburguesería", "parrilla", "burger", "comodidad"],
+    "correctIndex": 2,
+    "explanation": "✅ «Burger» procede del inglés."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "Relaciona correctamente: «souvenir» significa:",
+    "options": ["comodidad", "tranquilidad", "recuerdo", "encanto"],
+    "correctIndex": 2,
+    "explanation": "✅ «Souvenir» equivale a «recuerdo»."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "En la frase «Ese muchacho recibió una buena tunda», la palabra subrayada es:",
+    "options": ["neologismo", "extranjerismo", "arcaísmo", "sinónimo"],
+    "correctIndex": 2,
+    "explanation": "✅ «Tunda» es un arcaísmo."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "Señala el neologismo.",
+    "options": ["candil", "balde", "meme", "cobertor"],
+    "correctIndex": 2,
+    "explanation": "✅ «Meme» es un neologismo relacionado con Internet."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Cuál de estas palabras es un arcaísmo?",
+    "options": ["bloguero", "dron", "candil", "gamer"],
+    "correctIndex": 2,
+    "explanation": "✅ «Candil» es una palabra antigua."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Qué palabra es un extranjerismo?",
+    "options": ["yogur", "hot dog", "mandil", "velada"],
+    "correctIndex": 1,
+    "explanation": "✅ «Hot dog» procede del inglés."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "Relaciona el arcaísmo «balde» con su significado actual.",
+    "options": ["manta", "recipiente", "lámpara de aceite", "enfadar"],
+    "correctIndex": 1,
+    "explanation": "✅ «Balde» significa «recipiente»."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Cuál es un neologismo relacionado con Internet?",
+    "options": ["candil", "spam", "balde", "cobertor"],
+    "correctIndex": 1,
+    "explanation": "✅ «Spam» es un neologismo digital."
+  },
+  {
+    "category": "neologismos y arcaismos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "En la frase «Todavía no me creo que me hayas hecho semejante spoiler», la palabra subrayada es:",
+    "options": ["arcaísmo", "sinónimo", "neologismo", "derivada"],
+    "correctIndex": 2,
+    "explanation": "✅ «Spoiler» es un neologismo procedente del inglés."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Qué son los verbos?",
+    "options": [
+      "Palabras que nombran objetos",
+      "Palabras que expresan acciones, estados o procesos",
+      "Palabras que describen cualidades",
+      "Palabras que sustituyen al nombre"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los verbos expresan acciones, estados o procesos."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Cuáles son las tres conjugaciones del verbo en español?",
+    "options": [
+      "-ar, -er, -ir",
+      "-ar, -or, -ur",
+      "-er, -ir, -or",
+      "-ir, -ur, -er"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Las conjugaciones son -ar, -er y -ir."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Cuáles son las formas no personales del verbo?",
+    "options": [
+      "Presente, pasado y futuro",
+      "Indicativo, subjuntivo e imperativo",
+      "Infinitivo, gerundio y participio",
+      "Simple y compuesta"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Las formas no personales no indican persona ni número."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "Señala la forma verbal no personal.",
+    "options": ["cantábamos", "comer", "saldré", "viviste"],
+    "correctIndex": 1,
+    "explanation": "✅ «Comer» es un infinitivo."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Qué forma verbal es «había salido»?",
+    "options": [
+      "Forma simple",
+      "Forma compuesta",
+      "Forma no personal",
+      "Participio"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Es una forma compuesta: haber + participio."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Qué modo verbal expresa órdenes o mandatos?",
+    "options": [
+      "Indicativo",
+      "Subjuntivo",
+      "Imperativo",
+      "Condicional"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El imperativo se usa para dar órdenes."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿En qué tiempo está el verbo «jugaba»?",
+    "options": [
+      "Pretérito perfecto simple",
+      "Pretérito imperfecto de indicativo",
+      "Presente de indicativo",
+      "Futuro de indicativo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ «Jugaba» está en pretérito imperfecto de indicativo."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Cuál es un participio irregular?",
+    "options": ["cantado", "comido", "hecho", "saltado"],
+    "correctIndex": 2,
+    "explanation": "✅ «Hecho» es el participio irregular del verbo hacer."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "Señala la forma correcta del imperativo del verbo «ir» (tú).",
+    "options": ["ve", "vas", "ir", "ido"],
+    "correctIndex": 0,
+    "explanation": "✅ El imperativo de «ir» es «ve»."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Qué tiempo verbal es «habré llegado»?",
+    "options": [
+      "Pretérito perfecto compuesto",
+      "Futuro perfecto de indicativo",
+      "Condicional compuesto",
+      "Pretérito pluscuamperfecto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ «Habré llegado» es futuro perfecto de indicativo."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Qué modo verbal expresa deseo o posibilidad?",
+    "options": [
+      "Indicativo",
+      "Imperativo",
+      "Subjuntivo",
+      "Infinitivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El subjuntivo expresa deseo, duda o posibilidad."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Cuál de estas formas es un gerundio?",
+    "options": ["cantado", "cantar", "cantando", "canté"],
+    "correctIndex": 2,
+    "explanation": "✅ «Cantando» es un gerundio."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Qué persona y número tiene la forma verbal «viviremos»?",
+    "options": [
+      "1.ª persona del singular",
+      "2.ª persona del plural",
+      "1.ª persona del plural",
+      "3.ª persona del plural"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ «Viviremos» es 1.ª persona del plural."
+  },
+  {
+    "category": "verbos",
+    "nivel": "6",
+    "materia": "LC6",
+    "unidad": "6",
+    "text": "¿Cuál es una forma verbal compuesta?",
+    "options": ["canté", "saldré", "he cantado", "canto"],
+    "correctIndex": 2,
+    "explanation": "✅ «He cantado» es una forma compuesta."
+  }
+
 ]
+
 
 
 

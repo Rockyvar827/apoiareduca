@@ -13051,8 +13051,1157 @@
     "options": ["canté", "saldré", "he cantado", "canto"],
     "correctIndex": 2,
     "explanation": "✅ «He cantado» es una forma compuesta."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "O reloxo corre sen parar, coma se tivese présa.",
+    "options": ["Metáfora", "Comparación", "Hipérbole", "Antítese"],
+    "correctIndex": 1,
+    "explanation": "✅ Comparación: establécese unha semellanza usando 'coma'."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "A súa voz era un río tranquilo.",
+    "options": ["Comparación", "Personificación", "Metáfora", "Paralelismo"],
+    "correctIndex": 2,
+    "explanation": "✅ Metáfora: identifícase a voz cun río sen usar nexos comparativos."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Chorei mares cando perdín o xoguete.",
+    "options": ["Hipérbole", "Metáfora", "Antítese", "Personificación"],
+    "correctIndex": 0,
+    "explanation": "✅ Hipérbole: esaxérase a acción de chorar."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "O día era claro e escuro á vez.",
+    "options": ["Antítese", "Metáfora", "Hipérbole", "Comparación"],
+    "correctIndex": 0,
+    "explanation": "✅ Antítese: contrástanse ideas opostas."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "O vento susurraba segredos pola noite.",
+    "options": ["Comparación", "Personificación", "Paralelismo", "Antítese"],
+    "correctIndex": 1,
+    "explanation": "✅ Personificación: o vento realiza unha acción humana."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Quero aprender xogando, quero aprender lendo, quero aprender creando.",
+    "options": ["Antítese", "Hipérbole", "Paralelismo", "Metáfora"],
+    "correctIndex": 2,
+    "explanation": "✅ Paralelismo: repítese a mesma estrutura sintáctica."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "A lúa espiaba pola ventá.",
+    "options": ["Metáfora", "Personificación", "Comparación", "Hipérbole"],
+    "correctIndex": 1,
+    "explanation": "✅ Personificación: atribúese unha acción humana á lúa."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Corre máis rápido ca un foguete.",
+    "options": ["Hipérbole", "Comparación", "Metáfora", "Antítese"],
+    "correctIndex": 1,
+    "explanation": "✅ Comparación: establécese unha semellanza usando 'ca'."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Non falaba nada, pero dicíao todo.",
+    "options": ["Antítese", "Paralelismo", "Metáfora", "Hipérbole"],
+    "correctIndex": 0,
+    "explanation": "✅ Antítese: oposición entre 'nada' e 'todo'."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "As árbores bailaban coa música do vento.",
+    "options": ["Comparación", "Personificación", "Metáfora", "Paralelismo"],
+    "correctIndex": 1,
+    "explanation": "✅ Personificación: as árbores realizan unha acción humana."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Busco paz no silencio, busco paz na calma, busco paz no corazón.",
+    "options": ["Antítese", "Paralelismo", "Hipérbole", "Comparación"],
+    "correctIndex": 1,
+    "explanation": "✅ Paralelismo: repetición da mesma estrutura."
+  },
+  {
+    "category": "as figuras literarias",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "As nubes son algodóns brancos no ceo.",
+    "options": ["Comparación", "Personificación", "Metáfora", "Antítese"],
+    "correctIndex": 2,
+    "explanation": "✅ Metáfora: identifícanse as nubes con algodóns."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que son as memorias?",
+    "options": [
+      "Un texto de ficción sen base real",
+      "Un relato persoal de feitos e vivencias dunha persoa",
+      "Un conto tradicional",
+      "Un poema autobiográfico"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ As memorias relatan feitos, experiencias e vivencias reais dunha persoa."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que é un diario?",
+    "options": [
+      "Un texto histórico oficial",
+      "Un rexistro persoal e cronolóxico de pensamentos e experiencias",
+      "Unha novela curta",
+      "Unha biografía escrita por outra persoa"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ O diario recolle experiencias, pensamentos e sentimentos de forma cronolóxica."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que teñen en común as memorias e os diarios?",
+    "options": [
+      "Sempre son textos de ficción",
+      "Están escritos en terceira persoa",
+      "Son textos persoais baseados na experiencia",
+      "Só falan do futuro"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Ambos son textos persoais que parten da experiencia vital."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "En que persoa gramatical adoitan escribirse memorias e diarios?",
+    "options": [
+      "Primeira persoa",
+      "Segunda persoa",
+      "Terceira persoa",
+      "Persoa impersoal"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Escríbense normalmente en primeira persoa."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Cal é a principal diferenza entre un diario e unhas memorias?",
+    "options": [
+      "O diario é ficticio e as memorias non",
+      "O diario segue a orde cronolóxica día a día",
+      "As memorias só falan da infancia",
+      "O diario non expresa sentimentos"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ O diario escribe os feitos seguindo a orde cronolóxica do tempo."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que personaxe é Lucius?",
+    "options": [
+      "Un músico viaxeiro",
+      "Un debuxante de cómics",
+      "Un comerciante",
+      "Un druída"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Lucius é un debuxante de cómics que vive na Galia."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "En que época vive Lucius?",
+    "options": [
+      "Século XVIII",
+      "Final do século XIX",
+      "Século XX (anos 60)",
+      "Idade Media"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Lucius vive no século XX, nos anos 60."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que personaxe vive nunha feira ambulante?",
+    "options": [
+      "Isabela",
+      "Lucius",
+      "Gaia",
+      "Ningún"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Gaia vive cunha feira ambulante xunto á súa familia."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que aprende Gaia a través da súa vida na feira?",
+    "options": [
+      "Só música",
+      "Matemáticas e lectura de forma práctica",
+      "Latín e grego",
+      "Nada, non aprende"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Aprende matemáticas contando moedas e lectura lendo carteis."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que instrumento toca Isabela?",
+    "options": [
+      "Frauta",
+      "Guitarra",
+      "Violín",
+      "Piano"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Isabela é violinista."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Por que as viaxes de Isabela son difíciles?",
+    "options": [
+      "Porque non lle gusta tocar",
+      "Porque sempre toca soa",
+      "Porque son longas e cansadas",
+      "Porque non viaxa"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ As viaxes son longas e ás veces incómodas."
+  },
+  {
+    "category": "memorias e diarios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que se pide facer na actividade final do PDF?",
+    "options": [
+      "Copiar unha historia real",
+      "Escribir un poema",
+      "Inventar unha páxina de diario ou memorias dun personaxe",
+      "Facer un resumo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Hai que inventar un acontecemento e escribir unha páxina de diario ou memorias."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Para que se emprega a coma nunha enumeración?",
+    "options": [
+      "Para separar todos os elementos incluído o último",
+      "Para separar os elementos dunha enumeración",
+      "Para unir oracións longas",
+      "Para pechar unha oración"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ A coma úsase para separar os elementos dunha enumeración."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "En que caso se emprega a coma para facer unha aclaración?",
+    "options": [
+      "Ao final da oración",
+      "Ao comezo da oración",
+      "No medio dunha oración",
+      "Nunca se usa para aclarar"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A coma úsase para introducir aclaracións no medio da oración."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Para que se empregan os dous puntos nun texto?",
+    "options": [
+      "Para pechar unha oración",
+      "Para introducir unha enumeración",
+      "Para separar suxeito e predicado",
+      "Para expresar sorpresa"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os dous puntos empréganse para introducir enumeracións."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Cando se escriben os dous puntos despois dun saúdo?",
+    "options": [
+      "En contos",
+      "En diálogos",
+      "En cartas e notas",
+      "En poemas"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Os dous puntos colócanse despois do saúdo en cartas e notas."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Para que se emprega o punto e coma?",
+    "options": [
+      "Para separar palabras",
+      "Para separar oracións moi curtas",
+      "Para separar elementos dunha enumeración con comas",
+      "Para facer preguntas"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ O punto e coma sepára elementos dunha enumeración cando xa hai comas."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Despois de que tipo de palabras se usa o punto e coma para introducir unha oración longa?",
+    "options": [
+      "Verbos",
+      "Enlaces como 'non obstante' ou 'con todo'",
+      "Substantivos",
+      "Adxectivos"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Úsase tras enlaces como 'non obstante' ou 'con todo'."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Para que serven os puntos suspensivos?",
+    "options": [
+      "Para indicar unha enumeración incompleta",
+      "Para pechar unha carta",
+      "Para separar parágrafos",
+      "Para substituír comas"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Os puntos suspensivos indican que algo queda sen completar."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Cantos puntos suspensivos se escriben sempre?",
+    "options": [
+      "Dous",
+      "Tres",
+      "Catro",
+      "Depende do texto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os puntos suspensivos sempre son tres."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que signo se usa ao final dunha pregunta?",
+    "options": [
+      "Punto",
+      "Signo de admiración",
+      "Signo de interrogación",
+      "Puntos suspensivos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ As preguntas péchanse cun signo de interrogación."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que expresa unha oración con signo de admiración?",
+    "options": [
+      "Un feito neutro",
+      "Unha enumeración",
+      "Emocións como sorpresa ou admiración",
+      "Unha explicación longa"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A admiración expresa emocións intensas."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que tipo de punto separa parágrafos?",
+    "options": [
+      "Punto e seguido",
+      "Punto e coma",
+      "Punto e á parte",
+      "Punto final"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ O punto e á parte separa parágrafos diferentes."
+  },
+  {
+    "category": "os puntos e os parenteses",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que se escribe sempre despois dun punto, interrogación ou admiración?",
+    "options": [
+      "Unha coma",
+      "Un número",
+      "Unha letra maiúscula",
+      "Nada"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Despois destes signos escríbese sempre maiúscula."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que son os pronomes persoais?",
+    "options": [
+      "Palabras que substitúen verbos",
+      "Palabras que nomean seres ou obxectos sen usar substantivos",
+      "Palabras que expresan accións",
+      "Palabras que indican tempo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os pronomes persoais serven para nomear seres ou obxectos sen empregar substantivos."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Cantas persoas gramaticais existen nos pronomes persoais?",
+    "options": [
+      "Dúas",
+      "Tres",
+      "Catro",
+      "Cinco"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Hai primeira, segunda e terceira persoa."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que pronomes poden aparecer sós na oración?",
+    "options": [
+      "Os pronomes átonos",
+      "Os pronomes tónicos",
+      "Todos os pronomes",
+      "Ningún"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os pronomes tónicos poden aparecer sós."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Onde se colocan sempre os pronomes persoais átonos?",
+    "options": [
+      "Soamente ao inicio da oración",
+      "Soamente ao final da oración",
+      "A carón dun verbo",
+      "Separados do verbo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Os pronomes átonos van sempre xunto a un verbo."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Cal destes é un pronome persoal tónico?",
+    "options": [
+      "me",
+      "lle",
+      "nos",
+      "eles"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 'Eles' é un pronome persoal tónico."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Cal destes é un pronome persoal átono?",
+    "options": [
+      "nós",
+      "vós",
+      "me",
+      "elas"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Me' é un pronome persoal átono."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que contracción se forma con 'el' + 'de'?",
+    "options": [
+      "nel",
+      "del",
+      "delo",
+      "de el"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'El' contrae con 'de' formando 'del'."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que contracción se forma con 'ela' + 'en'?",
+    "options": [
+      "dela",
+      "nel",
+      "nela",
+      "ena"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Ela' + 'en' forma a contracción 'nela'."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que forma correcta resulta de combinar 'lle' + 'o'?",
+    "options": [
+      "lleo",
+      "llo",
+      "lelo",
+      "llo-o"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'Lle' + 'o' contraen en 'llo'."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Cal destas contraccións é correcta?",
+    "options": [
+      "meo",
+      "cho",
+      "lelo",
+      "nosos"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'Che' + 'o' forma a contracción 'cho'."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Onde poden colocarse os pronomes átonos respecto ao verbo?",
+    "options": [
+      "Só diante do verbo",
+      "Só detrás do verbo",
+      "Diante ou detrás do verbo",
+      "Separados do verbo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Os pronomes átonos poden ir diante ou detrás do verbo."
+  },
+  {
+    "category": "pronomes persoaís",
+    "nivel": "6",
+    "materia": "Lingua-Galega-5",
+    "unidad": "5",
+    "text": "Que pronome corresponde á primeira persoa do plural?",
+    "options": [
+      "vós",
+      "eles",
+      "nós",
+      "ti"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Nós' é a primeira persoa do plural."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Para que se empregan as parénteses nunha oración?",
+    "options": [
+      "Para introducir diálogos",
+      "Para indicar unha pregunta",
+      "Para introducir explicacións ou aclaracións",
+      "Para separar palabras"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ As parénteses úsanse para introducir explicacións, informacións ou aclaracións."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "En que caso se deben empregar as comiñas?",
+    "options": [
+      "Para pechar unha oración",
+      "Para citar as palabras exactas de alguén",
+      "Para separar parágrafos",
+      "Para indicar sorpresa"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ As comiñas empréganse para citar palabras exactas."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que tipo de título pode ir entre comiñas?",
+    "options": [
+      "O título dun libro",
+      "O título dun poema",
+      "O título dunha novela",
+      "O título dunha enciclopedia"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os títulos de poemas, artigos ou cadros van entre comiñas."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Por que pode aparecer unha palabra entre comiñas por ironía?",
+    "options": [
+      "Porque é un nome propio",
+      "Porque é unha palabra ben escrita",
+      "Porque se emprega con sentido irónico",
+      "Porque é un verbo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ As comiñas poden indicar ironía ou un uso especial dunha palabra."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Para que se emprega a raia nun diálogo?",
+    "options": [
+      "Para separar palabras",
+      "Para introducir as intervencións dos personaxes",
+      "Para pechar frases",
+      "Para facer aclaracións gramaticais"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ A raia introduce as palabras dos personaxes nun diálogo."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que outra función pode ter a raia ademais do diálogo?",
+    "options": [
+      "Indicar preguntas",
+      "Introducir aclaracións do narrador",
+      "Substituír as comas",
+      "Marcar títulos"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ A raia tamén introduce aclaracións do narrador cando fala un personaxe."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que signo usarías para engadir unha data explicativa nun texto?",
+    "options": [
+      "Comiñas",
+      "Raia",
+      "Parénteses",
+      "Punto e coma"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ As datas ou aclaracións explicativas van entre parénteses."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destas opcións está ben escrita?",
+    "options": [
+      "Miguel leu «O Quixote»",
+      "Miguel leu O Quixote",
+      "Miguel leu «As aventuras»",
+      "Miguel leu (As Meninas)"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os títulos de libros non levan comiñas."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que signo se usa para reproducir un diálogo a partir dunha viñeta?",
+    "options": [
+      "Parénteses",
+      "Comiñas",
+      "Raia",
+      "Puntos suspensivos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A raia emprégase para escribir diálogos."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Para que se empregan as comiñas cando unha palabra é incorrecta?",
+    "options": [
+      "Para destacala",
+      "Para corrixila",
+      "Para indicar un uso especial ou incorrecto",
+      "Para eliminala"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ As comiñas sinalan palabras incorrectas ou doutra lingua."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que signo NON se usa para introducir explicacións?",
+    "options": [
+      "Parénteses",
+      "Raia",
+      "Comiñas",
+      "Punto"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ O punto non serve para introducir explicacións."
+  },
+  {
+    "category": "a raia e as comiñas",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que signo empregarías para citar un refrán popular?",
+    "options": [
+      "Raia",
+      "Parénteses",
+      "Comiñas",
+      "Punto e coma"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Os refráns e citas van entre comiñas."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que son os adverbios?",
+    "options": [
+      "Palabras que indican acción",
+      "Palabras que acompañan ao substantivo",
+      "Palabras que informan das circunstancias do verbo",
+      "Palabras que substitúen nomes"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Os adverbios informan das circunstancias que rodean a acción do verbo."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que característica teñen todos os adverbios?",
+    "options": [
+      "Teñen xénero",
+      "Teñen número",
+      "Son invariábeis",
+      "Conxúganse"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Os adverbios son invariábeis: non teñen xénero nin número."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destes é un adverbio de lugar?",
+    "options": ["onte", "aquí", "moito", "ben"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Aquí' indica lugar."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destes é un adverbio de tempo?",
+    "options": ["preto", "despois", "mal", "bastante"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Despois' indica tempo."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destes é un adverbio de modo?",
+    "options": ["sempre", "aí", "ben", "moito"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Ben' indica modo."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destes é un adverbio de cantidade?",
+    "options": ["antes", "preto", "moito", "quizais"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Moito' expresa cantidade."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que adverbio expresa afirmación?",
+    "options": ["non", "tampouco", "si", "quizais"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Si' é un adverbio de afirmación."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que adverbio expresa negación?",
+    "options": ["tamén", "non", "quizais", "sempre"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Non' é un adverbio de negación."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que adverbio expresa dúbida?",
+    "options": ["quizais", "si", "ben", "onte"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Quizais' expresa dúbida."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal é o adverbio na frase: 'Eu fixen un debuxo onte'?",
+    "options": ["fixen", "debuxo", "onte", "eu"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Onte' é un adverbio de tempo."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que adverbio substitúe correctamente: 'neste momento'?",
+    "options": ["logo", "agora", "antes", "sempre"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Agora' substitúe 'neste momento'."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Como se forma un adverbio acabado en -mente?",
+    "options": [
+      "A partir dun verbo",
+      "Engadindo -mente a un adxectivo",
+      "Engadindo -mente a un substantivo",
+      "Cambiando o xénero"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Os adverbios en -mente fórmanse a partir de adxectivos."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destes é un adverbio rematado en -mente?",
+    "options": ["ben", "mal", "rapidamente", "preto"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Rapidamente' é un adverbio formado con -mente."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destas expresións é unha locución adverbial?",
+    "options": ["onte", "aí", "sen dúbida", "mal"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Sen dúbida' é unha locución adverbial."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que son as preposicións?",
+    "options": [
+      "Palabras que indican acción",
+      "Palabras invariables que unen palabras ou grupos de palabras",
+      "Palabras que expresan tempo",
+      "Palabras que substitúen substantivos"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ As preposicións serven para unir palabras ou grupos de palabras nunha oración."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destas é unha preposición simple?",
+    "options": ["a pesar de", "por riba de", "con", "ao longo de"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Con' é unha preposición simple formada por unha soa palabra."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destas é unha locución preposicional?",
+    "options": ["en", "sen", "por baixo de", "con"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Por baixo de' é unha locución preposicional."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que son as conxuncións?",
+    "options": [
+      "Palabras variables",
+      "Palabras que substitúen nomes",
+      "Palabras invariables que relacionan palabras ou oracións",
+      "Palabras que indican lugar"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ As conxuncións serven para relacionar palabras ou oracións."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que tipo de conxunción une ideas?",
+    "options": ["Adversativa", "Causal", "Copulativa", "Condicional"],
+    "correctIndex": 2,
+    "explanation": "✅ As conxuncións copulativas unen ideas."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que conxunción expresa opción?",
+    "options": ["e", "pero", "ou", "porque"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Ou' é unha conxunción disxuntiva."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que conxunción expresa oposición?",
+    "options": ["e", "ou", "porque", "pero"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Pero' é unha conxunción adversativa."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que conxunción indica causa?",
+    "options": ["se", "cando", "porque", "ou"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Porque' indica causa."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que conxunción expresa condición?",
+    "options": ["aínda que", "se", "porque", "pero"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Se' é unha conxunción condicional."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que conxunción indica tempo?",
+    "options": ["mentres", "porque", "pero", "ou"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Mentres' é unha conxunción temporal."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que tipo de expresión é 'a fin de que'?",
+    "options": [
+      "Preposición simple",
+      "Locución preposicional",
+      "Locución conxuntiva",
+      "Conxunción copulativa"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'A fin de que' é unha locución conxuntiva."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Que tipo de conxunción expresa dificultade?",
+    "options": ["Causal", "Concesiva", "Copulativa", "Disxuntiva"],
+    "correctIndex": 1,
+    "explanation": "✅ As conxuncións concesivas expresan dificultade."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Cal destas expresións é unha locución preposicional?",
+    "options": ["porque", "pero", "por riba de", "ou"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Por riba de' é unha locución preposicional."
+  },
+  {
+    "category": "preposición e conxuncions",
+    "nivel": "6",
+    "materia": "Lingua-Galega-6",
+    "unidad": "6",
+    "text": "Na frase 'Quería ir, pero estaba canso', que tipo de conxunción é 'pero'?",
+    "options": ["Causal", "Copulativa", "Adversativa", "Temporal"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Pero' é unha conxunción adversativa."
   }
-
 ]
 
 

@@ -155,7 +155,7 @@ const levelsData = {
       ]
     },
     'Lengua Castellana': {
-      title: 'Lengua Castellana (6.º)',
+      title: 'Lengua Castellana-Unidad 1',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 1,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -170,7 +170,7 @@ const levelsData = {
   ]
   },
   'LC2': {
-      title: 'Lengua Castellana (6.º)',
+      title: 'Lengua Castellana-Unidad 2',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -181,7 +181,7 @@ const levelsData = {
       ]
   },
   'LC3': {
-      title: 'Lengua Castellana',
+      title: 'Lengua Castellana-Unidad 3',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -192,7 +192,7 @@ const levelsData = {
       ]
   },
   'LC5': {
-      title: 'Lengua Castellana',
+      title: 'Lengua Castellana-Unidad 5',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -206,7 +206,7 @@ const levelsData = {
       ]
   },
   'LC6': {
-      title: 'Lengua Castellana',
+      title: 'Lengua Castellana-Unidad 6',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -218,7 +218,7 @@ const levelsData = {
       ]
   },
   'Lingua Galega': {
-      title: 'Lingua Galega (6.º)',
+      title: 'Lingua Galega-Unidad 1',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 1 ,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -232,7 +232,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-2': {
-      title: 'Lingua Galega',
+      title: 'Lingua Galega-Unidad 2',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -243,7 +243,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-3': {
-      title: 'Lingua Galega',
+      title: 'Lingua Galega-Unidad 3',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -251,6 +251,33 @@ const levelsData = {
           { id: 'determinantes', label: 'Determinantes', colorClass: 'bg-blue-400'  },
           { id: 'palabras primitivas, derivadas e compostas', label: 'Palabras primitivas, derivadas e compostas', colorClass: 'bg-green-400'  },
           { id: 'acento diacrítico', label: 'Acento diacrítico', colorClass: 'bg-orange-400'}
+        ]
+    }
+      ]
+  },
+  'Lingua-Galega-5': {
+      title: 'Lingua Galega-Unidad 5',
+      description: 'Gramática y vocabulario en gallego para 6.º',
+      units: [
+        { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'as figuras literarias', label: 'AS FIGURAS LITERARIAS', colorClass: 'bg-blue-400'  },
+          { id: 'memorias e diarios', label: 'MEMORIAS E DIARIOS', colorClass: 'bg-green-400'  },
+          { id: 'os puntos e os parenteses', label: 'OS PUNTOS SUSPENSIVOS E OS PARÉNTESES', colorClass: 'bg-orange-400'},
+          { id: 'pronomes persoaís', label: 'PRONOMES PERSOAIS', colorClass: 'bg-red-400'}
+        ]
+    }
+      ]
+  },
+  'Lingua-Galega-6': {
+      title: 'Lingua Galega-Unidad 6',
+      description: 'Gramática y vocabulario en gallego para 6.º',
+      units: [
+        { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'a raia e as comiñas', label: 'A RAIA E AS COMIÑAS', colorClass: 'bg-blue-400'  },
+          { id: 'adverbios', label: 'ADVERBIOS', colorClass: 'bg-green-400'  },
+          { id: 'preposición e conxuncions', label: 'PREPOSICIÓNS E CONXUNCIÓNS', colorClass: 'bg-orange-400'}
         ]
     }
       ]

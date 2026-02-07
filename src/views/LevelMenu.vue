@@ -35,8 +35,18 @@
               <div class="text-sm font-medium">
                 {{ u.label }}
               </div>
+              <NewTabLink
+                  v-for="c in u.categories"
+                  :key="c.id ?? c.label"
+                  :to="`/nivel/${nivel}/materia/${encodeURIComponent(key)}/unidad/${u.id}?categoria=${encodeURIComponent(c.id ?? c.label)}`"
+                  class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md text-white text-sm w-full"
+                  :class="c.colorClass || u.colorClass"
+                >
+                  {{ c.label }}
+                </NewTabLink>
 
-              <!-- Un enlace por categoría -->
+
+              <!-- Un enlace por categoría 
               <router-link
                 v-for="c in u.categories"
                 :key="c.id ?? c.label"
@@ -45,18 +55,18 @@
                 :class="c.colorClass || u.colorClass"
               >
                 {{ c.label }}
-              </router-link>
+              </router-link>-->
             </template>
 
             <!-- Caso sin categorías: comportamiento original -->
             <template v-else>
-              <router-link
+              <NewTabLink
                 :to="`/nivel/${nivel}/materia/${encodeURIComponent(key)}/unidad/${u.id}`"
                 class="inline-flex flex-1 items-center justify-center px-3 py-2 rounded-md text-white text-sm w-full"
                 :class="u.colorClass"
               >
                 {{ u.label }}
-              </router-link>
+              </NewTabLink>
             </template>
           </div>
         </div>
@@ -69,6 +79,7 @@
 import { ref, computed, onMounted, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import { useHead } from '@vueuse/head'
+import NewTabLink from '../components/Quiz/NewTabLink.vue'
 
 const route = useRoute()
 const nivel = computed(() => route.params.nivel || '5')

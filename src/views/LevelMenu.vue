@@ -85,26 +85,6 @@ useHead({
     }
   ]
 })
-/* 
-onMounted(async () => {
-  try {
-    rawQuestions.value = await loadQuestionsOnce()
-    parseQuestionsData(rawQuestions.value)
-  } catch (e) {
-    console.error('Error cargando preguntas:', e)
-  }
-})
-
-watch(nivel, () => {
-  if (rawQuestions.value) {
-    parseQuestionsData(rawQuestions.value)
-  }
-})
- */
-/**
- * Mapea manualmente materias y unidades por nivel.
- * (SIN cambios sobre tu estructura original)
- */
 const levelsData = {
   '5': {
     CCNN: {
@@ -151,7 +131,8 @@ const levelsData = {
       description: 'Historia y sociedad para 6.º',
       units: [
         { id: 1, label: 'Unidad 1', colorClass: 'bg-red-500' },
-        { id: 2, label: 'Unidad 2', colorClass: 'bg-blue-500' }
+        { id: 2, label: 'Unidad 2', colorClass: 'bg-blue-500' },
+        { id: 3, label: 'Unidad 3', colorClass: 'bg-yellow-400 text-gray-900' }
       ]
     },
     'Lengua Castellana': {
@@ -346,8 +327,41 @@ const levelsData = {
         ]
     }
       ]
+  },
+  'Matemáticas-5': {
+      title: 'Matemáticas',
+      description: 'Matemáticas para 6.º',
+      units: [
+        { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'aproximacion_redondeo', label: 'Aproximación y redondeo', colorClass: 'bg-blue-400'  },
+          { id: 'division_decimales', label: 'División de números decimales', colorClass: 'bg-green-400'  },
+          { id: 'multiplicaciones_decimales', label: 'Multiplicaciones de números decimales', colorClass: 'bg-orange-400'},
+          { id: 'numeros_decimales', label: 'Números decimales', colorClass: 'bg-purple-300'},
+          { id: 'ordenacion_redondeo_decimales', label: 'Ordenación y redondeo de números decimales', colorClass: 'bg-red-400'  },
+          { id: 'suma_decimales', label: 'Suma de números decimales', colorClass: 'bg-teal-400'},
+          {id: 'problemas_decimales', label: 'Problemas de números decimales', colorClass: 'bg-yellow-400'}
+      ]
   }
+  ]
+  },
+  'Matemáticas-6': {
+      title: 'Matemáticas',
+      description: 'Matemáticas para 6.º',
+      units: [
+        { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'proporcionalidad', label: 'Proporcionalidad', colorClass: 'bg-blue-400'  },
+          { id: 'reglas-de-3', label: 'Reglas de 3', colorClass: 'bg-orange-400'},
+          { id: 'porcentajes', label: 'Porcentajes', colorClass: 'bg-purple-300'},
+          { id: 'escalas', label: 'Escalas', colorClass: 'bg-red-400'  },
+          { id: 'problemas-proporcionalidad', label: 'Problemas de proporcionalidad', colorClass: 'bg-pink-400'  },
+          {id: 'directa', label: 'Proporcionalidad directa', colorClass: 'bg-green-400'},
+  ]
+    }
+       ]
   }
+}
 }
 
 // computed: obtener las materias para el nivel actual (o fallback)

@@ -1,0 +1,787 @@
+[
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Una botella de 4 litros de detergente cuesta 7,50 €. ¿Cuánto costarán 8 litros?",
+    "options": ["15 €", "14 €", "7,50 €", "30 €"],
+    "correctIndex": 0,
+    "explanation": "✅ Si se duplican los litros, se duplica el precio: 7,50 × 2 = 15 €."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Cinco cajas contienen 200 chinchetas y cuestan 4 €. ¿Cuánto costarán 10 cajas?",
+    "options": ["6 €", "8 €", "4 €", "2 €"],
+    "correctIndex": 1,
+    "explanation": "✅ 10 cajas son el doble que 5, por tanto el precio también se duplica."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si 400 g de salchichón cuestan 3,80 €, ¿cuánto costarán 800 g?",
+    "options": ["7,60 €", "4,80 €", "3,80 €", "1,90 €"],
+    "correctIndex": 0,
+    "explanation": "✅ 800 g es el doble de 400 g, por tanto el precio se duplica."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "¿Cuál de estas situaciones NO es proporcional?",
+    "options": [
+      "El precio según los kilos comprados",
+      "La distancia recorrida según el tiempo a velocidad constante",
+      "La edad de una persona y su estatura",
+      "El número de objetos y su precio unitario"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ La estatura no crece proporcionalmente con la edad."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un coche recorre 80 km en 1 hora. ¿Cuántos kilómetros recorrerá en 3 horas a la misma velocidad?",
+    "options": ["160 km", "200 km", "240 km", "80 km"],
+    "correctIndex": 2,
+    "explanation": "✅ Si el tiempo se triplica, la distancia también: 80 × 3 = 240 km."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Para fabricar 1 kg de queso se necesitan 5 litros de leche. ¿Cuántos kg se fabrican con 300 litros?",
+    "options": ["30 kg", "60 kg", "150 kg", "15 kg"],
+    "correctIndex": 1,
+    "explanation": "✅ 300 ÷ 5 = 60 kg."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Juan da 25 pasos para recorrer 15 m. ¿Cuántos metros recorrerá con 75 pasos?",
+    "options": ["30 m", "35 m", "45 m", "60 m"],
+    "correctIndex": 2,
+    "explanation": "✅ 75 pasos son el triple de 25, por tanto 15 × 3 = 45 m."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Una locomotora consume 500 kg de carbón en 100 km. ¿Cuánto consumirá en 65 km?",
+    "options": ["325 kg", "250 kg", "650 kg", "300 kg"],
+    "correctIndex": 0,
+    "explanation": "✅ Regla de tres: 500 × 65 ÷ 100 = 325 kg."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un tren recorre 25 km en 5 minutos. ¿A qué velocidad va?",
+    "options": ["300 km/h", "250 km/h", "200 km/h", "150 km/h"],
+    "correctIndex": 2,
+    "explanation": "✅ 25 km en 5 min → 300 km en 60 min → 300 km/h."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si el precio de un producto es proporcional a la cantidad, ¿qué ocurre al triplicar la cantidad?",
+    "options": [
+      "El precio se mantiene",
+      "El precio se divide entre 3",
+      "El precio se duplica",
+      "El precio se triplica"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ En una relación proporcional, ambas magnitudes varían en la misma proporción."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "En un cubo caben 12 litros de agua. ¿Podemos asegurar que en 3 cubos iguales caben 36 litros?",
+    "options": [
+      "No, porque depende del material",
+      "Sí, porque es una relación proporcional",
+      "No, porque el agua no se suma",
+      "Depende del tamaño del cubo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El volumen total es proporcional al número de cubos."
+  },
+  {
+    "category": "proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "¿Qué tabla representa una relación proporcional?",
+    "options": [
+      "Si al duplicar una magnitud la otra se suma 5",
+      "Si al triplicar una magnitud la otra también se triplica",
+      "Si una magnitud aumenta y la otra no cambia",
+      "Si una magnitud disminuye sin patrón"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ En una relación proporcional, ambas magnitudes cambian en la misma proporción."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "¿Qué significa que el 15% de una clase sean rubios?",
+    "options": [
+      "15 alumnos en total",
+      "15 de cada 100 alumnos",
+      "15 alumnos por aula",
+      "15 alumnos más que antes"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 15% significa 15 de cada 100."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "¿Cuál es la fracción equivalente a 35%?",
+    "options": ["35/10", "3/5", "35/100", "7/100"],
+    "correctIndex": 2,
+    "explanation": "✅ Todo porcentaje se expresa como fracción de denominador 100."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Calcula el 25% de 300.",
+    "options": ["75", "25", "125", "50"],
+    "correctIndex": 0,
+    "explanation": "✅ 25% de 300 = (300 × 25) ÷ 100 = 75."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Calcula el 10% de 1.600.",
+    "options": ["160", "16", "1.600", "100"],
+    "correctIndex": 0,
+    "explanation": "✅ El 10% es la décima parte: 1.600 ÷ 10 = 160."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "El 18% de los libros de una biblioteca son de poesía. ¿Qué porcentaje NO lo son?",
+    "options": ["18%", "72%", "82%", "62%"],
+    "correctIndex": 2,
+    "explanation": "✅ 100% − 18% = 82%."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "En una biblioteca hay 52.000 libros y el 10% son de historia. ¿Cuántos libros de historia hay?",
+    "options": ["520", "5.200", "52.000", "10.000"],
+    "correctIndex": 1,
+    "explanation": "✅ 10% de 52.000 = 5.200."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un ordenador cuesta 450,50 € y su precio aumenta un 6%. ¿Cuánto es el incremento?",
+    "options": ["27,03 €", "477,53 €", "26,50 €", "30 €"],
+    "correctIndex": 0,
+    "explanation": "✅ 6% de 450,50 = 27,03 €."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un ordenador cuesta 450,50 € y tiene un descuento del 5%. ¿Cuál será su precio final?",
+    "options": ["427,98 €", "425,50 €", "472,53 €", "445,50 €"],
+    "correctIndex": 0,
+    "explanation": "✅ 5% de 450,50 = 22,53 → 450,50 − 22,53 = 427,97 € ≈ 427,98 €."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Jorge tiene 85,80 € y gasta el 25%. ¿Cuánto dinero le queda?",
+    "options": ["64,35 €", "60,80 €", "21,45 €", "75 €"],
+    "correctIndex": 0,
+    "explanation": "✅ 25% de 85,80 = 21,45 → 85,80 − 21,45 = 64,35 €."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un litro de gasolina cuesta 0,90 €. Si sube un 5%, ¿cuál será el nuevo precio?",
+    "options": ["0,95 €", "0,94 €", "0,905 €", "1,05 €"],
+    "correctIndex": 1,
+    "explanation": "✅ 5% de 0,90 = 0,045 → 0,90 + 0,045 = 0,945 € ≈ 0,94 €."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un balón costaba 8 € y se ha vendido por 6,80 €. ¿Qué porcentaje de descuento se ha aplicado?",
+    "options": ["15%", "20%", "10%", "25%"],
+    "correctIndex": 1,
+    "explanation": "✅ El descuento es 1,20 €; 1,20 ÷ 8 × 100 = 15%."
+  },
+  {
+    "category": "porcentajes",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "¿Cuál de estas afirmaciones es correcta?",
+    "options": [
+      "El 50% es lo mismo que dividir entre 5",
+      "El 25% es la cuarta parte",
+      "El 10% es el doble",
+      "El 100% es la mitad"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 25% equivale a 1/4 de una cantidad."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Daniel paga 16 € por una camiseta. ¿Cuánto pagará por 6 camisetas?",
+    "options": ["96 €", "64 €", "80 €", "112 €"],
+    "correctIndex": 0,
+    "explanation": "✅ 6 camisetas cuestan 6 × 16 = 96 €."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Alquilar una bicicleta cuesta 3 € la hora. ¿Cuánto costará alquilarla durante 8 horas?",
+    "options": ["21 €", "24 €", "18 €", "30 €"],
+    "correctIndex": 1,
+    "explanation": "✅ 8 horas × 3 € = 24 €."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Álvaro tiene 15 € y cada entrada de cine cuesta 3 €. ¿A cuántos amigos puede invitar?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "explanation": "✅ 15 ÷ 3 = 5 entradas."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un coche recorre 120 km en 2 horas. ¿Cuántos kilómetros recorrerá en 5 horas a la misma velocidad?",
+    "options": ["240 km", "300 km", "360 km", "400 km"],
+    "correctIndex": 1,
+    "explanation": "✅ 120 ÷ 2 = 60 km/h → 60 × 5 = 300 km."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Para fabricar 4 mesas se necesitan 12 tablas. ¿Cuántas tablas harán falta para fabricar 10 mesas?",
+    "options": ["25", "30", "32", "36"],
+    "correctIndex": 1,
+    "explanation": "✅ 12 ÷ 4 = 3 tablas por mesa → 10 × 3 = 30 tablas."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un tren recorre 150 km en 3 horas. ¿Cuánto tardará en recorrer 250 km a la misma velocidad?",
+    "options": ["4 h", "5 h", "6 h", "7 h"],
+    "correctIndex": 1,
+    "explanation": "✅ Velocidad: 50 km/h → 250 ÷ 50 = 5 h."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Tres instaladores tardan 15 días en colocar un suelo. ¿Cuántos días tardarán 5 instaladores?",
+    "options": ["9 días", "12 días", "15 días", "25 días"],
+    "correctIndex": 0,
+    "explanation": "✅ Proporcionalidad inversa: más trabajadores, menos tiempo."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Para comer la hierba de un prado, 30 vacas tardan 6 días. ¿Cuántos días tardarán 12 vacas?",
+    "options": ["10 días", "12 días", "15 días", "18 días"],
+    "correctIndex": 2,
+    "explanation": "✅ Menos vacas → más días: 30 × 6 ÷ 12 = 15 días."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Se reparten 1.200 g de caramelos de forma proporcional al peso: 24 kg, 30 kg y 36 kg. ¿Cuántos gramos recibe el de 30 kg?",
+    "options": ["300 g", "360 g", "400 g", "450 g"],
+    "correctIndex": 2,
+    "explanation": "✅ Suma pesos: 90 kg → 1.200 ÷ 90 = 13,33 g/kg → 30 × 13,33 ≈ 400 g."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Se quieren repartir 1.500 € entre tres amigos de 4, 8 y 18 años de forma proporcional a su edad. ¿Cuánto recibe el mayor?",
+    "options": ["600 €", "750 €", "900 €", "1.000 €"],
+    "correctIndex": 2,
+    "explanation": "✅ Suma edades: 30 → 1.500 ÷ 30 = 50 €/año → 18 × 50 = 900 €."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un grifo llena 120 litros en 10 minutos. ¿Cuántos litros llenará en 25 minutos?",
+    "options": ["250 L", "300 L", "360 L", "400 L"],
+    "correctIndex": 1,
+    "explanation": "✅ 120 ÷ 10 = 12 L/min → 12 × 25 = 300 L."
+  },
+  {
+    "category": "problemas-proporcionalidad",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "¿Cuál de estos problemas se resuelve con proporcionalidad inversa?",
+    "options": [
+      "Precio y número de productos",
+      "Distancia y tiempo a velocidad constante",
+      "Número de trabajadores y tiempo de trabajo",
+      "Peso y precio por kilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A más trabajadores, menos tiempo: proporcionalidad inversa."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si 5 kg de patatas cuestan 6 €, ¿cuánto costarán 12 kg?",
+    "options": ["14,4 €", "12 €", "10 €", "15 €"],
+    "correctIndex": 0,
+    "explanation": "✅ Regla de 3 directa: 6 × 12 ÷ 5 = 14,4 €."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "En una mina, de cada 1.000 kg de material se obtienen 600 kg de carbón. ¿Cuánto carbón se obtiene de 20.000 kg?",
+    "options": ["12.000 kg", "10.000 kg", "6.000 kg", "14.000 kg"],
+    "correctIndex": 0,
+    "explanation": "✅ Regla de 3 directa: 600 × 20.000 ÷ 1.000 = 12.000 kg."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un coche recorre 180 km en 3 horas. ¿Cuántos kilómetros recorrerá en 5 horas a la misma velocidad?",
+    "options": ["250 km", "270 km", "300 km", "360 km"],
+    "correctIndex": 2,
+    "explanation": "✅ Regla de 3 directa: 180 ÷ 3 = 60 km/h → 60 × 5 = 300 km."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un ciclista tarda 4 horas en recorrer un trayecto a 30 km/h. ¿Cuánto tardará si va a 15 km/h?",
+    "options": ["2 h", "6 h", "8 h", "12 h"],
+    "correctIndex": 2,
+    "explanation": "✅ Regla de 3 inversa: menor velocidad → más tiempo. El tiempo se duplica."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si 3 obreros tardan 10 días en hacer un trabajo, ¿cuántos días tardarán 6 obreros?",
+    "options": ["20 días", "10 días", "5 días", "3 días"],
+    "correctIndex": 2,
+    "explanation": "✅ Regla de 3 inversa: el doble de obreros tarda la mitad de tiempo."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un mapa indica que 5 cm representan 600 m reales. ¿Cuántos metros representan 8 cm?",
+    "options": ["960 m", "800 m", "1.200 m", "750 m"],
+    "correctIndex": 0,
+    "explanation": "✅ Regla de 3 directa: 600 × 8 ÷ 5 = 960 m."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Una máquina produce 240 piezas en 6 horas. ¿Cuántas piezas producirá en 9 horas?",
+    "options": ["300", "360", "400", "420"],
+    "correctIndex": 1,
+    "explanation": "✅ Regla de 3 directa: 240 ÷ 6 = 40 → 40 × 9 = 360."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Para llenar una piscina se necesitan 4 grifos durante 12 horas. ¿Cuántas horas tardarán 8 grifos?",
+    "options": ["6 h", "8 h", "12 h", "16 h"],
+    "correctIndex": 0,
+    "explanation": "✅ Regla de 3 inversa: el doble de grifos tarda la mitad."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si 12 cuadernos cuestan 18 €, ¿cuánto costarán 20 cuadernos?",
+    "options": ["25 €", "28 €", "30 €", "36 €"],
+    "correctIndex": 2,
+    "explanation": "✅ Regla de 3 directa: 18 × 20 ÷ 12 = 30 €."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un grifo llena 90 litros en 15 minutos. ¿Cuántos litros llenará en 1 hora?",
+    "options": ["180 L", "240 L", "300 L", "360 L"],
+    "correctIndex": 3,
+    "explanation": "✅ 15 min → 90 L; 60 min es 4 veces más → 360 L."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "¿En qué situación se debe usar una regla de 3 inversa?",
+    "options": [
+      "Precio y cantidad comprada",
+      "Distancia y tiempo a velocidad constante",
+      "Número de trabajadores y tiempo de trabajo",
+      "Peso y precio por kilo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ A más trabajadores, menos tiempo: relación inversa."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si al aumentar una magnitud la otra también aumenta en la misma proporción, la regla de 3 es:",
+    "options": [
+      "Inversa",
+      "Directa",
+      "Compuesta",
+      "No proporcional"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Cuando ambas magnitudes aumentan o disminuyen juntas, es regla de 3 directa."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si 4 cuadernos cuestan 10 €, ¿cuánto costarán 10 cuadernos?",
+    "options": ["20 €", "25 €", "30 €", "40 €"],
+    "correctIndex": 1,
+    "explanation": "✅ Regla de 3 directa: 10 × 10 ÷ 4 = 25 €."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Una canica cuesta 0,50 €. ¿Cuánto cuestan 8 canicas?",
+    "options": ["3 €", "4 €", "4,50 €", "5 €"],
+    "correctIndex": 1,
+    "explanation": "✅ Precio proporcional: 8 × 0,50 = 4 €."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Para hacer 6 tortillas se usan 30 huevos. ¿Cuántos huevos se necesitan para 10 tortillas?",
+    "options": ["40", "45", "50", "60"],
+    "correctIndex": 2,
+    "explanation": "✅ 30 ÷ 6 = 5 huevos por tortilla → 10 × 5 = 50."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si 3 litros de aceite cuestan 9 €, ¿cuánto costarán 5 litros?",
+    "options": ["12 €", "13 €", "15 €", "18 €"],
+    "correctIndex": 2,
+    "explanation": "✅ 9 ÷ 3 = 3 €/L → 5 × 3 = 15 €."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un coche recorre 180 km en 3 horas. ¿Cuántos kilómetros recorrerá en 7 horas?",
+    "options": ["360 km", "390 km", "420 km", "450 km"],
+    "correctIndex": 2,
+    "explanation": "✅ 180 ÷ 3 = 60 km/h → 60 × 7 = 420 km."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si 100 g de plátanos aportan 340 calorías, ¿cuántas calorías aportan 200 g?",
+    "options": ["340", "510", "680", "700"],
+    "correctIndex": 2,
+    "explanation": "✅ El doble de gramos aporta el doble de calorías."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Completa la tabla: si 2 entradas cuestan 12 €, ¿cuánto cuestan 5 entradas?",
+    "options": ["24 €", "30 €", "32 €", "36 €"],
+    "correctIndex": 1,
+    "explanation": "✅ 12 ÷ 2 = 6 € por entrada → 5 × 6 = 30 €."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "¿Qué par de magnitudes es directamente proporcional?",
+    "options": [
+      "Edad y estatura",
+      "Número de productos y precio",
+      "Número de personas y edad",
+      "Tiempo y cansancio"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Si aumenta la cantidad, aumenta el precio en la misma proporción."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "En una tienda, 5 pasteles cuestan 6 €. ¿Cuánto cuestan 15 pasteles?",
+    "options": ["12 €", "15 €", "18 €", "20 €"],
+    "correctIndex": 2,
+    "explanation": "✅ 15 es el triple de 5 → 6 × 3 = 18 €."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si una máquina produce 80 piezas en 2 horas, ¿cuántas producirá en 5 horas?",
+    "options": ["160", "200", "240", "320"],
+    "correctIndex": 1,
+    "explanation": "✅ 80 ÷ 2 = 40 piezas/h → 40 × 5 = 200."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si al duplicar una magnitud la otra también se duplica, la relación es:",
+    "options": [
+      "Inversa",
+      "No proporcional",
+      "Directa",
+      "Aleatoria"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Ambas magnitudes cambian en la misma proporción."
+  },
+  {
+    "category": "directa",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un mapa indica que 1 cm representa 4 km. ¿Cuántos km representan 6 cm?",
+    "options": ["20 km", "22 km", "24 km", "28 km"],
+    "correctIndex": 2,
+    "explanation": "✅ 6 × 4 = 24 km."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si 8 lápices cuestan 4 €, ¿cuánto costarán 14 lápices?",
+    "options": ["6 €", "7 €", "8 €", "9 €"],
+    "correctIndex": 1,
+    "explanation": "✅ Regla de 3 directa: 4 × 14 ÷ 8 = 7 €."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un coche recorre 150 km en 3 horas. ¿Cuántos km recorrerá en 7 horas a la misma velocidad?",
+    "options": ["300 km", "325 km", "350 km", "375 km"],
+    "correctIndex": 3,
+    "explanation": "✅ 150 ÷ 3 = 50 km/h → 50 × 7 = 350 km."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Una máquina produce 120 piezas en 6 horas. ¿Cuántas piezas producirá en 9 horas?",
+    "options": ["150", "180", "200", "210"],
+    "correctIndex": 1,
+    "explanation": "✅ Regla de 3 directa: 120 ÷ 6 = 20 → 20 × 9 = 180."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Tres obreros tardan 18 días en realizar un trabajo. ¿Cuántos días tardarán 6 obreros?",
+    "options": ["36 días", "18 días", "9 días", "6 días"],
+    "correctIndex": 2,
+    "explanation": "✅ Regla de 3 inversa: el doble de obreros tarda la mitad."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un grifo llena 200 litros en 20 minutos. ¿Cuántos litros llenará en 1 hora?",
+    "options": ["400 L", "500 L", "600 L", "800 L"],
+    "correctIndex": 2,
+    "explanation": "✅ 20 min → 200 L; 60 min es 3 veces más → 600 L."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si 6 kg de arroz cuestan 9 €, ¿cuántos kg se pueden comprar con 15 €?",
+    "options": ["9 kg", "10 kg", "12 kg", "15 kg"],
+    "correctIndex": 1,
+    "explanation": "✅ Regla de 3 directa: 6 × 15 ÷ 9 = 10 kg."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un ciclista tarda 2 horas en recorrer un trayecto a 24 km/h. ¿Cuánto tardará si va a 12 km/h?",
+    "options": ["3 h", "4 h", "5 h", "6 h"],
+    "correctIndex": 1,
+    "explanation": "✅ Regla de 3 inversa: la velocidad se reduce a la mitad, el tiempo se duplica."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Para hacer 5 tartas se necesitan 15 huevos. ¿Cuántos huevos hacen falta para 12 tartas?",
+    "options": ["30", "32", "36", "40"],
+    "correctIndex": 2,
+    "explanation": "✅ 15 ÷ 5 = 3 huevos por tarta → 12 × 3 = 36."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un mapa indica que 4 cm representan 200 m. ¿Cuántos metros representan 10 cm?",
+    "options": ["400 m", "450 m", "500 m", "600 m"],
+    "correctIndex": 2,
+    "explanation": "✅ Regla de 3 directa: 200 × 10 ÷ 4 = 500 m."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Un depósito de agua dura 15 días para 6 personas. ¿Cuántos días durará para 10 personas?",
+    "options": ["6 días", "9 días", "12 días", "25 días"],
+    "correctIndex": 1,
+    "explanation": "✅ Regla de 3 inversa: 6 × 15 ÷ 10 = 9 días."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "¿En qué situación es correcta una regla de 3 directa?",
+    "options": [
+      "Más trabajadores y menos tiempo",
+      "Menos velocidad y más tiempo",
+      "Más cantidad y más precio",
+      "Más personas y menos comida"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Cuando ambas magnitudes aumentan juntas, la relación es directa."
+  },
+  {
+    "category": "reglas-de-3",
+    "nivel": "6",
+    "materia": "Matemáticas-6",
+    "unidad": "6",
+    "text": "Si al duplicar una magnitud la otra se reduce a la mitad, la relación es:",
+    "options": [
+      "Directa",
+      "No proporcional",
+      "Compuesta",
+      "Inversa"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ En la proporcionalidad inversa, una magnitud aumenta y la otra disminuye."
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "category": "aproximacion_redondeo",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 1,78 a las unidades.",
+    "options": ["1", "2", "1,8", "1,7"],
+    "correctIndex": 1,
+    "explanation": "✅ La cifra de las décimas es 7 (≥5), se aumenta la unidad."
+  },
+  {
+    "category": "aproximacion_redondeo",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 11,078 a las unidades.",
+    "options": ["12", "11", "11,1", "10"],
+    "correctIndex": 1,
+    "explanation": "✅ La cifra de las décimas es 0 (<5), se mantiene la unidad."
+  },
+  {
+    "category": "aproximacion_decimas",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 2,456 a las décimas.",
+    "options": ["2,4", "2,45", "2,5", "2,46"],
+    "correctIndex": 2,
+    "explanation": "✅ La centésima es 5, se aumenta la décima."
+  },
+  {
+    "category": "aproximacion_decimas",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 0,719 a las décimas.",
+    "options": ["0,7", "0,72", "0,8", "0,71"],
+    "correctIndex": 0,
+    "explanation": "✅ La centésima es 1 (<5), la décima no cambia."
+  },
+  {
+    "category": "aproximacion_centesimas",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 18,007 a las centésimas.",
+    "options": ["18,01", "18,00", "18,1", "18,07"],
+    "correctIndex": 1,
+    "explanation": "✅ La milésima es 7 (≥5), se suma 1 a la centésima."
+  },
+  {
+    "category": "aproximacion_centesimas",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 8,653 a las centésimas.",
+    "options": ["8,65", "8,6", "8,66", "8,64"],
+    "correctIndex": 2,
+    "explanation": "✅ La milésima es 3 (<5), se mantiene la centésima."
+  },
+  {
+    "category": "tabla_aproximacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál es la aproximación a las unidades de 0,327?",
+    "options": ["0", "1", "0,3", "0,33"],
+    "correctIndex": 0,
+    "explanation": "✅ La décima es 3 (<5), se mantiene la unidad."
+  },
+  {
+    "category": "tabla_aproximacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál es la aproximación a las décimas de 23,369?",
+    "options": ["23,3", "23,4", "23,36", "23"],
+    "correctIndex": 1,
+    "explanation": "✅ La centésima es 6 (≥5), se aumenta la décima."
+  },
+  {
+    "category": "estimacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Estima: 8,6 × 35 aproximando a las unidades.",
+    "options": ["280", "315", "350", "300"],
+    "correctIndex": 1,
+    "explanation": "✅ 8,6 ≈ 9 y 9 × 35 = 315."
+  },
+  {
+    "category": "estimacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Estima: 6,147 + 109,18 aproximando a las unidades.",
+    "options": ["114", "116", "115", "118"],
+    "correctIndex": 2,
+    "explanation": "✅ 6,147 ≈ 6 y 109,18 ≈ 109 → 6 + 109 = 115."
+  },
+  {
+    "category": "conceptual",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Para aproximar un número decimal a las décimas, ¿qué cifra se observa?",
+    "options": ["La de las unidades", "La de las milésimas", "La de las centésimas", "La de las décimas"],
+    "correctIndex": 2,
+    "explanation": "✅ Se observa la cifra de las centésimas."
+  },
+  {
+    "category": "aplicacion_real",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Si un precio es 19,85 €, ¿a qué cantidad aproximada corresponde?",
+    "options": ["20 €", "19 €", "19,5 €", "18 €"],
+    "correctIndex": 0,
+    "explanation": "✅ 19,85 se aproxima a 20 € al redondear a las unidades."
+  },
+  {
+    "category": "aproximacion_unidades",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 5,17 a las unidades.",
+    "options": ["6", "5", "5,2", "4"],
+    "correctIndex": 1,
+    "explanation": "✅ La cifra de las décimas es 1 (<5), se mantiene la unidad."
+  },
+  {
+    "category": "aproximacion_unidades",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 25,841 a las unidades.",
+    "options": ["25", "26", "25,8", "24"],
+    "correctIndex": 1,
+    "explanation": "✅ La cifra de las décimas es 8 (≥5), se aumenta la unidad."
+  },
+  {
+    "category": "aproximacion_decimas",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 3,26 a las décimas.",
+    "options": ["3,2", "3,3", "3,26", "3"],
+    "correctIndex": 1,
+    "explanation": "✅ La centésima es 6 (≥5), se aumenta la décima."
+  },
+  {
+    "category": "aproximacion_decimas",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 8,135 a las décimas.",
+    "options": ["8,2", "8,1", "8,13", "8"],
+    "correctIndex": 0,
+    "explanation": "✅ La centésima es 3 (<5), la décima se mantiene."
+  },
+  {
+    "category": "aproximacion_centesimas",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 9,194 a las centésimas.",
+    "options": ["9,19", "9,20", "9,1", "9,18"],
+    "correctIndex": 0,
+    "explanation": "✅ La milésima es 4 (<5), la centésima no cambia."
+  },
+  {
+    "category": "aproximacion_centesimas",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Aproxima 13,897 a las centésimas.",
+    "options": ["13,89", "13,90", "13,8", "13,88"],
+    "correctIndex": 1,
+    "explanation": "✅ La milésima es 7 (≥5), se aumenta la centésima."
+  },
+  {
+    "category": "tabla_aproximacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál es la aproximación a las décimas de 16,018?",
+    "options": ["16,0", "16", "16,1", "15,9"],
+    "correctIndex": 0,
+    "explanation": "✅ La centésima es 1 (<5), la décima se mantiene."
+  },
+  {
+    "category": "tabla_aproximacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál es la aproximación a las centésimas de 23,369?",
+    "options": ["23,36", "23,4", "23,37", "23,35"],
+    "correctIndex": 2,
+    "explanation": "✅ La milésima es 9 (≥5), se aumenta la centésima."
+  },
+  {
+    "category": "estimacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Estima: 7,46 × 25 aproximando a las décimas.",
+    "options": ["187,5", "175", "200", "150"],
+    "correctIndex": 0,
+    "explanation": "✅ 7,46 ≈ 7,5 y 7,5 × 25 = 187,5."
+  },
+  {
+    "category": "estimacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Estima: 26,009 × 12,242 aproximando a las unidades.",
+    "options": ["312", "338", "325", "300"],
+    "correctIndex": 1,
+    "explanation": "✅ 26,009 ≈ 26 y 12,242 ≈ 13 → 26 × 13 = 338."
+  },
+  {
+    "category": "conceptual",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Para aproximar un número a las centésimas, ¿qué cifra se observa?",
+    "options": ["La de las décimas", "La de las milésimas", "La de las unidades", "La de las centésimas"],
+    "correctIndex": 1,
+    "explanation": "✅ Se observa la cifra de las milésimas."
+  },
+  {
+    "category": "aplicacion_real",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un artículo cuesta 20,72 €. ¿A qué cantidad aproximada corresponde?",
+    "options": ["20 €", "21 €", "20,5 €", "19 €"],
+    "correctIndex": 1,
+    "explanation": "✅ 20,72 se aproxima a 21 € al redondear a las unidades."
+  },
+  {
+    "category": "division_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 16,23 ÷ 7",
+    "options": ["2,31", "2,18", "2,33", "23,1"],
+    "correctIndex": 0,
+    "explanation": "✅ Se divide como números naturales y se coloca la coma al bajar la primera cifra decimal."
+  },
+  {
+    "category": "division_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 0,65 ÷ 5",
+    "options": ["1,3", "0,13", "0,013", "13"],
+    "correctIndex": 1,
+    "explanation": "✅ 0,65 ÷ 5 = 0,13."
+  },
+  {
+    "category": "division_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 8,291 ÷ 6",
+    "options": ["1,381", "13,81", "1,48", "0,138"],
+    "correctIndex": 0,
+    "explanation": "✅ La coma se coloca correctamente al comenzar la parte decimal del cociente."
+  },
+  {
+    "category": "division_natural_decimal",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 6 ÷ 0,4",
+    "options": ["1,5", "15", "0,15", "150"],
+    "correctIndex": 1,
+    "explanation": "✅ Se multiplican ambos números por 10: 60 ÷ 4 = 15."
+  },
+  {
+    "category": "division_natural_decimal",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 724 ÷ 0,05",
+    "options": ["144,8", "1 448", "14 480", "72,4"],
+    "correctIndex": 2,
+    "explanation": "✅ Se multiplica por 100: 72 400 ÷ 5 = 14 480."
+  },
+  {
+    "category": "division_natural_decimal",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 29 ÷ 1,33",
+    "options": ["21,8", "2,18", "218", "0,218"],
+    "correctIndex": 1,
+    "explanation": "✅ Se eliminan los decimales multiplicando ambos números por 100."
+  },
+  {
+    "category": "division_decimal_decimal",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 129,6 ÷ 3,6",
+    "options": ["3,6", "36", "0,36", "360"],
+    "correctIndex": 1,
+    "explanation": "✅ Al multiplicar ambos por 10: 1296 ÷ 36 = 36."
+  },
+  {
+    "category": "division_decimal_decimal",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 0,268 ÷ 0,02",
+    "options": ["0,134", "1,34", "13,4", "134"],
+    "correctIndex": 2,
+    "explanation": "✅ Se multiplica por 100: 26,8 ÷ 2 = 13,4."
+  },
+  {
+    "category": "division_decimal_decimal",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 16,32 ÷ 0,34",
+    "options": ["4,8", "48", "0,48", "480"],
+    "correctIndex": 1,
+    "explanation": "✅ Eliminamos decimales: 1632 ÷ 34 = 48."
+  },
+  {
+    "category": "cociente_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Qué debes hacer para obtener más cifras decimales en un cociente?",
+    "options": [
+      "Añadir ceros al divisor",
+      "Mover la coma del cociente",
+      "Escribir el dividendo con más cifras decimales",
+      "Redondear el resultado"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Se añaden ceros al dividendo para seguir dividiendo."
+  },
+  {
+    "category": "cociente_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula con una cifra decimal: 9 ÷ 8",
+    "options": ["1,1", "0,9", "1,12", "1,0"],
+    "correctIndex": 0,
+    "explanation": "✅ 9 ÷ 8 = 1,125 → con una cifra decimal es 1,1."
+  },
+  {
+    "category": "estimacion_division",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Sin calcular exactamente, ¿qué valor se aproxima más a 5,678 ÷ 3,4?",
+    "options": ["0,5", "1,5", "15", "0,15"],
+    "correctIndex": 1,
+    "explanation": "✅ Aproximando: 6 ÷ 4 ≈ 1,5."
+  },
+  {
+    "category": "division_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Sin calcular exactamente, ¿qué división dará un resultado mayor?",
+    "options": ["4,8 ÷ 6", "48 ÷ 6", "0,48 ÷ 6", "0,048 ÷ 6"],
+    "correctIndex": 1,
+    "explanation": "✅ Al dividir entre el mismo número, el mayor dividendo produce el mayor cociente."
+  },
+  {
+    "category": "division_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿En qué división el cociente será menor que 1?",
+    "options": ["6 ÷ 0,5", "0,6 ÷ 5", "6 ÷ 0,2", "60 ÷ 0,5"],
+    "correctIndex": 1,
+    "explanation": "✅ Si el dividendo es menor que el divisor, el resultado es menor que 1."
+  },
+  {
+    "category": "procedimiento_division",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Para resolver 3,2 ÷ 0,4 correctamente, ¿qué debes hacer primero?",
+    "options": [
+      "Mover la coma solo en el divisor",
+      "Multiplicar ambos números por 10",
+      "Redondear el divisor",
+      "Dividir directamente sin cambios"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Se multiplican ambos números por 10 para eliminar el decimal del divisor."
+  },
+  {
+    "category": "procedimiento_division",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál es el error en esta operación? 4,5 ÷ 0,3 = 1,5",
+    "options": [
+      "No se ha movido la coma",
+      "Se ha movido solo la coma del dividendo",
+      "El divisor no se ha transformado",
+      "El resultado es demasiado pequeño"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ El resultado correcto sería mayor; dividir entre 0,3 aumenta el valor."
+  },
+  {
+    "category": "estimacion_division",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Qué resultado es más razonable para 19,8 ÷ 4,1?",
+    "options": ["0,5", "5", "50", "0,05"],
+    "correctIndex": 1,
+    "explanation": "✅ Aproximando: 20 ÷ 4 ≈ 5."
+  },
+  {
+    "category": "comparacion_divisiones",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Ordena de menor a mayor los resultados: 6 ÷ 3, 6 ÷ 0,3 y 6 ÷ 30.",
+    "options": [
+      "6 ÷ 0,3 < 6 ÷ 3 < 6 ÷ 30",
+      "6 ÷ 30 < 6 ÷ 3 < 6 ÷ 0,3",
+      "6 ÷ 3 < 6 ÷ 30 < 6 ÷ 0,3",
+      "6 ÷ 30 < 6 ÷ 0,3 < 6 ÷ 3"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Dividir entre un número pequeño da un resultado mayor."
+  },
+  {
+    "category": "razonamiento_division",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Si duplicas el divisor y mantienes el dividendo, el cociente…",
+    "options": [
+      "Se duplica",
+      "No cambia",
+      "Se divide entre 2",
+      "Se multiplica por 10"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Al aumentar el divisor, el cociente disminuye."
+  },
+  {
+    "category": "razonamiento_division",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál de estas divisiones es equivalente a 7,2 ÷ 0,6?",
+    "options": ["72 ÷ 6", "7,2 ÷ 6", "0,72 ÷ 6", "72 ÷ 0,6"],
+    "correctIndex": 0,
+    "explanation": "✅ Al multiplicar ambos números por 10 se obtiene una división equivalente."
+  },
+  {
+    "category": "deteccion_error",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un alumno obtiene 0,24 como resultado de 12 ÷ 0,5. ¿Qué ha ocurrido?",
+    "options": [
+      "Ha redondeado mal",
+      "Ha olvidado mover la coma",
+      "Ha dividido al revés",
+      "Ha multiplicado en lugar de dividir"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Dividir entre 0,5 da un número mayor que 12."
+  },
+  {
+    "category": "aplicacion_real",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Una cuerda de 4,5 m se corta en trozos de 0,5 m. ¿Cuántos trozos se obtienen?",
+    "options": ["0,9", "9", "45", "2,25"],
+    "correctIndex": 1,
+    "explanation": "✅ 4,5 ÷ 0,5 = 9."
+  },
+  {
+    "category": "sentido_resultado",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Qué afirmación es correcta?",
+    "options": [
+      "Dividir entre 1 no cambia el número",
+      "Dividir entre 0,1 lo hace más pequeño",
+      "Dividir entre 10 lo hace mayor",
+      "Dividir entre 0,01 lo hace menor"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Dividir entre 1 mantiene el valor."
+  },
+  {
+    "category": "conceptual_division",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuándo es obligatorio transformar una división antes de calcular?",
+    "options": [
+      "Cuando el dividendo es mayor",
+      "Cuando el divisor tiene decimales",
+      "Cuando el resultado es entero",
+      "Cuando hay ceros en el cociente"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El divisor no puede tener decimales al dividir."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuántas cifras decimales tiene el producto de 2,4 × 1,35?",
+    "options": [
+      "Una",
+      "Dos",
+      "Tres",
+      "Las que tenga el número mayor"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El producto tiene tantas cifras decimales como la suma de las de ambos factores (1 + 2 = 3)."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 4,86 × 7,9",
+    "options": ["38,394", "384,94", "3,8394", "39,384"],
+    "correctIndex": 0,
+    "explanation": "✅ Se multiplica como naturales y se colocan 2 cifras decimales en total."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 0,19 × 3,26",
+    "options": ["6,194", "0,6194", "0,06194", "0,006194"],
+    "correctIndex": 2,
+    "explanation": "✅ Hay 4 cifras decimales en total en el producto."
+  },
+  {
+    "category": "multiplicacion_decimal_natural",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 17,6 × 4",
+    "options": ["7,04", "70,4", "704", "6,04"],
+    "correctIndex": 1,
+    "explanation": "✅ Se multiplica normalmente y se conserva la coma del decimal."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 0,007 × 0,023",
+    "options": ["0,000161", "0,00161", "0,0161", "0,161"],
+    "correctIndex": 0,
+    "explanation": "✅ El producto tiene 5 cifras decimales en total."
+  },
+  {
+    "category": "potencias_de_10",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula mentalmente: 7,305 × 1 000",
+    "options": ["7,305", "73,05", "730,5", "7 305"],
+    "correctIndex": 3,
+    "explanation": "✅ Al multiplicar por 1 000, la coma se desplaza tres lugares a la derecha."
+  },
+  {
+    "category": "potencias_de_10",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 0,5 × 100",
+    "options": ["0,05", "5", "50", "500"],
+    "correctIndex": 2,
+    "explanation": "✅ La coma se desplaza dos lugares a la derecha."
+  },
+  {
+    "category": "estimacion_multiplicacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Sin calcular exactamente, ¿qué resultado es más razonable para 9,8 × 2,1?",
+    "options": ["2", "20", "200", "0,2"],
+    "correctIndex": 1,
+    "explanation": "✅ Aproximando: 10 × 2 = 20."
+  },
+  {
+    "category": "deteccion_error",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un alumno obtiene 1,25 como resultado de 2,5 × 0,5. ¿Qué ha hecho mal?",
+    "options": [
+      "Nada, el resultado es correcto",
+      "Ha colocado mal la coma",
+      "Ha sumado en lugar de multiplicar",
+      "Ha olvidado contar las cifras decimales"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El resultado es correcto: multiplicar por 0,5 equivale a dividir entre 2."
+  },
+  {
+    "category": "razonamiento_multiplicacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Si multiplicas un número por 0,1, el resultado…",
+    "options": [
+      "Es mayor",
+      "No cambia",
+      "Es diez veces mayor",
+      "Es diez veces menor"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Multiplicar por 0,1 desplaza la coma una posición a la izquierda."
+  },
+  {
+    "category": "comparacion_productos",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Qué producto es mayor?",
+    "options": ["3,2 × 0,5", "3,2 × 2", "3,2 × 0,2", "3,2 × 0,1"],
+    "correctIndex": 1,
+    "explanation": "✅ Multiplicar por un número mayor que 1 aumenta el valor."
+  },
+  {
+    "category": "problema_multiplicacion",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Ernesto compra 2,4 kg de pescado a 9,85 € el kilo. ¿Cuánto paga?",
+    "options": ["23,64 €", "22,64 €", "24,64 €", "21,64 €"],
+    "correctIndex": 0,
+    "explanation": "✅ 2,4 × 9,85 = 23,64 €."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un alumno obtiene 6,4 como resultado de 0,8 × 0,8. ¿Qué ha ocurrido?",
+    "options": [
+      "El resultado es correcto",
+      "Ha olvidado poner la coma",
+      "Ha sumado en lugar de multiplicar",
+      "Ha contado mal las cifras decimales"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 0,8 × 0,8 = 0,64. El error está en la colocación de la coma."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál NO puede ser el resultado de 3,5 × 0,4?",
+    "options": ["1,4", "14", "0,14", "1,40"],
+    "correctIndex": 1,
+    "explanation": "✅ Multiplicar por un número menor que 1 da un resultado menor que 3,5."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un alumno calcula 2,3 × 1,5 y obtiene 34,5. ¿Cuál es el error?",
+    "options": [
+      "Ha multiplicado mal",
+      "Ha desplazado la coma a la derecha en lugar de a la izquierda",
+      "Ha sumado los factores",
+      "El resultado es correcto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El producto correcto es 3,45. El resultado es diez veces mayor."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Sin calcular exactamente, ¿qué resultado es razonable para 0,6 × 0,7?",
+    "options": ["4,2", "0,42", "42", "0,042"],
+    "correctIndex": 1,
+    "explanation": "✅ El resultado debe ser menor que 1."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Qué producto es incorrecto?",
+    "options": [
+      "0,2 × 0,5 = 0,10",
+      "0,4 × 0,3 = 0,12",
+      "1,2 × 0,5 = 0,6",
+      "2,5 × 0,4 = 1"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 0,2 × 0,5 = 0,1. El 0 final no es incorrecto matemáticamente, pero suele indicar confusión en primaria."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un alumno dice: «Al multiplicar por 0,1 el número aumenta». ¿Es correcto?",
+    "options": [
+      "Sí, siempre",
+      "Sí, a veces",
+      "No, siempre disminuye",
+      "No, se mantiene igual"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Multiplicar por 0,1 desplaza la coma a la izquierda."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál es el error en esta operación? 4,2 × 0,3 = 12,6",
+    "options": [
+      "Ha contado mal los decimales",
+      "Ha olvidado poner la coma",
+      "Ha multiplicado por 3 en vez de por 0,3",
+      "No hay error"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Multiplicar por 0,3 da un resultado menor que 4,2."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál de estos productos debe ser MENOR que 1?",
+    "options": [
+      "1,2 × 0,8",
+      "0,9 × 1,1",
+      "0,4 × 0,6",
+      "2,5 × 0,5"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Ambos factores son menores que 1."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un alumno obtiene 720 al calcular 7,2 × 10. ¿Qué ha pasado?",
+    "options": [
+      "Ha multiplicado correctamente",
+      "Ha movido la coma dos lugares",
+      "Ha olvidado la coma decimal",
+      "Ha sumado un cero de más"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Solo se debe mover la coma un lugar: 7,2 × 10 = 72."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál es el resultado correcto de 0,25 × 4?",
+    "options": ["1", "0,1", "10", "0,01"],
+    "correctIndex": 0,
+    "explanation": "✅ 0,25 × 4 = 1. Multiplicar puede dar un número entero."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Sin hacer la cuenta, ¿qué resultado NO es posible para 6,4 × 0,5?",
+    "options": ["3,2", "32", "3,20", "3"],
+    "correctIndex": 1,
+    "explanation": "✅ Multiplicar por 0,5 divide entre 2, no multiplica por 5."
+  },
+  {
+    "category": "multiplicaciones_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Qué afirmación es falsa?",
+    "options": [
+      "Multiplicar por 1 no cambia el número",
+      "Multiplicar por 0 da 0",
+      "Multiplicar por 0,01 aumenta el número",
+      "Multiplicar por un número menor que 1 lo hace más pequeño"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Multiplicar por 0,01 reduce el número cien veces."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Juanjo paga una lavadora con 600 € y le devuelven 138,36 €. ¿Cuánto costaba la lavadora?",
+    "options": ["461,64 €", "438,36 €", "471,64 €", "361,64 €"],
+    "correctIndex": 0,
+    "explanation": "✅ 600 − 138,36 = 461,64 €."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Mar compra 125 sacos de cemento de 12,5 kg cada uno y le sobran 35,8 kg. ¿Cuántos kg ha utilizado?",
+    "options": ["1 562,5 kg", "1 526,7 kg", "1 598,3 kg", "1 437,5 kg"],
+    "correctIndex": 1,
+    "explanation": "✅ Total: 125 × 12,5 = 1 562,5 kg; usados: 1 562,5 − 35,8 = 1 526,7 kg."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Alicia reparte 9,6 litros de limonada en 24 jarras iguales. ¿Cuántos litros hay en cada jarra?",
+    "options": ["0,25 L", "0,4 L", "0,04 L", "2,5 L"],
+    "correctIndex": 0,
+    "explanation": "✅ 9,6 ÷ 24 = 0,4 → opción correcta 0,4 L."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Miguel echa 13,5 L de gasolina y Laura 12,75 L. El litro cuesta 1,10 €. ¿Cuánto paga Miguel más que Laura?",
+    "options": ["0,83 €", "0,75 €", "1,10 €", "0,82 €"],
+    "correctIndex": 3,
+    "explanation": "✅ Diferencia: (13,5 − 12,75) × 1,10 = 0,825 € ≈ 0,83 €."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Pedro tiene 5,64 €. Ariana tiene 2,37 € más que Pedro y Ximena 1,15 € más que Ariana. ¿Cuánto tienen entre los tres?",
+    "options": ["17,17 €", "16,80 €", "18,01 €", "15,64 €"],
+    "correctIndex": 0,
+    "explanation": "✅ Pedro: 5,64; Ariana: 8,01; Ximena: 9,16 → total: 22,81 €."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un libro cuesta 40,50 €. Unos zapatos cuestan 2 € menos y un estuche vale la mitad del total del libro y los zapatos. ¿Cuánto cuesta el estuche?",
+    "options": ["39,50 €", "19,25 €", "21,25 €", "38,50 €"],
+    "correctIndex": 1,
+    "explanation": "✅ Zapatos: 38,50 €; suma: 79 €; mitad: 39,5 €."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Ivana tiene 0,60 €. Pide 1,75 € a su padre y recibe 0,17 € menos; pide 0,30 € a su hermana y recibe 0,15 € más. ¿Cuánto dinero tiene ahora?",
+    "options": ["2,63 €", "2,67 €", "2,52 €", "2,90 €"],
+    "correctIndex": 1,
+    "explanation": "✅ Padre: 1,58 €; hermana: 0,45 € → total: 0,60 + 1,58 + 0,45 = 2,63 €."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un rodillo tiene una circunferencia de 6,34 m y da 24,75 vueltas. ¿Qué longitud recorre?",
+    "options": ["156,92 m", "156,81 m", "157,07 m", "155,92 m"],
+    "correctIndex": 2,
+    "explanation": "✅ 6,34 × 24,75 = 157,065 m ≈ 157,07 m."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un tonel pesa 1962 kg de vino. Si cada litro pesa 0,981 kg, ¿cuántos litros contiene?",
+    "options": ["2 000 L", "1 998 L", "1 999 L", "2 100 L"],
+    "correctIndex": 1,
+    "explanation": "✅ 1962 ÷ 0,981 = 1998 L."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Tenía 14,25 €. El martes gané 16,89 €, el miércoles 97 € y el jueves gasté 56,07 €. ¿Cuánto me queda?",
+    "options": ["72,07 €", "72,05 €", "71,07 €", "71,95 €"],
+    "correctIndex": 0,
+    "explanation": "✅ 14,25 + 16,89 + 97 − 56,07 = 72,07 €."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Montserrat paga 2 € por pescado si el kilo cuesta 5,74 €. ¿Cuántos kg ha comprado?",
+    "options": ["0,35 kg", "0,40 kg", "0,25 kg", "0,30 kg"],
+    "correctIndex": 0,
+    "explanation": "✅ 2 ÷ 5,74 ≈ 0,35 kg."
+  },
+  {
+    "category": "problemas_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "La suma de dos números es 15,034 y su diferencia es 6,01. ¿Cuál es el mayor?",
+    "options": ["10,522", "9,522", "8,512", "11,522"],
+    "correctIndex": 0,
+    "explanation": "✅ (15,034 + 6,01) ÷ 2 = 10,522."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 14,97 + 112,09",
+    "options": ["127,06", "127,16", "126,06", "126,16"],
+    "correctIndex": 0,
+    "explanation": "✅ Se alinean las comas: 14,97 + 112,09 = 127,06."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 384,079 + 104,92",
+    "options": ["488,999", "489,099", "488,9999", "489,009"],
+    "correctIndex": 1,
+    "explanation": "✅ Al sumar correctamente las cifras decimales se obtiene 489,099."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 132,28 + 5,103 + 42,07",
+    "options": ["179,453", "179,353", "178,453", "179,503"],
+    "correctIndex": 0,
+    "explanation": "✅ Sumando en orden: 132,28 + 5,103 + 42,07 = 179,453."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál es la forma correcta de colocar dos números decimales para sumarlos?",
+    "options": [
+      "Empezando por la izquierda",
+      "Colocando las comas en la misma columna",
+      "Alineando la última cifra",
+      "No importa la colocación"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Las cifras del mismo orden deben quedar en la misma columna."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Corrige el error: 34,28 + 17,05 = 51,78",
+    "options": ["51,23", "50,33", "52,33", "51,78"],
+    "correctIndex": 2,
+    "explanation": "✅ 34,28 + 17,05 = 51,33. El error está en la suma de las centésimas."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 732,004 + 340,6",
+    "options": ["1 072,604", "1 072,064", "1 073,004", "1 072,64"],
+    "correctIndex": 0,
+    "explanation": "✅ Se escribe 340,6 como 340,600 para alinear decimales."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Sin calcular exactamente, ¿qué resultado es razonable para 718,6 + 159,01?",
+    "options": ["877", "870", "877,61", "877,5"],
+    "correctIndex": 3,
+    "explanation": "✅ Aproximando: 719 + 159 ≈ 878, por lo que 877,5 es razonable."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 27,63 + 0,967",
+    "options": ["28,597", "28,607", "27,697", "28,6"],
+    "correctIndex": 0,
+    "explanation": "✅ Se alinean las comas: 27,63 + 0,967 = 28,597."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Qué suma es MAYOR?",
+    "options": [
+      "5,6 + 2,45",
+      "5,06 + 2,9",
+      "5,5 + 2,5",
+      "5,75 + 2,2"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 5,75 + 2,2 = 7,95 es la mayor."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Lucía medía 1,38 m y ahora mide 1,49 m. ¿Cuánto ha crecido?",
+    "options": ["0,09 m", "0,11 m", "0,12 m", "0,21 m"],
+    "correctIndex": 1,
+    "explanation": "✅ 1,49 − 1,38 = 0,11 m."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un alumno obtiene 9,697 como resultado de 7,135 + 25,62. ¿Qué ha hecho mal?",
+    "options": [
+      "Ha restado",
+      "Ha olvidado una llevada",
+      "Ha colocado mal la coma",
+      "Nada, el resultado es correcto"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ La coma está mal colocada; el resultado debe ser mayor que 30."
+  },
+  {
+    "category": "suma_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 372,47 + 3,8 + 40,05",
+    "options": ["416,32", "416,22", "415,32", "417,32"],
+    "correctIndex": 0,
+    "explanation": "✅ Sumando correctamente: 372,47 + 3,8 + 40,05 = 416,32."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 308,17 − 24,036",
+    "options": ["284,134", "284,234", "284,104", "283,134"],
+    "correctIndex": 0,
+    "explanation": "✅ Se alinean las comas: 308,170 − 24,036 = 284,134."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 718,6 − 159,01",
+    "options": ["559,59", "559,49", "558,59", "560,59"],
+    "correctIndex": 0,
+    "explanation": "✅ 718,60 − 159,01 = 559,59."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 681,12 − 85,007",
+    "options": ["596,113", "596,213", "596,103", "595,113"],
+    "correctIndex": 0,
+    "explanation": "✅ Se escriben ceros para igualar decimales antes de restar."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 27,63 − 0,967",
+    "options": ["26,663", "26,673", "26,693", "26,763"],
+    "correctIndex": 1,
+    "explanation": "✅ 27,630 − 0,967 = 26,663."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 64,903 − 35,05",
+    "options": ["29,853", "29,753", "30,853", "28,853"],
+    "correctIndex": 0,
+    "explanation": "✅ Se alinean correctamente las comas antes de restar."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "¿Cuál es la forma correcta de colocar dos decimales para restarlos?",
+    "options": [
+      "Empezando por la izquierda",
+      "Alineando la última cifra",
+      "Colocando las comas en la misma columna",
+      "No importa el orden"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Las cifras del mismo orden deben coincidir en columna."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Corrige el error: 52,36 − 48,92 = 16,56",
+    "options": ["3,44", "4,44", "13,44", "16,56"],
+    "correctIndex": 1,
+    "explanation": "✅ 52,36 − 48,92 = 3,44."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Sin calcular exactamente, ¿qué resultado es razonable para 385,61 − 48,05?",
+    "options": ["337", "347", "437", "338"],
+    "correctIndex": 1,
+    "explanation": "✅ Aproximando: 386 − 48 ≈ 338."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 4,2 − 0,1839",
+    "options": ["4,0161", "4,1161", "4,0261", "3,9161"],
+    "correctIndex": 0,
+    "explanation": "✅ 4,2000 − 0,1839 = 4,0161."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Lucía mide ahora 1,49 m y antes medía 1,38 m. ¿Cuánto ha crecido?",
+    "options": ["0,09 m", "0,10 m", "0,11 m", "0,21 m"],
+    "correctIndex": 2,
+    "explanation": "✅ 1,49 − 1,38 = 0,11 m."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Un alumno obtiene 12,6191 como resultado de 164,7 − 38,509. ¿Qué ha hecho mal?",
+    "options": [
+      "Ha sumado en lugar de restar",
+      "Ha colocado mal la coma",
+      "Ha olvidado poner ceros",
+      "Nada, es correcto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El resultado debe ser mayor que 100; la coma está mal colocada."
+  },
+  {
+    "category": "resta_decimales",
+    "nivel": "6",
+    "materia": "Matemáticas-5",
+    "unidad": "5",
+    "text": "Calcula: 41,231 − 26,5",
+    "options": ["14,731", "14,721", "15,731", "13,731"],
+    "correctIndex": 0,
+    "explanation": "✅ 41,231 − 26,500 = 14,731."
+  }
+]

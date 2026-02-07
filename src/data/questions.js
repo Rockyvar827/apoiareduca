@@ -4,7 +4,6 @@
 // - allQuestions (array)
 
 import allQuestions from './questions.json' assert { type: 'json' };
-
 export function getQuestionsFor({ nivel, materia, unidad, category, count = 12 } = {}) {
   // normalize to strings when provided
   const lvl = nivel === undefined ? undefined : String(nivel);

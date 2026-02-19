@@ -371,6 +371,18 @@ const levelsData = {
   ]
     }
        ]
+  },
+
+ 'Musica': {
+      title: 'Musica',
+      description: 'Musica para 6.º',
+      units: [
+        { id: 1 ,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'o rock', label: 'O rock', colorClass: 'bg-blue-400'  },
+  ]
+    }
+       ] 
   }
 }
 }

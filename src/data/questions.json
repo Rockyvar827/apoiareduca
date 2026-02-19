@@ -16486,7 +16486,217 @@
     ],
     "correctIndex": 3,
     "explanation": "✅ En la proporcionalidad inversa, una magnitud aumenta y la otra disminuye."
-  }
+  },
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿En qué década se popularizó el rock?",
+  "options": ["En los años 80", "En los años 50", "En los años 2000", "En los años 30"],
+  "correctIndex": 1,
+  "explanation": "🎸 El rock se hizo muy famoso en los años 50."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Qué significa la palabra ROCK en el Rock and Roll?",
+  "options": ["Bailar rápido", "Moverse de lado a lado", "Moverse hacia delante y hacia atrás", "Cantar muy alto"],
+  "correctIndex": 2,
+  "explanation": "👉 Rock se refiere a moverse hacia delante y hacia atrás."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Qué significa ROLL en Rock and Roll?",
+  "options": ["Saltar", "Girar la cabeza", "Balancearse verticalmente", "Aplaudir"],
+  "correctIndex": 2,
+  "explanation": "🔄 Roll significa balancearse hacia arriba y abajo."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Cuál fue considerada la primera canción de rock de la historia?",
+  "options": ["Johnny B. Goode", "Rocket 88", "Jailhouse Rock", "Return to Sender"],
+  "correctIndex": 1,
+  "explanation": "🚀 Rocket 88 de Jackie Brenston fue la primera canción de rock."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿De qué país nació el rock?",
+  "options": ["España", "Reino Unido", "Estados Unidos", "Francia"],
+  "correctIndex": 2,
+  "explanation": "🇺🇸 El rock nació en Estados Unidos."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Qué estilo musical NO influyó en el origen del rock?",
+  "options": ["Blues", "Jazz", "Country", "Ópera"],
+  "correctIndex": 3,
+  "explanation": "🎭 La ópera no forma parte del origen del rock."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Cuál de estos estilos sí influyó en el rock?",
+  "options": ["Boogie Woogie", "Reggaeton", "Trap", "Flamenco"],
+  "correctIndex": 0,
+  "explanation": "🎹 El Boogie Woogie ayudó a crear el rock."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Qué nació primero?",
+  "options": ["El rock", "El rock and roll", "El pop", "El rap"],
+  "correctIndex": 1,
+  "explanation": "⏱️ Primero nació el rock and roll."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Cómo era el ritmo del Rock and Roll?",
+  "options": ["Lento", "Muy bailable", "Muy triste", "Silencioso"],
+  "correctIndex": 1,
+  "explanation": "💃 El Rock and Roll tenía un ritmo muy bailable."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿De qué hablaban muchas canciones de Rock and Roll?",
+  "options": ["Matemáticas", "Deportes", "Amor y diversión", "Historia"],
+  "correctIndex": 2,
+  "explanation": "❤️ Muchas canciones hablaban de amor y diversión."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Cómo se llama a los músicos de Rock and Roll?",
+  "options": ["Rockeros", "Raperos", "Rocanroleros", "Cantautores"],
+  "correctIndex": 2,
+  "explanation": "🎤 Se llaman rocanroleros."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿El rock nació del rock and roll?",
+  "options": ["Sí", "No", "Solo en Europa", "Solo en España"],
+  "correctIndex": 0,
+  "explanation": "🎸 El rock nació a partir del rock and roll."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "Comparado con el rock and roll, el rock es…",
+  "options": ["Más bailable", "Menos bailable", "Igual de bailable", "No tiene ritmo"],
+  "correctIndex": 1,
+  "explanation": "🎵 El rock es menos bailable."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "Las letras del rock tienen temática…",
+  "options": ["Solo amor", "Solo baile", "Más amplia", "Solo triste"],
+  "correctIndex": 2,
+  "explanation": "🧠 El rock habla de muchos temas distintos."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Quién es llamado el Rey del Rock and Roll?",
+  "options": ["Chuck Berry", "Elvis Presley", "Michael Jackson", "Freddie Mercury"],
+  "correctIndex": 1,
+  "explanation": "👑 Elvis Presley es el Rey del Rock and Roll."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Qué hacía Elvis además de cantar?",
+  "options": ["Pintar cuadros", "Ser actor", "Ser futbolista", "Ser científico"],
+  "correctIndex": 1,
+  "explanation": "🎬 Elvis actuó en películas de Hollywood."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Cómo era la voz de Elvis?",
+  "options": ["Aguda", "Muy baja", "Profunda", "Robótica"],
+  "correctIndex": 2,
+  "explanation": "🎤 Tenía una voz profunda."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Qué famoso guitarrista influyó mucho en el rock?",
+  "options": ["Chuck Berry", "Mozart", "Beethoven", "Shakira"],
+  "correctIndex": 0,
+  "explanation": "🎸 Chuck Berry fue muy influyente."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Qué instrumento tocaba Chuck Berry?",
+  "options": ["Batería", "Piano", "Guitarra", "Violín"],
+  "correctIndex": 2,
+  "explanation": "🎸 Era guitarrista."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Qué revista lo nombró uno de los mejores guitarristas?",
+  "options": ["National Geographic", "Rolling Stone", "Time", "Forbes"],
+  "correctIndex": 1,
+  "explanation": "📰 Rolling Stone lo nombró sexto mejor guitarrista."
+},
+{
+  "category": "o rock",
+  "nivel": "6",
+  "materia": "Musica",
+  "unidad": "1",
+  "text": "¿Cuál es la canción más famosa de Chuck Berry?",
+  "options": ["Rocket 88", "Johnny B. Goode", "Thriller", "Yesterday"],
+  "correctIndex": 1,
+  "explanation": "🎸 Johnny B. Goode es su canción más famosa."
+}
 ]
 
 

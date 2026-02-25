@@ -17167,6 +17167,396 @@
   "options": ["Herdeiros da Crus", "Queen", "KISS", "AC/DC"],
   "correctIndex": 0,
   "explanation": "🎸 Herdeiros da Crus."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que é a saúde?",
+  "options": [
+    "Non ter ningunha enfermidade",
+    "Ter só boa forma física",
+    "Ter benestar físico, mental e social",
+    "Ir ao médico unha vez ao ano"
+  ],
+  "correctIndex": 2,
+  "explanation": "A saúde é o benestar físico, mental e social."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Cal destas é unha enfermidade infecciosa causada por virus?",
+  "options": [
+    "Gripe",
+    "Alzheimer",
+    "Osteoporose",
+    "Diabetes"
+  ],
+  "correctIndex": 0,
+  "explanation": "A gripe é unha enfermidade infecciosa causada por un virus."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que medicamento combate as enfermidades causadas por bacterias?",
+  "options": [
+    "Vitaminas",
+    "Antibióticos",
+    "Analgésicos",
+    "Vacinas"
+  ],
+  "correctIndex": 1,
+  "explanation": "Os antibióticos combaten enfermidades bacterianas."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Cal destas NON é unha enfermidade non infecciosa?",
+  "options": [
+    "Cancro",
+    "Xarampón",
+    "Alzheimer",
+    "Anemia"
+  ],
+  "correctIndex": 1,
+  "explanation": "O xarampón é unha enfermidade infecciosa vírica."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Como se poden transmitir as enfermidades infecciosas?",
+  "options": [
+    "Por contacto cun enfermo",
+    "Por beber auga contaminada",
+    "Por picada dun insecto",
+    "Todas as anteriores son correctas"
+  ],
+  "correctIndex": 3,
+  "explanation": "Poden transmitirse por contacto, alimentos ou insectos."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Para que serven as vacinas?",
+  "options": [
+    "Para curar todas as enfermidades",
+    "Para evitar enfermidades infecciosas graves",
+    "Para substituír os antibióticos",
+    "Para aumentar a forza muscular"
+  ],
+  "correctIndex": 1,
+  "explanation": "As vacinas prevén enfermidades infecciosas graves."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que pode provocar o uso abusivo do móbil?",
+  "options": [
+    "Mellor visión",
+    "Máis enerxía",
+    "Problemas psicolóxicos como ansiedade",
+    "Maior concentración sempre"
+  ],
+  "correctIndex": 2,
+  "explanation": "O abuso das pantallas pode provocar ansiedade e depresión."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que característica debe ter unha dieta equilibrada?",
+  "options": [
+    "Ter só alimentos doces",
+    "Aportar a cantidade adecuada de cada nutriente",
+    "Eliminar as graxas totalmente",
+    "Ser igual para todas as persoas"
+  ],
+  "correctIndex": 1,
+  "explanation": "Debe achegar a cantidade adecuada de cada nutriente."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que nutriente nos proporciona máis enerxía?",
+  "options": [
+    "Proteínas",
+    "Vitaminas",
+    "Graxas",
+    "Sales minerais"
+  ],
+  "correctIndex": 2,
+  "explanation": "As graxas proporcionan moita enerxía."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Para que serven principalmente as proteínas?",
+  "options": [
+    "Para dar cor á pel",
+    "Para producir adicción",
+    "Para dar sabor aos alimentos",
+    "Para medrar e reparar o corpo"
+  ],
+  "correctIndex": 3,
+  "explanation": "As proteínas axudan a medrar e reparar tecidos."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que debemos facer para evitar a obesidade infantil?",
+  "options": [
+    "Comer só doces",
+    "Non facer exercicio",
+    "Levar unha dieta equilibrada e facer deporte",
+    "Durmir menos horas"
+  ],
+  "correctIndex": 2,
+  "explanation": "A dieta equilibrada e o exercicio prevén a obesidade."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que substancia do tabaco produce adicción?",
+  "options": [
+    "Alcatrán",
+    "Nicotina",
+    "Calcio",
+    "Proteína"
+  ],
+  "correctIndex": 1,
+  "explanation": "A nicotina é a responsable da adicción."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que debemos facer ante unha hemorraxia nasal?",
+  "options": [
+    "Botar a cabeza cara atrás",
+    "Tombarse boca abaixo",
+    "Premer o orificio nasal durante varios minutos",
+    "Beber moita auga"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hai que premer o nariz sen botar a cabeza cara atrás."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que debemos facer ante un atragoamento?",
+  "options": [
+    "Esperar sen facer nada",
+    "Realizar a manobra de Heimlich",
+    "Dar auga inmediatamente",
+    "Tombar á persoa e marchar"
+  ],
+  "correctIndex": 1,
+  "explanation": "A manobra de Heimlich axuda a expulsar o obxecto."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que pode provocar o consumo excesivo de alcohol?",
+  "options": [
+    "Mellorar a memoria",
+    "Enfermidades do fígado e problemas psicolóxicos",
+    "Facer máis forte o corazón",
+    "Curar infeccións"
+  ],
+  "correctIndex": 1,
+  "explanation": "O alcohol pode causar danos no fígado e problemas mentais."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que son as substancias tóxicas ambientais?",
+  "options": [
+    "Vitaminas naturais",
+    "Alimentos saudables",
+    "Produtos que contaminan e danan a saúde",
+    "Medicamentos recetados"
+  ],
+  "correctIndex": 2,
+  "explanation": "Son produtos químicos que contaminan e prexudican a saúde."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que debemos facer ante unha queimadura leve?",
+  "options": [
+    "Lavar con auga fría e cubrir con gasa estéril",
+    "Aplicar alcohol directamente",
+    "Romper as bochas",
+    "Poñer xeo directamente sobre a pel"
+  ],
+  "correctIndex": 0,
+  "explanation": "As queimaduras leves lávanse con auga fría e cúbrense con gasa."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que NON se debe usar nunha ferida?",
+  "options": [
+    "Desinfectante",
+    "Gasa limpa",
+    "Auga e xabón",
+    "Alcohol"
+  ],
+  "correctIndex": 3,
+  "explanation": "O alcohol é irritante e non se debe usar na ferida."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Cal destes é un accidente doméstico frecuente?",
+  "options": [
+    "Caídas",
+    "Exames sorpresa",
+    "Viaxes escolares",
+    "Partidos de fútbol profesional"
+  ],
+  "correctIndex": 0,
+  "explanation": "As caídas son accidentes frecuentes no fogar."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que provoca unha intoxicación alimentaria?",
+  "options": [
+    "Comer alimentos contaminados",
+    "Beber moita auga",
+    "Facer exercicio",
+    "Durmir pouco"
+  ],
+  "correctIndex": 0,
+  "explanation": "Prodúcese por consumir alimentos contaminados."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que indica a pirámide alimentaria?",
+  "options": [
+    "Que debemos comer só doces",
+    "Como organizar o consumo de alimentos",
+    "Que todos os alimentos son iguais",
+    "Que non debemos comer vexetais"
+  ],
+  "correctIndex": 1,
+  "explanation": "A pirámide guía a frecuencia de consumo dos alimentos."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Onde abundan as vitaminas e sales minerais?",
+  "options": [
+    "En refrescos",
+    "En doces industriais",
+    "En froitas e verduras",
+    "En comida rápida"
+  ],
+  "correctIndex": 2,
+  "explanation": "As froitas e verduras son ricas en vitaminas e minerais."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que debemos facer se unha persoa se desmaia e respira?",
+  "options": [
+    "Deixala sentada",
+    "Dar comida inmediatamente",
+    "Levantarlle as pernas",
+    "Sacudila con forza"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hai que colocala boca arriba e levantarlle as pernas."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Cal destas é unha enfermidade dexenerativa?",
+  "options": [
+    "Gripe",
+    "Alzheimer",
+    "Varicela",
+    "Rubeola"
+  ],
+  "correctIndex": 1,
+  "explanation": "O Alzheimer é unha enfermidade dexenerativa."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que pode causar o fume do tabaco nos fumadores pasivos?",
+  "options": [
+    "Ningún efecto",
+    "Só fame",
+    "Problemas de saúde graves",
+    "Máis enerxía"
+  ],
+  "correctIndex": 2,
+  "explanation": "O fume prexudica tamén ás persoas que non fuman."
+},
+{
+  "category": "a saude",
+  "nivel": "6",
+  "materia": "ccnn",
+  "unidad": "4",
+  "text": "Que pode provocar tomar o sol sen protección?",
+  "options": [
+    "Só moreno perfecto",
+    "Cancro de pel",
+    "Mellor visión",
+    "Máis vitaminas sempre"
+  ],
+  "correctIndex": 1,
+  "explanation": "A exposición excesiva pode causar cancro de pel."
 }
 ]
 

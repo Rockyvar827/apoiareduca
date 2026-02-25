@@ -133,8 +133,9 @@ const levelsData = {
       description: 'Temas avanzados de naturaleza para 6.º',
       units: [
         { id: 1, label: 'Unidad 1', colorClass: 'bg-green-500' },
-        { id: 2, label: 'Unidad 2', colorClass: 'bg-teal-400' },
-        { id: 3, label: 'Unidad 3', colorClass: 'bg-teal-600' }
+        { id: 2, label: 'A nutrición', colorClass: 'bg-teal-400' },
+        { id: 3, label: 'O Reproduccion', colorClass: 'bg-blue-600' },
+        { id: 4, label: 'A Saude', colorClass: 'bg-red-800' }
       ]
     },
     CCSS: {
@@ -147,7 +148,7 @@ const levelsData = {
       ]
     },
     'Lengua Castellana': {
-      title: 'Lengua Castellana-Unidad 1',
+      title: 'Lengua Castellana-UD-1',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 1,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -162,7 +163,7 @@ const levelsData = {
   ]
   },
   'LC2': {
-      title: 'Lengua Castellana-Unidad 2',
+      title: 'Lengua Castellana-UD-2',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -173,7 +174,7 @@ const levelsData = {
       ]
   },
   'LC3': {
-      title: 'Lengua Castellana-Unidad 3',
+      title: 'Lengua Castellana-UD-3',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -184,7 +185,7 @@ const levelsData = {
       ]
   },
   'LC5': {
-      title: 'Lengua Castellana-Unidad 5',
+      title: 'Lengua Castellana-UD-5',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -198,7 +199,7 @@ const levelsData = {
       ]
   },
   'LC6': {
-      title: 'Lengua Castellana-Unidad 6',
+      title: 'Lengua Castellana-UD-6',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -210,7 +211,7 @@ const levelsData = {
       ]
   },
   'Lingua Galega': {
-      title: 'Lingua Galega-Unidad 1',
+      title: 'Lingua Galega-UD-1',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 1 ,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -224,7 +225,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-2': {
-      title: 'Lingua Galega-Unidad 2',
+      title: 'Lingua Galega-UD-2',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -235,7 +236,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-3': {
-      title: 'Lingua Galega-Unidad 3',
+      title: 'Lingua Galega-UD-3',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -248,7 +249,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-5': {
-      title: 'Lingua Galega-Unidad 5',
+      title: 'Lingua Galega-UD-5',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -262,7 +263,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-6': {
-      title: 'Lingua Galega-Unidad 6',
+      title: 'Lingua Galega-UD-6',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -275,7 +276,7 @@ const levelsData = {
       ]
   },
   'Matemáticas': {
-      title: 'Matemáticas',
+      title: 'Matemáticas-UD-1',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 1 ,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -291,7 +292,7 @@ const levelsData = {
       ]
   },
   'Matemáticas-2': {
-      title: 'Matemáticas',
+      title: 'Matemáticas-UD-2',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -304,7 +305,7 @@ const levelsData = {
       ]
   },
   'Matemáticas-3': {
-      title: 'Matemáticas',
+      title: 'Matemáticas-UD-3',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -320,7 +321,7 @@ const levelsData = {
       ]
   },
   'Matemáticas-4': {
-      title: 'Matemáticas',
+      title: 'Matemáticas-UD-4',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 4 ,  label: 'Unidad 4', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -340,7 +341,7 @@ const levelsData = {
       ]
   },
   'Matemáticas-5': {
-      title: 'Matemáticas',
+      title: 'Matemáticas-UD-5',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -357,7 +358,7 @@ const levelsData = {
   ]
   },
   'Matemáticas-6': {
-      title: 'Matemáticas',
+      title: 'Matemáticas-UD-6',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -377,7 +378,7 @@ const levelsData = {
       title: 'Musica',
       description: 'Musica para 6.º',
       units: [
-        { id: 1 ,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        { id: 1 ,  label: 'O Rock', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
         categories: [
           { id: 'o rock', label: 'O rock', colorClass: 'bg-blue-400'  },
   ]

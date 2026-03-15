@@ -1,0 +1,337 @@
+[
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué tienen en común los adverbios, las preposiciones y las conjunciones?",
+    "options": [
+      "Todas expresan sentimientos",
+      "Todas son palabras invariables: no cambian de forma",
+      "Todas modifican al sustantivo",
+      "Todas van siempre al final de la oración"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Adverbios, preposiciones y conjunciones son palabras invariables: no tienen género, ni número, ni se conjugan. ¡Siempre tienen la misma forma!"
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué puede complementar un adverbio?",
+    "options": [
+      "Solo a los sustantivos",
+      "Solo a los pronombres",
+      "A un verbo, a un adjetivo o a otro adverbio",
+      "Solo al sujeto de la oración"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El adverbio es muy versátil: puede modificar a un verbo (me levantaré temprano), a un adjetivo (muy sosa) o a otro adverbio (bastante cerca)."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'La sopa estaba muy sosa', ¿a qué palabra modifica el adverbio 'muy'?",
+    "options": [
+      "Al verbo 'estaba'",
+      "Al sustantivo 'sopa'",
+      "Al adjetivo 'sosa'",
+      "A toda la oración"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Muy' intensifica el adjetivo 'sosa'. Es un adverbio de cantidad que modifica a un adjetivo."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cómo se forman los adverbios DERIVADOS?",
+    "options": [
+      "Uniendo dos sustantivos",
+      "Añadiendo el sufijo -mente a un adjetivo (en forma femenina o indistinta)",
+      "Poniendo el artículo 'el' delante del adjetivo",
+      "Usando varias palabras juntas como frase hecha"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los adverbios derivados se forman con adjetivo + sufijo -mente: rápida → rápidamente, triste → tristemente, lógico → lógicamente."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué es una locución adverbial?",
+    "options": [
+      "Un adverbio formado con el sufijo -mente",
+      "Un adverbio de una sola sílaba",
+      "Un grupo de varias palabras que equivale a un solo adverbio",
+      "Un adverbio que modifica a un sustantivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Las locuciones adverbiales son grupos de palabras (frases hechas) que funcionan como un adverbio. Ej: 'en un abrir y cerrar de ojos' = rápidamente."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿A qué clase de adverbio pertenece 'aquí, allí, arriba, debajo, cerca, lejos'?",
+    "options": ["Adverbios de tiempo", "Adverbios de modo", "Adverbios de cantidad", "Adverbios de lugar"],
+    "correctIndex": 3,
+    "explanation": "✅ Todos esos adverbios responden a la pregunta '¿dónde?'. Son adverbios de lugar."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuál de estos grupos contiene solo adverbios de TIEMPO?",
+    "options": [
+      "bien, mal, despacio, deprisa",
+      "poco, mucho, bastante, demasiado",
+      "ayer, hoy, mañana, siempre, nunca, ya",
+      "quizá, acaso, posiblemente, tal vez"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Ayer, hoy, mañana, siempre, nunca, ya' responden a '¿cuándo?'. Son adverbios de tiempo."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿A qué clase pertenece el adverbio 'tranquilamente' en 'Prefiero pensar las cosas tranquilamente'?",
+    "options": ["De tiempo", "De cantidad", "De modo", "De lugar"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Tranquilamente' indica cómo se hace la acción de pensar. Es un adverbio de modo, formado con adjetivo + -mente."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuál de estas palabras es un adverbio de DUDA?",
+    "options": ["jamás", "efectivamente", "acaso", "tampoco"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Acaso' expresa incertidumbre. Es un adverbio de duda, junto a 'quizá, quizás, posiblemente, seguramente, tal vez'."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuál de estos es un adverbio de NEGACIÓN?",
+    "options": ["sí", "también", "cierto", "tampoco"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Tampoco' niega algo que ya fue negado antes. Es un adverbio de negación, junto a 'no, nunca, jamás'."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuál de estas locuciones adverbiales equivale a 'rápidamente'?",
+    "options": [
+      "a sabiendas",
+      "de vez en cuando",
+      "en un abrir y cerrar de ojos",
+      "desde luego"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'En un abrir y cerrar de ojos' es una locución adverbial de modo que significa 'muy rápidamente'."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Este balón ha pasado bastante cerca', ¿a qué modifica el adverbio 'bastante'?",
+    "options": [
+      "Al verbo 'ha pasado'",
+      "Al sustantivo 'balón'",
+      "A otro adverbio: 'cerca'",
+      "Al artículo 'este'"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Bastante' intensifica a otro adverbio: 'cerca'. Un adverbio puede modificar a otro adverbio."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Ellos comen demasiados pasteles', ¿qué función tiene 'demasiados'?",
+    "options": [
+      "Adverbio de cantidad que modifica al verbo",
+      "Adjetivo indefinido que acompaña al nombre 'pasteles'",
+      "Pronombre indefinido",
+      "Conjunción"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'Demasiados' acompaña y concuerda con 'pasteles' (masculino plural). Es un adjetivo indefinido, ¡no un adverbio!"
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Torcuato lee mucho todos los días', ¿qué función tiene 'mucho'?",
+    "options": [
+      "Adjetivo que acompaña a 'Torcuato'",
+      "Pronombre indefinido",
+      "Adverbio de cantidad que modifica al verbo 'lee'",
+      "Determinante"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Mucho' va solo, modifica al verbo 'leer' indicando la cantidad de lectura. Es un adverbio de cantidad."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué son las preposiciones?",
+    "options": [
+      "Palabras que expresan emociones",
+      "Palabras invariables que relacionan otras palabras dentro de la oración",
+      "Palabras que modifican al adjetivo",
+      "Palabras que indican tiempo o lugar"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Las preposiciones son palabras invariables que sirven de enlace entre otras palabras. Nunca aparecen solas: 'fácil de hacer', 'té con azúcar'."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuál de estas opciones contiene SOLO preposiciones?",
+    "options": [
+      "a, ante, bajo, con, contra, de, desde",
+      "a, ante, pero, con, aunque, de",
+      "con, sin, sí, no, sobre, bien",
+      "de, desde, nunca, hacia, siempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Las preposiciones son: a, ante, bajo, con, contra, de, desde, durante, en, entre, hacia, hasta, mediante, para, por, según, sin, sobre, tras."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Entre tú y yo conseguiremos que entre en razones', ¿cuántas preposiciones hay?",
+    "options": ["Tres", "Una", "Dos", "Ninguna"],
+    "correctIndex": 2,
+    "explanation": "✅ Hay dos preposiciones: 'entre' (ENTRE tú y yo) y 'en' (que entre EN razones). El segundo 'entre' es un verbo (entrar), ¡no confundas!"
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué son las conjunciones?",
+    "options": [
+      "Palabras que modifican al verbo",
+      "Palabras que expresan sorpresa",
+      "Palabras invariables que unen palabras u oraciones actuando como nexo",
+      "Palabras que indican cantidad"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Las conjunciones son palabras invariables que actúan de nexo o enlace entre palabras u oraciones. Ej: Juan Y Pilar; saldremos AUNQUE llueva."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué tipo de conjunción es 'y' en 'Susana y Hugo están en Santander'?",
+    "options": ["Adversativa", "Disyuntiva", "Causal", "Copulativa"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Y' une dos elementos en una enumeración sin oponerlos ni plantear opciones. Es una conjunción copulativa."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "'¿Te lo envuelvo o te lo llevas?' ¿Qué tipo de conjunción es 'o'?",
+    "options": ["Copulativa", "Adversativa", "Disyuntiva", "Causal"],
+    "correctIndex": 2,
+    "explanation": "✅ 'O' plantea dos opciones entre las que hay que elegir. Es una conjunción disyuntiva."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'No es mi tía, sino mi hermana', ¿qué tipo de conjunción es 'sino'?",
+    "options": ["Copulativa", "Causal", "Adversativa", "Condicional"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Sino' opone o corrige la primera parte de la oración con la segunda. Es una conjunción adversativa."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'No fue a jugar porque estaba con fiebre', ¿qué tipo de conjunción es 'porque'?",
+    "options": ["Condicional", "Causal", "Final", "Copulativa"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Porque' indica la causa de no poder jugar: la fiebre. Es una conjunción causal."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué tipo de conjunción es 'si' en 'Te entendería mejor si lograras calmarte'?",
+    "options": ["Causal", "Final", "Copulativa", "Condicional"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Si' introduce una condición: para que te entienda, PRIMERO debes calmarte. Es una conjunción condicional."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Le canté la verdad para que no desconfiara de mí', ¿qué tipo de conjunción es 'para que'?",
+    "options": ["Causal", "Adversativa", "Final", "Distributiva"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Para que' expresa la finalidad o el objetivo de la acción. Es una conjunción final."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué son las interjecciones?",
+    "options": [
+      "Palabras que unen oraciones",
+      "Palabras que modifican al adjetivo",
+      "Exclamaciones independientes que expresan por sí solas un estado de ánimo",
+      "Adverbios especiales que indican duda"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Las interjecciones (¡ay!, ¡uf!, ¡vaya!) son exclamaciones que expresan un estado de ánimo por sí solas y son independientes del resto de la oración."
+  },
+  {
+    "category": "palabras_invariables",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En el texto de las interjecciones, ¡Jo!, ¡madre mía!, ¡toma!, ¡hala!, ¡eh! son ejemplos de...",
+    "options": [
+      "Conjunciones adversativas",
+      "Adverbios de duda",
+      "Preposiciones especiales",
+      "Interjecciones que expresan estados de ánimo"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ ¡Jo!, ¡madre mía!, ¡toma!, ¡hala! y ¡eh! son interjecciones: exclamaciones que expresan sorpresa, queja, llamada... cada una un estado de ánimo diferente."
+  }
+]

@@ -31,8 +31,11 @@
           >
             <!-- Caso con categorías: misma unidad, varias categorías -->
             <template v-if="u.categories && u.categories.length">
-              <!-- Título de la unidad -->
+              <!-- Título de la unidad
               <div class="text-sm font-medium">
+                {{ u.label }}
+              </div> -->
+              <div class="text-sm font-bold text-center tracking-wide uppercase">
                 {{ u.label }}
               </div>
               <NewTabLink
@@ -144,11 +147,12 @@ const levelsData = {
       units: [
         { id: 1, label: 'Unidad 1', colorClass: 'bg-red-500' },
         { id: 2, label: 'Unidad 2', colorClass: 'bg-blue-500' },
-        { id: 3, label: 'Unidad 3', colorClass: 'bg-yellow-400 text-gray-900' }
+        { id: 3, label: 'Unidad 3', colorClass: 'bg-yellow-400 text-gray-900' },
+        { id: 4, label: 'Unidad 4', colorClass: 'bg-green-400' }
       ]
     },
     'Lengua Castellana': {
-      title: 'Lengua Castellana-UD-1',
+      title: 'Lengua Castellana',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 1,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -163,7 +167,7 @@ const levelsData = {
   ]
   },
   'LC2': {
-      title: 'Lengua Castellana-UD-2',
+      title: 'Lengua Castellana',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -174,7 +178,7 @@ const levelsData = {
       ]
   },
   'LC3': {
-      title: 'Lengua Castellana-UD-3',
+      title: 'Lengua Castellana',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -185,7 +189,7 @@ const levelsData = {
       ]
   },
   'LC5': {
-      title: 'Lengua Castellana-UD-5',
+      title: 'Lengua Castellana',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -199,7 +203,7 @@ const levelsData = {
       ]
   },
   'LC6': {
-      title: 'Lengua Castellana-UD-6',
+      title: 'Lengua Castellana',
       description: 'Gramática y vocabulario en español para 6.º',
       units: [
         { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -210,8 +214,34 @@ const levelsData = {
     }
       ]
   },
+  'LC7': {
+      title: 'Lengua Castellana',
+      description: 'Gramática y vocabulario en español para 6.º',
+      units: [
+        { id: 7 ,  label: 'Unidad 7', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'comaypunto', label: 'COMA Y PUNTO', colorClass: 'bg-blue-300'  },
+          { id: 'verbos', label: 'VERBOS', colorClass: 'bg-green-500'  },
+          { id: 'extranjerismos', label: 'EXTRANJERISMOS', colorClass: 'bg-purple-400'  }
+        ]
+    }
+      ]
+  },
+  'LC8': {
+      title: 'Lengua Castellana',
+      description: 'Gramática y vocabulario en español para 6.º',
+      units: [
+        { id: 8 ,  label: 'Unidad 8', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'adverbios', label: 'ADVERBIOS', colorClass: 'bg-blue-300'  },
+          { id: 'preposiciones', label: 'PREPOSICIONES', colorClass: 'bg-green-500'  },
+          { id: 'palabras_invariables', label: 'PALABRAS INVARIABLES', colorClass: 'bg-purple-400'  }
+        ]
+    }
+      ]
+  },
   'Lingua Galega': {
-      title: 'Lingua Galega-UD-1',
+      title: 'Lingua Galega',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 1 ,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -225,7 +255,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-2': {
-      title: 'Lingua Galega-UD-2',
+      title: 'Lingua Galega',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -236,7 +266,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-3': {
-      title: 'Lingua Galega-UD-3',
+      title: 'Lingua Galega',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -249,7 +279,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-5': {
-      title: 'Lingua Galega-UD-5',
+      title: 'Lingua Galega',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -263,7 +293,7 @@ const levelsData = {
       ]
   },
   'Lingua-Galega-6': {
-      title: 'Lingua Galega-UD-6',
+      title: 'Lingua Galega',
       description: 'Gramática y vocabulario en gallego para 6.º',
       units: [
         { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -273,10 +303,10 @@ const levelsData = {
           { id: 'preposición e conxuncions', label: 'PREPOSICIÓNS E CONXUNCIÓNS', colorClass: 'bg-orange-400'}
         ]
     }
-      ]
+      ]  
   },
   'Matemáticas': {
-      title: 'Matemáticas-UD-1',
+      title: 'Matemáticas',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 1 ,  label: 'Unidad 1', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -292,7 +322,7 @@ const levelsData = {
       ]
   },
   'Matemáticas-2': {
-      title: 'Matemáticas-UD-2',
+      title: 'Matemáticas',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 2 ,  label: 'Unidad 2', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -305,7 +335,7 @@ const levelsData = {
       ]
   },
   'Matemáticas-3': {
-      title: 'Matemáticas-UD-3',
+      title: 'Matemáticas',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 3 ,  label: 'Unidad 3', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -321,7 +351,7 @@ const levelsData = {
       ]
   },
   'Matemáticas-4': {
-      title: 'Matemáticas-UD-4',
+      title: 'Matemáticas',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 4 ,  label: 'Unidad 4', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -341,7 +371,7 @@ const levelsData = {
       ]
   },
   'Matemáticas-5': {
-      title: 'Matemáticas-UD-5',
+      title: 'Matemáticas',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 5 ,  label: 'Unidad 5', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
@@ -358,7 +388,7 @@ const levelsData = {
   ]
   },
   'Matemáticas-6': {
-      title: 'Matemáticas-UD-6',
+      title: 'Matemáticas',
       description: 'Matemáticas para 6.º',
       units: [
         { id: 6 ,  label: 'Unidad 6', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',

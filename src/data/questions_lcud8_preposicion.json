@@ -1,0 +1,287 @@
+[
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En la oración 'Ahora haremos los deberes', el adverbio 'ahora' modifica a...",
+    "options": ["al sustantivo 'deberes'", "al verbo 'haremos'", "a un adjetivo", "a otro adverbio"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Ahora' es un adverbio de tiempo que modifica al verbo 'haremos', indicando cuándo se realizará la acción."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Deja el equipaje arriba', ¿de qué clase es el adverbio 'arriba'?",
+    "options": ["De tiempo", "De modo", "De lugar", "De cantidad"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Arriba' indica dónde se debe dejar el equipaje. Es un adverbio de lugar."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿De qué clase es el adverbio 'quizá' en 'Quizá lleguemos a un acuerdo'?",
+    "options": ["De afirmación", "De negación", "De tiempo", "De duda"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Quizá' expresa incertidumbre sobre si algo ocurrirá. Es un adverbio de duda."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En la oración 'Sabes que te quiero mucho', la palabra 'mucho' es...",
+    "options": [
+      "Un adjetivo indefinido que acompaña a un nombre",
+      "Un pronombre indefinido que sustituye a personas",
+      "Un adverbio de cantidad que modifica al verbo 'quiero'",
+      "Un determinante"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Mucho' modifica al verbo 'quiero' indicando intensidad. Al no acompañar a ningún nombre, es un adverbio de cantidad."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'En este centro he hecho muchos amigos', ¿qué función tiene 'muchos'?",
+    "options": [
+      "Adverbio de cantidad",
+      "Adjetivo indefinido que acompaña al nombre 'amigos'",
+      "Pronombre indefinido",
+      "Determinante artículo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'Muchos' acompaña y concuerda con 'amigos' (masculino plural). Es un adjetivo indefinido, ¡no un adverbio!"
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Prefiero tener pocos, pero buenos', ¿qué función tiene 'pocos'?",
+    "options": [
+      "Adverbio de cantidad",
+      "Adjetivo calificativo",
+      "Pronombre indefinido (va solo, sin acompañar a ningún nombre)",
+      "Determinante posesivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Pocos' va solo, sin ningún nombre al lado, y hace de complemento directo. Es un pronombre indefinido."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "'El motor se calienta bastante.' ¿Qué función tiene 'bastante' aquí?",
+    "options": ["Adjetivo que acompaña a 'motor'", "Pronombre que sustituye a algo", "Adverbio de cantidad que modifica al verbo", "Conjunción"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Bastante' modifica al verbo 'calentar' indicando la intensidad del calentamiento. Es un adverbio de cantidad."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuál de estos es un adverbio de DUDA?",
+    "options": ["siempre", "posiblemente", "cerca", "nunca"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Posiblemente' expresa que algo puede ocurrir o no. Es un adverbio de duda, junto a otros como 'quizá', 'tal vez', 'acaso', 'seguramente'."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Desgraciadamente, cada vez reímos menos', ¿de qué clase es 'desgraciadamente'?",
+    "options": ["De lugar", "De tiempo", "De modo", "De cantidad"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Desgraciadamente' indica de qué manera ocurre lo que se expresa. Es un adverbio de modo. Los adverbios en -mente suelen ser de modo."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuál de estos grupos contiene SOLO adverbios de tiempo?",
+    "options": [
+      "siempre, hoy, ahora, jamás",
+      "aquí, allí, cerca, arriba",
+      "mucho, poco, bastante, demasiado",
+      "quizá, acaso, posiblemente, tal vez"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 'Siempre', 'hoy', 'ahora' y 'jamás' indican cuándo ocurre algo. Son todos adverbios de tiempo."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué truco te ayuda a saber si 'mucho/muchos' es adverbio o adjetivo?",
+    "options": [
+      "Si está al principio de la oración, es adverbio",
+      "Si acompaña a un nombre y concuerda con él, es adjetivo; si modifica al verbo solo, es adverbio",
+      "Si termina en -os es siempre adverbio",
+      "Los adverbios siempre van después del verbo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ La clave: si 'mucho' acompaña a un nombre (muchos amigos, muchas personas), es adjetivo. Si modifica al verbo directamente (te quiero mucho), es adverbio."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Había tanta gente que apenas se veía el escenario', ¿qué función tiene 'tanta'?",
+    "options": [
+      "Adverbio de cantidad",
+      "Adjetivo indefinido que acompaña al nombre 'gente'",
+      "Pronombre indefinido",
+      "Adverbio de modo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'Tanta' acompaña y concuerda con el nombre 'gente' (femenino singular). Es un adjetivo indefinido."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué es una preposición?",
+    "options": [
+      "Una palabra que expresa acción",
+      "Una palabra invariable que relaciona palabras dentro de una oración",
+      "Una palabra que modifica al verbo",
+      "Una palabra que nombra sentimientos"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Las preposiciones son palabras invariables que sirven para relacionar o unir palabras dentro de la oración: a, ante, bajo, con, contra, de, desde, durante, en, entre, hacia, hasta, para, por, según, sin, sobre, tras..."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuántas preposiciones hay en 'Contribuyó a la modernización de la ciudad'?",
+    "options": ["Una: 'a'", "Dos: 'a' y 'de'", "Tres: 'a', 'de' y 'la'", "Ninguna"],
+    "correctIndex": 1,
+    "explanation": "✅ Hay dos preposiciones: 'a' (contribuyó A la modernización) y 'de' (modernización DE la ciudad). El artículo 'la' no es preposición."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En 'Compareció ante el juez sin nervios', ¿cuáles son las preposiciones?",
+    "options": ["'ante' y 'sin'", "'el' y 'sin'", "solo 'ante'", "'ante', 'el' y 'sin'"],
+    "correctIndex": 0,
+    "explanation": "✅ Las preposiciones son 'ante' (compareció ANTE el juez) y 'sin' (SIN nervios). El artículo 'el' no es preposición."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuál de estas palabras NO es una preposición?",
+    "options": ["sobre", "hacia", "pero", "contra"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Pero' no es una preposición, es una conjunción adversativa. Las preposiciones son: a, ante, bajo, con, contra, de, en, entre, hacia, hasta, para, por, según, sin, sobre, tras..."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué es una conjunción?",
+    "options": [
+      "Una palabra que expresa sorpresa o emoción",
+      "Una palabra que modifica al adjetivo",
+      "Una palabra invariable que une palabras u oraciones",
+      "Una palabra que indica lugar"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Las conjunciones son palabras invariables que unen palabras u oraciones. Ejemplos: y, pero, porque, que, si, aunque, o..."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "En el texto sobre la risa, ¿cuál es la conjunción que más se repite?",
+    "options": ["pero", "si", "y", "aunque"],
+    "correctIndex": 2,
+    "explanation": "✅ La conjunción 'y' es la más frecuente del texto: 'la risa fortalece el corazón Y los pulmones', 'médicos Y psicólogos', etc. Es la conjunción copulativa más usada en español."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué tipo de conjunción es 'pero' en 'Siempre hemos sabido que reírse es bueno, pero ahora los médicos nos lo confirman'?",
+    "options": ["Copulativa (une ideas similares)", "Adversativa (opone ideas)", "Causal (expresa causa)", "Disyuntiva (presenta opciones)"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Pero' contrapone dos ideas: ya lo sabíamos, PERO ahora lo confirman. Es una conjunción adversativa."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué es una interjección?",
+    "options": [
+      "Una palabra que une oraciones",
+      "Una exclamación que expresa de forma espontánea emociones, sensaciones o saludos",
+      "Un adverbio de modo especial",
+      "Una preposición que expresa sorpresa"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Las interjecciones son exclamaciones espontáneas que expresan emociones (¡ay!, ¡bah!), onomatopeyas (muac, bla) o fórmulas de saludo (¡adiós!, ¡hola!)."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Qué tipo de interjección es '¡Ay, qué pena!'?",
+    "options": ["Onomatopeya", "Fórmula de saludo o cortesía", "Expresión de sentimientos profundos", "Impresión súbita"],
+    "correctIndex": 2,
+    "explanation": "✅ '¡Ay!' expresa un sentimiento profundo de dolor o pena. Es una interjección de sentimientos."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "'Todo el tiempo han estado bla, bla, bla.' ¿Qué tipo de interjección es 'bla, bla, bla'?",
+    "options": ["Impresión súbita", "Sentimiento profundo", "Onomatopeya", "Fórmula de saludo"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Bla, bla, bla' imita el sonido de hablar sin parar. Es una onomatopeya, una interjección que imita un sonido real."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿A qué clase pertenece '¡Adiós, chicos, nos vemos mañana!'?",
+    "options": ["Onomatopeya", "Impresión súbita", "Sentimiento de dolor", "Fórmula de saludo o cortesía"],
+    "correctIndex": 3,
+    "explanation": "✅ '¡Adiós!' es una fórmula de despedida, que entra dentro de las interjecciones de saludo o cortesía."
+  },
+  {
+    "category": "preposiciones",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "8",
+    "text": "¿Cuál de estas palabras es una interjección que expresa desprecio o indiferencia?",
+    "options": ["¡Ay!", "¡Bah!", "¡Muac!", "¡Adiós!"],
+    "correctIndex": 1,
+    "explanation": "✅ '¡Bah!' expresa indiferencia o desprecio hacia algo ('¡Bah, bobadas!'). Es una interjección de impresión súbita con matiz de rechazo."
+  }
+]

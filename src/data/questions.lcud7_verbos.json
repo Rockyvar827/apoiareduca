@@ -1,0 +1,472 @@
+[
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🔍 ¿Cuál es el infinitivo de la forma verbal 'leeremos'?",
+    "options": ["leer", "leeré", "leyendo", "leído"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Leeremos' viene del infinitivo LEER. Es la 1ª persona del plural del futuro de indicativo: nos-otros lee-re-mos."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "⏰ La forma verbal 'sonó', ¿a qué tiempo pertenece?",
+    "options": ["Presente de indicativo", "Pretérito imperfecto de indicativo", "Pretérito perfecto simple de indicativo", "Futuro de indicativo"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Sonó' es el pretérito perfecto simple de indicativo, 3ª persona del singular del verbo SONAR. Indica una acción acabada en el pasado."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🎯 La forma verbal 'venderías', ¿a qué modo y tiempo pertenece?",
+    "options": ["Futuro de indicativo", "Condicional de indicativo", "Presente de subjuntivo", "Pretérito imperfecto de subjuntivo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Venderías' es el CONDICIONAL (o potencial) de indicativo, 2ª persona del singular del verbo VENDER. Se usa para acciones posibles o hipotéticas."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🔢 La forma verbal 'sentías', ¿en qué persona y número está?",
+    "options": ["1ª persona singular", "2ª persona singular", "3ª persona singular", "2ª persona plural"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Sentías' es la 2ª persona del SINGULAR (tú sentías) del pretérito imperfecto de indicativo del verbo SENTIR."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🌟 ¿Cuál es el modo de la forma verbal 'conociéramos'?",
+    "options": ["Indicativo", "Imperativo", "Subjuntivo", "Condicional"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Conociéramos' es el pretérito imperfecto de SUBJUNTIVO, 1ª persona del plural del verbo CONOCER. El subjuntivo expresa deseo, duda o hipótesis."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "📚 ¿A qué tiempo pertenece 'saludaban'?",
+    "options": ["Pretérito perfecto simple", "Futuro de indicativo", "Pretérito imperfecto de indicativo", "Presente de indicativo"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Saludaban' es el pretérito IMPERFECTO de indicativo, 3ª persona del plural de SALUDAR. El imperfecto describe acciones habituales o en curso en el pasado."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🎸 La forma 'llamad', ¿a qué modo pertenece?",
+    "options": ["Indicativo presente", "Subjuntivo presente", "Imperativo", "Infinitivo"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Llamad' es el IMPERATIVO, 2ª persona del plural (vosotros). El imperativo se usa para dar órdenes o instrucciones."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🔎 ¿Cuál de estas formas verbales está en FUTURO de indicativo?",
+    "options": ["cantas", "saludé", "reirás", "leamos"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Reirás' es la 2ª persona singular del FUTURO de indicativo del verbo REÍR. Indica una acción que ocurrirá más adelante."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "⚡ ¿Qué forma verbal corresponde al 'pret. perfecto simple de indicativo, 3ª persona singular' de SOÑAR?",
+    "options": ["soñaba", "soñará", "soñó", "sueña"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Soñó' es el pretérito perfecto simple de indicativo, 3ª persona del singular de SOÑAR. Indica que la acción ocurrió y terminó en el pasado."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🏋️ ¿Qué forma verbal corresponde al 'pretérito imperfecto de indicativo, 2ª persona plural' de JUGAR?",
+    "options": ["jugabais", "jugasteis", "jugaréis", "juguéis"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Jugabais' es el pretérito imperfecto de indicativo, 2ª persona del plural (vosotros) de JUGAR."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🌈 ¿Cuál es el presente de subjuntivo, 1ª persona singular de ESCALAR?",
+    "options": ["escalo", "escalé", "escalaré", "escale"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Escale' es el presente de SUBJUNTIVO, 1ª persona del singular de ESCALAR. El subjuntivo cambia la vocal temática: escal-e (no escal-o)."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "👗 ¿Qué forma verbal corresponde al 'condicional de indicativo, 3ª persona plural' de VESTIR?",
+    "options": ["vistieron", "vestirán", "vestirían", "vistieran"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Vestirían' es el CONDICIONAL de indicativo, 3ª persona del plural de VESTIR. El condicional se forma con el infinitivo + terminaciones: -ía, -ías, -ía, -íamos, -íais, -ían."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🎯 ¿Cuál es el futuro de indicativo, 1ª persona plural de ESPERAR?",
+    "options": ["esperamos", "esperábamos", "esperaríamos", "esperaremos"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Esperaremos' es el FUTURO de indicativo, 1ª persona del plural de ESPERAR. El futuro se forma con el infinitivo + -é, -ás, -á, -emos, -éis, -án."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🚶 ¿Cuál es el presente de imperativo, 2ª persona plural de LLAMAR?",
+    "options": ["llaméis", "llamad", "llamáis", "llamen"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Llamad' es el IMPERATIVO, 2ª persona del plural (vosotros). Se forma quitando la -r del infinitivo y añadiendo -d: llama-r → llamad."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "😄 ¿Qué forma verbal corresponde al 'pretérito imperfecto de indicativo, 3ª persona plural' de REÍR?",
+    "options": ["rieron", "reirán", "reían", "ríen"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Reían' es el pretérito IMPERFECTO de indicativo, 3ª persona del plural de REÍR. Describe una acción habitual o en curso en el pasado."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "💪 ¿Cuál es el condicional de indicativo, 1ª persona plural de SENTIR?",
+    "options": ["sintamos", "sentimos", "sentiríamos", "sintiéramos"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Sentiríamos' es el CONDICIONAL de indicativo, 1ª persona del plural de SENTIR. Se forma: infinitivo (sentir) + -íamos."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "📖 ¿Qué forma verbal es el GERUNDIO de ABRIR?",
+    "options": ["abierto", "abrir", "abriendo", "abra"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Abriendo' es el GERUNDIO de ABRIR. Los gerundios de los verbos en -ir se forman con -iendo: abr-iendo."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🏅 ¿Cuál es el PARTICIPIO del verbo CONOCER?",
+    "options": ["conociendo", "conocer", "conozca", "conocido"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Conocido' es el PARTICIPIO de CONOCER. Los participios de los verbos en -er se forman con -ido: conoc-ido."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "😰 ¿Cuál es el presente de subjuntivo, 3ª persona plural de OFENDER?",
+    "options": ["ofenden", "ofendieron", "ofendan", "ofenderán"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Ofendan' es el presente de SUBJUNTIVO, 3ª persona del plural de OFENDER. En subjuntivo los verbos en -er usan -a: ofend-an."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🔮 ¿Qué tiempo verbal se usa en 'Ojalá diga lo que todos queremos oír'?",
+    "options": ["Futuro de indicativo", "Presente de subjuntivo", "Condicional de indicativo", "Imperativo"],
+    "correctIndex": 1,
+    "explanation": "✅ Después de 'ojalá' siempre va SUBJUNTIVO. 'Diga' es el presente de subjuntivo, 3ª persona singular de DECIR."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🏠 En el texto 'Visita a España', ¿qué tiempo verbal predomina para narrar acciones pasadas y acabadas?",
+    "options": ["Pretérito imperfecto de indicativo", "Presente de indicativo", "Pretérito perfecto simple de indicativo", "Futuro de indicativo"],
+    "correctIndex": 2,
+    "explanation": "✅ El pretérito PERFECTO SIMPLE (indefinido) se usa para narrar acciones pasadas y acabadas: 'dijo', 'fue', 'pasó', 'volvió'. Es el tiempo de la narración."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "❄️ En 'Problemas con la calefacción', 'Cuando Ester _____ (levantarse), _____ (hacer) frío', ¿qué tiempo se usa?",
+    "options": ["Futuro de indicativo", "Pretérito imperfecto de indicativo", "Presente de subjuntivo", "Pretérito perfecto simple"],
+    "correctIndex": 1,
+    "explanation": "✅ Se usa el pretérito IMPERFECTO de indicativo ('se levantó'/'hacía') para describir el contexto y acciones en curso de una situación pasada."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🌦️ En 'El meteorólogo dijo que mañana (llover) _____', ¿qué forma es correcta?",
+    "options": ["lloverá", "llovería", "llueva", "lloviese"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Lloverá' es el FUTURO de indicativo, 3ª persona singular de LLOVER. Se usa para expresar una predicción o acción que ocurrirá."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🔄 En 'Voy a reprobar a menos que (estudiar) _____', ¿qué tiempo de subjuntivo se usa?",
+    "options": ["Pretérito imperfecto de subjuntivo", "Pretérito perfecto de subjuntivo", "Presente de subjuntivo", "Futuro de subjuntivo"],
+    "correctIndex": 2,
+    "explanation": "✅ Después de 'a menos que' se usa el PRESENTE de subjuntivo cuando la oración principal está en presente o futuro: 'a menos que estudie'."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🎉 En 'Si tú _____ (comprar) un ordenador, yo lo tomaría prestado', ¿qué forma va en el hueco?",
+    "options": ["compras", "comprarás", "compraras", "compres"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Compraras' es el pretérito imperfecto de SUBJUNTIVO. En las oraciones condicionales irreales (si + imp. subj. → condicional), se usa esta estructura: 'Si compraras... tomaría.'"
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🏋️ ¿Qué forma verbal es 'Han soñado'?",
+    "options": ["Pretérito perfecto simple de indicativo", "Pretérito perfecto compuesto de indicativo", "Pretérito pluscuamperfecto de indicativo", "Futuro perfecto de indicativo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Han soñado' es el pretérito PERFECTO COMPUESTO de indicativo, 3ª persona plural. Se forma con el presente de HABER + participio: han + soñado."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🔭 ¿Qué forma verbal es 'Había cantado'?",
+    "options": ["Pretérito perfecto compuesto", "Pretérito anterior", "Pretérito pluscuamperfecto de indicativo", "Condicional compuesto"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Había cantado' es el pretérito PLUSCUAMPERFECTO de indicativo. Se forma con el imperfecto de HABER (había) + participio. Expresa una acción anterior a otra pasada."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "💫 ¿Qué forma verbal es 'Hayas cantado'?",
+    "options": ["Pretérito perfecto de subjuntivo", "Pretérito pluscuamperfecto de subjuntivo", "Futuro perfecto de subjuntivo", "Presente de subjuntivo"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Hayas cantado' es el pretérito PERFECTO de subjuntivo. Se forma con el presente de subjuntivo de HABER (hayas) + participio."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🚀 ¿Qué forma verbal es 'Habrán salido'?",
+    "options": ["Condicional compuesto", "Pretérito pluscuamperfecto", "Futuro perfecto de indicativo", "Pretérito anterior"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Habrán salido' es el FUTURO PERFECTO de indicativo, 3ª persona plural. Se forma con el futuro de HABER (habrán) + participio. Expresa una acción futura que ya habrá terminado."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🧩 ¿Qué forma verbal es 'Hubierais ido'?",
+    "options": ["Futuro perfecto de subjuntivo", "Pretérito perfecto de subjuntivo", "Pretérito pluscuamperfecto de subjuntivo", "Condicional compuesto"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Hubierais ido' es el pretérito PLUSCUAMPERFECTO de subjuntivo, 2ª persona plural. Se forma con el imperfecto de subjuntivo de HABER (hubierais) + participio."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🌟 ¿Qué forma verbal es 'Habrían juzgado'?",
+    "options": ["Futuro perfecto de indicativo", "Pretérito pluscuamperfecto de indicativo", "Pretérito anterior de indicativo", "Condicional compuesto de indicativo"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Habrían juzgado' es el CONDICIONAL COMPUESTO de indicativo, 3ª persona plural. Se forma con el condicional de HABER (habrían) + participio."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🏆 ¿Cuál es el pretérito pluscuamperfecto de indicativo, 2ª persona plural de JUGAR?",
+    "options": ["jugabais", "habíais jugado", "hubierais jugado", "habréis jugado"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Habíais jugado' es el pretérito PLUSCUAMPERFECTO de indicativo, 2ª persona plural de JUGAR. Se forma con el imperfecto de HABER (habíais) + participio (jugado)."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🎓 ¿Cuál es el futuro perfecto de indicativo, 1ª persona singular de APROBAR?",
+    "options": ["aprobaré", "habré aprobado", "hubiere aprobado", "habría aprobado"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Habré aprobado' es el FUTURO PERFECTO de indicativo, 1ª persona singular de APROBAR. Se forma con el futuro de HABER (habré) + participio (aprobado)."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "📝 ¿Cuál es el INFINITIVO COMPUESTO del verbo SACUDIR?",
+    "options": ["sacudiendo", "sacudido", "haber sacudido", "habiendo sacudido"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Haber sacudido' es el INFINITIVO COMPUESTO de SACUDIR. Se forma con HABER + participio. Expresa una acción anterior a la del verbo principal."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🔧 ¿Cuál es el GERUNDIO COMPUESTO del verbo ABRIR?",
+    "options": ["abriendo", "haber abierto", "habiendo abierto", "abierto"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Habiendo abierto' es el GERUNDIO COMPUESTO de ABRIR. Se forma con HABIENDO + participio. Indica que la acción es anterior a la del verbo principal."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🎯 ¿Cuál es el pretérito anterior de indicativo, 3ª persona singular de MIRAR?",
+    "options": ["había mirado", "habrá mirado", "hubo mirado", "hubiera mirado"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Hubo mirado' es el PRETÉRITO ANTERIOR de indicativo, 3ª persona singular de MIRAR. Se forma con el pret. perfecto simple de HABER (hubo) + participio. Es un tiempo casi en desuso hoy."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "📚 ¿Cuál es el pretérito perfecto de subjuntivo, 3ª persona plural de IMPEDIR?",
+    "options": ["impidieron", "hayan impedido", "hubieran impedido", "impidan"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Hayan impedido' es el pretérito PERFECTO de subjuntivo, 3ª persona plural de IMPEDIR. Se forma con el presente de subjuntivo de HABER (hayan) + participio (impedido)."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "⚖️ ¿Cuál es la diferencia entre 'han impedido' y 'hayan impedido'?",
+    "options": ["No hay diferencia, son la misma forma", "'Han impedido' es indicativo y 'hayan impedido' es subjuntivo", "'Han impedido' es subjuntivo y 'hayan impedido' es indicativo", "'Han impedido' es futuro y 'hayan impedido' es pasado"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Han impedido' es el pretérito perfecto de INDICATIVO (certeza). 'Hayan impedido' es el pretérito perfecto de SUBJUNTIVO (duda, deseo, hipótesis). ¡El auxiliar HABER cambia de modo!"
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🌙 ¿Cuántos modos verbales tiene el verbo en español?",
+    "options": ["2: indicativo y subjuntivo", "3: indicativo, subjuntivo e imperativo", "4: indicativo, subjuntivo, imperativo y condicional", "3: indicativo, imperativo y condicional"],
+    "correctIndex": 1,
+    "explanation": "✅ El verbo en español tiene 3 MODOS: INDICATIVO (hechos reales), SUBJUNTIVO (deseos, dudas, hipótesis) e IMPERATIVO (órdenes). El condicional es un tiempo del indicativo."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🔢 ¿Cuáles son las formas no personales del verbo?",
+    "options": ["Presente, pasado y futuro", "Infinitivo, gerundio y participio", "Indicativo, subjuntivo e imperativo", "Singular, plural y neutro"],
+    "correctIndex": 1,
+    "explanation": "✅ Las formas NO PERSONALES son el INFINITIVO (cantar), el GERUNDIO (cantando) y el PARTICIPIO (cantado). No indican persona ni número."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "💡 En 'Mi profesor me dijo que si yo _____ (estudiar) más, _____ (obtener) mejores notas', ¿qué formas van?",
+    "options": ["estudie / obtendré", "estudiaría / obtendría", "estudiara / obtendría", "estudie / obtendría"],
+    "correctIndex": 2,
+    "explanation": "✅ En las condicionales irreales del pasado: si + PRET. IMPERFECTO DE SUBJUNTIVO (estudiara) → CONDICIONAL (obtendría). ¡Esta estructura es clave!"
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🌈 ¿Cuál es el gerundio compuesto de SUPONER?",
+    "options": ["suponiendo", "haber supuesto", "supuesto", "habiendo supuesto"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Habiendo supuesto' es el GERUNDIO COMPUESTO de SUPONER. Se forma con HABIENDO + participio irregular (supuesto). ¡Ojo con los participios irregulares!"
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🏗️ ¿Qué auxiliar se usa para formar todos los tiempos compuestos en español?",
+    "options": ["SER", "ESTAR", "HABER", "TENER"],
+    "correctIndex": 2,
+    "explanation": "✅ El verbo HABER es el auxiliar de todos los tiempos COMPUESTOS en español: he cantado, había cantado, habré cantado, habría cantado, haya cantado, etc."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🎪 ¿Cuál es el futuro perfecto de subjuntivo, 2ª persona plural de ATESORAR?",
+    "options": ["atesoraréis", "hubierais atesorado", "hayáis atesorado", "hubiereis atesorado"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Hubiereis atesorado' es el FUTURO PERFECTO de subjuntivo, 2ª persona plural de ATESORAR. Se forma con el futuro de subj. de HABER (hubiereis) + participio. Es un tiempo rarísimo hoy."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🧠 ¿Cuál es el pretérito pluscuamperfecto de subjuntivo, 1ª persona plural de JUGAR?",
+    "options": ["habíamos jugado", "hayamos jugado", "hubiéramos jugado", "hubimos jugado"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Hubiéramos jugado' es el pretérito PLUSCUAMPERFECTO de subjuntivo, 1ª persona plural de JUGAR. Se forma con el imperfecto de subj. de HABER (hubiéramos) + participio (jugado)."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "📌 ¿Cuál es el participio del verbo HACER?",
+    "options": ["haciendo", "hacido", "hecho", "hacer"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Hecho' es el participio IRREGULAR de HACER. Hay que memorizarlos: hecho, dicho, visto, puesto, vuelto, roto, abierto, cubierto, escrito, muerto."
+  },
+  {
+    "category": "el verbo",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "✍️ ¿Cuál es el presente de subjuntivo, 2ª persona plural de PLANCHAR?",
+    "options": ["plancháis", "planchéis", "plancharéis", "plancharais"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Planchéis' es el presente de SUBJUNTIVO, 2ª persona plural de PLANCHAR. En subjuntivo los verbos en -ar usan -e: planch-éis (no planch-áis, que sería indicativo)."
+  }
+]

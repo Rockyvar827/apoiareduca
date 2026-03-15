@@ -1,0 +1,242 @@
+[
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🗣️ En la oración 'Camarero, tráigame un café, por favor', ¿por qué se usa la coma después de 'Camarero'?",
+    "options": ["Porque hay una enumeración", "Porque hay un vocativo (nos dirigimos a alguien directamente)", "Porque hay una oración subordinada", "Porque hay un inciso explicativo"],
+    "correctIndex": 1,
+    "explanation": "✅ Cuando nos dirigimos directamente a alguien (vocativo), separamos su nombre con COMA. Ej: 'Luisa, haga el favor de venir.' / 'No me has entendido, tío.'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "📋 En 'Hay trajes verdes, rojos, azules y grises', ¿para qué sirve la coma?",
+    "options": ["Para separar los elementos de una enumeración", "Para indicar una pausa larga entre oraciones", "Para introducir una cita textual", "Para separar dos oraciones contrarias"],
+    "correctIndex": 0,
+    "explanation": "✅ La coma separa los elementos de una ENUMERACIÓN. El último elemento se une con 'y/e' y no lleva coma antes. Ej: 'Se produjo trigo, arroz y maíz.'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🚂 En 'El convoy, aunque tarde, salió ayer', ¿qué función tienen las dos comas?",
+    "options": ["Separar elementos de una lista", "Encerrar un inciso o aclaración dentro de la oración", "Marcar el final de la oración", "Separar dos oraciones independientes"],
+    "correctIndex": 1,
+    "explanation": "✅ Cuando metemos una aclaración en medio de la oración (inciso), la encerramos ENTRE DOS COMAS. Ej: 'Este caballo, según dicen, es el mejor.'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "⚡ ¿Qué signo de puntuación falta en 'Sin embargo ___ triunfó el otro'?",
+    "options": ["Punto", "Punto y coma", "Dos puntos", "Coma"],
+    "correctIndex": 3,
+    "explanation": "✅ Los conectores como 'sin embargo', 'por último', 'en efecto', 'no obstante' van seguidos de COMA cuando aparecen al principio o en medio de la oración."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🌧️ En 'Cuando paró de llover, salió el sol', ¿por qué hay una coma?",
+    "options": ["Porque hay un vocativo", "Porque hay una enumeración", "Porque la oración subordinada va antes de la principal", "Porque hay un inciso explicativo"],
+    "correctIndex": 2,
+    "explanation": "✅ Cuando la oración subordinada ('Cuando paró de llover') va ANTES de la principal ('salió el sol'), se separan con COMA."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🐋 ¿Cuál es la oración correctamente puntuada?",
+    "options": ["La ballena en efecto es un mamífero.", "La ballena, en efecto es un mamífero.", "La ballena, en efecto, es un mamífero.", "La ballena en efecto, es un mamífero."],
+    "correctIndex": 2,
+    "explanation": "✅ La expresión 'en efecto' es un inciso y debe ir entre DOS COMAS: 'La ballena, en efecto, es un mamífero.'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🏠 En 'Papá está en la fábrica; mamá, en el supermercado', ¿qué signo separa las dos partes?",
+    "options": ["La coma", "El punto", "El punto y coma", "Los dos puntos"],
+    "correctIndex": 2,
+    "explanation": "✅ El PUNTO Y COMA separa oraciones independientes pero muy relacionadas entre sí, especialmente cuando alguna ya lleva comas dentro."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "📚 ¿Cuándo usamos el punto y coma en lugar del punto?",
+    "options": ["Cuando queremos indicar el final de un texto", "Cuando separamos oraciones independientes pero muy relacionadas en significado", "Cuando introducimos una enumeración larga", "Cuando nos dirigimos a alguien directamente"],
+    "correctIndex": 1,
+    "explanation": "✅ El PUNTO Y COMA une oraciones independientes que están muy relacionadas. Ej: 'No podemos seguir así; vamos derechos a la ruina.'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🛒 En 'judías, 4 kgs.; arroz, 10 kgs.; aceite, 5 kgs.', ¿por qué se usa el punto y coma?",
+    "options": ["Para separar bloques de una lista que ya tiene comas internas", "Para indicar el final de la lista", "Para sustituir a los dos puntos", "Para separar el número del producto"],
+    "correctIndex": 0,
+    "explanation": "✅ Cuando los elementos de una enumeración ya llevan comas dentro, usamos PUNTO Y COMA para separar cada bloque y no crear confusión."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🏖️ ¿Qué signo falta en 'Si saco buenas notas, podré ir de vacaciones ___ en caso contrario, tendré que quedarme en casa'?",
+    "options": ["Coma", "Punto", "Punto y coma", "Dos puntos"],
+    "correctIndex": 2,
+    "explanation": "✅ El PUNTO Y COMA va antes de conectores como 'en caso contrario', 'sin embargo', cuando la oración anterior ya es larga o lleva comas."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🧩 ¿Cuál de estas oraciones usa correctamente el punto y coma?",
+    "options": ["Fue reprendido por su mala conducta, sin embargo, todo fue inútil.", "Fue reprendido por su mala conducta. sin embargo, todo fue inútil.", "Fue reprendido por su mala conducta; sin embargo, todo fue inútil.", "Fue reprendido por su mala conducta sin embargo todo fue inútil."],
+    "correctIndex": 2,
+    "explanation": "✅ Antes de 'sin embargo' cuando conecta dos oraciones largas o con comas internas, usamos PUNTO Y COMA: 'Fue reprendido; sin embargo, todo fue inútil.'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "💡 ¿Cuál es la puntuación correcta en 'La puntuación correcta aclara el pensamiento ___ la incorrecta lo enturbia'?",
+    "options": ["Coma", "Punto", "Punto y coma", "Dos puntos"],
+    "correctIndex": 2,
+    "explanation": "✅ Las dos oraciones son independientes pero muy relacionadas (contraposición). El PUNTO Y COMA es la opción correcta aquí."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🗺️ ¿Para qué sirven los DOS PUNTOS en 'Los puntos cardinales son cuatro: Norte, Sur, Este y Oeste'?",
+    "options": ["Para separar dos oraciones independientes", "Para introducir una enumeración", "Para indicar que alguien habla", "Para separar el sujeto del predicado"],
+    "correctIndex": 1,
+    "explanation": "✅ Los DOS PUNTOS anuncian una enumeración que desarrolla o concreta lo que se acaba de decir."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "✉️ En 'Estimado señor: Lamentamos comunicarle...', ¿para qué sirven los dos puntos?",
+    "options": ["Para introducir una enumeración", "Para separar dos oraciones largas", "Tras el saludo inicial en cartas y discursos", "Para indicar una aclaración"],
+    "correctIndex": 2,
+    "explanation": "✅ Los DOS PUNTOS se usan tras el saludo de cartas y discursos: 'Estimado señor:', 'Señoras y señores:'. Lo que sigue empieza con mayúscula."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "💬 ¿Qué signo de puntuación se usa para introducir las palabras textuales que dice alguien?",
+    "options": ["La coma", "El punto y coma", "Los dos puntos", "El punto"],
+    "correctIndex": 2,
+    "explanation": "✅ Los DOS PUNTOS van antes de citas textuales o diálogos. Ej: 'Y el presidente dijo: \"Se levanta la sesión\".' / 'Llegué gritando: \"¡Padre!\"'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🏆 ¿Cuál es la oración con dos puntos usados correctamente?",
+    "options": ["Tesón y trabajo, esas son las armas del triunfo.", "Tesón y trabajo; esas son las armas del triunfo.", "Tesón y trabajo: esas son las armas del triunfo.", "Tesón y trabajo. esas son las armas del triunfo."],
+    "correctIndex": 2,
+    "explanation": "✅ Los DOS PUNTOS también introducen una conclusión o resumen de lo anterior: 'Tesón y trabajo: esas son las armas del triunfo.'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "❓ ¿Cuál es la oración con los signos de interrogación correctamente escritos?",
+    "options": ["Dónde has estado?", "¿Dónde has estado", "¿Dónde has estado?", "¿Dónde has estado¿"],
+    "correctIndex": 2,
+    "explanation": "✅ En español los signos de interrogación van SIEMPRE al principio (¿) y al final (?). ¡Los dos son obligatorios! Es una característica única del español."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "😲 ¿Cuál es la oración con los signos de exclamación correctamente escritos?",
+    "options": ["¡Qué barbaridad!", "Qué barbaridad!", "¡Qué barbaridad¡", "Qué barbaridad¡"],
+    "correctIndex": 0,
+    "explanation": "✅ Los signos de exclamación en español también van SIEMPRE al principio (¡) y al final (!). ¡Ambos son obligatorios!"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🤔 ¿Cuál de estas oraciones NO necesita signos de interrogación?",
+    "options": ["¿Dónde has estado?", "¿Qué dice, qué piensa, qué hace?", "Juan está cansado.", "¿Qué habrías hecho tú?"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Juan está cansado' es una oración enunciativa. No expresa pregunta ni duda, así que NO lleva signos de interrogación."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🔍 La oración 'Pudo averiguar qué quería', ¿lleva signos de interrogación?",
+    "options": ["Sí, porque tiene la palabra 'qué'", "No, porque es una pregunta indirecta dentro de una oración enunciativa", "Sí, siempre que aparece 'qué' hay interrogación", "No, porque 'qué' es un relativo aquí"],
+    "correctIndex": 1,
+    "explanation": "✅ Las preguntas INDIRECTAS (dentro de otra oración) NO llevan signos de interrogación: 'Pudo averiguar qué quería.' Solo las preguntas directas los llevan."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "📣 En '¡A las armas!, rugió el capitán', ¿qué expresa el signo de exclamación?",
+    "options": ["Que es una pregunta indirecta", "Una orden con gran énfasis y emoción", "Que es un inciso explicativo", "Que es el final de un discurso"],
+    "correctIndex": 1,
+    "explanation": "✅ Los signos de exclamación (¡!) expresan énfasis, emoción, sorpresa u órdenes. '¡A las armas!' es una orden con gran fuerza expresiva."
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🎯 En 'Te he dicho, Juan, que te levantes', ¿por qué hay comas rodeando a 'Juan'?",
+    "options": ["Porque Juan es el sujeto de la oración", "Porque Juan es un vocativo en medio de la oración", "Porque hay una enumeración de nombres", "Porque hay una oración subordinada"],
+    "correctIndex": 1,
+    "explanation": "✅ Cuando el vocativo (nombre de a quien nos dirigimos) está en MEDIO de la oración, se encierra entre DOS COMAS: 'Te he dicho, Juan, que te levantes.'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "👑 En 'Júpiter, rey de los dioses, gobernaba el Olimpo', ¿qué son las palabras 'rey de los dioses'?",
+    "options": ["Un vocativo", "Una oración subordinada de tiempo", "Una aposición explicativa entre comas", "Una enumeración de títulos"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Rey de los dioses' es una APOSICIÓN EXPLICATIVA: aclara quién es Júpiter. Como explica (no restringe), va entre COMAS. Igual que: 'El tigre, carnívoro felino, vive en Asia.'"
+  },
+  {
+    "category": "comaypunto",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "🌍 En 'Los Juegos Olímpicos se celebrarán en Atenas, capital de Grecia', ¿por qué lleva coma?",
+    "options": ["Porque hay una enumeración de ciudades", "Porque 'capital de Grecia' es una aposición explicativa de Atenas", "Porque la oración subordinada va antes", "Porque hay un conector como 'sin embargo'"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Capital de Grecia' es una aposición que aclara qué es Atenas. Esta información explicativa se separa con COMA porque añade una aclaración."
+  }
+]

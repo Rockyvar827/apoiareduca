@@ -1,0 +1,485 @@
+[
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🏭 Como se chama o proceso polo que as máquinas comezaron a facer o traballo que antes facían as persoas?",
+    "options": ["Globalización", "Industrialización", "Colonización", "Modernización"],
+    "correctIndex": 1,
+    "explanation": "✅ A industrialización é o proceso polo que as fábricas con máquinas substituíron o traballo manual, producindo máis e máis rápido."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🌱 Que técnica substituíu ao barbeito para recuperar os nutrientes da terra?",
+    "options": ["O regadío artificial", "A queima de terreos", "A rotación de cultivos", "O uso de abonos químicos"],
+    "correctIndex": 2,
+    "explanation": "✅ A rotación de cultivos consistía en alternar as especies plantadas en lugar de deixar descansar a terra, conseguindo o mesmo resultado que o barbeito."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🥔 Cal destes alimentos chegou a Europa procedente de América durante a Idade Contemporánea?",
+    "options": ["O trigo", "A pataca", "O arroz", "A cebada"],
+    "correctIndex": 1,
+    "explanation": "✅ A pataca, o tomate, o cacao e o millo son cultivos que chegaron de América e cambiaron a alimentación europea."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "💨 Cal foi o gran invento que fixo posible a Revolución Industrial?",
+    "options": ["A electricidade", "A imprenta", "A máquina de vapor", "O motor de gasolina"],
+    "correctIndex": 2,
+    "explanation": "✅ A máquina de vapor permitía que as máquinas se moveran soas, sen necesidade de persoas ou animais que as impulsasen."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🚂 En que combustible se baseaba o funcionamento da máquina de vapor?",
+    "options": ["Petróleo", "Gas natural", "Carbón", "Leña"],
+    "correctIndex": 0,
+    "explanation": "✅ A máquina de vapor funcionaba grazas ao vapor producido pola auga quentada ao queimarse o carbón."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🏙️ Como se chama o movemento polo que os campesiños abandonaban o campo para vivir e traballar nas cidades?",
+    "options": ["Migración exterior", "Éxodo rural", "Colonización", "Urbanismo"],
+    "correctIndex": 1,
+    "explanation": "✅ O éxodo rural foi o gran movemento de poboación do campo ás cidades en busca de traballo nas fábricas."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "⚖️ Cal foi o novo sistema económico que xurdiu tras a Revolución Francesa e a Revolución Industrial?",
+    "options": ["O feudalismo", "O comunismo", "O capitalismo", "O mercantilismo"],
+    "correctIndex": 2,
+    "explanation": "✅ O capitalismo xurdiu como novo sistema económico tras as grandes revolucións da Idade Contemporánea."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "👑 Como se organizaba a sociedade durante o Antigo Réxime?",
+    "options": ["Democracia e igualdade", "Monarquía absoluta e sociedade estamental", "República e sufraxio universal", "Federalismo e autonomía"],
+    "correctIndex": 3,
+    "explanation": "✅ O Antigo Réxime baseábase na monarquía absoluta (o rei tiña todo o poder) e na sociedade estamental (desigual por nacemento)."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "💡 Como se chama a corrente de pensamento do século XVIII que defendía o uso da razón e a liberdade?",
+    "options": ["O Romanticismo", "O Renacemento", "A Ilustración", "O Humanismo"],
+    "correctIndex": 2,
+    "explanation": "✅ A Ilustración defendía a razón, a liberdade e acabar cos privilexios. Influíu moito na Revolución Francesa."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "💼 Que novo grupo social xurdiu coa aparición do comercio e as finanzas?",
+    "options": ["O proletariado", "A nobreza", "A burguesía", "O clero"],
+    "correctIndex": 2,
+    "explanation": "✅ A burguesía era un novo grupo social formado por comerciantes e financeiros que quería participar no poder."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🗳️ Que dereito recollía a Declaración de Dereitos do Home e do Cidadán aprobada tras a Revolución Francesa?",
+    "options": ["O dereito á propiedade privada ilimitada", "O dereito ao sufraxio (voto)", "O dereito a non pagar impostos", "O dereito a ter escravos"],
+    "correctIndex": 1,
+    "explanation": "✅ A Declaración de Dereitos do Home e do Cidadán recollía os dereitos individuais e o dereito ao voto (sufraxio)."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🏛️ Que tres poderes establece o liberalismo na división de poderes?",
+    "options": ["Militar, relixioso e civil", "Real, nobiliario e popular", "Lexislativo, executivo e xudicial", "Local, rexional e nacional"],
+    "correctIndex": 2,
+    "explanation": "✅ O liberalismo creou a división de poderes en lexislativo (fai as leis), executivo (goberna) e xudicial (xulga)."
+  },
+
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "👩‍💻 Que personaxe histórico creou os primeiros algoritmos informáticos durante a Revolución Industrial?",
+    "options": ["Marie Curie", "Ada Lovelace", "Florence Nightingale", "Rosa Parks"],
+    "correctIndex": 1,
+    "explanation": "✅ Ada Lovelace creou o primeiro algoritmo informático (diagrama Lovelace) e foi a primeira programadora da historia."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🧵 Que observou Ada Lovelace que a inspirou para crear os seus algoritmos?",
+    "options": ["Un barco de vapor", "Un tear mecánico", "Unha locomotora de vapor", "Unha fábrica de aceiro"],
+    "correctIndex": 0,
+    "explanation": "✅ Ada Lovelace visitou un tear e deuse conta de que as máquinas reproducían os patróns que os humanos lles metían. Iso inspiroulle para crear os seus algoritmos."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "📋 Que é un algoritmo?",
+    "options": ["Un tipo de máquina de vapor", "Un instrumento musical", "Un conxunto de instrucións ordenadas que permiten resolver un problema", "Un documento político do século XIX"],
+    "correctIndex": 2,
+    "explanation": "✅ Un algoritmo é un conxunto de instrucións ordenadas que permiten resolver un problema. Ada Lovelace creou o primeiro para que o executase unha máquina."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "👦 Con cantos anos comezaban a traballar na maioría dos nenos no século XIX?",
+    "options": ["5 anos", "8 anos", "12 anos", "14 anos"],
+    "correctIndex": 1,
+    "explanation": "✅ A maioría dos nenos comezaban a traballar nas fábricas e minas aos 8 anos, en condicións moi duras."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "⏰ Cantas horas traballaban os nenos e nenas cada día nas fábricas do século XIX?",
+    "options": ["Entre 4 e 6 horas", "Entre 6 e 8 horas", "Entre 10 e 12 horas", "Entre 14 e 16 horas"],
+    "correctIndex": 2,
+    "explanation": "✅ Os nenos traballaban entre 10 e 12 horas todos os días da semana en condicións moi duras e perigosas."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "📜 En que ano o Parlamento Británico aprobou as Leis Fabrís que protexían aos nenos?",
+    "options": ["1800", "1822", "1850", "1873"],
+    "correctIndex": 1,
+    "explanation": "✅ En 1822 o Parlamento Británico aprobou as Leis Fabrís, que prohibían traballar a menores de 9 anos."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🇪🇸 Cal foi a lei española que protexeu aos nenos das condicións abusivas nas fábricas?",
+    "options": ["A Lei Cánovas (1870)", "A Lei Benot (1873)", "A Constitución de 1876", "O Decreto Real de 1855"],
+    "correctIndex": 1,
+    "explanation": "✅ En España, en 1873 aprobouse a Lei Benot que protexía aos nenos das condicións abusivas nas fábricas."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🌾 Como se chaman as grandes explotacións agrícolas do sur de España no século XIX?",
+    "options": ["Minifundios", "Granxas", "Latifundios", "Casaríos"],
+    "correctIndex": 2,
+    "explanation": "✅ Os latifundios eran grandes explotacións agrícolas típicas do sur de España, mentres que no norte predominaban os minifundios (pequenos)."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🏗️ En que rexión española destacou a industria siderúrxica (aceiro e ferro) no século XIX?",
+    "options": ["Cataluña", "Andalucía", "Galicia", "País Vasco"],
+    "correctIndex": 3,
+    "explanation": "✅ A industria siderúrxica destacou no País Vasco, mentres que a industria téxtil foi a máis importante en Cataluña."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🚂 Como era a rede de ferrocarril que se construíu en España no século XIX?",
+    "options": ["Circular, con centro en Sevilla", "Radial, con centro en Madrid", "Costeira, unindo os portos", "Rexional, por comunidades"],
+    "correctIndex": 1,
+    "explanation": "✅ A rede de ferrocarril española era radial, é dicir, todas as liñas partían de Madrid cara ao resto do país."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "👑 Que rei reinaba en España cando as tropas de Napoleón invadiron o país en 1808?",
+    "options": ["Fernando VII", "Carlos III", "Carlos IV", "Afonso XII"],
+    "correctIndex": 2,
+    "explanation": "✅ Carlos IV de Borbón era o rei de España cando as tropas francesas de Napoleón invadiron o país en 1808."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "📜 En que cidade se aprobou a primeira Constitución Española en 1812?",
+    "options": ["Madrid", "Sevilla", "Barcelona", "Cádiz"],
+    "correctIndex": 3,
+    "explanation": "✅ As Cortes de Cádiz aprobaron en 1812 a primeira Constitución Española, convertendo ao país nun estado liberal."
+  },
+
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "👑 Que fixo Fernando VII ao regresar a España en 1814?",
+    "options": ["Xurou a Constitución de 1812", "Disolveu as Cortes e instaurou o absolutismo", "Proclamou a República", "Cedeu o poder á burguesía"],
+    "correctIndex": 1,
+    "explanation": "✅ Fernando VII traicionou aos liberais: disolveu as Cortes, anulou a Constitución e instaurou de novo o absolutismo."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "⚖️ Como se chama o período de 3 anos en que Fernando VII xurou a Constitución e gobernaron os liberais?",
+    "options": ["Trienio Liberal", "Sexenio Democrático", "Período Constitucional", "Era Progresista"],
+    "correctIndex": 0,
+    "explanation": "✅ O Trienio Liberal foi o período (1820-1823) en que os liberais obrigaron a Fernando VII a xurar a Constitución."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "👸 Que lei suprimiu Fernando VII para que a súa filla Isabel puidese reinar?",
+    "options": ["A Lei de Constitución", "A Lei de Herencia Real", "A Lei Sálica", "A Lei de Sucesión"],
+    "correctIndex": 2,
+    "explanation": "✅ Fernando VII suprimiu a Lei Sálica, que prohibía reinar ás mulleres, para que a súa filla Isabel II puidese ser raíña."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "⚔️ Como se chamaban os partidarios de que gobernase o irmán do rei Carlos en lugar de Isabel II?",
+    "options": ["Liberais", "Isabelinos", "Carlistas", "Republicanos"],
+    "correctIndex": 2,
+    "explanation": "✅ Os carlistas apoiaban ao infante Carlos como rei, mentres os isabelinos apoiaban a Isabel II. Houbo guerras entre os dous bandos."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🗳️ Como se chama a etapa con tres sistemas políticos diferentes que comezou cando Isabel II se exiliou?",
+    "options": ["A Restauración", "O Trienio Liberal", "O Sexenio Democrático", "A Segunda República"],
+    "correctIndex": 2,
+    "explanation": "✅ O Sexenio Democrático (1868-1874) foi a etapa de 6 anos con tres sistemas políticos distintos tras o exilio de Isabel II."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "👑 Que rei foi proclamado en 1874 para restablecer a monarquía tras o Sexenio Democrático?",
+    "options": ["Carlos VII", "Afonso XII", "Afonso XIII", "Fernando VII"],
+    "correctIndex": 1,
+    "explanation": "✅ Afonso XII foi proclamado rei en 1874 tras o golpe de Estado que puxo fin á República e iniciou a Restauración Monárquica."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🔄 En que consistía a 'quenda pacífica' do sistema político da Restauración?",
+    "options": ["Os militares gobernaban en turnos de 5 anos", "Os dous grandes partidos (conservador e liberal) alternábanse no poder", "O rei e o presidente do goberno compartían o poder", "Os cidadáns votaban cada 2 anos para elixir goberno"],
+    "correctIndex": 1,
+    "explanation": "✅ A quenda pacífica consistía en que o Partido Conservador e o Partido Liberal se alternaban no goberno de forma acordada."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "👩‍👦 Quen exerceu as funcións de rei mentres Afonso XIII era neno?",
+    "options": ["A súa avoa Isabel II", "Súa nai, María Cristina", "O primeiro ministro", "O Parlamento"],
+    "correctIndex": 1,
+    "explanation": "✅ Ao morrer Afonso XII, o seu fillo Afonso XIII era moi novo, polo que súa nai María Cristina gobernaba en nome del."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🏭 Como era a vida laboral de Conchita, a muller proletaria?",
+    "options": ["Traballaba desde a casa como costureira", "Ía á fábrica cada día con grandes xornadas e poucos ingresos", "Tiña un negocio propio no mercado", "Era mestra nunha escola pública"],
+    "correctIndex": 1,
+    "explanation": "✅ Conchita, como muller proletaria, traballaba na fábrica soportando grandes xornadas de traballo por poucos ingresos para manter a súa familia."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🎨 Que corrente artística do século XIX expresaba a realidade cotiá con retratos e labores do campo?",
+    "options": ["Romanticismo", "Impresionismo", "Realismo", "Expresionismo"],
+    "correctIndex": 2,
+    "explanation": "✅ O Realismo expresaba a realidade concreta a través de situacións cotiás. O pintor Millet é un dos seus representantes máis destacados."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🌊 Que corrente artística captaba o efecto da luz e da cor na realidade?",
+    "options": ["Romanticismo", "Realismo", "Surrealismo", "Impresionismo"],
+    "correctIndex": 3,
+    "explanation": "✅ O Impresionismo captaba o efecto da luz e da cor. Destacaron Monet, Renoir e en España Joaquín Sorolla."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🔥 Que corrente artística do século XIX expresaba sentimentos e a loita pola liberdade?",
+    "options": ["Impresionismo", "Romanticismo", "Realismo", "Cubismo"],
+    "correctIndex": 1,
+    "explanation": "✅ O Romanticismo expresaba sentimentos, paixóns e a loita do pobo pola súa liberdade. Destaca o pintor Delacroix."
+  },
+
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🏛️ Que materiais permitiron a construción de edificios amplos e lixeiros no século XIX como o Palacio de Cristal?",
+    "options": ["Madeira, pedra e ouro", "Ladrillo, arxila e pizarra", "Ferro, cemento e cristal", "Mármol, bronce e cobre"],
+    "correctIndex": 2,
+    "explanation": "✅ A Revolución Industrial permitiu a produción en cadea de ferro, cemento e cristal, materiais que posibilitaron novas construcións como o Palacio de Cristal de Madrid."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🗺️ Que fenómeno social foi moi importante en Galicia durante a Restauración?",
+    "options": ["O sindicalismo industrial", "O caciquismo", "A emigración a América", "A revolución obreira"],
+    "correctIndex": 1,
+    "explanation": "✅ O caciquismo foi moi predominante en Galicia durante a Restauración. Os candidatos electorais controlaban o voto dos campesiños con prácticas fraudulentas."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🌿 Que sistema castigaba aos campesiños galegos, obrigándolles a pagar rendas polos terreos que traballaban?",
+    "options": ["O sistema feudal", "O sistema foral", "A contribución urbana", "Os impostos reais"],
+    "correctIndex": 1,
+    "explanation": "✅ O sistema foral obrigaba aos campesiños galegos a pagar rendas aos propietarios das terras, limitando o desenvolvemento da agricultura."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "⚓ Cal foi un dos poucos centros industriais importantes de Galicia no século XIX?",
+    "options": ["A minaría de ouro de Lugo", "O Arsenal de Ferrol que construía buques", "A fábrica de coches de Vigo", "A industria téxtil de Ourense"],
+    "correctIndex": 1,
+    "explanation": "✅ O Arsenal de Ferrol, que construía buques, e a Fábrica de Tabacos da Coruña foron dos poucos centros industriais relevantes en Galicia."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Cal foi a cidade galega máis liberal durante o século XIX?",
+    "options": ["Vigo", "Lugo", "A Coruña", "Santiago de Compostela"],
+    "correctIndex": 2,
+    "explanation": "✅ A Coruña foi a cidade máis liberal de Galicia. Pola contra, Santiago de Compostela foi o principal foco carlista (absolutista)."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "📖 Que movemento galego do século XIX reivindicaba o uso do galego como lingua culta, especialmente na poesía?",
+    "options": ["O Provincialismo", "O Rexurdimento", "O Rexionalismo", "O Galeguismo político"],
+    "correctIndex": 1,
+    "explanation": "✅ O Rexurdimento reivindicaba o galego como lingua culta, especialmente na poesía, a través de figuras como Rosalía de Castro ou Curros Enríquez."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "✍️ Que gran escritora galega foi figura clave do Rexurdimento no século XIX?",
+    "options": ["Emilia Pardo Bazán", "Concepción Arenal", "Rosalía de Castro", "Dolores Ibarruri"],
+    "correctIndex": 2,
+    "explanation": "✅ Rosalía de Castro foi unha das figuras máis importantes do Rexurdimento, reivindicando o galego como lingua literaria e culta."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🏛️ Que movemento galego reclamaba autonomía política, o recoñecemento do galego e a modernización do país?",
+    "options": ["O Provincialismo", "O Rexurdimento", "O Rexionalismo", "O Carlismo galego"],
+    "correctIndex": 2,
+    "explanation": "✅ O Rexionalismo creou a entidade política que pedía autonomía, recoñecemento do galego e modernización para frear a emigración. Destacaron Manuel Murguía e Alfredo Brañas."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🗺️ En que consistía o Provincialismo, primeira fase do galeguismo?",
+    "options": ["Pedir a independencia de Galicia de España", "Reivindicar que Galicia tiña historia propia e o poder político debía respectar a súa autonomía", "Unirse coa veciña Asturias para ter máis forza", "Pedir que o galego fose ensinado nas escolas"],
+    "correctIndex": 1,
+    "explanation": "✅ O Provincialismo reivindicaba que Galicia era moito máis que 4 provincias e que o poder debía respectar a historia do pobo galego dándolle autonomía."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🌍 Que é a Idade Contemporánea?",
+    "options": ["O período que vai da caída de Roma á Idade Media", "O período histórico máis recente, dende finais do s.XVII ata hoxe", "O período da Prehistoria ao Imperio Romano", "Os séculos XV e XVI en Europa"],
+    "correctIndex": 1,
+    "explanation": "✅ A Idade Contemporánea é o período histórico máis recente, que abarca dende finais do século XVII ata os nosos días."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "👨‍🏭 Como se chamaba a nova clase social formada polos traballadores das fábricas no século XIX?",
+    "options": ["A burguesía", "A nobreza industrial", "O proletariado", "O campesinado"],
+    "correctIndex": 2,
+    "explanation": "✅ O proletariado era a clase social formada polos traballadores das fábricas que cobraban un salario e vivían en condicións moi duras."
+  },
+  {
+    "category": "unidad 4",
+    "nivel": "6",
+    "materia": "ccss",
+    "unidad": "4",
+    "text": "🌿 Por que aumentou tanto a poboación europea durante a Revolución Industrial?",
+    "options": ["Polas guerras que reducían a poboación inimiga", "Pola mellora da agricultura, a alimentación e os avances na medicina e hixiene", "Pola chegada de emigrantes doutros continentes", "Polo aumento do número de matrimonios por lei"],
+    "correctIndex": 1,
+    "explanation": "✅ A poboación aumentou grazas á mellora da agricultura (menos fame), aos avances na medicina e á introdución de novos hábitos de hixiene."
+  }
+]

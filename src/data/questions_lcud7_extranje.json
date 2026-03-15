@@ -1,0 +1,277 @@
+[
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cómo se llaman las palabras nuevas que se crean para nombrar nuevas realidades?",
+    "options": ["Extranjerismos", "Préstamos crudos", "Neologismos", "Sinónimos"],
+    "correctIndex": 2,
+    "explanation": "✅ Los neologismos son palabras de incorporación reciente que surgen para nombrar nuevas realidades."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "Un préstamo lingüístico es...",
+    "options": [
+      "Una palabra inventada por un escritor",
+      "Una palabra de otra lengua que se incorpora al vocabulario propio",
+      "Una palabra antigua que ya no se usa",
+      "Una palabra con significado opuesto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los préstamos son palabras provenientes de otra lengua que se incorporan al vocabulario de la lengua propia."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Qué son los préstamos adaptados?",
+    "options": [
+      "Préstamos que se escriben en cursiva",
+      "Palabras inventadas por la RAE",
+      "Préstamos que se han adaptado a la pronunciación y grafía española",
+      "Palabras españolas que viajan a otros idiomas"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los préstamos adaptados han modificado su escritura y pronunciación para ajustarse al español: fútbol, cruasán, eslogan..."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cuál de estas palabras es un préstamo ADAPTADO al español?",
+    "options": ["loft", "hooligan", "fútbol", "show"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Fútbol' es un préstamo adaptado: viene del inglés 'football' pero se ha ajustado a la grafía y pronunciación española."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "Los préstamos crudos deben escribirse...",
+    "options": [
+      "Con letra mayúscula siempre",
+      "En cursiva o entre comillas",
+      "Subrayados y en negrita",
+      "Igual que cualquier otra palabra"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los préstamos crudos se mantienen tal cual y deben escribirse en cursiva o entre comillas: *loft*, *hooligan*..."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Qué son los extranjerismos?",
+    "options": [
+      "Préstamos necesarios porque no existe palabra equivalente en español",
+      "Palabras españolas usadas en otros países",
+      "Préstamos innecesarios porque ya existe una palabra en español con ese significado",
+      "Palabras creadas mediante derivación o composición"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los extranjerismos son préstamos innecesarios porque ya hay palabras en castellano con ese mismo significado. ¡Hay que evitarlos!"
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cuál es la palabra española correcta para sustituir el extranjerismo 'boutique'?",
+    "options": ["mercado", "tienda", "almacén", "bazar"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Boutique' es un extranjerismo francés innecesario. La palabra correcta en español es 'tienda'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cómo decimos en español 'jeans'?",
+    "options": ["pantalones vaqueros", "bermudas", "pantalones de cuero", "mallas"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Jeans' es un extranjerismo del inglés. En español decimos 'pantalones vaqueros' o simplemente 'vaqueros'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Qué palabra española sustituye a 'mister' cuando hablamos del entrenador de un equipo de fútbol?",
+    "options": ["jefe", "capitán", "entrenador", "director"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Mister' es un extranjerismo del inglés. En español usamos 'entrenador'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "La palabra 'amateur' significa en español...",
+    "options": ["profesional", "aficionado", "experto", "veterano"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Amateur' viene del francés y significa 'aficionado', alguien que hace algo sin ser profesional."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cuál de estos procedimientos sirve para crear neologismos?",
+    "options": [
+      "Usar palabras de otras lenguas solamente",
+      "Derivación y composición de palabras",
+      "Cambiar las letras al azar",
+      "Escribir al revés"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los neologismos pueden crearse mediante procedimientos como la derivación, la composición, u otras formas de crear palabras nuevas."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cuál de estas palabras es un extranjerismo que DEBERÍAMOS evitar?",
+    "options": ["fútbol", "champán", "hobby", "yogur"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Hobby' es un extranjerismo innecesario porque en español podemos decir 'pasatiempo' o 'afición'. Las otras ya están adaptadas."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Qué palabra española sustituye correctamente a 'show'?",
+    "options": ["película", "espectáculo", "concierto", "desfile"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Show' es un extranjerismo del inglés. En español usamos 'espectáculo'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cuál es la equivalencia española del extranjerismo 'interview'?",
+    "options": ["debate", "discurso", "entrevista", "conversación"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Interview' es un extranjerismo inglés innecesario. En español tenemos la palabra 'entrevista'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "El 'barman' en español se llama...",
+    "options": ["camarero o barista", "cocinero", "gerente", "dependiente"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Barman' es un extranjerismo del inglés. En español decimos 'camarero' o 'barista'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cómo se llama en español un 'cocktail'?",
+    "options": ["refresco", "cóctel o combinado", "zumo", "infusión"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Cocktail' es un extranjerismo del inglés. En español decimos 'cóctel' (adaptado) o 'combinado'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Qué tipo de préstamo es la palabra 'cruasán'?",
+    "options": [
+      "Préstamo crudo, porque viene del francés",
+      "Extranjerismo innecesario",
+      "Préstamo adaptado, porque ha cambiado su grafía al español",
+      "Neologismo creado por derivación"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 'Cruasán' es un préstamo adaptado del francés 'croissant'. Ha cambiado su escritura para ajustarse al español."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cuál es la diferencia principal entre un préstamo y un extranjerismo?",
+    "options": [
+      "Los extranjerismos siempre son de lenguas asiáticas",
+      "Los préstamos son necesarios; los extranjerismos son innecesarios porque ya existe la palabra en español",
+      "Los préstamos se escriben en cursiva y los extranjerismos no",
+      "No hay ninguna diferencia, son lo mismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ La clave está en la necesidad: un préstamo llena un vacío en el idioma, pero un extranjerismo es innecesario porque ya tenemos esa palabra en español."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Qué palabra española sustituye al extranjerismo 'parking'?",
+    "options": ["gasolinera", "aparcamiento o estacionamiento", "garaje privado", "taller"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Parking' es un extranjerismo del inglés. En español usamos 'aparcamiento' o 'estacionamiento'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cómo traducimos 'e-mail' al español?",
+    "options": ["mensaje de texto", "telegrama", "correo electrónico", "fax"],
+    "correctIndex": 2,
+    "explanation": "✅ 'E-mail' es un extranjerismo del inglés. La palabra española es 'correo electrónico'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Qué significa el extranjerismo 'break' en contexto de descanso?",
+    "options": ["entrenamiento", "pausa o descanso", "reunión", "partido"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Break' es un extranjerismo del inglés. En español decimos 'pausa' o 'descanso'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cuál es la palabra española equivalente a 'copyright'?",
+    "options": ["licencia comercial", "derecho de autor", "marca registrada", "patente industrial"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Copyright' es un extranjerismo del inglés. En español usamos 'derechos de autor'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "La palabra 'fan' puede sustituirse en español por...",
+    "options": ["rival", "admirador o seguidor", "espectador neutral", "comentarista"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Fan' es un extranjerismo del inglés. En español decimos 'admirador', 'seguidor' o 'hincha'."
+  },
+  {
+    "category": "extranjerismos",
+    "nivel": "6",
+    "materia": "LC7",
+    "unidad": "7",
+    "text": "¿Cuál es la palabra española que sustituye a 'look' cuando hablamos de la apariencia de una persona?",
+    "options": ["figura", "imagen o aspecto", "postura", "movimiento"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Look' es un extranjerismo del inglés. En español podemos decir 'imagen', 'aspecto' o 'estilo'."
+  }
+]

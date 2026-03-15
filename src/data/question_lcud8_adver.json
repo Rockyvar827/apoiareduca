@@ -1,0 +1,257 @@
+[
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Qué es un adverbio?",
+    "options": [
+      "Una palabra que nombra personas o cosas",
+      "Una palabra que acompaña al nombre para determinarlo",
+      "Una palabra invariable que modifica al verbo, adjetivo u otro adverbio",
+      "Una palabra que expresa acción o estado"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El adverbio es una palabra invariable (no cambia de género ni número) que modifica al verbo, a un adjetivo o a otro adverbio."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "En la oración 'Delante hay un jardín', ¿de qué clase es el adverbio 'delante'?",
+    "options": ["Adverbio de tiempo", "Adverbio de cantidad", "Adverbio de lugar", "Adverbio de modo"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Delante' indica dónde está el jardín, por eso es un adverbio de lugar."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿De qué clase es el adverbio 'correctamente' en 'No he actuado correctamente'?",
+    "options": ["De lugar", "De modo", "De tiempo", "De cantidad"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Correctamente' indica cómo se ha actuado, por eso es un adverbio de modo. Muchos adverbios de modo terminan en -mente."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "'Jamás me he enfadado con nadie.' ¿De qué clase es el adverbio 'jamás'?",
+    "options": ["De afirmación", "De modo", "De negación", "De tiempo"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Jamás' indica que algo no ha ocurrido en ningún momento del tiempo. Es un adverbio de tiempo con valor negativo."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿A qué clase pertenece 'probablemente' en 'Probablemente reciba clases de piano'?",
+    "options": ["Adverbio de duda", "Adverbio de afirmación", "Adverbio de cantidad", "Adverbio de lugar"],
+    "correctIndex": 0,
+    "explanation": "✅ 'Probablemente' expresa incertidumbre sobre si algo ocurrirá. Es un adverbio de duda."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "En 'He comido demasiado', el adverbio 'demasiado' es de...",
+    "options": ["Tiempo", "Lugar", "Modo", "Cantidad"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Demasiado' indica la cantidad de lo comido. Es un adverbio de cantidad."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿De qué clase es 'tampoco' en 'Tampoco me gustan las fresas con nata'?",
+    "options": ["De afirmación", "De negación", "De duda", "De modo"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Tampoco' niega algo que ya se ha negado antes. Es un adverbio de negación."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Cuál de estos adverbios es de LUGAR?",
+    "options": ["siempre", "quizá", "cerca", "bastante"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Cerca' indica dónde, es un adverbio de lugar. 'Siempre' es de tiempo, 'quizá' de duda y 'bastante' de cantidad."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "'Todavía no han empezado las clases.' ¿De qué clase es el adverbio 'todavía'?",
+    "options": ["De duda", "De modo", "De lugar", "De tiempo"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Todavía' expresa que algo sigue sin ocurrir en ese momento. Es un adverbio de tiempo."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Qué adverbio sustituye correctamente a la expresión 'con toda probabilidad'?",
+    "options": ["nunca", "seguramente", "siempre", "bastante"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Con toda probabilidad' se puede sustituir por el adverbio de duda 'seguramente' o 'probablemente'."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Cuál de estos es un adverbio de AFIRMACIÓN?",
+    "options": ["jamás", "nunca", "sí", "tampoco"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Sí' afirma algo de manera directa. Es el adverbio de afirmación por excelencia."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "En la oración '¿Puedes servirme más?', ¿de qué clase es el adverbio 'más'?",
+    "options": ["De lugar", "De tiempo", "De modo", "De cantidad"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Más' expresa una mayor cantidad de algo. Es un adverbio de cantidad."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Qué adverbio sustituye a 'cada día' en 'Cada día me levanto a las siete'?",
+    "options": ["antes", "después", "diariamente", "pronto"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Cada día' equivale al adverbio de tiempo 'diariamente', que también se puede decir 'cotidianamente'."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Qué adverbio sustituye a la expresión 'a lo mejor' en 'A lo mejor tengo un examen'?",
+    "options": ["nunca", "siempre", "quizá", "tarde"],
+    "correctIndex": 2,
+    "explanation": "✅ 'A lo mejor' es una locución adverbial de duda que equivale al adverbio 'quizá' o 'quizás'."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Qué locución adverbial puede sustituir al adverbio 'inmediatamente'?",
+    "options": ["por fortuna", "a lo loco", "en seguida", "a sus anchas"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Inmediatamente' significa sin demora, por eso la locución equivalente es 'en seguida'."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Qué locución adverbial sustituye a 'afortunadamente'?",
+    "options": ["a lo loco", "en seguida", "a sus anchas", "por fortuna"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Afortunadamente' puede sustituirse por la locución adverbial 'por fortuna', que tiene el mismo significado."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Qué locución adverbial sustituye a 'cómodamente' en 'Permaneció cómodamente en el sofá'?",
+    "options": ["por fortuna", "a sus anchas", "en seguida", "a lo mejor"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Cómodamente' se puede reemplazar por la locución 'a sus anchas', que indica que alguien está cómodo y tranquilo."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "'Resolví el problema rápidamente; sin pensar.' ¿Qué locución adverbial sustituye a 'rápidamente'?",
+    "options": ["a sus anchas", "por fortuna", "en seguida", "a lo loco"],
+    "correctIndex": 3,
+    "explanation": "✅ 'Rápidamente y sin pensar' equivale a la locución adverbial 'a lo loco', que implica hacer algo deprisa y sin reflexionar."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "En 'La película me ha gustado mucho', ¿qué función tiene 'mucho'?",
+    "options": ["Es un pronombre indefinido", "Es un adjetivo que acompaña a 'película'", "Es un adverbio de cantidad que modifica al verbo", "Es un determinante"],
+    "correctIndex": 2,
+    "explanation": "✅ Aquí 'mucho' modifica al verbo 'gustar' indicando cantidad. Es un adverbio. No acompaña a ningún nombre."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "En 'Hay muchas batallas', ¿qué función tiene 'muchas'?",
+    "options": [
+      "Es un adverbio de cantidad",
+      "Es un adjetivo indefinido que acompaña a 'batallas'",
+      "Es un pronombre",
+      "Es un adverbio de modo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 'Muchas' acompaña y concuerda con el sustantivo 'batallas' (femenino plural). Es un adjetivo indefinido, ¡no un adverbio!"
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "En 'Muchos se han salido del cine', ¿qué función tiene 'muchos'?",
+    "options": ["Adverbio de cantidad", "Adjetivo calificativo", "Pronombre indefinido (sustituye a personas)", "Determinante artículo"],
+    "correctIndex": 2,
+    "explanation": "✅ 'Muchos' está solo, sin acompañar a ningún nombre, y hace de sujeto de la oración. Es un pronombre indefinido."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Cuál es la característica principal que hace que los adverbios sean 'palabras invariables'?",
+    "options": [
+      "Siempre van al final de la oración",
+      "No tienen significado propio",
+      "No cambian de género ni de número",
+      "Solo pueden modificar al verbo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los adverbios son invariables porque no tienen género (masculino/femenino) ni número (singular/plural). Siempre tienen la misma forma."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Cuál de estas opciones es una LOCUCIÓN ADVERBIAL?",
+    "options": ["rápidamente", "quizá", "a lo mejor", "nunca"],
+    "correctIndex": 2,
+    "explanation": "✅ Una locución adverbial es un grupo de palabras que funciona como un adverbio. 'A lo mejor' es una locución. Las demás son adverbios simples."
+  },
+  {
+    "category": "adverbios",
+    "nivel": "6",
+    "materia": "LC8",
+    "unidad": "7",
+    "text": "¿Qué adverbio sustituye a la expresión 'más tarde' en 'Más tarde saldré a pasear'?",
+    "options": ["hoy", "después", "antes", "siempre"],
+    "correctIndex": 1,
+    "explanation": "✅ 'Más tarde' indica un momento posterior al actual. El adverbio de tiempo equivalente es 'después'."
+  }
+]

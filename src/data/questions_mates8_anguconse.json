@@ -1,0 +1,707 @@
+[
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Imagen 1 (fila 1): Dos ángulos comparten el vértice y UN lado. Los dos ángulos juntos forman un ángulo llano (180°). ¿Qué relación tienen?",
+    "options": [
+      "Adyacentes",
+      "Consecutivos",
+      "Opuestos por el vértice",
+      "Complementarios"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Son ADYACENTES: comparten vértice y un lado, Y además suman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Imagen 2 (fila 1): Dos ángulos comparten el vértice y UN lado, pero juntos NO forman una línea recta. ¿Qué relación tienen?",
+    "options": [
+      "Opuestos por el vértice",
+      "Consecutivos",
+      "Adyacentes",
+      "Suplementarios"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Son CONSECUTIVOS: comparten vértice y un lado, pero no forman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Imagen 3 (fila 1): Dos rectas se cruzan formando una X. Los dos ángulos marcados están en lados opuestos del cruce. ¿Qué relación tienen?",
+    "options": [
+      "Adyacentes",
+      "Complementarios",
+      "Opuestos por el vértice",
+      "Consecutivos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Son OPUESTOS POR EL VÉRTICE: solo comparten el vértice, los lados van en dirección contraria. ¡Y siempre son iguales!"
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Imagen 4 (fila 2): Dos rectas forman una X. Los ángulos señalados se encuentran en lados opuestos. ¿Qué relación tienen?",
+    "options": [
+      "Consecutivos",
+      "Adyacentes",
+      "Suplementarios",
+      "Opuestos por el vértice"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Son OPUESTOS POR EL VÉRTICE: solo tienen el vértice en común y son iguales entre sí."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Imagen 5 (fila 2): Tres segmentos salen del mismo vértice formando una V con un segmento en medio. Los dos ángulos marcados comparten vértice y el segmento del medio. ¿Qué relación tienen?",
+    "options": [
+      "Consecutivos",
+      "Adyacentes",
+      "Opuestos por el vértice",
+      "Complementarios"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Son CONSECUTIVOS: comparten vértice y un lado (el del medio), pero juntos no forman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Imagen 6 (fila 2): Dos ángulos comparten vértice y un lado. Juntos forman exactamente una línea recta. ¿Qué relación tienen?",
+    "options": [
+      "Opuestos por el vértice",
+      "Adyacentes",
+      "Consecutivos",
+      "Complementarios"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Son ADYACENTES: comparten vértice y un lado, Y suman 180° (forman una línea recta)."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Imagen 7 (fila 3): Dos ángulos comparten el vértice y un lado. El ángulo rojo y el verde juntos NO forman 180°. ¿Qué relación tienen?",
+    "options": [
+      "Adyacentes",
+      "Opuestos por el vértice",
+      "Consecutivos",
+      "Suplementarios"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Son CONSECUTIVOS: comparten vértice y un lado, pero no forman un ángulo llano."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Imagen 8 (fila 3): Una cruz perfecta (+). Los ángulos marcados son los que quedan a cada lado en posición perpendicular. ¿Qué relación tienen?",
+    "options": [
+      "Opuestos por el vértice",
+      "Complementarios",
+      "Consecutivos",
+      "Adyacentes"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ En una cruz, los ángulos contiguos son ADYACENTES: comparten vértice y un lado, y suman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Imagen 9 (fila 3): Dos segmentos forman una V. Los ángulos marcados son el interior y el exterior de la V, compartiendo un lado. Juntos NO forman 180°. ¿Qué relación tienen?",
+    "options": [
+      "Consecutivos",
+      "Adyacentes",
+      "Opuestos por el vértice",
+      "Complementarios"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Son CONSECUTIVOS: tienen vértice y lado comunes, pero no suman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué son los ángulos CONSECUTIVOS?",
+    "options": [
+      "Tienen solo el vértice común",
+      "Tienen el vértice y UN lado comunes",
+      "Suman 180°",
+      "Son siempre iguales"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los CONSECUTIVOS tienen el VÉRTICE y UN LADO comunes. Como dos porciones de pizza que comparten un borde."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué son los ángulos ADYACENTES?",
+    "options": [
+      "Solo tienen el vértice común",
+      "Son iguales entre sí",
+      "Tienen vértice y un lado comunes, y suman 180°",
+      "Tienen vértice y un lado comunes, y suman 90°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los ADYACENTES tienen vértice y lado comunes (como los consecutivos) Y ADEMÁS suman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué son los ángulos OPUESTOS POR EL VÉRTICE?",
+    "options": [
+      "Tienen vértice y un lado comunes",
+      "Suman 180°",
+      "Suman 90°",
+      "Tienen SOLO el vértice en común"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Los OPUESTOS POR EL VÉRTICE tienen SOLO el vértice en común. Sus lados van en direcciones opuestas."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Los ángulos adyacentes son siempre consecutivos?",
+    "options": [
+      "Sí, todos los adyacentes son consecutivos (pero no al revés)",
+      "No, son completamente distintos",
+      "Solo a veces",
+      "No, los adyacentes nunca son consecutivos"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ SÍ. Los adyacentes son un caso especial de consecutivos. Todo adyacente es consecutivo, pero no todo consecutivo es adyacente."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos comparten vértice y lado, y entre los dos miden exactamente 180°. ¿Qué tipo de relación es?",
+    "options": [
+      "Consecutivos",
+      "Adyacentes",
+      "Opuestos por el vértice",
+      "Complementarios"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Vértice + lado comunes + suman 180° = ángulos ADYACENTES."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Cuando dos rectas se cruzan formando una X, ¿qué tipo de ángulos son los que están en esquinas opuestas?",
+    "options": [
+      "Adyacentes",
+      "Consecutivos",
+      "Opuestos por el vértice",
+      "Suplementarios"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Las esquinas opuestas de una X son OPUESTOS POR EL VÉRTICE. ¡Y siempre miden lo mismo!"
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Cuando dos rectas se cruzan formando una X, ¿qué tipo de ángulos son los que están en esquinas contiguas (una al lado de la otra)?",
+    "options": [
+      "Opuestos por el vértice",
+      "Complementarios",
+      "Consecutivos",
+      "Adyacentes"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Las esquinas contiguas de una X son ADYACENTES: comparten el vértice y un lado, y suman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto suman siempre dos ángulos ADYACENTES?",
+    "options": [
+      "180°",
+      "90°",
+      "360°",
+      "270°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Los ángulos adyacentes SIEMPRE suman 180°, porque juntos forman un ángulo llano."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto suman siempre dos ángulos OPUESTOS POR EL VÉRTICE?",
+    "options": [
+      "Siempre 90°",
+      "Son iguales, no suman un valor fijo",
+      "Siempre 180°",
+      "Siempre 360°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los opuestos por el vértice no suman un valor fijo, simplemente son IGUALES entre sí. Pueden medir cualquier cosa."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos son opuestos por el vértice y uno mide 65°. ¿Cuánto mide el otro?",
+    "options": [
+      "115°",
+      "25°",
+      "65°",
+      "295°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los opuestos por el vértice son IGUALES. Si uno mide 65°, el otro también mide 65°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos son adyacentes y uno mide 110°. ¿Cuánto mide el otro?",
+    "options": [
+      "110°",
+      "250°",
+      "20°",
+      "70°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Los adyacentes suman 180°: 180° – 110° = 70°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos pares de ángulos opuestos por el vértice se forman cuando dos rectas se cruzan?",
+    "options": [
+      "2 pares",
+      "1 par",
+      "3 pares",
+      "4 pares"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Al cruzarse dos rectas se forman 4 ángulos. Hay 2 pares de opuestos por el vértice."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos pares de ángulos adyacentes se forman cuando dos rectas se cruzan?",
+    "options": [
+      "2 pares",
+      "4 pares",
+      "6 pares",
+      "1 par"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Al cruzarse dos rectas se forman 4 pares de ángulos adyacentes (cada ángulo tiene dos adyacentes)."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué diferencia hay entre ángulos CONSECUTIVOS y ADYACENTES?",
+    "options": [
+      "No hay diferencia, son lo mismo",
+      "Los adyacentes solo tienen el vértice común",
+      "Los consecutivos comparten vértice y un lado; los adyacentes además suman 180°",
+      "Los consecutivos suman 180°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los CONSECUTIVOS solo comparten vértice y un lado. Los ADYACENTES hacen lo mismo PERO ADEMÁS suman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "En la imagen de la fila 3 con la cruz (+), ¿qué tipo de ángulos son los opuestos?",
+    "options": [
+      "Adyacentes",
+      "Complementarios",
+      "Consecutivos",
+      "Opuestos por el vértice"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ En una cruz (+), los ángulos en posiciones opuestas son OPUESTOS POR EL VÉRTICE y miden lo mismo."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos comparten únicamente el vértice. Sus lados van en direcciones contrarias. ¿Qué relación tienen?",
+    "options": [
+      "Opuestos por el vértice",
+      "Adyacentes",
+      "Consecutivos",
+      "Suplementarios"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Solo el vértice en común + lados en dirección contraria = OPUESTOS POR EL VÉRTICE."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Todo ángulo adyacente es también consecutivo'",
+    "options": [
+      "Falso",
+      "Verdadero",
+      "Solo a veces",
+      "Depende del tamaño"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ VERDADERO. Los adyacentes cumplen las condiciones de los consecutivos (mismo vértice y lado) y además suman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Todo ángulo consecutivo es también adyacente'",
+    "options": [
+      "Verdadero",
+      "Solo si suman 90°",
+      "Falso, los consecutivos no siempre suman 180°",
+      "Solo si son iguales"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ FALSO. Los consecutivos solo comparten vértice y lado. Para ser adyacentes también tendrían que sumar 180°, y eso no siempre pasa."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 35° y su adyacente mide X°. ¿Cuánto mide X?",
+    "options": [
+      "55°",
+      "35°",
+      "325°",
+      "145°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Adyacentes suman 180°: X = 180° – 35° = 145°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos rectas se cruzan. Uno de los 4 ángulos mide 50°. ¿Cuánto miden los otros tres?",
+    "options": [
+      "130°, 50°, 130°",
+      "50°, 180°, 180°",
+      "50°, 50°, 50°",
+      "90°, 90°, 90°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El opuesto también mide 50°. Los dos adyacentes miden 180°–50°=130° cada uno. Resultado: 130°, 50°, 130°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuáles de estas descripciones corresponde a ángulos ADYACENTES?",
+    "options": [
+      "Solo el vértice en común",
+      "Vértice y un lado comunes, suman 180°",
+      "Vértice y un lado comunes, suman 90°",
+      "Sin nada en común"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ ADYACENTES = vértice + un lado comunes + suman 180°. Son los que forman una línea recta juntos."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuáles de estas descripciones corresponde a ángulos OPUESTOS POR EL VÉRTICE?",
+    "options": [
+      "Vértice y un lado comunes",
+      "Suman 90°",
+      "Solo el vértice en común, lados en dirección opuesta",
+      "Suman 180°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ OPUESTOS POR EL VÉRTICE = solo el vértice en común, lados en dirección opuesta. ¡Y siempre son iguales!"
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "En la imagen de la V (imagen 5, fila 2), los dos ángulos marcados comparten el segmento del medio. Juntos no forman 180°. ¿Qué relación tienen?",
+    "options": [
+      "Adyacentes",
+      "Opuestos por el vértice",
+      "Suplementarios",
+      "Consecutivos"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ CONSECUTIVOS: comparten vértice y un lado (el segmento del medio), pero no suman 180°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué relación tienen los ángulos adyacentes con los ángulos suplementarios?",
+    "options": [
+      "Los adyacentes son un tipo de suplementarios (suman 180°)",
+      "Son lo mismo exactamente",
+      "No tienen nada que ver",
+      "Los suplementarios siempre tienen un lado común"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Los ADYACENTES suman 180° y son suplementarios. Pero los suplementarios no tienen por qué compartir lado."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Observas dos ángulos que forman una línea recta perfecta. ¿Qué tipo de relación tienen?",
+    "options": [
+      "Consecutivos",
+      "Adyacentes",
+      "Opuestos por el vértice",
+      "Complementarios"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Si juntos forman una línea recta (180°) y comparten vértice y lado, son ADYACENTES."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos rectas se cruzan y un ángulo mide 90°. ¿Qué tipo de ángulo miden también los otros tres?",
+    "options": [
+      "45°, 45°, 90°",
+      "30°, 60°, 90°",
+      "90°, 90°, 90°",
+      "60°, 60°, 120°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Si un ángulo es 90°, el opuesto también es 90°. Los adyacentes miden 180°–90°=90°. ¡Todos son rectos! Son cuatro rectos."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos elementos tienen en común los ángulos consecutivos?",
+    "options": [
+      "Nada",
+      "Solo el vértice (1 elemento)",
+      "Vértice y dos lados (3 elementos)",
+      "Vértice y un lado (2 elementos)"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Los CONSECUTIVOS comparten 2 elementos: el VÉRTICE y UN LADO."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos elementos tienen en común los ángulos opuestos por el vértice?",
+    "options": [
+      "Solo el vértice (1 elemento)",
+      "Vértice y un lado (2 elementos)",
+      "Nada (0 elementos)",
+      "Vértice y dos lados (3 elementos)"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Los OPUESTOS POR EL VÉRTICE solo comparten 1 elemento: el VÉRTICE."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es la pista visual más rápida para identificar ángulos OPUESTOS POR EL VÉRTICE?",
+    "options": [
+      "Forman una línea recta",
+      "Forman una X y están en esquinas opuestas",
+      "Tienen un lado en común",
+      "Son iguales visualmente"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ La X es la pista visual clave: cuando dos rectas se cruzan, los ángulos en esquinas opuestas son opuestos por el vértice."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es la pista visual más rápida para identificar ángulos ADYACENTES?",
+    "options": [
+      "Forman una X",
+      "Están en esquinas opuestas",
+      "Están uno al lado del otro formando una línea recta",
+      "Son siempre iguales"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los ADYACENTES están pegados uno al lado del otro y juntos forman una línea recta perfecta."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 90° y es adyacente a otro. ¿Cuánto mide el adyacente?",
+    "options": [
+      "180°",
+      "45°",
+      "270°",
+      "90°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Adyacentes suman 180°: 180° – 90° = 90°. ¡El adyacente de un recto es también un recto!"
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es posible que dos ángulos sean a la vez consecutivos Y opuestos por el vértice?",
+    "options": [
+      "No, son tipos diferentes que no pueden coincidir",
+      "Sí, siempre que sumen 90°",
+      "Sí, siempre que sumen 180°",
+      "Sí, si son iguales"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ NO. Los consecutivos comparten un lado; los opuestos por el vértice no comparten ningún lado. Son mutuamente excluyentes."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Los ángulos opuestos por el vértice son siempre...",
+    "options": [
+      "Suplementarios",
+      "Iguales entre sí",
+      "Complementarios",
+      "Mayores que 90°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los opuestos por el vértice son siempre IGUALES entre sí. ¡Es su propiedad más importante!"
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tres tipos de relación entre ángulos estudia esta unidad?",
+    "options": [
+      "Agudos, obtusos y rectos",
+      "Complementarios, suplementarios y bisectrices",
+      "Consecutivos, adyacentes y opuestos por el vértice",
+      "Llanos, completos y cóncavos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Esta unidad estudia las relaciones de POSICIÓN: consecutivos, adyacentes y opuestos por el vértice."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué propiedad especial tienen los ángulos OPUESTOS POR EL VÉRTICE?",
+    "options": [
+      "Siempre suman 180°",
+      "Siempre suman 90°",
+      "Son siempre rectos",
+      "Son siempre iguales"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Los opuestos por el vértice son siempre IGUALES. Si uno mide 40°, el opuesto también mide 40°."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos tienen el vértice y un lado comunes, y entre los dos suman 95°. ¿Qué relación tienen?",
+    "options": [
+      "Consecutivos",
+      "Adyacentes",
+      "Opuestos por el vértice",
+      "Complementarios"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Comparten vértice y un lado → son CONSECUTIVOS. Como no suman 180°, no son adyacentes."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas afirmaciones sobre los ángulos ADYACENTES es CORRECTA?",
+    "options": [
+      "No tienen ningún lado en común",
+      "Son consecutivos y además suman 180°",
+      "Son siempre iguales entre sí",
+      "Tienen todos sus lados en común"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los ADYACENTES = consecutivos (vértice + un lado) + suman 180°. Son los más 'especiales' de los consecutivos."
+  },
+  {
+    "category": "angulos-consecutivos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si en la hoja se muestran dos rectas cruzadas y se marcan dos ángulos en el mismo 'cuadrante' de la X... ¿qué relación tienen esos dos ángulos?",
+    "options": [
+      "Opuestos por el vértice",
+      "Complementarios",
+      "Adyacentes",
+      "Consecutivos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los ángulos en cuadrantes contiguos de una X son ADYACENTES: comparten el vértice y un lado, y suman 180°."
+  }
+]

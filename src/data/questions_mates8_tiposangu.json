@@ -1,0 +1,767 @@
+[
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide exactamente un ángulo RECTO?",
+    "options": [
+      "90°",
+      "45°",
+      "180°",
+      "360°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El ángulo RECTO mide exactamente 90°. Es el de las esquinas de un cuadrado."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide un ángulo OBTUSO?",
+    "options": [
+      "Menos de 90°",
+      "Más de 90°",
+      "Exactamente 90°",
+      "Exactamente 180°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El ángulo OBTUSO mide MÁS de 90° (pero menos de 180°). Es más abierto que una L."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide un ángulo AGUDO?",
+    "options": [
+      "Más de 90°",
+      "Exactamente 90°",
+      "Menos de 90°",
+      "Exactamente 180°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El ángulo AGUDO mide MENOS de 90°. Es el más pequeño y puntiagudo."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide un ángulo LLANO?",
+    "options": [
+      "90°",
+      "360°",
+      "270°",
+      "180°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ El ángulo LLANO mide exactamente 180°. Sus lados forman una línea recta perfecta."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide un ángulo COMPLETO?",
+    "options": [
+      "360°",
+      "180°",
+      "270°",
+      "90°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El ángulo COMPLETO mide exactamente 360°. ¡Es una vuelta entera, como una pizza completa!"
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide un ángulo CÓNCAVO?",
+    "options": [
+      "Menos de 90°",
+      "Más de 180°",
+      "Exactamente 90°",
+      "Menos de 180°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El ángulo CÓNCAVO mide MÁS de 180°. Es el que 'se mete hacia dentro'."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide un ángulo CONVEXO?",
+    "options": [
+      "Más de 180°",
+      "Exactamente 180°",
+      "Menos de 180°",
+      "Exactamente 360°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El ángulo CONVEXO mide MENOS de 180°. Todos los ángulos agudos, rectos y obtusos son convexos."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo de 120° es...",
+    "options": [
+      "Agudo",
+      "Recto",
+      "Llano",
+      "Obtuso"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 120° está entre 90° y 180° → es OBTUSO."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo de 30° es...",
+    "options": [
+      "Agudo",
+      "Recto",
+      "Llano",
+      "Obtuso"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 30° < 90° → es AGUDO. Un ángulo pequeño y puntiagudo."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué son los ángulos COMPLEMENTARIOS?",
+    "options": [
+      "Los que suman 360°",
+      "Los que suman 90°",
+      "Los que suman 180°",
+      "Los que son iguales"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Dos ángulos son COMPLEMENTARIOS cuando su suma es 90° (un ángulo recto). Ejemplo: 27° + 63° = 90°."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué son los ángulos SUPLEMENTARIOS?",
+    "options": [
+      "Los que suman 90°",
+      "Los que suman 360°",
+      "Los que suman 180°",
+      "Los que son iguales"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Dos ángulos son SUPLEMENTARIOS cuando su suma es 180° (un ángulo llano). Ejemplo: 54° + 126° = 180°."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "27° y 63°, ¿qué tipo de ángulos son entre sí?",
+    "options": [
+      "Suplementarios",
+      "Opuestos por el vértice",
+      "Adyacentes",
+      "Complementarios"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 27° + 63° = 90° → son COMPLEMENTARIOS. Juntos forman un ángulo recto."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "54° y 126°, ¿qué tipo de ángulos son entre sí?",
+    "options": [
+      "Suplementarios",
+      "Complementarios",
+      "Consecutivos",
+      "Adyacentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 54° + 126° = 180° → son SUPLEMENTARIOS. Juntos forman un ángulo llano."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tienen en común los ángulos CONSECUTIVOS?",
+    "options": [
+      "Solo el vértice",
+      "El vértice y un lado",
+      "Los dos lados y el vértice",
+      "Suman 180°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los ángulos CONSECUTIVOS tienen el VÉRTICE y UN LADO comunes. Como dos porciones de pizza que comparten un borde."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tienen en común los ángulos ADYACENTES?",
+    "options": [
+      "Solo el vértice",
+      "Suman 90°",
+      "Tienen el vértice y un lado comunes, y además suman 180°",
+      "Los dos lados"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los ADYACENTES tienen vértice y lado comunes (como los consecutivos) PERO ADEMÁS suman 180°. Son un caso especial de consecutivos."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tienen en común los ángulos OPUESTOS POR EL VÉRTICE?",
+    "options": [
+      "El vértice y un lado",
+      "Los dos lados",
+      "Suman 90°",
+      "Solo el vértice"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Los OPUESTOS POR EL VÉRTICE tienen SOLO EL VÉRTICE en común. Sus lados van en direcciones opuestas y siempre son iguales."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es la diferencia entre ángulos CONSECUTIVOS y ADYACENTES?",
+    "options": [
+      "Los adyacentes suman 180°, los consecutivos no necesariamente",
+      "No hay diferencia, son lo mismo",
+      "Los consecutivos suman 180°",
+      "Los consecutivos tienen el vértice común, los adyacentes no"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Todos los adyacentes son consecutivos, pero los ADYACENTES además suman 180°. Los consecutivos solo comparten vértice y lado."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de un ángulo de 63°?",
+    "options": [
+      "117°",
+      "27°",
+      "63°",
+      "297°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Complementario = 90° – 63° = 27°. Comprueba: 63° + 27° = 90° ✓"
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de un ángulo de 54°?",
+    "options": [
+      "36°",
+      "306°",
+      "126°",
+      "54°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Suplementario = 180° – 54° = 126°. Comprueba: 54° + 126° = 180° ✓"
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Un ángulo CÓNCAVO es convexo?",
+    "options": [
+      "Sí, siempre",
+      "Solo si mide 270°",
+      "Depende del tamaño",
+      "No, son tipos opuestos"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ NO. El cóncavo mide MÁS de 180° y el convexo MENOS de 180°. Son categorías opuestas."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Un ángulo recto es convexo o cóncavo?",
+    "options": [
+      "Convexo",
+      "Cóncavo",
+      "Ni uno ni otro",
+      "Los dos a la vez"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El recto mide 90°, que es MENOS de 180° → es CONVEXO."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Un ángulo obtuso es convexo o cóncavo?",
+    "options": [
+      "Cóncavo",
+      "Convexo",
+      "Depende de cuánto mida",
+      "Ni uno ni otro"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El obtuso mide entre 90° y 180°, es decir, MENOS de 180° → es CONVEXO."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos grados mide un ángulo de 250°? ¿Cómo se clasifica?",
+    "options": [
+      "Es recto",
+      "Es obtuso",
+      "Es cóncavo (más de 180°)",
+      "Es llano"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 250° > 180° → es un ángulo CÓNCAVO (también llamado de reflexión o reflejado)."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de un ángulo de 27°?",
+    "options": [
+      "153°",
+      "333°",
+      "27°",
+      "63°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 90° – 27° = 63°. Comprueba: 27° + 63° = 90° ✓"
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de un ángulo de 126°?",
+    "options": [
+      "54°",
+      "234°",
+      "126°",
+      "306°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 180° – 126° = 54°. Comprueba: 126° + 54° = 180° ✓"
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo NO tiene complementario?",
+    "options": [
+      "Agudo",
+      "El recto o cualquiera mayor que él",
+      "Un ángulo de 50°",
+      "Un ángulo de 89°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Un ángulo tiene complementario solo si mide MENOS de 90°. El recto (90°) y los mayores no pueden tener complementario."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos opuestos por el vértice miden 75° uno. ¿Cuánto mide el otro?",
+    "options": [
+      "105°",
+      "15°",
+      "75°",
+      "285°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los opuestos por el vértice son siempre IGUALES. Si uno mide 75°, el otro también mide 75°."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos rectas se cruzan y uno de los ángulos mide 40°. ¿Cuánto mide el ángulo adyacente a él?",
+    "options": [
+      "40°",
+      "50°",
+      "320°",
+      "140°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Los ángulos adyacentes suman 180°: 180° – 40° = 140°."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Todos los ángulos AGUDOS son convexos?",
+    "options": [
+      "Sí, porque miden menos de 180°",
+      "No, los agudos son cóncavos",
+      "Solo si miden menos de 45°",
+      "Depende de si suman 90°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ SÍ. Los agudos miden entre 0° y 90°, que es siempre MENOS de 180° → todos son CONVEXOS."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Ordena de MENOR a MAYOR: Llano, Agudo, Completo, Recto, Obtuso",
+    "options": [
+      "Recto, Agudo, Obtuso, Llano, Completo",
+      "Agudo, Recto, Obtuso, Llano, Completo",
+      "Agudo, Obtuso, Recto, Llano, Completo",
+      "Completo, Llano, Obtuso, Recto, Agudo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ De menor a mayor: Agudo (<90°) → Recto (90°) → Obtuso (90°-180°) → Llano (180°) → Completo (360°)."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos tipos de ángulos aparecen en esta teoría (contando cóncavo y convexo)?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Son 7 tipos: recto, obtuso, agudo, llano, completo, cóncavo y convexo."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo de 200° es...",
+    "options": [
+      "Obtuso",
+      "Llano",
+      "Completo",
+      "Cóncavo"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 200° > 180° → es CÓNCAVO (mayor que un ángulo llano)."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo de 170° es...",
+    "options": [
+      "Obtuso",
+      "Cóncavo",
+      "Agudo",
+      "Llano"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 170° está entre 90° y 180° → es OBTUSO (y también convexo)."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de relación tienen los ángulos A y B si comparten vértice y un lado, pero NO suman 180°?",
+    "options": [
+      "Adyacentes",
+      "Consecutivos",
+      "Opuestos por el vértice",
+      "Suplementarios"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Si comparten vértice y un lado pero no suman 180°, son CONSECUTIVOS (no adyacentes)."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Puede haber un ángulo agudo y un ángulo obtuso que sean complementarios?",
+    "options": [
+      "Sí, siempre",
+      "Solo si el agudo es de 45°",
+      "No, los complementarios suman 90° y el obtuso ya mide más de 90°",
+      "Sí, si el obtuso es de 89°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ IMPOSIBLE. El obtuso ya supera 90° solo, así que no puede sumarse con otro ángulo para dar 90°."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántas porciones de pizza de 45° caben en un ángulo completo?",
+    "options": [
+      "4",
+      "6",
+      "12",
+      "8"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 360° ÷ 45° = 8 porciones. ¡Una pizza completa de 8 porciones iguales!"
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántas veces cabe un ángulo recto en un ángulo completo?",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 360° ÷ 90° = 4. Un ángulo completo contiene exactamente 4 ángulos rectos."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo forman las agujas del reloj a las 12 en punto?",
+    "options": [
+      "Llano",
+      "Completo",
+      "Recto",
+      "Agudo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ A las 12 en punto las dos agujas están juntas → forman un ángulo COMPLETO de 0° (o 360° si lo vemos como vuelta completa)."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de un ángulo de 45°?",
+    "options": [
+      "135°",
+      "315°",
+      "45°",
+      "90°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 90° – 45° = 45°. ¡El complementario de 45° es él mismo! Son iguales."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de un ángulo de 90°?",
+    "options": [
+      "180°",
+      "270°",
+      "45°",
+      "90°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 180° – 90° = 90°. ¡El suplementario del ángulo recto es otro ángulo recto!"
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Todo ángulo convexo mide menos de 180°'",
+    "options": [
+      "Verdadero",
+      "Falso, mide más de 180°",
+      "Solo a veces",
+      "Falso, mide exactamente 180°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ VERDADERO. La definición del ángulo convexo es que mide MENOS de 180°."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Los ángulos adyacentes son siempre suplementarios'",
+    "options": [
+      "Falso, son complementarios",
+      "Verdadero, suman 180°",
+      "Falso, son iguales",
+      "Falso, solo suman 90°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ VERDADERO. Los ángulos adyacentes tienen vértice y lado comunes Y ADEMÁS suman 180° → son suplementarios."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué diferencia hay entre un ángulo LLANO y uno COMPLETO?",
+    "options": [
+      "Son iguales",
+      "El llano mide 360° y el completo 180°",
+      "El llano mide 180° y el completo 360°",
+      "El llano es cóncavo y el completo convexo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El LLANO mide 180° (media vuelta, los lados forman una recta) y el COMPLETO mide 360° (vuelta entera)."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el ángulo cóncavo que complementa a un ángulo convexo de 70°?",
+    "options": [
+      "20°",
+      "110°",
+      "250°",
+      "290°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ El ángulo cóncavo correspondiente es 360° – 70° = 290°. Los dos juntos forman el ángulo completo."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Un ángulo llano es convexo o cóncavo?",
+    "options": [
+      "Ni convexo ni cóncavo (es exactamente 180°)",
+      "Cóncavo",
+      "Es los dos a la vez",
+      "Convexo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El llano mide EXACTAMENTE 180°. El convexo es 'menos de 180°' y el cóncavo 'más de 180°', así que el llano no es ninguno de los dos."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas parejas son ángulos SUPLEMENTARIOS?",
+    "options": [
+      "30° y 60°",
+      "100° y 80°",
+      "45° y 45°",
+      "75° y 25°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 100° + 80° = 180° → son SUPLEMENTARIOS. Las demás suman 90° (complementarios)."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas parejas son ángulos COMPLEMENTARIOS?",
+    "options": [
+      "100° y 80°",
+      "90° y 90°",
+      "50° y 40°",
+      "130° y 50°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 50° + 40° = 90° → son COMPLEMENTARIOS. Las demás suman 180° o más."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estos ángulos es CÓNCAVO?",
+    "options": [
+      "85°",
+      "175°",
+      "90°",
+      "220°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 220° > 180° → es CÓNCAVO. Los demás son agudo, obtuso y recto (todos convexos)."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos son opuestos por el vértice y uno mide 110°. ¿Cuánto miden los otros dos ángulos formados por las mismas rectas?",
+    "options": [
+      "70° y 70°",
+      "110° y 110°",
+      "70° y 110°",
+      "90° y 90°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El ángulo adyacente a 110° mide 180°–110°=70°. El opuesto a ese también mide 70°. Así que los otros dos miden 70° y 70°."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo se forma cuando el minutero del reloj gira media vuelta?",
+    "options": [
+      "Completo",
+      "Llano",
+      "Recto",
+      "Agudo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Media vuelta = 180° = ángulo LLANO. El minutero forma una línea recta."
+  },
+  {
+    "category": "tipos_angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo se forma cuando el minutero del reloj gira un cuarto de vuelta?",
+    "options": [
+      "Agudo",
+      "Llano",
+      "Recto",
+      "Completo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Un cuarto de vuelta = 360° ÷ 4 = 90° = ángulo RECTO."
+  }
+]

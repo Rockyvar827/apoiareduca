@@ -46,7 +46,7 @@
     "unidad": "4",
     "text": "🚂 En que combustible se baseaba o funcionamento da máquina de vapor?",
     "options": ["Petróleo", "Gas natural", "Carbón", "Leña"],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "✅ A máquina de vapor funcionaba grazas ao vapor producido pola auga quentada ao queimarse o carbón."
   },
   {

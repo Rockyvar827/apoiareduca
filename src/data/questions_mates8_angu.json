@@ -1,0 +1,1127 @@
+[
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cómo se llama el ángulo que mide menos de 90°?",
+    "options": [
+      "Agudo",
+      "Recto",
+      "Obtuso",
+      "Llano"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El ángulo AGUDO mide menos de 90°. Es el más 'puntiagudo' de todos."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide exactamente un ángulo recto?",
+    "options": [
+      "45°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El ángulo RECTO mide exactamente 90°. Es el que forman las esquinas de un cuadrado."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo OBTUSO mide...",
+    "options": [
+      "Exactamente 90°",
+      "Menos de 90°",
+      "Entre 90° y 180°",
+      "Exactamente 180°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El ángulo obtuso mide más que uno recto (90°) pero menos que uno llano (180°)."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cómo se llama el ángulo que mide 180°?",
+    "options": [
+      "Completo",
+      "Recto",
+      "Obtuso",
+      "Llano"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ El ángulo LLANO mide 180°. Sus dos lados forman una línea recta."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos grados mide un ángulo completo?",
+    "options": [
+      "360°",
+      "90°",
+      "270°",
+      "180°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El ángulo COMPLETO es una vuelta entera: 360°. ¡Como una pizza entera!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo es uno de 75°?",
+    "options": [
+      "Recto",
+      "Agudo",
+      "Llano",
+      "Obtuso"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 75° es menor que 90°, así que es un ángulo AGUDO."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo es uno de 120°?",
+    "options": [
+      "Agudo",
+      "Recto",
+      "Obtuso",
+      "Completo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 120° está entre 90° y 180°, por eso es OBTUSO."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El segundero de un reloj da una vuelta completa en 60 segundos. ¿Qué ángulo recorre en 30 segundos?",
+    "options": [
+      "360°",
+      "90°",
+      "45°",
+      "180°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ En 30 segundos (media vuelta) el segundero recorre un ángulo LLANO de 180°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos ángulos rectos equivale un ángulo llano?",
+    "options": [
+      "2 rectos",
+      "4 rectos",
+      "1 recto",
+      "3 rectos"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El ángulo llano = 180° = 2 × 90° = 2 ángulos rectos."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos ángulos rectos equivale un ángulo completo?",
+    "options": [
+      "2 rectos",
+      "4 rectos",
+      "6 rectos",
+      "8 rectos"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El ángulo completo = 360° = 4 × 90° = 4 ángulos rectos."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo recto tiene los lados...",
+    "options": [
+      "Paralelos",
+      "En la misma recta",
+      "Perpendiculares",
+      "En prolongación"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los lados de un ángulo recto son PERPENDICULARES: forman una L perfecta."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo es exactamente 90°?",
+    "options": [
+      "Agudo",
+      "Llano",
+      "Obtuso",
+      "Recto"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Exactamente 90° = ángulo RECTO. ¡Como las esquinas de tu cuaderno!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos CONSECUTIVOS tienen en común...",
+    "options": [
+      "El vértice y un lado",
+      "Solo el vértice",
+      "Los dos lados",
+      "Nada"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Los ángulos CONSECUTIVOS comparten el vértice y UN lado (pero no forman línea recta)."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué son los ángulos ADYACENTES?",
+    "options": [
+      "Tienen solo el vértice común",
+      "Son consecutivos y forman un ángulo llano",
+      "Son opuestos por el vértice",
+      "Suman 360°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los ángulos ADYACENTES son consecutivos (comparten vértice y lado) y juntos forman un ángulo llano (180°)."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué característica tienen los ángulos OPUESTOS POR EL VÉRTICE?",
+    "options": [
+      "Suman 90°",
+      "Comparten un lado",
+      "Tienen el vértice común y los lados en prolongación",
+      "Son siempre iguales a 180°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los opuestos por el vértice comparten el vértice y sus lados son prolongaciones el uno del otro. ¡Y siempre son iguales entre sí!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es la diferencia entre ángulos CONSECUTIVOS y ADYACENTES?",
+    "options": [
+      "No hay diferencia",
+      "Los consecutivos suman 360°",
+      "Los consecutivos forman un ángulo llano",
+      "Los adyacentes también forman un ángulo llano"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Todos los adyacentes son consecutivos, pero no al revés. Los ADYACENTES además forman un ángulo llano (180°)."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Cuando dos rectas se cruzan, los ángulos opuestos por el vértice son...",
+    "options": [
+      "Iguales",
+      "Suplementarios",
+      "Complementarios",
+      "Siempre rectos"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ ¡Los ángulos opuestos por el vértice son siempre IGUALES! Es una propiedad muy útil."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué instrumento usamos para medir ángulos?",
+    "options": [
+      "La regla",
+      "El transportador",
+      "El compás",
+      "El cartabón"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El TRANSPORTADOR (o semicírculo graduado) es el instrumento para medir y dibujar ángulos."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿En qué unidad se miden los ángulos?",
+    "options": [
+      "Centímetros",
+      "Metros",
+      "Grados sexagesimales (°)",
+      "Kilogramos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Los ángulos se miden en GRADOS SEXAGESIMALES, representados con el símbolo °."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el ángulo llano (M) si el recto mide 90°?",
+    "options": [
+      "270°",
+      "360°",
+      "90°",
+      "180°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ El ángulo llano = 2 rectos = 2 × 90° = 180°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el ángulo de tres cuadrantes (N) si el recto mide 90°?",
+    "options": [
+      "270°",
+      "180°",
+      "360°",
+      "90°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Tres cuadrantes = 3 ángulos rectos = 3 × 90° = 270°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo es uno de 200°?",
+    "options": [
+      "Obtuso",
+      "Ninguno de los anteriores (es un ángulo de tres cuadrantes)",
+      "Llano",
+      "Agudo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 200° es mayor que 180° (llano) y menor que 360° (completo). No es obtuso ni llano: es mayor que un ángulo llano."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué son los ángulos COMPLEMENTARIOS?",
+    "options": [
+      "Suman 360°",
+      "Suman 180°",
+      "Suman 90°",
+      "Son iguales"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Dos ángulos son COMPLEMENTARIOS cuando su suma es 90° (un ángulo recto)."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué son los ángulos SUPLEMENTARIOS?",
+    "options": [
+      "Suman 360°",
+      "Son iguales",
+      "Suman 90°",
+      "Suman 180°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Dos ángulos son SUPLEMENTARIOS cuando su suma es 180° (un ángulo llano)."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de un ángulo de 25°?",
+    "options": [
+      "65°",
+      "155°",
+      "335°",
+      "25°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Complementario = 90° – 25° = 65°. Comprueba: 25° + 65° = 90° ✓"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de un ángulo de 42°?",
+    "options": [
+      "138°",
+      "48°",
+      "52°",
+      "318°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Complementario = 90° – 42° = 48°. Comprueba: 42° + 48° = 90° ✓"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de un ángulo de 35°?",
+    "options": [
+      "55°",
+      "325°",
+      "145°",
+      "135°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Suplementario = 180° – 35° = 145°. Comprueba: 35° + 145° = 180° ✓"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de un ángulo de 110°?",
+    "options": [
+      "250°",
+      "20°",
+      "290°",
+      "70°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Suplementario = 180° – 110° = 70°. Comprueba: 110° + 70° = 180° ✓"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 19°. ¿Cuánto mide su complementario Z?",
+    "options": [
+      "71°",
+      "161°",
+      "81°",
+      "19°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Z = 90° – 19° = 71°. Comprueba: 19° + 71° = 90° ✓"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas parejas de ángulos son COMPLEMENTARIOS?",
+    "options": [
+      "30° y 150°",
+      "60° y 30°",
+      "45° y 135°",
+      "13° y 77°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 60° + 30° = 90°, así que son complementarios. Las otras parejas suman 180° (suplementarios)."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas parejas de ángulos son SUPLEMENTARIOS?",
+    "options": [
+      "30° y 60°",
+      "45° y 45°",
+      "45° y 135°",
+      "13° y 77°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 45° + 135° = 180°, así que son suplementarios. ¡Los ángulos adyacentes siempre son suplementarios!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El complementario de A = 16° es...",
+    "options": [
+      "164°",
+      "84°",
+      "16°",
+      "74°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 90° – 16° = 74°. El complementario de 16° es 74°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El suplementario de B = 58° es...",
+    "options": [
+      "122°",
+      "32°",
+      "148°",
+      "302°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 180° – 58° = 122°. El suplementario de 58° es 122°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Los ángulos complementarios suman 90°'",
+    "options": [
+      "Falso, suman 180°",
+      "Verdadero",
+      "Falso, suman 360°",
+      "Falso, son iguales"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ VERDADERO. La definición de ángulos complementarios es exactamente esa: su suma es 90°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Los ángulos adyacentes son suplementarios'",
+    "options": [
+      "Falso, son complementarios",
+      "Falso, son opuestos",
+      "Verdadero",
+      "Falso, suman 360°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ VERDADERO. Los ángulos adyacentes forman un ángulo llano (180°), que es la definición de suplementarios."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Los ángulos consecutivos son siempre complementarios'",
+    "options": [
+      "Verdadero",
+      "Solo si son iguales",
+      "Solo si son agudos",
+      "Falso"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ FALSO. Los ángulos consecutivos solo comparten vértice y un lado; no tienen por qué sumar 90°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos rectas se cruzan. Uno de los ángulos mide 50°. ¿Cuánto mide el opuesto por el vértice?",
+    "options": [
+      "50°",
+      "130°",
+      "90°",
+      "40°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Los ángulos opuestos por el vértice son IGUALES. Si uno mide 50°, el opuesto también mide 50°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos rectas se cruzan. Uno de los ángulos mide 50°. ¿Cuánto mide el ángulo adyacente a él?",
+    "options": [
+      "50°",
+      "130°",
+      "40°",
+      "100°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El ángulo adyacente es suplementario: 180° – 50° = 130°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué es la BISECTRIZ de un ángulo?",
+    "options": [
+      "La recta perpendicular al ángulo",
+      "La recta que une los dos lados",
+      "La recta que pasa por el vértice y divide el ángulo en dos iguales",
+      "El punto medio del ángulo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ La BISECTRIZ pasa por el vértice y divide el ángulo en DOS PARTES IGUALES. ¡Es como cortar una pizza por la mitad!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si un ángulo mide 80°, ¿cuánto mide cada parte al trazar su bisectriz?",
+    "options": [
+      "80°",
+      "20°",
+      "160°",
+      "40°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ La bisectriz divide el ángulo en dos partes IGUALES: 80° ÷ 2 = 40° cada parte."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué es la MEDIATRIZ de un segmento?",
+    "options": [
+      "La recta perpendicular al segmento que pasa por su punto medio",
+      "La recta que une los extremos del segmento",
+      "La bisectriz del segmento",
+      "El punto medio del segmento"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ La MEDIATRIZ es perpendicular al segmento y pasa por su punto medio. ¡La corta en dos partes iguales y en ángulo recto!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un segmento mide 10 cm. ¿A qué distancia de cada extremo está su mediatriz?",
+    "options": [
+      "10 cm",
+      "5 cm",
+      "2 cm",
+      "8 cm"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ La mediatriz pasa por el punto MEDIO: 10 ÷ 2 = 5 cm de cada extremo."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "La distancia de un extremo del segmento a su mediatriz es 2,5 cm. ¿Cuánto mide el segmento?",
+    "options": [
+      "1,25 cm",
+      "2,5 cm",
+      "5 cm",
+      "10 cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Si la mediatriz está a 2,5 cm de cada extremo, el segmento mide 2,5 × 2 = 5 cm."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos ángulos iguales crea la bisectriz de un ángulo de 90°?",
+    "options": [
+      "Tres de 30°",
+      "Cuatro de 22,5°",
+      "Dos de 90°",
+      "Dos de 45°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ La bisectriz divide 90° en dos partes iguales: 90° ÷ 2 = 45° cada una."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Un ángulo obtuso es mayor que uno recto'",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo a veces",
+      "Depende del caso"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ VERDADERO. El obtuso mide entre 90° y 180°, y el recto mide exactamente 90°. El obtuso siempre es mayor."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Un ángulo agudo es mayor que uno obtuso'",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo si el agudo es de 89°",
+      "Depende"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ FALSO. El agudo mide menos de 90°, y el obtuso mide más de 90°. El obtuso es siempre mayor."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'Un ángulo llano es obtuso'",
+    "options": [
+      "Verdadero, mide más de 90°",
+      "Verdadero, es el mismo",
+      "Falso, es mayor que un obtuso",
+      "Solo a veces"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ FALSO. El llano mide 180°, que es más que el máximo del obtuso (justo debajo de 180°). El llano tiene su propia categoría."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el complementario de un ángulo de 55°?",
+    "options": [
+      "125°",
+      "45°",
+      "55°",
+      "35°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Complementario de A = 55°: 90° – 55° = 35°. Comprueba: 55° + 35° = 90° ✓"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el complementario de un ángulo de 28°?",
+    "options": [
+      "62°",
+      "152°",
+      "72°",
+      "32°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Complementario de B = 28°: 90° – 28° = 62°. Comprueba: 28° + 62° = 90° ✓"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el suplementario de un ángulo de 41°?",
+    "options": [
+      "49°",
+      "139°",
+      "319°",
+      "141°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Suplementario de M = 41°: 180° – 41° = 139°. Comprueba: 41° + 139° = 180° ✓"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el suplementario de un ángulo de 137°?",
+    "options": [
+      "53°",
+      "317°",
+      "43°",
+      "243°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Suplementario de N = 137°: 180° – 137° = 43°. Comprueba: 137° + 43° = 180° ✓"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si 2 quesitos de pizza completan un ángulo recto (90°), ¿cuánto mide el ángulo de 1 quesito?",
+    "options": [
+      "90°",
+      "60°",
+      "30°",
+      "45°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 2 quesitos = 90°, así que 1 quesito = 90° ÷ 2 = 45°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si 1 quesito = 45°, ¿cuánto miden 4 quesitos?",
+    "options": [
+      "180°",
+      "90°",
+      "135°",
+      "360°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 4 quesitos × 45° = 180°. ¡Un ángulo llano!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si 1 quesito = 45°, ¿cuántos quesitos hay en un ángulo completo de 360°?",
+    "options": [
+      "4",
+      "8",
+      "6",
+      "12"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 360° ÷ 45° = 8 quesitos para completar el círculo."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo es A en la ilustración si parece una pizza casi completa (más de 180°)?",
+    "options": [
+      "Agudo",
+      "Recto",
+      "Mayor que un ángulo llano",
+      "Obtuso"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Si el ángulo es mayor que 180°, no es agudo, recto ni obtuso. Puede ser de tres cuadrantes o completo."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo es B si sus lados forman una línea recta?",
+    "options": [
+      "Agudo",
+      "Recto",
+      "Completo",
+      "Llano"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Cuando los dos lados forman una línea recta perfecta, el ángulo es LLANO (180°)."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo es F si sus lados son perpendiculares (forman una L)?",
+    "options": [
+      "Recto",
+      "Agudo",
+      "Obtuso",
+      "Llano"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Lados perpendiculares = ángulo RECTO = 90°. ¡La L perfecta!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo E de un triángulo parece pequeño y puntiagudo. ¿Qué tipo de ángulo es?",
+    "options": [
+      "Recto",
+      "Agudo",
+      "Obtuso",
+      "Llano"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Un ángulo pequeño y 'puntiagudo' mide menos de 90°, así que es AGUDO."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "La mediatriz de un segmento forma con él un ángulo de...",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "180°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ La mediatriz es PERPENDICULAR al segmento, así que forma un ángulo de 90° (recto)."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si la bisectriz divide un ángulo obtuso de 140° en dos partes, ¿cuánto mide cada parte?",
+    "options": [
+      "140°",
+      "35°",
+      "280°",
+      "70°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ La bisectriz divide en dos partes IGUALES: 140° ÷ 2 = 70° cada una."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el ángulo C si el ángulo D mide 45° y son opuestos por el vértice?",
+    "options": [
+      "45°",
+      "135°",
+      "90°",
+      "180°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Los ángulos opuestos por el vértice son IGUALES. Si D = 45°, entonces C = 45°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El segundero del reloj da una vuelta completa en 60 segundos (360°). ¿Qué ángulo recorre en 15 segundos?",
+    "options": [
+      "30°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ En 15 s (1/4 de vuelta): 360° ÷ 4 = 90°. ¡Un ángulo recto!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos segundos necesita el segundero para recorrer un ángulo llano (180°)?",
+    "options": [
+      "60 segundos",
+      "20 segundos",
+      "30 segundos",
+      "45 segundos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 180° es media vuelta. Si la vuelta completa dura 60 s, la media vuelta dura 60 ÷ 2 = 30 segundos."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el ángulo B si A = 50° y son opuestos por el vértice, y C es adyacente a A?",
+    "options": [
+      "50°",
+      "90°",
+      "180°",
+      "130°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ C es adyacente a A, así que son suplementarios: C = 180° – 50° = 130°. B es opuesto a C, así que B = C = 130°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo mide el complementario de un ángulo de 60°?",
+    "options": [
+      "Agudo (30°)",
+      "Obtuso (120°)",
+      "Llano (180°)",
+      "Recto (90°)"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Complementario de 60°: 90° – 60° = 30°. Como 30° < 90°, es un ángulo AGUDO."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo mide el suplementario de un ángulo agudo de 40°?",
+    "options": [
+      "Agudo (50°)",
+      "Obtuso (140°)",
+      "Recto (90°)",
+      "Llano (180°)"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Suplementario de 40°: 180° – 40° = 140°. Como está entre 90° y 180°, es OBTUSO."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Puede un ángulo obtuso tener complementario?",
+    "options": [
+      "Sí, siempre",
+      "Sí, pero solo si mide 91°",
+      "No, porque ya supera los 90°",
+      "Solo si es de 89°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ NO. Para tener complementario, la suma con otro ángulo debe dar 90°. Un obtuso ya mide más de 90°, así que es imposible."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tienen en común la bisectriz y la mediatriz?",
+    "options": [
+      "Las dos son perpendiculares al segmento",
+      "Las dos pasan por el vértice",
+      "Son lo mismo",
+      "Las dos dividen en dos partes iguales"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Ambas dividen en dos partes iguales: la bisectriz divide el ÁNGULO y la mediatriz divide el SEGMENTO."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si trazas la bisectriz de un ángulo recto, ¿cuánto mide cada ángulo resultante?",
+    "options": [
+      "45°",
+      "90°",
+      "30°",
+      "60°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ La bisectriz divide 90° en dos partes iguales: 90° ÷ 2 = 45°. ¡Dos ángulos agudos iguales!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas afirmaciones sobre los ángulos opuestos por el vértice es CORRECTA?",
+    "options": [
+      "Suman siempre 180°",
+      "Son siempre iguales entre sí",
+      "Son siempre complementarios",
+      "Son siempre rectos"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los ángulos opuestos por el vértice son siempre IGUALES entre sí. ¡Siempre, sin importar cuánto midan!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos grados hay entre cada hora en el reloj? (El reloj completo = 360°, hay 12 horas)",
+    "options": [
+      "15°",
+      "45°",
+      "30°",
+      "60°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 360° ÷ 12 horas = 30° entre cada hora. ¡Por eso el ángulo de las 3 en punto es de 90°: 3 × 30° = 90°!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo forman las manecillas de un reloj a las 3 en punto?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Llano",
+      "Recto"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ A las 3 en punto las manecillas forman un ángulo de 90° → ¡un ángulo RECTO! (3 horas × 30°/hora = 90°)"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo forman las manecillas del reloj a las 6 en punto?",
+    "options": [
+      "Llano",
+      "Recto",
+      "Agudo",
+      "Completo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ A las 6, las manecillas apuntan en sentidos opuestos formando una línea recta: ángulo LLANO de 180°."
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el ángulo que falta para completar 360° si ya tenemos 270°?",
+    "options": [
+      "180°",
+      "90°",
+      "270°",
+      "30°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 360° – 270° = 90°. ¡Falta exactamente un ángulo recto para completar la vuelta!"
+  },
+  {
+    "category": "angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Ordena de MENOR a MAYOR: ángulo recto, agudo, completo, obtuso, llano",
+    "options": [
+      "Recto < Agudo < Obtuso < Llano < Completo",
+      "Agudo < Obtuso < Recto < Llano < Completo",
+      "Agudo < Recto < Obtuso < Llano < Completo",
+      "Completo < Llano < Obtuso < Recto < Agudo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ De menor a mayor: Agudo (<90°) < Recto (90°) < Obtuso (90°-180°) < Llano (180°) < Completo (360°)."
+  }
+]

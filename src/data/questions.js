@@ -17,6 +17,13 @@ import lc7extranjerismos      from './questions_lcud7_extranje.json'  assert { t
 import lc8adverbios      from './question_lcud8_adver.json'  assert { type: 'json' };
 import lc8preposiciones      from './questions_lcud8_preposicion.json'  assert { type: 'json' };
 import lc8palabrasinvariables      from './questions_lc8_palabrasinva.json'  assert { type: 'json' };
+import mates7numerosenteros      from './questions_mates7.json'  assert { type: 'json' };
+import mates8angulos      from './questions_mates8_angu.json'  assert { type: 'json' };
+import mates8medidasangu      from './questions_mates8_medidas_angu.json'  assert { type: 'json' };
+import mates8tiposangulos      from './questions_mates8_tiposangu.json'  assert { type: 'json' };
+import mates8anguconsecutivos      from './questions_mates8_anguconse.json'  assert { type: 'json' };
+import mates8angucomplementarios      from './mates8_angucomplemen.json'  assert { type: 'json' };
+// import musicQuestions     from './questions_music.json'   assert { type: 'json' };
 
 // ─── Agrega aquí todos los orígenes ───────────────────────────────────────────
 const questionSources = [
@@ -28,6 +35,12 @@ const questionSources = [
   lc8adverbios,
   lc8preposiciones,
   lc8palabrasinvariables,
+  mates7numerosenteros,
+  mates8angulos,
+  mates8medidasangu,
+  mates8tiposangulos,
+  mates8anguconsecutivos,
+  mates8angucomplementarios,
   // musicQuestions,
 ];
 // ──────────────────────────────────────────────────────────────────────────────

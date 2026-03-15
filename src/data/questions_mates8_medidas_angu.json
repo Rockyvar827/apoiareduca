@@ -1,0 +1,917 @@
+[
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo A parece una V abierta con los lados muy separados. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Agudo",
+      "Recto",
+      "Llano"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El ángulo A mide más de 90° pero menos de 180°, así que es OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo B tiene sus lados casi pegados, formando una abertura muy pequeña. ¿Cómo se clasifica?",
+    "options": [
+      "Llano",
+      "Agudo",
+      "Completo",
+      "Obtuso"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Una abertura pequeña (menos de 90°) indica un ángulo AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo C tiene un cuadradito en su vértice. ¿Qué tipo de ángulo es?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Recto",
+      "Llano"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El cuadradito en el vértice es el símbolo de un ángulo RECTO (90°). ¡Siempre que veas ese cuadradito, es recto!"
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo D tiene sus lados muy juntos, con una abertura pequeña y puntiaguda. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Recto",
+      "Llano",
+      "Agudo"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Abertura pequeña y puntiaguda = menos de 90° = ángulo AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo E tiene sus lados casi en línea recta, con una abertura muy grande. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Agudo",
+      "Recto",
+      "Completo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Una abertura muy grande (entre 90° y 180°) indica un ángulo OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo F tiene sus lados prácticamente formando una línea recta. ¿Cómo se clasifica?",
+    "options": [
+      "Recto",
+      "Llano",
+      "Agudo",
+      "Completo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Cuando los lados forman una línea recta (180°), el ángulo es LLANO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo G tiene un cuadradito en el vértice. ¿Cuánto mide?",
+    "options": [
+      "Menos de 90°",
+      "Más de 90°",
+      "Exactamente 90°",
+      "Exactamente 180°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El cuadradito siempre indica exactamente 90°: ángulo RECTO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo H tiene una zona coloreada que ocupa exactamente media vuelta (los lados en línea recta). ¿Cómo se clasifica?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Recto",
+      "Llano"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Media vuelta exacta = 180° = ángulo LLANO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo I tiene una zona sombreada amplia tipo 'diamante'. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Recto",
+      "Agudo",
+      "Completo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Una apertura amplia entre 90° y 180° = ángulo OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo J es como las orejas de un conejo: dos lados que forman una V no muy cerrada pero claramente menor que 90°. ¿Cómo se clasifica?",
+    "options": [
+      "Llano",
+      "Agudo",
+      "Obtuso",
+      "Recto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Una V no muy cerrada pero claramente menor que 90° es un ángulo AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo K tiene los lados muy abiertos, casi formando una línea recta. ¿Cómo se clasifica?",
+    "options": [
+      "Agudo",
+      "Recto",
+      "Obtuso",
+      "Completo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Muy abierto pero sin llegar a línea recta = entre 90° y 180° = OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo L tiene una zona coloreada muy pequeña. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Llano",
+      "Recto",
+      "Agudo"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Zona coloreada pequeña = abertura pequeña = menos de 90° = ángulo AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo A del segundo grupo tiene una abertura pequeña. ¿Cómo se clasifica?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Llano",
+      "Recto"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Abertura pequeña (menor que 90°) = ángulo AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo B del segundo grupo tiene una zona coloreada grande. ¿Cómo se clasifica?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Llano",
+      "Recto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Zona coloreada grande (entre 90° y 180°) = ángulo OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo D del segundo grupo tiene sus lados formando una V abierta. ¿Cómo se clasifica?",
+    "options": [
+      "Recto",
+      "Agudo",
+      "Obtuso",
+      "Completo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Una V abierta con más de 90° pero sin llegar a línea recta = OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo F del segundo grupo tiene una zona coloreada que ocupa claramente más de un cuarto de vuelta. ¿Cómo se clasifica?",
+    "options": [
+      "Recto",
+      "Agudo",
+      "Llano",
+      "Obtuso"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Más de un cuarto (90°) pero menos de media vuelta (180°) = ángulo OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo C del tercer grupo tiene un cuadradito en el vértice. ¿Cómo se clasifica?",
+    "options": [
+      "Recto",
+      "Agudo",
+      "Obtuso",
+      "Llano"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ El cuadradito siempre significa RECTO. ¡Mide exactamente 90°!"
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo E del tercer grupo tiene una zona coloreada que ocupa exactamente media vuelta. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Llano",
+      "Completo",
+      "Agudo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los lados en línea recta = exactamente 180° = ángulo LLANO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo G del tercer grupo tiene un cuadradito y sus lados forman una L. ¿Cuánto mide?",
+    "options": [
+      "45°",
+      "180°",
+      "90°",
+      "120°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Cuadradito + forma de L = ángulo RECTO de exactamente 90°."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo 'a' del cuarto grupo tiene una abertura pequeña y puntiaguda. ¿Cómo se clasifica?",
+    "options": [
+      "Recto",
+      "Llano",
+      "Obtuso",
+      "Agudo"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Pequeño y puntiagudo = menos de 90° = AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo 'b' del cuarto grupo tiene una abertura moderada-grande. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Recto",
+      "Llano",
+      "Completo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Moderado-grande, entre 90° y 180° = ángulo OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo 'c' del cuarto grupo tiene un cuadradito en el vértice. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Recto",
+      "Llano",
+      "Agudo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Cuadradito = RECTO (90°). Sin necesidad de medir."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo 'd' del cuarto grupo tiene los lados muy abiertos, casi en línea recta. ¿Cómo se clasifica?",
+    "options": [
+      "Llano",
+      "Recto",
+      "Obtuso",
+      "Agudo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Muy abierto pero sin llegar a línea recta = entre 90° y 180° = OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo 'e' del cuarto grupo tiene los lados casi en línea recta. ¿Cómo se clasifica?",
+    "options": [
+      "Agudo",
+      "Recto",
+      "Completo",
+      "Obtuso"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Casi en línea recta pero sin llegar = ligeramente menos de 180° = OBTUSO (muy cercano al llano)."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo 'a' del quinto grupo tiene una zona sombreada grande debajo de una línea de puntos. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Recto",
+      "Completo",
+      "Agudo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Zona grande entre 90° y 180° = ángulo OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo 'b' del quinto grupo está dentro de un círculo, con los lados formando una apertura moderada. ¿Cómo se clasifica?",
+    "options": [
+      "Llano",
+      "Obtuso",
+      "Recto",
+      "Agudo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Apertura moderada dentro del círculo, más de 90° = ángulo OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El ángulo 'c' del quinto grupo tiene una zona sombreada pequeña. ¿Cómo se clasifica?",
+    "options": [
+      "Llano",
+      "Obtuso",
+      "Agudo",
+      "Recto"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Zona pequeña sombreada = abertura menor de 90° = ángulo AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué símbolo nos indica directamente que un ángulo es recto sin necesidad de medirlo?",
+    "options": [
+      "Una flecha en el lado",
+      "Un punto en el vértice",
+      "Una zona coloreada grande",
+      "Un cuadradito en el vértice"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ El cuadradito (□) en el vértice es el símbolo universal del ángulo RECTO (90°)."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si la zona sombreada de un ángulo ocupa exactamente la mitad de una circunferencia, ¿qué tipo de ángulo es?",
+    "options": [
+      "Llano",
+      "Recto",
+      "Agudo",
+      "Completo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ La mitad de una circunferencia = 180° = ángulo LLANO. Los lados forman una línea recta."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas medidas corresponde a un ángulo AGUDO?",
+    "options": [
+      "90°",
+      "35°",
+      "150°",
+      "180°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 35° es menor que 90°, así que es AGUDO. Los otros son recto, obtuso y llano respectivamente."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas medidas corresponde a un ángulo OBTUSO?",
+    "options": [
+      "90°",
+      "45°",
+      "115°",
+      "360°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 115° está entre 90° y 180°, así que es OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 67°. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Recto",
+      "Llano",
+      "Agudo"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 67° < 90° → AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 143°. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Llano",
+      "Recto",
+      "Agudo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 143° está entre 90° y 180° → OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 180°. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Llano",
+      "Recto",
+      "Completo"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Exactamente 180° = ángulo LLANO. Sus lados forman una línea recta perfecta."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 360°. ¿Cómo se clasifica?",
+    "options": [
+      "Llano",
+      "Recto",
+      "Completo",
+      "Agudo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Exactamente 360° = ángulo COMPLETO. ¡Una vuelta entera!"
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo tiene sus lados perpendiculares (forman una L perfecta)?",
+    "options": [
+      "Agudo",
+      "Llano",
+      "Obtuso",
+      "Recto"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Los lados perpendiculares forman exactamente 90° = ángulo RECTO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 89°. ¿Cómo se clasifica?",
+    "options": [
+      "Agudo",
+      "Recto",
+      "Obtuso",
+      "Llano"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 89° está justo por debajo de 90° → AGUDO (aunque casi parece recto)."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 91°. ¿Cómo se clasifica?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Llano",
+      "Recto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 91° está justo por encima de 90° → OBTUSO (aunque casi parece recto)."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos ángulos rectos caben en un ángulo llano?",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 180° ÷ 90° = 2 rectos. En un ángulo llano caben exactamente 2 ángulos rectos."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos ángulos rectos caben en un ángulo completo?",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 360° ÷ 90° = 4. En un ángulo completo caben exactamente 4 ángulos rectos."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el rango de medidas de un ángulo AGUDO?",
+    "options": [
+      "Entre 0° y 90°",
+      "Entre 90° y 180°",
+      "Exactamente 90°",
+      "Entre 180° y 360°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Los ángulos AGUDOS miden entre 0° y 90° (sin incluir los extremos)."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el rango de medidas de un ángulo OBTUSO?",
+    "options": [
+      "Exactamente 90°",
+      "Entre 90° y 180°",
+      "Entre 0° y 90°",
+      "Entre 180° y 360°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Los ángulos OBTUSOS miden entre 90° y 180° (sin incluir los extremos)."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué instrumento se usa para medir la amplitud de un ángulo?",
+    "options": [
+      "La regla",
+      "El compás",
+      "El transportador",
+      "La escuadra"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ El TRANSPORTADOR es el semicírculo graduado que usamos para medir ángulos."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El transportador marca 130°. ¿Cómo se clasifica el ángulo?",
+    "options": [
+      "Agudo",
+      "Llano",
+      "Recto",
+      "Obtuso"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 130° está entre 90° y 180° → OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "El transportador marca 45°. ¿Cómo se clasifica el ángulo?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Llano",
+      "Recto"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 45° < 90° → AGUDO. Es el ángulo de un triángulo isósceles rectángulo."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas clasificaciones está ordenada de MENOR a MAYOR?",
+    "options": [
+      "Recto, agudo, obtuso, llano",
+      "Agudo, recto, obtuso, llano",
+      "Agudo, obtuso, recto, llano",
+      "Obtuso, agudo, recto, llano"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ De menor a mayor: Agudo (<90°) → Recto (90°) → Obtuso (90°-180°) → Llano (180°)."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Puede un ángulo obtuso medir exactamente 90°?",
+    "options": [
+      "Sí, si lo medimos bien",
+      "Solo si usamos el transportador",
+      "No, el obtuso mide siempre MÁS de 90°",
+      "Sí, el límite es 90°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ NO. El ángulo obtuso mide SIEMPRE más de 90° (y menos de 180°). El de exactamente 90° es el RECTO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo tiene la zona coloreada que ocupa exactamente un cuarto de vuelta. ¿Cómo se clasifica?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Llano",
+      "Recto"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Un cuarto de vuelta = 360° ÷ 4 = 90° = ángulo RECTO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "La zona coloreada de un ángulo ocupa menos de un cuarto de vuelta. ¿Cómo se clasifica?",
+    "options": [
+      "Agudo",
+      "Llano",
+      "Recto",
+      "Obtuso"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Menos de un cuarto de vuelta = menos de 90° = ángulo AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo es SIEMPRE mayor que un ángulo recto pero menor que un ángulo llano?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Completo",
+      "Recto"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ El OBTUSO mide siempre más de 90° (recto) y menos de 180° (llano). ¡Está justo en el medio!"
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuántos tipos de ángulos según la abertura hay?",
+    "options": [
+      "3 (agudo, recto, obtuso)",
+      "4 (agudo, recto, obtuso, llano)",
+      "5 (agudo, recto, obtuso, llano, completo)",
+      "6"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Hay 5 tipos según la abertura: AGUDO, RECTO, OBTUSO, LLANO y COMPLETO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Cuando el transportador marca entre 0° y 90°, el ángulo es...",
+    "options": [
+      "Obtuso",
+      "Recto",
+      "Llano",
+      "Agudo"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Cualquier valor entre 0° y 90° en el transportador indica un ángulo AGUDO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Cuando el transportador marca entre 90° y 180°, el ángulo es...",
+    "options": [
+      "Obtuso",
+      "Agudo",
+      "Llano",
+      "Recto"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Cualquier valor entre 90° y 180° en el transportador indica un ángulo OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo tiene una zona sombreada que ocupa tres cuartas partes de una vuelta. ¿Cuánto mide?",
+    "options": [
+      "180°",
+      "270°",
+      "360°",
+      "90°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Tres cuartas partes de 360° = 3 × 90° = 270°. ¡El ángulo de tres cuadrantes!"
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide la mitad de un ángulo recto?",
+    "options": [
+      "90°",
+      "30°",
+      "45°",
+      "180°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ La mitad de 90° = 45°. Es un ángulo agudo muy común."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide la mitad de un ángulo llano?",
+    "options": [
+      "180°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ La mitad de 180° = 90° = ángulo RECTO. La bisectriz de un llano forma dos rectos."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide 179°. ¿Cómo se clasifica?",
+    "options": [
+      "Obtuso",
+      "Llano",
+      "Recto",
+      "Agudo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 179° está entre 90° y 180° → OBTUSO (está muy cerca del llano, ¡pero no llega!)"
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estos ángulos NO es ni agudo ni obtuso ni recto?",
+    "options": [
+      "75°",
+      "180°",
+      "95°",
+      "88°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 180° es el ángulo LLANO. Los demás (75°, 95°, 88°) son agudo, obtuso y agudo respectivamente."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué te indica visualmente que un ángulo es MAYOR que un recto?",
+    "options": [
+      "Los lados están muy juntos",
+      "Tiene cuadradito en el vértice",
+      "La abertura es mayor que una L",
+      "Los lados son paralelos"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Si la abertura es mayor que la de una L (90°), el ángulo es mayor que un recto → es OBTUSO."
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo forman las manecillas del reloj a las 3 en punto?",
+    "options": [
+      "Agudo",
+      "Obtuso",
+      "Llano",
+      "Recto"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ A las 3 las manecillas forman exactamente 90° → ángulo RECTO. (3 horas × 30°/hora = 90°)"
+  },
+  {
+    "category": "medidas-angulos",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué tipo de ángulo forman las manecillas del reloj a las 6 en punto?",
+    "options": [
+      "Llano",
+      "Recto",
+      "Agudo",
+      "Completo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ A las 6, las manecillas apuntan en sentidos opuestos: ángulo LLANO de 180°."
+  }
+]

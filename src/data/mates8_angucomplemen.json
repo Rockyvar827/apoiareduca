@@ -1,0 +1,752 @@
+[
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto suman dos ángulos COMPLEMENTARIOS?",
+    "options": [
+      "90°",
+      "180°",
+      "360°",
+      "270°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Dos ángulos son COMPLEMENTARIOS cuando su suma es 90° (un ángulo recto)."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto suman dos ángulos SUPLEMENTARIOS?",
+    "options": [
+      "90°",
+      "180°",
+      "360°",
+      "270°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Dos ángulos son SUPLEMENTARIOS cuando su suma es 180° (un ángulo llano)."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de 55°?",
+    "options": [
+      "125°",
+      "55°",
+      "35°",
+      "145°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Complementario = 90° – 55° = 35°. Comprueba: 55° + 35° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de 34°?",
+    "options": [
+      "146°",
+      "66°",
+      "34°",
+      "56°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Complementario = 90° – 34° = 56°. Comprueba: 34° + 56° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de 84°?",
+    "options": [
+      "6°",
+      "96°",
+      "84°",
+      "174°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Complementario = 90° – 84° = 6°. Comprueba: 84° + 6° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de 12°?",
+    "options": [
+      "168°",
+      "78°",
+      "12°",
+      "88°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Complementario = 90° – 12° = 78°. Comprueba: 12° + 78° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de 42°?",
+    "options": [
+      "52°",
+      "138°",
+      "48°",
+      "42°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Complementario = 90° – 42° = 48°. Comprueba: 42° + 48° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de 67°?",
+    "options": [
+      "113°",
+      "67°",
+      "33°",
+      "23°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Complementario = 90° – 67° = 23°. Comprueba: 67° + 23° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de 175°?",
+    "options": [
+      "5°",
+      "185°",
+      "95°",
+      "355°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Suplementario = 180° – 175° = 5°. Comprueba: 175° + 5° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de 28°?",
+    "options": [
+      "62°",
+      "152°",
+      "62°",
+      "28°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Suplementario = 180° – 28° = 152°. Comprueba: 28° + 152° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el ángulo que junto a 129° forma un par suplementario?",
+    "options": [
+      "41°",
+      "71°",
+      "51°",
+      "61°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Suplementario = 180° – 129° = 51°. Comprueba: 129° + 51° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de 90°?",
+    "options": [
+      "180°",
+      "270°",
+      "45°",
+      "90°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Suplementario = 180° – 90° = 90°. ¡El suplementario de un ángulo recto es otro ángulo recto!"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el ángulo que junto a 152° forma un par suplementario?",
+    "options": [
+      "28°",
+      "38°",
+      "48°",
+      "32°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ Suplementario = 180° – 152° = 28°. Comprueba: 152° + 28° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de 120°?",
+    "options": [
+      "70°",
+      "60°",
+      "240°",
+      "30°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ Suplementario = 180° – 120° = 60°. Comprueba: 120° + 60° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de 155°?",
+    "options": [
+      "35°",
+      "115°",
+      "25°",
+      "45°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Suplementario = 180° – 155° = 25°. Comprueba: 155° + 25° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Al trazar la bisectriz de un ángulo recto (90°), ¿cómo son los dos ángulos resultantes?",
+    "options": [
+      "Dos ángulos de 90° cada uno",
+      "Dos ángulos de 30° y 60°",
+      "Dos ángulos obtusos de 45° cada uno",
+      "Dos ángulos agudos de 45° cada uno"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ La bisectriz divide el recto en dos partes IGUALES: 90° ÷ 2 = 45° cada una. Son dos ángulos agudos iguales."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Al trazar la bisectriz de un ángulo llano (180°), ¿cómo son los dos ángulos resultantes?",
+    "options": [
+      "Dos ángulos rectos de 90° cada uno",
+      "Dos ángulos de 45° cada uno",
+      "Dos ángulos obtusos de 90° cada uno",
+      "Dos ángulos de 60° y 120°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ La bisectriz divide el ángulo llano en dos partes iguales: 180° ÷ 2 = 90° cada una. ¡Dos ángulos rectos!"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas parejas son ángulos COMPLEMENTARIOS?",
+    "options": [
+      "55° y 135°",
+      "34° y 56°",
+      "67° y 113°",
+      "84° y 106°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 34° + 56° = 90° → son COMPLEMENTARIOS. Las demás parejas suman 190°, 180° o 190°."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas parejas son ángulos SUPLEMENTARIOS?",
+    "options": [
+      "42° y 48°",
+      "12° y 78°",
+      "28° y 152°",
+      "55° y 35°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 28° + 152° = 180° → son SUPLEMENTARIOS. Las demás parejas suman 90° (complementarios)."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Puede un ángulo OBTUSO tener complementario?",
+    "options": [
+      "Sí, siempre",
+      "Sí, si mide menos de 135°",
+      "Solo si mide 91°",
+      "No, porque ya mide más de 90°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ NO. Un obtuso ya supera 90°, por lo que no puede sumarse con otro ángulo positivo para dar exactamente 90°."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Puede un ángulo OBTUSO tener suplementario?",
+    "options": [
+      "Sí, el suplementario sería un ángulo agudo",
+      "No, el obtuso es demasiado grande",
+      "Solo si mide menos de 100°",
+      "No, el suplementario sería negativo"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ SÍ. Por ejemplo, el suplementario de 120° es 180°–120°=60° (un ángulo agudo). ¡El suplementario de un obtuso es siempre agudo!"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de 45°?",
+    "options": [
+      "135°",
+      "45°",
+      "315°",
+      "90°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 90° – 45° = 45°. ¡El complementario de 45° es él mismo! Ambos son iguales."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si un ángulo y su complementario son iguales, ¿cuánto mide cada uno?",
+    "options": [
+      "90°",
+      "30°",
+      "45°",
+      "60°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Si son iguales y suman 90°: cada uno mide 90° ÷ 2 = 45°."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Si un ángulo y su suplementario son iguales, ¿cuánto mide cada uno?",
+    "options": [
+      "45°",
+      "60°",
+      "120°",
+      "90°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Si son iguales y suman 180°: cada uno mide 180° ÷ 2 = 90°. ¡Son dos ángulos rectos!"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el ángulo que es suplementario a uno de 155°?",
+    "options": [
+      "25°",
+      "65°",
+      "35°",
+      "115°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 180° – 155° = 25°. Es un ángulo muy pequeño porque 155° ya está muy cerca de 180°."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el complementario de un ángulo de 1°?",
+    "options": [
+      "179°",
+      "89°",
+      "99°",
+      "1°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 90° – 1° = 89°. El complementario de un ángulo muy pequeño es casi un ángulo recto."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Un ángulo mide el doble que su complementario. ¿Cuánto mide ese ángulo?",
+    "options": [
+      "45°",
+      "30°",
+      "60°",
+      "70°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Si el ángulo es X y el complementario es X/2: X + X/2 = 90° → 3X/2 = 90° → X = 60°. El complementario es 30°."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es la relación entre suplementarios y ángulos adyacentes?",
+    "options": [
+      "Son totalmente distintos",
+      "Los adyacentes son complementarios",
+      "Los suplementarios siempre tienen un lado común",
+      "Los ángulos adyacentes siempre son suplementarios"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Los ángulos ADYACENTES siempre suman 180° → siempre son SUPLEMENTARIOS. Pero los suplementarios no tienen por qué compartir lado."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el complementario de un ángulo de 89°?",
+    "options": [
+      "1°",
+      "91°",
+      "11°",
+      "81°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 90° – 89° = 1°. El complementario de un ángulo casi recto es casi cero."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'El complementario de un ángulo agudo siempre es también agudo'",
+    "options": [
+      "Falso, puede ser recto",
+      "Verdadero",
+      "Falso, puede ser obtuso",
+      "Solo a veces"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ VERDADERO. Si X es agudo (<90°) entonces 90°–X también es positivo y menor que 90° → también agudo."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Es verdadero o falso? 'El suplementario de un ángulo agudo siempre es obtuso'",
+    "options": [
+      "Falso, puede ser agudo",
+      "Solo si el agudo mide más de 90°",
+      "Verdadero",
+      "Falso, puede ser recto"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ VERDADERO. Si X es agudo (<90°), entonces 180°–X es mayor que 90° → es obtuso."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de 78°?",
+    "options": [
+      "102°",
+      "78°",
+      "22°",
+      "12°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 90° – 78° = 12°. Comprueba: 78° + 12° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de 45°?",
+    "options": [
+      "135°",
+      "45°",
+      "225°",
+      "115°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 180° – 45° = 135°. Comprueba: 45° + 135° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el complementario de 20°?",
+    "options": [
+      "160°",
+      "70°",
+      "110°",
+      "80°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 90° – 20° = 70°. Comprueba: 20° + 70° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál es el suplementario de 65°?",
+    "options": [
+      "25°",
+      "125°",
+      "115°",
+      "155°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 180° – 65° = 115°. Comprueba: 65° + 115° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "La bisectriz de un ángulo de 80° crea dos ángulos. ¿Cuánto mide cada uno?",
+    "options": [
+      "80°",
+      "20°",
+      "45°",
+      "40°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ La bisectriz divide en DOS PARTES IGUALES: 80° ÷ 2 = 40°. Cada parte mide 40°."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el complementario de 33°?",
+    "options": [
+      "57°",
+      "147°",
+      "67°",
+      "37°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 90° – 33° = 57°. Comprueba: 33° + 57° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el suplementario de 75°?",
+    "options": [
+      "15°",
+      "105°",
+      "95°",
+      "25°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 180° – 75° = 105°. Comprueba: 75° + 105° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos son complementarios. Uno mide 38°. ¿Cuánto mide el otro?",
+    "options": [
+      "142°",
+      "62°",
+      "52°",
+      "38°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ 90° – 38° = 52°. Comprueba: 38° + 52° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "Dos ángulos son suplementarios. Uno mide 47°. ¿Cuánto mide el otro?",
+    "options": [
+      "143°",
+      "43°",
+      "53°",
+      "133°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 180° – 47° = 133°. Comprueba: 47° + 133° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el complementario de 71°?",
+    "options": [
+      "29°",
+      "109°",
+      "19°",
+      "71°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 90° – 71° = 19°. Comprueba: 71° + 19° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el suplementario de 163°?",
+    "options": [
+      "27°",
+      "17°",
+      "37°",
+      "7°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 180° – 163° = 17°. Comprueba: 163° + 17° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Qué ocurre con la bisectriz de un ángulo de 90°?",
+    "options": [
+      "Crea dos ángulos rectos",
+      "Crea dos ángulos obtusos de 45°",
+      "Crea dos ángulos agudos iguales de 45°",
+      "Crea un ángulo recto y uno agudo"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ La bisectriz del ángulo recto lo divide en dos ángulos de 45° cada uno, que son agudos e iguales."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el suplementario de 1°?",
+    "options": [
+      "89°",
+      "181°",
+      "91°",
+      "179°"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ 180° – 1° = 179°. El suplementario de un ángulo muy pequeño es casi un ángulo llano."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el complementario de 50°?",
+    "options": [
+      "40°",
+      "130°",
+      "50°",
+      "30°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 90° – 50° = 40°. Comprueba: 50° + 40° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el suplementario de 30°?",
+    "options": [
+      "60°",
+      "150°",
+      "120°",
+      "170°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 180° – 30° = 150°. Comprueba: 30° + 150° = 180° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas fórmulas es correcta para calcular el COMPLEMENTARIO de un ángulo X?",
+    "options": [
+      "X + 180°",
+      "180° – X",
+      "90° – X",
+      "X + 90°"
+    ],
+    "correctIndex": 2,
+    "explanation": "✅ Complementario = 90° – X. Es lo que falta para llegar a 90°."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuál de estas fórmulas es correcta para calcular el SUPLEMENTARIO de un ángulo X?",
+    "options": [
+      "360° – X",
+      "90° – X",
+      "X + 180°",
+      "180° – X"
+    ],
+    "correctIndex": 3,
+    "explanation": "✅ Suplementario = 180° – X. Es lo que falta para llegar a 180°."
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el complementario de 61°?",
+    "options": [
+      "29°",
+      "119°",
+      "31°",
+      "39°"
+    ],
+    "correctIndex": 0,
+    "explanation": "✅ 90° – 61° = 29°. Comprueba: 61° + 29° = 90° ✓"
+  },
+  {
+    "category": "angulos-complementarios",
+    "nivel": "6",
+    "materia": "Matematicas-8",
+    "unidad": "8",
+    "text": "¿Cuánto mide el suplementario de 85°?",
+    "options": [
+      "5°",
+      "95°",
+      "85°",
+      "75°"
+    ],
+    "correctIndex": 1,
+    "explanation": "✅ 180° – 85° = 95°. Comprueba: 85° + 95° = 180° ✓"
+  }
+]

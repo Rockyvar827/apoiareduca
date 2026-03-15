@@ -403,6 +403,32 @@ const levelsData = {
     }
        ]
   },
+  'Matematicas-7': {
+      title: 'Matemáticas',
+      description: 'Matemáticas para 6.º',
+      units: [
+        { id: 7 ,  label: 'Unidad 7', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'numeros_enteros', label: 'Números enteros', colorClass: 'bg-blue-400'  },
+      ]
+  }
+  ]
+  },
+  'Matematicas-8': {
+      title: 'Matemáticas',
+      description: 'Matemáticas para 6.º',
+      units: [
+        { id: 8 ,  label: 'Unidad 8', colorClass: 'bg-yellow-100 border border-black text-gray-900 text-center',
+        categories: [
+          { id: 'angulos', label: 'Ángulos', colorClass: 'bg-blue-400'  },
+          { id: 'tipos_angulos', label: 'Tipos de ángulos', colorClass: 'bg-green-400'  },
+          { id: 'medidas-angulos', label: 'Medidas de ángulos', colorClass: 'bg-orange-400'},
+          { id: 'angulos-consecutivos', label: 'Ángulos consecutivos', colorClass: 'bg-purple-300'},
+          { id: 'angulos-complementarios', label: 'Ángulos complementarios', colorClass: 'bg-red-400'  },
+          ]
+  }
+  ]
+  },
 
  'Musica': {
       title: 'Musica',

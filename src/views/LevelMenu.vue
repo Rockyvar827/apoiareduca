@@ -138,7 +138,8 @@ const levelsData = {
         { id: 1, label: 'Unidad 1', colorClass: 'bg-green-500' },
         { id: 2, label: 'A nutrición', colorClass: 'bg-teal-400' },
         { id: 3, label: 'O Reproduccion', colorClass: 'bg-blue-600' },
-        { id: 4, label: 'A Saude', colorClass: 'bg-red-800' }
+        { id: 4, label: 'A Saude', colorClass: 'bg-red-800' },
+		    { id: 5, label: 'Materia e Energía', colorClass: 'bg-purple-500' }
       ]
     },
     CCSS: {
@@ -149,6 +150,7 @@ const levelsData = {
         { id: 2, label: 'Unidad 2', colorClass: 'bg-blue-500' },
         { id: 3, label: 'Unidad 3', colorClass: 'bg-yellow-400 text-gray-900' },
         { id: 4, label: 'Unidad 4', colorClass: 'bg-green-400' }
+		
       ]
     },
     'Lengua Castellana': {

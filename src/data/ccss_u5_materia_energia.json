@@ -1,0 +1,662 @@
+[
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que é a materia?",
+    "options": [
+      "A enerxía que move os obxectos",
+      "O son que producen os corpos",
+      "Aquilo do que están feitas todas as cousas",
+      "A luz que emiten os corpos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A materia é aquilo do que están feitas todas as cousas e posúe propiedades como masa, volume e densidade."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que mide a masa dun corpo?",
+    "options": [
+      "O espazo que ocupa",
+      "A cantidade de materia que o forma",
+      "A velocidade á que se move",
+      "A temperatura que ten"
+    ],
+    "correctIndex": 1,
+    "explanation": "A masa dun corpo é a cantidade de materia que o forma e mídese en kg."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Como se mide o volume dun obxecto irregular?",
+    "options": [
+      "Pesándoo nunha báscula",
+      "Medindo a súa temperatura",
+      "Mirando a súa cor",
+      "Somerxíndoo en auga e vendo canta auga se despraza"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para medir o volume dun obxecto irregular, somerxímolo en auga e observamos a cantidade de auga que se despraza."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Como se calcula a densidade?",
+    "options": [
+      "Sumando masa e volume",
+      "Restando volume á masa",
+      "Dividindo a masa entre o volume",
+      "Multiplicando masa por volume"
+    ],
+    "correctIndex": 2,
+    "explanation": "A densidade calcúlase dividindo a masa entre o volume e exprésase en kg/l."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Por que flota a madeira na auga?",
+    "options": [
+      "Porque é moi grande",
+      "Porque ten menos densidade que a auga",
+      "Porque absorbe toda a luz",
+      "Porque ten moita masa"
+    ],
+    "correctIndex": 1,
+    "explanation": "A madeira flota porque é menos densa que a auga. Os obxectos flotan cando a súa densidade é menor que a do líquido."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Cal é o estado da materia con maior densidade habitualmente?",
+    "options": [
+      "Gasoso",
+      "Líquido",
+      "Sólido",
+      "Todos teñen a mesma densidade"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sólidos adoitan ter maior densidade que os líquidos, e os líquidos maior densidade que os gases."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Cal é un exemplo de cambio físico?",
+    "options": [
+      "Queimar madeira",
+      "Oxidar ferro",
+      "Derreter xeo en auga",
+      "Fermentar leite"
+    ],
+    "correctIndex": 2,
+    "explanation": "Derreter o xeo é un cambio físico: a substancia (auga) segue sendo a mesma, só cambia o seu estado."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Cal é a diferenza entre un cambio físico e un cambio químico?",
+    "options": [
+      "O cambio físico é máis rápido sempre",
+      "No cambio químico a substancia transfórmase noutra diferente",
+      "O cambio físico ocorre só nos gases",
+      "No cambio químico a masa aumenta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nos cambios químicos as substancias transfórmanse noutras diferentes. Nos cambios físicos a substancia segue sendo a mesma."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que tipo de cambio químico é a combustión?",
+    "options": [
+      "Fermentación",
+      "Corrosión",
+      "Disolución",
+      "Oxidación"
+    ],
+    "correctIndex": 3,
+    "explanation": "A combustión é un tipo de oxidación na que o osíxeno reacciona con substancias combustibles producindo luz e calor."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que produce a corrosión no ferro?",
+    "options": [
+      "Fai que o ferro flote",
+      "Convérteo en óxido de ferro, quebradizo e avermellado",
+      "Fai que o ferro brille máis",
+      "Aumenta a masa do ferro"
+    ],
+    "correctIndex": 1,
+    "explanation": "A corrosión é unha oxidación na que o osíxeno reacciona co ferro e o transforma en óxido de ferro, unha substancia quebradiza e avermellada."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Para que usamos a fermentación na vida cotiá?",
+    "options": [
+      "Para facer pan e iogur",
+      "Para producir electricidade",
+      "Para separar mesturas",
+      "Para medir a densidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A fermentación úsase para transformar a fariña en pan e o leite en iogur mediante microorganismos como os fermentos."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "A fermentación necesita osíxeno para producirse?",
+    "options": [
+      "Si, sempre necesita moito osíxeno",
+      "Só en substancias líquidas",
+      "Non, é un cambio químico que non necesita osíxeno",
+      "Só cando se fai pan"
+    ],
+    "correctIndex": 2,
+    "explanation": "A fermentación é un cambio químico que produce substancias orgánicas e non necesita osíxeno."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que é unha substancia pura?",
+    "options": [
+      "Unha mestura de moitas substancias",
+      "Aquela formada por unha soa substancia con propiedades sempre iguais",
+      "Calquera líquido transparente",
+      "Un sólido que non se pode disolver"
+    ],
+    "correctIndex": 1,
+    "explanation": "Unha substancia pura está formada por unha soa substancia e as súas propiedades son sempre as mesmas, como o sal."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Cal é un exemplo de mestura homoxénea?",
+    "options": [
+      "O granito",
+      "Unha ensalada",
+      "A auga do mar",
+      "O muesli"
+    ],
+    "correctIndex": 2,
+    "explanation": "A auga do mar é unha mestura homoxénea ou disolución: non se distinguen os seus compoñentes a simple vista."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que diferenza hai entre unha mestura homoxénea e unha heteroxénea?",
+    "options": [
+      "A homoxénea ten máis compoñentes",
+      "Na heteroxénea non hai compoñentes",
+      "Na homoxénea non se distinguen os compoñentes a simple vista",
+      "A heteroxénea sempre é líquida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nas mesturas homoxéneas non se distinguen os compoñentes a simple vista. Nas heteroxéneas si se distinguen, como no granito."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Para que serve a técnica de decantación?",
+    "options": [
+      "Para separar dous líquidos de diferente densidade",
+      "Para medir a temperatura dunha mestura",
+      "Para calcular a masa dun sólido",
+      "Para facer fermentar substancias"
+    ],
+    "correctIndex": 0,
+    "explanation": "A decantación serve para separar un sólido dun líquido (se o sólido afúndese) ou dous líquidos de diferente densidade."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Como funciona a filtración?",
+    "options": [
+      "Quentando a mestura ata que o líquido se evapora",
+      "Pasando a mestura por un filtro de papel que retén o sólido",
+      "Usando un imán para atraer partículas",
+      "Arrefriando a mestura ata que cristaliza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na filtración, a mestura pasa por un filtro de papel poroso onde o sólido queda retido e o líquido pasa."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que técnica usarías para separar sal disolta en auga?",
+    "options": [
+      "Filtración",
+      "Separación magnética",
+      "Decantación",
+      "Evaporación"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mediante a evaporación, o líquido disolvente evapora e queda o sólido (sal) cristalizado. Así se obtén o sal do mar."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Para que serve a separación magnética?",
+    "options": [
+      "Para separar líquidos de diferente cor",
+      "Para separar partículas metálicas usando un imán",
+      "Para medir a densidade dunha mestura",
+      "Para obter gas dunha mestura líquida"
+    ],
+    "correctIndex": 1,
+    "explanation": "A separación magnética usa un imán para separar determinadas partículas metálicas do resto da mestura."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "En que consiste a destilación?",
+    "options": [
+      "Filtrar a mestura con papel poroso",
+      "Usar un imán sobre a mestura",
+      "Quentar a mestura para que o compoñente máis volátil se separe e logo se volva líquido",
+      "Conxelar a mestura para separar os compoñentes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na destilación quéntase a mestura, o compoñente máis volátil evapora, pasa por un tubo refrixerante e convértese de novo en líquido nun recipiente separado."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "De onde obteñen os materiais os seres humanos?",
+    "options": [
+      "Só do mar",
+      "Só de animais",
+      "De materias primas de orixe animal, vexetal, mineral ou artificial",
+      "Só de substancias artificiais"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os materiais obtéñense de materias primas que poden ser de orixe animal, vexetal, mineral ou artificiais."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que propiedade ten un material impermeable?",
+    "options": [
+      "Conduce moi ben a electricidade",
+      "Non deixa pasar a auga",
+      "Absorbe todo o son",
+      "Dilátase moito co calor"
+    ],
+    "correctIndex": 1,
+    "explanation": "A impermeabilidade é a propiedade dun material de non deixar pasar a auga."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Cal é a diferenza entre un condutor e un illante eléctrico?",
+    "options": [
+      "O condutor é sempre máis pesado",
+      "O condutor deixa pasar a electricidade e o illante non",
+      "O illante deixa pasar a electricidade e o condutor non",
+      "Ambos deixan pasar a electricidade igual"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un condutor eléctrico deixa pasar a electricidade, mentres que un illante eléctrico non a deixa pasar."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que é a enerxía?",
+    "options": [
+      "A cantidade de materia dun corpo",
+      "O peso dun obxecto en repouso",
+      "O que produce cambios na materia e permite realizar traballo",
+      "A temperatura máxima dun corpo"
+    ],
+    "correctIndex": 2,
+    "explanation": "A enerxía é o que produce cambios na materia e permite realizar un traballo, como a enerxía solar que usan as plantas."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Cal é un exemplo de fonte de enerxía renovable?",
+    "options": [
+      "O petróleo",
+      "O carbón",
+      "O gas natural",
+      "O Sol"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Sol é unha fonte de enerxía renovable porque é practicamente inesgotable, a diferenza do petróleo ou o carbón."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que tipo de enerxía almacenan os alimentos e as pilas?",
+    "options": [
+      "Enerxía luminosa",
+      "Enerxía química",
+      "Enerxía nuclear",
+      "Enerxía mecánica"
+    ],
+    "correctIndex": 1,
+    "explanation": "A enerxía química é a que almacenan as substancias que forman os alimentos, pilas, baterías e combustibles."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que afirmación sobre a enerxía é correcta?",
+    "options": [
+      "A enerxía pódese crear de nada",
+      "A enerxía destrúese cando se usa",
+      "A enerxía transfórmase pero non se crea nin se destrúe",
+      "A enerxía só existe en forma eléctrica"
+    ],
+    "correctIndex": 2,
+    "explanation": "A enerxía non se crea nin se destrúe: transfórmase dunha forma noutra, por exemplo, a enerxía química dunha pila transfórmase en eléctrica."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Por que é importante usar enerxías renovables?",
+    "options": [
+      "Porque son máis caras e iso é bo para a economía",
+      "Porque non xeran residuos e non se esgotan",
+      "Porque producen máis enerxía que as non renovables",
+      "Porque son as únicas que existen"
+    ],
+    "correctIndex": 1,
+    "explanation": "As enerxías renovables non xeran residuos contaminantes e son practicamente inesgotables, contribuíndo ao desenvolvemento sostible."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que é a calor?",
+    "options": [
+      "A temperatura dun obxecto frío",
+      "A enerxía que se transfire dun corpo máis quente a outro máis frío",
+      "A velocidade á que se move un obxecto",
+      "A cor que emite un obxecto luminoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "A calor é a forma de enerxía que se transfire dun corpo que está máis quente a outro que está máis frío."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que é o equilibrio térmico?",
+    "options": [
+      "Cando un corpo está á temperatura de 0ºC",
+      "Cando dous corpos alcanzan a mesma temperatura tras intercambiar calor",
+      "Cando a auga ferve a 100ºC",
+      "Cando un corpo non cambia de estado"
+    ],
+    "correctIndex": 1,
+    "explanation": "O equilibrio térmico é o momento no que dous corpos (un quente e un frío) alcanzan a mesma temperatura tras intercambiar calor."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "A que temperatura ferve a auga na escala Celsius?",
+    "options": [
+      "0 ºC",
+      "50 ºC",
+      "100 ºC",
+      "212 ºC"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na escala Celsius, a auga ferve a 100ºC e congélase a 0ºC."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que lle ocorre á maioría dos corpos cando se quentan?",
+    "options": [
+      "Contraen e diminúen de tamaño",
+      "Fúndense sempre",
+      "Dilátanse e aumentan de tamaño",
+      "A súa masa aumenta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cando un corpo se quenta, normalmente dilátase, é dicir, aumenta de tamaño. Este fenómeno chámase dilatación."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Por que a auga ten un comportamento anómalo co frío?",
+    "options": [
+      "Porque ao conxelarse contráese como todos os corpos",
+      "Porque ao conxelarse dilátase en lugar de contraerse",
+      "Porque non cambia de tamaño coa temperatura",
+      "Porque só se contrae en estado gasoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "A auga é anómala porque ao conxelarse dilátase en lugar de contraerse, ao contrario do que fan a maioría dos corpos."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que é a luz?",
+    "options": [
+      "Unha forma de enerxía que emiten os corpos luminosos",
+      "Un tipo de materia sólida",
+      "O son que producen os corpos ao vibrar",
+      "A temperatura dos corpos quentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "A luz é a forma de enerxía que emiten os corpos luminosos. Percibímola co sentido da vista e propágase en liña recta."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Como se propaga a luz?",
+    "options": [
+      "En zigzag",
+      "En círculos",
+      "En liña recta",
+      "Ao chou sen dirección"
+    ],
+    "correctIndex": 2,
+    "explanation": "A luz propágase en liña recta dende as fontes de luz ata os obxectos que ilumina."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que é a reflexión da luz?",
+    "options": [
+      "O cambio de dirección da luz ao pasar á auga",
+      "A descomposición da luz en cores",
+      "O rebote da luz nun obxecto",
+      "A absorción total da luz por un obxecto negro"
+    ],
+    "correctIndex": 2,
+    "explanation": "A reflexión é o fenómeno polo cal a luz rebota nun obxecto. Apréciase especialmente nos espellos e superficies lisas."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Por que un pao somerxido parcialmente en auga parece torto?",
+    "options": [
+      "Pola reflexión total da luz no espello",
+      "Pola refracción: a luz cambia de dirección ao pasar da auga ao aire",
+      "Porque a auga dobra os obxectos sólidos",
+      "Pola absorción da luz pola auga"
+    ],
+    "correctIndex": 1,
+    "explanation": "É un efecto da refracción: a luz cambia de dirección ao pasar dun medio a outro (da auga ao aire), e por iso o pao parece torto."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que cor vemos nun obxecto que absorbe todas as cores da luz?",
+    "options": [
+      "Branco",
+      "Vermello",
+      "Azul",
+      "Negro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vemos un obxecto negro cando absorbe todas as cores e non reflexa ningunha."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Por que vemos un obxecto de cor vermella?",
+    "options": [
+      "Porque absorbe a cor vermella e reflexa todas as demais",
+      "Porque reflexa a cor vermella e absorbe todas as demais",
+      "Porque non reflexa nin absorbe ningunha cor",
+      "Porque emite luz propia de cor vermella"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vemos un obxecto dunha cor determinada porque absorbe todas as cores menos esa, que é a que reflexa cara aos nosos ollos."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que fai un prisma coa luz branca?",
+    "options": [
+      "Absorbe toda a luz sen reflexala",
+      "Converte a luz en son",
+      "Descompon a luz branca nas súas cores",
+      "Reflicte a luz en liña recta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un prisma descompón a luz branca nas súas cores porque cada cor ten un ángulo de refracción diferente."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que tipo de enerxía se obtén nas centrais nucleares?",
+    "options": [
+      "Enerxía mecánica do vento",
+      "Enerxía luminosa do sol",
+      "Enerxía nuclear do uranio",
+      "Enerxía química dos alimentos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A enerxía nuclear obtense nas reaccións dos compoñentes de substancias como o uranio, e prodúcese nas centrais nucleares."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Cal destes é un problema medioambiental das enerxías non renovables?",
+    "options": [
+      "Producen demasiada luz",
+      "Son inesgotables e non se controlan",
+      "Contaminan o aire, a auga e o solo",
+      "Xeran demasiado vento"
+    ],
+    "correctIndex": 2,
+    "explanation": "As enerxías non renovables xeran graves problemas: contaminación do aire, da auga e do solo, chuvia ácida e residuos radioactivos."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Que é a enerxía mecánica?",
+    "options": [
+      "A enerxía que almacenan as pilas",
+      "A enerxía que teñen os obxectos que se moven",
+      "A enerxía que transporta a luz",
+      "A enerxía que pasa dun corpo quente a outro frío"
+    ],
+    "correctIndex": 1,
+    "explanation": "A enerxía mecánica é a que teñen os obxectos que se moven, como unha bicicleta en marcha ou unha pelota voando."
+  },
+  {
+    "category": "materia-energia",
+    "nivel": "6",
+    "materia": "ccnn",
+    "unidad": "5",
+    "text": "Cal é a unidade de medida do volume?",
+    "options": [
+      "O quilogramo (kg)",
+      "O metro (m)",
+      "O litro (l)",
+      "O grado Celsius (ºC)"
+    ],
+    "correctIndex": 2,
+    "explanation": "O volume mídese en litros (l). A masa mídese en kg e a temperatura en graos Celsius."
+  }
+]

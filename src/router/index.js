@@ -54,4 +54,99 @@ router.beforeEach((to, from, next) => {
   }
 })
 
+// Mapas de nombres legibles
+const materiaNames = {
+  ccnn: 'Ciencias Naturales',
+  ccss: 'Ciencias Sociales',
+  mate: 'Matemáticas',
+  leng: 'Lengua',
+  ingl: 'Inglés'
+}
+
+const nivelNames = {
+  '1': '1º Primaria',
+  '2': '2º Primaria',
+  '3': '3º Primaria',
+  '4': '4º Primaria',
+  '5': '5º Primaria',
+  '6': '6º Primaria'
+}
+
+router.afterEach((to) => {
+  const { nivel, materia, unidad } = to.params
+
+  let title = 'Apoyo Educativo | Recursos para Primaria'
+  let description = 'Recursos interactivos de apoyo educativo para niños de primaria. Ciencias, Matemáticas, Lengua y más.'
+
+  if (to.name === 'Home') {
+    title = 'ApoyoEduca | Recursos educativos interactivos para Primaria'
+    description = 'Juegos y cuestionarios educativos para repasar Ciencias, Matemáticas y Lengua en Primaria.'
+
+  } else if (to.name === 'Level') {
+    const n = nivelNames[nivel] || `Nivel ${nivel}`
+    title = `${n} | Materias y recursos - ApoyoEduca`
+    description = `Recursos educativos interactivos para ${n}. Repasa todas las materias de forma divertida.`
+
+  } else if (to.name === 'Subject') {
+    const n = nivelNames[nivel] || `Nivel ${nivel}`
+    const m = materiaNames[materia] || materia
+    title = `${m} - ${n} | ApoyoEduca`
+    description = `Unidades y recursos de ${m} para ${n}. Repaso interactivo con preguntas y juegos.`
+
+  } else if (to.name === 'UnitQuiz') {
+    const n = nivelNames[nivel] || `Nivel ${nivel}`
+    const m = materiaNames[materia] || materia
+    title = `${m} ${n} - Unidad ${unidad} | ApoyoEduca`
+    description = `Preguntas y ejercicios de ${m} para ${n}, unidad ${unidad}. Repaso interactivo para niños.`
+
+  } else if (to.name === 'TildeQuiz') {
+    title = 'Quiz Tilde Diacrítica | Lengua Primaria - ApoyoEduca'
+    description = 'Practica la tilde diacrítica con este quiz interactivo para alumnos de primaria.'
+
+  } else if (to.name === 'WordBuilder') {
+    title = 'Construcción de Palabras | Lengua Primaria - ApoyoEduca'
+    description = 'Ejercicios interactivos de construcción de palabras para niños de primaria.'
+
+  } else if (to.name === 'DetectivesDelCalculo') {
+    title = 'Detectives del Cálculo | Matemáticas Primaria - ApoyoEduca'
+    description = 'Resuelve operaciones matemáticas como un detective. Juego educativo para primaria.'
+
+  } else if (to.name === 'GeoGame') {
+    title = 'El Mapa | Ciencias Sociales Primaria - ApoyoEduca'
+    description = 'Aprende geografía con este juego interactivo de mapas para alumnos de primaria.'
+
+  } else if (to.name === 'ReproducionDragDrop') {
+    title = 'Reproducción - Drag & Drop | Ciencias Naturales - ApoyoEduca'
+    description = 'Aprende la reproducción de los seres vivos con ejercicios arrastrables. Ciencias para primaria.'
+
+  } else if (to.name === 'Contacto') {
+    title = 'Contacto | ApoyoEduca'
+    description = 'Contacta con ApoyoEduca para sugerencias, colaboraciones o dudas.'
+
+  } else if (to.name === 'Donacion') {
+    title = 'Apoya el proyecto | ApoyoEduca'
+    description = 'ApoyoEduca es un proyecto educativo gratuito. Si te resulta útil, puedes colaborar.'
+  }
+
+  document.title = title
+
+  // Meta description
+  let metaDesc = document.querySelector('meta[name="description"]')
+  if (!metaDesc) {
+    metaDesc = document.createElement('meta')
+    metaDesc.setAttribute('name', 'description')
+    document.head.appendChild(metaDesc)
+  }
+  metaDesc.setAttribute('content', description)
+
+  // Canonical
+  let canonical = document.querySelector('link[rel="canonical"]')
+  if (!canonical) {
+    canonical = document.createElement('link')
+    canonical.setAttribute('rel', 'canonical')
+    document.head.appendChild(canonical)
+  }
+  canonical.setAttribute('href', `https://apoyoeduca.net${to.path}`)
+})
+
 export default router

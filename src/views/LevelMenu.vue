@@ -79,26 +79,27 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, watch } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue' // ya los tienes
 import { useRoute } from 'vue-router'
-import { useHead } from '@vueuse/head'
+import { applySEO,  nivelNames } from '../utils/seo.js'
 import NewTabLink from '../components/Quiz/NewTabLink.vue'
 
 const route = useRoute()
 const nivel = computed(() => route.params.nivel || '5')
 
-//const rawQuestions = ref(null)
+// Aplica SEO reactivo cuando cambie el nivel
+watch(nivel, (val) => {
+  const n = nivelNames[val] || `${val}º Primaria`
+  applySEO({
+    title: `${n} - Materias y recursos | ApoyoEduca`,
+    description: `Selecciona materia para ${n}: Ciencias Naturales, Sociales, Matemáticas, Lengua y más. Cuestionarios interactivos sin registro.`,
+    path: `/nivel/${val}`
+  })
+}, { immediate: true })
 
-// meta dinámico
-useHead({
-  title: `Nivel ${nivel.value} - Cuestionario`,
-  meta: [
-    {
-      name: 'description',
-      content: `Cuestionario interactivo del nivel ${nivel.value} con preguntas educativas para practicar.`
-    }
-  ]
-})
+// ... resto del código sin tocar ...
+
+// 
 const levelsData = {
   '5': {
     CCNN: {

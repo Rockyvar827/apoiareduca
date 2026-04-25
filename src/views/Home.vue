@@ -14,7 +14,8 @@
           </div>
 
           <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight text-gray-900">
-            Aprender jugando. <span class="text-orange-600">rápido, seguro y divertido.</span>
+            Apoyo educativo para Primaria.
+            <span class="text-orange-600">Cuestionarios gratis para 5.º y 6.º.</span>
           </h1>
 
           <p class="mt-4 text-gray-600 text-base sm:text-lg max-w-2xl mx-auto lg:mx-0">
@@ -140,17 +141,42 @@
 </template>
 
 <script setup>
-import { useHead } from '@vueuse/head'
-useHead({
-  title: 'App educativa de niveles y preguntas',
-  meta: [
-    {
-      name: 'description',
-      content: 'Aplicación educativa con cuestionarios por niveles para practicar y aprender.'
-    }
-  ]
-})  
+import { onMounted } from 'vue'
+import { applySEO } from '../utils/seo.js'
+onMounted(() => {
+  applySEO({
+    title: 'ApoyoEduca | Cuestionarios de apoyo educativo para Primaria',
+    description: 'Cuestionarios interactivos de Ciencias, Matemáticas y Lengua para 5.º y 6.º de Primaria. Sin registro, gratis y renovados cada vez.',
+    path: '/'
+  })
 
+  // Schema.org — ayuda a Google a entender qué es la web
+  const schema = document.createElement('script')
+  schema.type = 'application/ld+json'
+  schema.textContent = JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": "ApoyoEduca",
+    "url": "https://apoyoeduca.net",
+    "description": "Cuestionarios interactivos de apoyo educativo para 5.º y 6.º de Primaria.",
+    "educationalLevel": "Primaria",
+    "inLanguage": ["es", "gl"]
+  },
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "ApoyoEduca",
+  "url": "https://apoyoeduca.net",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://apoyoeduca.net/nivel/{nivel}",
+    "query-input": "required name=nivel"
+  }
+})
+  document.head.appendChild(schema)
+})
+
+// ... niveles y copiarBizum sin tocar ...
 const niveles = [
   {
     id: 5,

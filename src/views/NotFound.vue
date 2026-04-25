@@ -32,23 +32,16 @@
     </div>
   </section>
 </template>
-
 <script setup>
-import { useHead } from '@vueuse/head'
+import { onMounted } from 'vue'
+import { applySEO } from '../utils/seo.js'
 
-useHead({
-  title: 'Página no encontrada – ApoyoEduca',
-  meta: [
-    {
-      name: 'robots',
-      content: 'noindex, nofollow'
-    }
-  ],
-  link: [
-    {
-      rel: 'canonical',
-      href: 'https://apoyoeduca.net/'
-    }
-  ]
+onMounted(() => {
+  applySEO({
+    title: 'Página no encontrada | ApoyoEduca',
+    description: '',
+    path: '/',
+    noindex: true
+  })
 })
 </script>

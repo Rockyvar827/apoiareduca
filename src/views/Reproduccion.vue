@@ -1,6 +1,9 @@
 <script setup>
-import { ref } from "vue";
-import ReproducionDragDrop from "@/components/ReproducionDragDrop.vue";
+import { ref, onMounted} from "vue";
+import ReproducionDragDrop from '@/components/ReproducionDragDrop.vue'
+import { applySEO } from '@/utils/seo.js' // importa la utilidad compartida
+
+// ... xogos y pasoActual sin tocar ...
 
 /*
   Definición dos mini-xogos da unidade.
@@ -56,6 +59,15 @@ function seguintePaso() {
     pasoActual.value++;
   }
 }
+
+
+onMounted(() => {
+  applySEO({
+    title: 'A Reprodución - Ciencias Naturales 6º Primaria | ApoyoEduca',
+    description: 'Aprende as partes dos aparellos reprodutores masculino e feminino con exercicios de arrastrar e soltar. Ciencias Naturais para 6º de Primaria.',
+    path: '/quiz/reproduccion-drag-drop'
+  })
+})
 </script>
 
 <template>

@@ -44,7 +44,7 @@
 </template>
 <script setup>
 /* --- conserva tus imports existentes --- */
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import { getQuestionsFor } from '../data/questions'
 import QuestionCard from '../components/Quiz/QuestionCard.vue'
@@ -61,6 +61,56 @@ const materia = (route.params.materia || route.query.materia || '').toLowerCase(
 const unidad = route.params.unidad || route.query.unidad || ''
 const category = route.query.category || undefined
 
+// 2. Mapa de nombres legibles (añade los que uses)
+const materiaNames = {
+  ccnn: 'Ciencias Naturales',
+  ccss: 'Ciencias Sociales',
+  mate: 'Matemáticas',
+  leng: 'Lengua',
+  ingl: 'Inglés'
+}
+const nivelNames = {
+  '1': '1º Primaria', '2': '2º Primaria', '3': '3º Primaria',
+  '4': '4º Primaria', '5': '5º Primaria', '6': '6º Primaria'
+}
+
+// 3. Título del <head> — separado del title que ya usas en el template
+const seoTitle = computed(() => {
+  const m = materiaNames[materia] || materia
+  const n = nivelNames[nivel] || `Nivel ${nivel}`
+  if (category) return `${category} - Unidad ${unidad} | ApoyoEduca`
+  if (materia && nivel && unidad) return `${m} ${n} - Unidad ${unidad} | ApoyoEduca`
+  return 'Cuestionario | ApoyoEduca'
+})
+
+const seoDescription = computed(() => {
+  const m = materiaNames[materia] || materia
+  const n = nivelNames[nivel] || `Nivel ${nivel}`
+  if (materia && nivel && unidad)
+    return `Preguntas interactivas de ${m} para ${n}, unidad ${unidad}. Repaso educativo para niños sin registro.`
+  return 'Cuestionario interactivo de apoyo educativo para primaria.'
+})
+
+// 4. Aplica al <head> cuando carguen las preguntas
+function applySEO() {
+  document.title = seoTitle.value
+
+  let desc = document.querySelector('meta[name="description"]')
+  if (!desc) {
+    desc = document.createElement('meta')
+    desc.setAttribute('name', 'description')
+    document.head.appendChild(desc)
+  }
+  desc.setAttribute('content', seoDescription.value)
+
+  let canonical = document.querySelector('link[rel="canonical"]')
+  if (!canonical) {
+    canonical = document.createElement('link')
+    canonical.setAttribute('rel', 'canonical')
+    document.head.appendChild(canonical)
+  }
+  canonical.setAttribute('href', `https://apoyoeduca.net${window.location.pathname}`)
+}
 
 const title = computed(() => {
   if (category) return `${category} — Unidad ${unidad || '1'}`
@@ -120,6 +170,38 @@ function onKidConfirm() {
 function onKidCancel() {
   showRestartConfirm.value = false
 }
+
+
+// 5. Llama a applySEO cuando las preguntas estén listas
+watch(questions, (val) => {
+  if (val.length) {
+    applySEO({
+      title: seoTitle.value,
+      description: seoDescription.value,
+      path: route.path
+    })
+
+    // Schema Quiz — se añade cuando ya hay preguntas cargadas
+    const existing = document.querySelector('script[data-schema="quiz"]')
+    if (existing) existing.remove() // evita duplicados al reiniciar
+
+    const schema = document.createElement('script')
+    schema.type = 'application/ld+json'
+    schema.setAttribute('data-schema', 'quiz')
+    schema.textContent = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Quiz",
+      "name": seoTitle.value,
+      "educationalLevel": nivelNames[nivel] || `${nivel}º Primaria`,
+      "about": {
+        "@type": "Thing",
+        "name": materiaNames[materia] || materia
+      },
+      "inLanguage": "es"
+    })
+    document.head.appendChild(schema)
+  }
+}, { immediate: true })
 </script>
 
 

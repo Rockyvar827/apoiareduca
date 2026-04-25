@@ -9,10 +9,11 @@
     "preview": "vite preview",
     "deploy": "npm run build && npm run copy-docs && npm run dev",
     "copy-docs": "rmdir /S /Q docs && mkdir docs && xcopy dist docs /E /I /Y",
-    "postbuild": "copy dist\\index.html dist\\404.html"
+    "postbuild": "copy dist\\index.html dist\\404.html && powershell -Command \"(Get-Content dist\\404.html) -replace 'content=\"index, follow\"', 'content=\"noindex, nofollow\"' | Set-Content dist\\404.html\""
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
+    "@unhead/vue": "^3.0.5",
     "@vueuse/head": "^2.0.0",
     "vue": "^3.5.24"
   },

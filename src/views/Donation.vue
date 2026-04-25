@@ -46,6 +46,17 @@
 </template>
 
 <script setup>
+import { onMounted } from 'vue'
+import { applySEO } from '../utils/seo.js'
+
+onMounted(() => {
+  applySEO({
+    title: 'Doazóns | Apoia o proxecto - ApoyoEduca',
+    description: 'Apoia ApoyoEduca cunha doazón por Bizum. Un proxecto educativo gratuíto para nenos de Primaria.',
+    path: '/donar'
+  })
+})
+
 function copiarBizum() {
   navigator.clipboard.writeText("+34 611 787 267")
     .then(() => alert("Código Bizum copiado"))

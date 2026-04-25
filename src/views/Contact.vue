@@ -102,10 +102,25 @@
 
       <p class="text-gray-500 text-xs mt-2">¡Grazas polo teu apoio!</p>
     </div>
-    </form>
- 
-    
+    </form>   
     
   
   </section>
 </template>
+<script setup>
+import { onMounted } from 'vue'
+import { applySEO } from '../utils/seo.js'
+
+onMounted(() => {
+  applySEO({
+    title: 'Contacto | ApoyoEduca',
+    description: 'Contacta con ApoyoEduca para sugerencias, colaboraciones o dudas sobre los recursos educativos para Primaria.',
+    path: '/contacto'
+  })
+})
+
+function copiarBizum() {
+  navigator.clipboard.writeText('+34 611 787 267')
+    .then(() => alert('Código Bizum copiado'))
+}
+</script>

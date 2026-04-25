@@ -23,7 +23,8 @@ import mates8medidasangu      from './questions_mates8_medidas_angu.json'  asser
 import mates8tiposangulos      from './questions_mates8_tiposangu.json'  assert { type: 'json' };
 import mates8anguconsecutivos      from './questions_mates8_anguconse.json'  assert { type: 'json' };
 import mates8angucomplementarios      from './mates8_angucomplemen.json'  assert { type: 'json' };
-import ccss5materiayenergia      from './ccss_u5_materia_energia.json'  assert { type: 'json' };
+import ccnn5materiayenergia      from './ccnn_u5_materia_energia.json'  assert { type: 'json' };
+import ccss5hechoshistoricos      from './questions.ccss5.json'  assert { type: 'json' };
 // import musicQuestions     from './questions_music.json'   assert { type: 'json' };
 
 // ─── Agrega aquí todos los orígenes ───────────────────────────────────────────
@@ -42,7 +43,8 @@ const questionSources = [
   mates8tiposangulos,
   mates8anguconsecutivos,
   mates8angucomplementarios,
-  ccss5materiayenergia,
+  ccnn5materiayenergia,
+  ccss5hechoshistoricos,
   // musicQuestions,
 ];
 // ──────────────────────────────────────────────────────────────────────────────

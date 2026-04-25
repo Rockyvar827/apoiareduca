@@ -149,7 +149,8 @@ const levelsData = {
         { id: 1, label: 'Unidad 1', colorClass: 'bg-red-500' },
         { id: 2, label: 'Unidad 2', colorClass: 'bg-blue-500' },
         { id: 3, label: 'Unidad 3', colorClass: 'bg-yellow-400 text-gray-900' },
-        { id: 4, label: 'Unidad 4', colorClass: 'bg-green-400' }
+        { id: 4, label: 'Unidad 4', colorClass: 'bg-green-400' },
+        { id: 5, label: 'Unidad 5', colorClass: 'bg-pink-400' },
 		
       ]
     },

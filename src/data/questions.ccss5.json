@@ -1,0 +1,364 @@
+[
+  {   
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "⚡ Cales foron as novas fontes de enerxía que impulsaron a Segunda Revolución Industrial?",
+        "options": ["O carbón e o vapor", "O gas e o vento", "A electricidade e o petróleo", "O nuclear e o sol"],
+        "correctIndex": 2,
+        "explanation": "✅ A Segunda Revolución Industrial baseouse na electricidade e no petróleo, que substituíron á máquina de vapor e permitiron inventar o automóbil e mellorar as comunicacións."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🌍 Como se chama o proceso polo que os países europeos conquistaron África e Asia entre 1870 e 1914?",
+        "options": ["Imperialismo", "Feudalismo", "Colonialismo cultural", "Globalización"],
+        "correctIndex": 0,
+        "explanation": "✅ O imperialismo foi o proceso polo que potencias como Gran Bretaña e Francia ocuparon territorios en África e Asia, impondo a súa cultura e economía."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🔫 Que acontecemento desencadeou o inicio da Primeira Guerra Mundial en 1914?",
+        "options": ["A invasión de Polonia", "O Crac da Bolsa", "A Revolución Rusa", "O asasinato do arquiduque Francisco Fernando de Austria"],
+        "correctIndex": 3,
+        "explanation": "✅ O asasinato do arquiduque Francisco Fernando de Austria por un nacionalista serbio provocou a crise diplomática que levou a Europa á Primeira Guerra Mundial."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🗺️ Cales foron os países da Tripla Entente na Primeira Guerra Mundial?",
+        "options": ["Alemaña, Austria e Italia", "Francia, Gran Bretaña e Rusia", "España, Portugal e Francia", "EE UU, Xapón e China"],
+        "correctIndex": 1,
+        "explanation": "✅ A Tripla Entente estaba formada por Francia, Gran Bretaña e Rusia. O outro bando era a Tripla Alianza: Alemaña, Imperio Austro-Húngaro e Italia."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "📜 Como se chama o tratado que puxo fin á Primeira Guerra Mundial en 1919?",
+        "options": ["Tratado de Lisboa", "Tratado de Roma", "Tratado de Versalles", "Tratado de París"],
+        "correctIndex": 2,
+        "explanation": "✅ O Tratado de Versalles (1919) declarou a Alemaña responsable da guerra, obrigouna a pagar reparacións de guerra e a desarmarse."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🔴 Que tipo de goberno tomou o poder en Rusia tras a Revolución Rusa?",
+        "options": ["Unha monarquía absoluta", "Un goberno militar", "Unha república liberal", "Un réxime comunista liderado por Lenin"],
+        "correctIndex": 3,
+        "explanation": "✅ Tras a Revolución Rusa, Lenin liderou un réxime comunista que acabou co goberno do zar Nicolás II e fixo a Rusia saír da Primeira Guerra Mundial."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🎷 Como se coñecen os anos 20 polo seu crecemento económico e cultural en Estados Unidos?",
+        "options": ["Os anos escuros", "Os felices anos 20", "Os anos da reconstrución", "Os anos dourados de Europa"],
+        "correctIndex": 1,
+        "explanation": "✅ Os 'felices anos 20' caracterizáronse polo rápido crecemento económico, a cultura de consumo, o jazz, o charlestón e os grandes rañaceos nas cidades."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "📉 Que catástrofe económica ocorreu o 24 de outubro de 1929?",
+        "options": ["O Crac do 29 na Bolsa de Nova York", "A caída do Muro de Berlín", "O inicio da Segunda Guerra Mundial", "A Revolución Industrial"],
+        "correctIndex": 0,
+        "explanation": "✅ O Crac do 29 foi a caída catastrófica da Bolsa de Nova York que provocou a Gran Depresión, crise que se estendeu rapidamente por todo o mundo."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🇮🇹 Como se chamaba o líder fascista que gobernaba Italia?",
+        "options": ["Adolf Hitler", "Benito Mussolini", "Iósif Stalin", "Francisco Franco"],
+        "correctIndex": 1,
+        "explanation": "✅ Benito Mussolini, coñecido como 'Il Duce', converteu Italia nun Estado Fascista de extrema dereita, ultranacionalista e antidemocrático."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🇩🇪 Como se chamaba a ideoloxía totalitaria de Adolf Hitler en Alemaña?",
+        "options": ["Socialismo", "Fascismo", "Comunismo", "Nazismo"],
+        "correctIndex": 3,
+        "explanation": "✅ O nazismo foi o réxime totalitario de Hitler que perseguía a xudeus e xitanos e defendía a superioridade da chamada raza aria."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "☭ Quen tomou o poder na Unión Soviética tras a morte de Lenin?",
+        "options": ["Leon Trotski", "Nikolai Bujarin", "Iósif Stalin", "Nikita Khrushchev"],
+        "correctIndex": 2,
+        "explanation": "✅ Iósif Stalin sucedeu a Lenin e impuxo un réxime comunista totalitario na URSS, con control absoluto da economía e supresión das liberdades."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🏭 Cal era o obxectivo dos réximes totalitarios?",
+        "options": ["Repartir o poder entre varios partidos", "Garantir as liberdades individuais", "Celebrar eleccións libres cada catro anos", "Concentrar todo o poder nunha soa persoa e un só partido"],
+        "correctIndex": 3,
+        "explanation": "✅ Os réximes totalitarios concentraban o poder nunha soa persoa e nun único partido, prohibindo institucións democráticas e as liberdades dos cidadáns."
+      },
+  {
+   
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "💣 Por que estalou a Segunda Guerra Mundial o 1 de setembro de 1939?",
+        "options": ["Porque a URSS atacou Francia", "Porque Hitler invadiu Polonia", "Porque EE UU declarou a guerra a Xapón", "Porque Italia atacou Gran Bretaña"],
+        "correctIndex": 1,
+        "explanation": "✅ Hitler invadiu Polonia o 1 de setembro de 1939 coa intención de expandir o seu Imperio fascista por Europa, desencadeando a Segunda Guerra Mundial."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "⚰️ Como se chamou o exterminio de xudeus e outras minorías nos campos de concentración nazis?",
+        "options": ["A Gran Depresión", "A Purga Soviética", "O Holocausto", "O Terror Rojo"],
+        "correctIndex": 2,
+        "explanation": "✅ O Holocausto foi o xenocidio organizado por Hitler onde morreron preto de 17 millóns de persoas, principalmente xudeus e xitanos, en campos de concentración."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🏳️ Que organización internacional se creou tras a Segunda Guerra Mundial para manter a paz?",
+        "options": ["A ONU", "A OTAN", "A Liga das Nacións", "A Unión Europea"],
+        "correctIndex": 0,
+        "explanation": "✅ A ONU (Organización de Nacións Unidas) creouse tras a Segunda Guerra Mundial para promover a paz e a cooperación entre os países do mundo."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🧱 En que ano se construíu o Muro de Berlín que dividiu a cidade en dous?",
+        "options": ["1945", "1955", "1961", "1989"],
+        "correctIndex": 2,
+        "explanation": "✅ O Muro de Berlín construíuse na noite do 12 ao 13 de agosto de 1961 e dividiu a cidade durante 28 anos, separando familias e amigos."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "❄️ Como se chamou a rivalidade entre EE UU e a URSS tras a Segunda Guerra Mundial?",
+        "options": ["A Gran Guerra", "A Paz Armada", "A Guerra do Pacífico", "A Guerra Fría"],
+        "correctIndex": 3,
+        "explanation": "✅ A Guerra Fría foi a rivalidade estratéxica entre EE UU (capitalismo) e a URSS (comunismo), sen un enfrontamento armado directo entre ambos países."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🗳️ Quen liderou a loita para que as mulleres puidesen votar na Segunda República española?",
+        "options": ["Emilia Pardo Bazán", "Clara Campoamor", "Dolores Ibárruri", "Federica Montseny"],
+        "correctIndex": 1,
+        "explanation": "✅ Clara Campoamor liderou a loita polo sufraxio universal feminino, conseguindo que as mulleres votasen por primeira vez na historia de España."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🏛️ Cando se proclamou a Segunda República española?",
+        "options": ["O 17 de xullo de 1936", "O 1 de abril de 1939", "O 14 de abril de 1931", "O 15 de xuño de 1977"],
+        "correctIndex": 2,
+        "explanation": "✅ O 14 de abril de 1931 proclamouse a Segunda República española despois de que Afonso XIII abandonase o país ao ver que a sociedade quería un cambio."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "⚔️ Cando comezou a Guerra Civil española?",
+        "options": ["O 14 de abril de 1931", "O 17 de xullo de 1936", "O 1 de abril de 1939", "O 1 de setembro de 1939"],
+        "correctIndex": 1,
+        "explanation": "✅ A Guerra Civil española comezou o 17 de xullo de 1936 cun golpe de Estado dos xenerais Sanjurjo, Mola e Franco contra o goberno da República."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🔵 Cal era a composición do bando republicano na Guerra Civil española?",
+        "options": ["A igrexa, monárquicos e o exército", "Grupos conservadores de dereitas apoiados por Italia e Alemaña", "Militares con apoio de Portugal", "Obreiros, campesiños, clases medias e partidos republicanos apoiados por México e a URSS"],
+        "correctIndex": 3,
+        "explanation": "✅ O bando republicano estaba formado por obreiros, xornaleiros, campesiños e partidos republicanos, con apoio de Francia, México e a URSS."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "📅 Cando rematou a Guerra Civil española e quen a gañou?",
+        "options": ["En 1939, o bando sublevado liderado por Franco", "En 1936, o bando republicano", "En 1940, Franco tras apoio nazi", "En 1931, o exército constitucional"],
+        "correctIndex": 0,
+        "explanation": "✅ O 1 de abril de 1939 rematou a Guerra Civil española coa vitoria do bando sublevado, liderado polo xeneral Francisco Franco."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "📰 Cal era o único partido político permitido durante a ditadura franquista?",
+        "options": ["O Partido Comunista de España", "O Partido Socialista Obrero Español", "A Unión de Centro Democrático", "A Falanxe Española Tradicionalistas y de las JONS"],
+        "correctIndex": 3,
+        "explanation": "✅ Durante o franquismo só existía un partido legal: a Falanxe Española Tradicionalistas y de las JONS. Os demais partidos foron prohibidos."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🏙️ Como se chama o fenómeno polo que a xente do campo marchaba ás cidades a partir de 1960 en España?",
+        "options": ["A industrialización do campo", "O turismo masivo", "O éxodo rural", "A modernización agraria"],
+        "correctIndex": 2,
+        "explanation": "✅ O éxodo rural foi o proceso polo que moita xente abandonou o campo para trasladarse ás cidades en busca de traballo nas industrias durante o desenvolvementismo."
+      },
+  {
+   
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "👑 Quen subiu ao trono de España tras a morte de Franco en 1975?",
+        "options": ["Felipe VI", "Carlos I", "Xoán Carlos I", "Afonso XIII"],
+        "correctIndex": 2,
+        "explanation": "✅ Tras a morte de Franco en 1975, Xoán Carlos I subiu ao trono e iniciou o proceso de transición cara á democracia en España."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "📋 Cando se aprobou a Constitución española que converteu España de novo nunha democracia?",
+        "options": ["En 1975", "En 1978", "En 1977", "En 1981"],
+        "correctIndex": 1,
+        "explanation": "✅ En 1978 aprobouse a nova Constitución española, votada polas Cortes e ratificada polos cidadáns nun referendo, establecendo a democracia."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "📜 Cando aprobou Galicia o seu Estatuto de Autonomía?",
+        "options": ["En 1975", "En 1978", "En 1936", "En 1981"],
+        "correctIndex": 3,
+        "explanation": "✅ Galicia aprobou o seu Estatuto de Autonomía en 1981, converténdose nunha Comunidade Autónoma con competencias propias e institucións de goberno."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🎨 Como se chama o cadro de Picasso que representa o bombardeo dunha cidade vasca na Guerra Civil?",
+        "options": ["O Guernica", "As Meninas", "A Persistencia da Memoria", "A Liberdade guiando ao pobo"],
+        "correctIndex": 0,
+        "explanation": "✅ O Guernica de Picasso é un cadro que mestura estilos para representar a traxedia do bombardeo de Guernica durante a Guerra Civil española."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🐂 No cadro do Guernica, que representa o touro segundo Picasso?",
+        "options": ["O desexo de paz", "O pobo ferido", "O espectador da traxedia", "A destrución da guerra"],
+        "correctIndex": 2,
+        "explanation": "✅ No Guernica, o touro representa o espectador da traxedia, aquel que observa o horror sen intervir directamente na escena."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🏗️ Cal é a característica principal da arquitectura funcional ou racionalista do século XX?",
+        "options": ["Uso de moitos adornos e ornamentos", "Inspiración en estilos medievais", "Copia de edificios gregos e romanos", "Formas xeométricas simples e materiais como formigón e aceiro"],
+        "correctIndex": 3,
+        "explanation": "✅ A arquitectura racionalista usa formas xeométricas simples (liñas rectas, cubos) e materiais industriais como formigón, cristal e aceiro, sen adornos innecesarios."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🖼️ Que fixo que a pintura do século XX deixase de ser realista e comezase a experimentar con novos estilos?",
+        "options": ["A invención do cinema", "A aparición da fotografía", "O final das guerras", "O movemento obreiro"],
+        "correctIndex": 1,
+        "explanation": "✅ A aparición da fotografía fixo que o realismo xa non fose necesario na pintura, o que impulsou a experimentación e a subxectividade en estilos como o cubismo ou o surrealismo."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🧑‍🎨 Quen é considerado o 'pai da Galicia contemporánea' pola súa arte comprometida co pobo galego?",
+        "options": ["Álvaro de Sotomayor", "Carlos Maside", "Castelao", "Francisco Leiro"],
+        "correctIndex": 2,
+        "explanation": "✅ Castelao é considerado o 'pai da Galicia contemporánea'. Usou as súas ilustracións para interpretar e denunciar os problemas das clases humildes do pobo galego."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🚗 Que novo invento de transporte xurdiu grazas ao motor de explosión durante a Segunda Revolución Industrial?",
+        "options": ["O tren de vapor", "O barco de vapor", "O automóbil", "O tranvía eléctrico"],
+        "correctIndex": 2,
+        "explanation": "✅ O motor de explosión, alimentado con petróleo, fixo posible fabricar os primeiros automóbiles e impulsou a industria do coche en todo o mundo."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🌾 Cal era unha razón pola que os países europeos querían conquistar novos territorios no imperialismo?",
+        "options": ["Aprender idiomas novos", "Buscar materias primas baratas como algodón e arroz", "Construír museos e bibliotecas", "Exportar a súa arte e cultura"],
+        "correctIndex": 1,
+        "explanation": "✅ Os países europeos buscaban materias primas baratas nos territorios conquistados: sementes, algodón, arroz e man de obra, ás veces escrava."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🇺🇸 Que país entrou na Primeira Guerra Mundial en 1917 e foi decisivo para a vitoria dos aliados?",
+        "options": ["China", "Xapón", "Brasil", "Estados Unidos"],
+        "correctIndex": 3,
+        "explanation": "✅ En 1917, Estados Unidos incorporouse ao conflito do lado da Triple Entente, o que foi decisivo para que os aliados gañasen a Primeira Guerra Mundial."
+      },
+      {
+        "category": "unidad 5",
+        "nivel": "6",
+        "materia": "ccss",
+        "unidad": "5",
+        "text": "🏚️ Que consecuencias tivo a Gran Depresión de 1929 en Europa, especialmente en Alemaña e Austria?",
+        "options": ["Crecemento económico e estabilidade política", "Redución de préstamos americanos, crise e xurdimento de novas ideoloxías totalitarias", "Mellora das condicións de vida e democracias estables", "Fin das guerras e creación da ONU"],
+        "correctIndex": 1,
+        "explanation": "✅ A Gran Depresión reduciu os préstamos americanos e afectou gravemente a Europa, favorecendo a crise económica e o aumento dos réximes totalitarios en países como Alemaña e Austria."
+      }
+]
